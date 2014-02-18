@@ -3,7 +3,7 @@ LATEX=pdflatex
 BIBTEX=bibtex
 
 SRCS=$(REPORT).tex
-REFS=$(REPORT).bib
+REFS=$(REPORT).bib general.bib
 FIGS=$(wildcard figures/*)
 
 all: $(REPORT).pdf
