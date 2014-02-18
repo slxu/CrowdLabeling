@@ -1,0 +1,80 @@
+\section{Introduction}
+Paraphrasing, the task of finding sets of semantically equivalent surface forms, is crucial to many 
+natural language processing applications, including relation extraction (Bhagat and Ravichandran (2008)), question answering (Tony), summarization (...), textual entailment, and machine translation. While the
+benefits of paraphrase information have been demonstrated for such applications, however, 
+creating a large-scale corpus of high-precision paraphrases remains a challenge.
+
+A large amount of work has investigated the use of the {\em Distributional Hypothesis}, which states that words occuring in similar contexts tend to have similar meanings ~\cite{bhagat2013paraphrase}. For example, DIRT (...) and Resolver, identify related relational phrases by their distributions of arguments. However, the distributional hypothesis has several weaknesses. First, it can confuse antonyms with synonyms, and causes with effects, because antonymous phrases appear in similar contexts equally as often as synonymous phrases. For example, {\sc DIRT} reports that the closest phrase to \mtt{fall} is \mtt{rise}, and the closest phrase to \mtt{shoot} is \mtt{kill} \footnote{\url{http://demo.patrickpantel.com/demos/lexsem/paraphrase.htm}}. Second, the distributional hypothesis relies on statistics over large corpora to produce accurate similarity statistics. For example, Resolver uses an input of XXXXXX web pages. It is unclear how to accurately cluster less frequent relations with the distributional hypothesis.
+
+Another common approach is the use of (nearly-)parallel corpora. News articles are an interesting target, because there often exist articles by different sources describing the same daily events. This property makes it possible to use a {\em Temporal Hypothesis}, which assumes that words in articles published at the same time tend to have similar meanings. For example, the approaches by Dolan et al. and Barzilay et al. identify pairs of sentential paraphrases in similar articles that have appeared on the same day. ...
+
+
+
+Barzilay et al. and Dolan et al.'s systems,
+for example, assume  ....
+and identify pairs of related sentences. 
+To combat false positives, they use edit distance, which often leaves less valuable paraphrases
+underconstrained ... leading to false positives.
+
+
+In this work, our goal is to develop a technique for computing large numbers of high-precision phrasal paraphrases that requires only minimal human effort. The key to our approach is a more fine-grained model of the temporal dimension of news articles which allows us to identify semantic correspondences of different phrases at greater precision.
+In particular, this paper make the following contributions:
+
+Starting with the temporal correspondence hypothesis for news articles, we develop two refined
+
+
+Unlike previous work, we focus on more fine-grained
+models of the temporal dimension of news 
+
+with minimal human effort. Unlike previous work, we ...
+
+Our core idea is to more accurately model the temporal aspect of news articles to
+identify higher-quality correspondences.
+
+
+* series of refined hypotheses
+
+*  introduce a graphical model that ..
+
+* exps
+
+* data
+
+
+
+
+
+%Open Information Extraction system can produce argument-relation-argument tuples, \ie {\tt (Barrack Obama, was born in, Hawaii)}. A well-known limitation of open IE system preventing it from wider applications is that the relation phrase it extracted are extremely diversified: relation phrases pointing to the same relation or event are bearing different surface strings. In this work, we are trying to cluster relation cluster phrases denoting the same relation. Such synonymous relation phrases have great potential for downstream applications, \eg information extraction, question answering, machine translation.
+
+Clustering relations phrases is a fundamental problem in natural language processing. A high quality relation clustering system, which finds synonymous relations\footnote{As described in~\cite{bhagat2013paraphrase}, synonymous mean that replacing the relation phrase by another phrase in the appropriate context results in the same meaning sentence.}, could have great potential in downstream applications. In the case of Open Information Extraction, which produces argument-relation-argument tuples, a well-known limitation is that many synonymous relation phrases bear different surface strings. They cannot be treated as the same relation until we correctly cluster them. Statistical NLP techniques often use relation phrases as features for machine learning algorithms. But extremely high variation of the relation phrases often results in challenging high dimension learning problems.
+
+%In case of Relation Extraction(RE), which classify arguments into pre-defined relations, relation phrases are often represented as the syntactic dependency pathes between the arguments. They can be used as critical features for machine learning algorithms~\cite{mintz09}, but the syntactic variations in these pathes yield extremely high dimensional problems, which is very hard. In case of the event co-reference system, good relation clusters may be the key reason for success.
+
+The {\em Distributional Hypothesis}, which states that words occurring in similar contexts tend to have similar meanings~\cite{bhagat2013paraphrase}, is widely used in clustering algorithms. Many similarity metrics have been developed based on it. For example, the {\sc DIRT} system~\cite{lin2001discovery} computes the mutual information statistics to identify the similarity between relations represented in dependency paths. {Resolver}~\cite{yates2009unsupervised} uses a similarity measure called Extracted Shared Property to cluster relations on web-scale extractions. However, the distributional hypothesis has several weaknesses. It can confuse antonyms with synonyms, and causes with effects, because antonymous phrases appear in similar contexts equally as often as synonymous phrases. For example, {\sc DIRT} reports that the closest phrase to \mtt{fall} is \mtt{rise}, and the closest phrase to \mtt{shoot} is \mtt{kill} \footnote{\url{http://demo.patrickpantel.com/demos/lexsem/paraphrase.htm}}. Secondly, the distributional hypothesis relies on statistics over large corpora to produce accurate similarity statistics. It is unclear how to accurately cluster less frequent relations with the distributional hypothesis.
+
+%But long tail is a prominent phenomena that many relation phrases appear very few times even in web-scale dataset. It is very challenging for methods based on distributional hypothesis to design effective similarity metrics for these relation phrases. Hence, many works only report accuracy on their best predictions. The performance could drop sharply if users want more relation clusters than top ones.
+
+%Thirdly, it is unclear how these methods can incrementally produce new accurate clusters, because small amount of new inputs will not change the distribution largely, and the top clusters will keep the same.
+
+%Research also propose probabilistic models \eg LDA-based models~\cite{yao2011structured}, MLN-based models~\cite{poon2009unsupervised} to remove the syntactic variations of the relation phrases, and to get their semantics. These methods do not directly compute distribution similarity, but still depend on relation phrase and document co-occurrence to provide evidences. Thereby they also often suffer from the limitations of the distributional hypothesis.
+
+
+\begin{figure}
+\centering
+\includegraphics[width=3.1in]{systemoverview.pdf}
+\caption{System overview: exploiting temporal correspondence hypothesis to cluster relations in the news stream.
+%: given news stream, an IE system generates event candidates and relation candidates that probably describe the event; features and constraints are generated by temporal correspondence hypothesis and then used in a supervised model to build relation clusters.
+}
+\label{systemoverview}
+\end{figure}
+
+In this work, we exploit the temporal properties of news articles to produce high-precision relation clusters. The starting point is that news articles published at the same time tend to describe the same real-world events. So long as we can recognize a set of relation phrases describing a particular event, these relations should compose a high quality cluster. Figure~\ref{systemoverview} illustrates the overview of this work. We first apply an information extraction system to extract event candidates and also relations most likely describing the events. Then we propose three \temporal\ and based on them, a set of {\em news spike} features and constraints are exploited. Finally, a sequence of supervised learning models are investigated to capture these features and constraints to generate relation clusters. This work makes the following contributions:
+
+%Parallel corpus, such as different versions of translation or news articles, has been used to produce paraphrases.
+\bi
+    \item We propose three Temporal Correspondence Hypotheses that are useful for high-precision relation clustering.
+    \item We introduce a sequence of methods to exploit these Temporal Correspondence Hypotheses.
+    \item Experiments demonstrate that our system outperforms many competitive baselines, including the state of the art relation clustering techniques and sentence-level paraphrase detection techniques.
+    \item We will release a large scale timestamped news corpus containing news from hundreds of resources. To our best knowledge, there has been no such dataset for academic usage yet.
+\ei
+

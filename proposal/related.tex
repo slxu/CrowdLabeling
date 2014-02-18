@@ -1,0 +1,72 @@
+
+\section{Related Work}
+
+The vast majority of paraphrasing work falls into two categories:
+approaches based on the distributional hypothesis or those exploiting on
+correspondences between parallel
+corpora~\cite{androutsopoulos2009survey,madnani2010generating}.
+
+{\bf Using Distribution Similarity:} Lin and
+Pantel's~\shortcite{lin2001discovery} DIRT employ mutual information
+statistics to compute the similarity between relations represented in
+dependency paths.  Resolver~\cite{yates2009unsupervised} introduces a
+new similarity metric called the Extracted Shared Property (ESP) and
+uses a probabilistic model to merge ESP with surface string
+similarity.
+
+Identifying the semantic equivalence of relation phrases is also 
+called {\it relation discovery} or {\it unsupervised semantic
+  parsing}.  Often techniques don't compute the similarity explicitly
+but rely implicitly on the distributional hypothesis. Poon and
+Domingos'~\shortcite{poon2009unsupervised} USP clusters relations
+represented with fragments of dependency trees by repeatedly merging
+relations having similar
+context. Yao~\etal~\shortcite{yao2011structured,yaounsupervised}
+introduces generative models for relation discovery using LDA-style
+algorithm over a relation-feature matrix.
+Chen~\etal~\shortcite{chen2011domain} focuses on domain-dependent
+relation discovery, extending a generative model with meta-constraints
+from lexical, syntactic and discourse regularities.
+
+Our work solves a major problem with these approaches, avoiding errors
+such as confusing synonyms with antonyms and causes with
+effects. Furthermore, \sys\ doesn't require massive statistical
+evidence as do most approaches based on the distributional hypothesis.
+
+
+
+{\bf Using Parallel Corpora: } Comparable and parallel corpora,
+including news streams and multiple translations of the same story,
+have been used to generate paraphrases, both
+sentential~\cite{barzilay2003learning,dolan2004unsupervised,shinyama2003paraphrase}
+and
+phrasal~\cite{barzilay2001extracting,shen2006adding,pang2003syntax}. Typical
+methods first gather relevant articles and then pair sentences that
+are potential paraphrases.  Given a training set of paraphrases,
+models are learned and applied to unlabeled
+pairs~\cite{dolan2005automatically,SocherEtAl2011:PoolRAE}. Phrasal
+paraphrases are often obtained by running an alignment algorithm over
+the paraphrased sentence pairs.
+
+While prior work uses the temporal aspects of news streams as a coarse
+filter, it largely relies on text metrics, such as context similarity and
+edit distance, to make predictions and alignments. These metrics are
+usually insufficient to produce high precision results; moreover they tend
+to produce paraphrases that are simple lexical variants (\eg\ {\it \{go to,
+go into\}.}). In contrast, \sys\ generates paraphrase clusters with both high
+precision and high diversity.
+
+{\bf Others:}
+Textual entailment~\cite{dagan2009recognizing}, which finds a phrase
+implying another phrase, is closely related to the paraphrasing task.
+Berant~\etal~\shortcite{berant2011global} notes the flaws in distributional
+similarity and proposes local entailment classifiers, which are able to combine
+many features. Lin~\etal~\shortcite{lin2012no} also uses temporal information to
+detect the semantics of entities. In a manner similar to our approach,
+Recasens~\etal~\shortcite{recasens2013same} mines parallel news stories to find
+opaque coreferent mentions.
+
+
+
+
+

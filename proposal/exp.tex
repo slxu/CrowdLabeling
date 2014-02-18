@@ -1,0 +1,317 @@
+\section{Empirical Study}
+\label{empirical_study}
+We first introduce the experimental setup for our empirical study, and then we
+attempt to answer two questions in sections~\ref{section_eval_parallel}
+and~\ref{section_methods_of_distributional} respectively: First, does the \sys\
+algorithm effectively exploit the proposed heuristics and outperform other
+approaches which also use news streams? Secondly, do the proposed temporal
+heuristics paraphrase relations with greater precision than the distributional
+hypothesis?
+
+
+\subsection{Experimental Setup}
+\label{section_data_generation}
+
+Since we were unable to find any elaborate time-stamped, parallel, news
+corpus, we collected data using the following procedure:
+
+\bi
+
+\item Collect RSS news seeds, which contain the title, time-stamp, and
+abstract of the news items.
+
+\item Use these titles to query the Bing news search engine API and collect
+additional time-stamped news articles.
+
+\item Strip HTML tags from the news articles using
+Boilerpipe~\cite{kohlschutter2010boilerplate}; keep only the title and
+first paragraph of each article.
+
+\item Extract shallow relation tuples using the OpenIE
+system~\cite{fader11}. 
+
+\ei
+
+We performed these steps every day from January 1 to February 22, 2013.  In
+total, we collected 546,713 news articles, for which 2.6 million
+extractions had 529 thousand unique relations. 
+
+We used several types of features for paraphrasing:
+\textit{1)} spike features obtained from time series;
+\textit{2)} tense features, such as whether two relation phrases are both in the present tense;
+\textit{3)} cause-effect features, such as whether two relation phrases often appear successively in the news articles;
+\textit{4)} text features, such as whether sentences are similar;
+\textit{5)} syntactic features, such as whether a relation phrase appears in a clausal complement; and
+\textit{6)} semantic features, such as whether a relation phrase contains negative words.
+
+Text and semantic features are encoded using the relation factors of section
+\ref{sec:factorsAndTheJointDistribution}. For example, in
+Figure~\ref{graphmodel}, the factor $\Phi_2^Y$ includes the textual similarity
+between the sentences containing the phrases {\em ``step down''} and {\em ``be
+chairman of''} respectively; it also includes the feature that the tense of
+{\em ``step down''} (present) is different from the tense of {\em ``be
+chairman of''} (past).
+
+
+\subsection{Comparison with Methods using Parallel News Corpora}
+\label{section_eval_parallel}
+We evaluated \sys\ against other methods that also use time-stamped news.
+These include the models mentioned in section \ref{section_temporal} and state-of-the-art paraphrasing techniques.
+
+
+Human annotators created gold paraphrase clusters for 500 \bag s; note that
+some \bag s yield no gold cluster, since at least two synonymous phrases. Two
+annotators were shown a set of candidate relation phrases in context and asked
+to select a subset of these that described a shared event (if one existed).
+There was 98\% phrase-level agreement. Precision and recall were computed by
+comparing an algorithm's output clusters to the gold cluster of each \eec. We
+consider paraphrases with minor lexical diversity, \eg\ \mtt{(go to, go into)},
+to be of lesser interest. Since counting these trivial paraphrases tends to
+exaggerate the performance of a system, we also report precision and recall on
+{\em diverse clusters} \ie, those whose relation phrases all have different head
+verbs. Figure~\ref{f:pr_example} illustrates these metrics with an example; note
+under our diverse metrics, all phrases matching \mtt{go\ *} count as one when
+computing both precision and recall.  We conduct 5-fold cross validation on our
+labeled dataset to get precision and recall numbers when the system requires training.
+
+{\begin{figure}[t]
+\def\textexample#1{\it\scriptsize #1}
+\renewcommand\arraystretch{1.3}
+\centering
+\small
+\begin{tabular}{|>{\centering\arraybackslash}m{0.1\textwidth}|
+>{\centering\arraybackslash}m{0.34\textwidth}|}\hline
+%\begin{tabular}{c|c|c}\hline
+\small
+ $\textbf{output}$ &  \{\bmtt{go\ into}, \bmtt{go\ to},  \mtt{speak},  \mtt{return}, \bmtt{head\ to}\}\\\hline
+ $\textbf{gold}$ &\{\bmtt{go\ into}, \bmtt{go\ to}, \mtt{approach}, \bmtt{head\ to}\}\\\hline
+  $\textbf{gold}_{\textrm{div}}$ &\{\bmtt{go\ *}, \mtt{approach}, \bmtt{head\ to}\}\\\hline
+  $\textbf{P/R}$ &
+$\textrm{precision}=3/5$\
+$\textrm{recall}=3/4$\\\hline
+ $\textbf{P/R}_{\textrm{div}}$ &
+$\textrm{precision}_{\textrm{div}}=2/4$\
+$\textrm{recall}_{\textrm{div}}=2/3$\\\hline
+\end{tabular}
+\caption{\label{f:pr_example} an example pair of the output cluster and the gold cluster, and the corresponding precision recall numbers. }
+\end{figure}
+}
+
+We compare \sys\ with the models in Section~\ref{section_model},
+and also with the state-of-the-art paraphrase extraction method:
+
+
+{\bf Baseline:} the model discussed in
+Section~\ref{section_basic_model}. This system does not need any training,
+and generates outputs with perfect recall.
+
+{\bf Pairwise:} the pairwise model discussed in
+Section~\ref{section_news_spike} and using the same set of features as used
+by \sys. To generate output clusters, transitivity is assumed inside the
+\bag. For example, when the pairwise model predicts that $(r_1,r_2)$ and
+$(r_1,r_3)$ are both paraphrases, the resulting cluster is
+$\{r_1,r_2,r_3\}$.
+
+
+{\bf Socher:} Socher~\etal~\shortcite{SocherEtAl2011:PoolRAE} achieved
+the best results on the Dolan~\etal~\shortcite{dolan2004unsupervised}
+dataset, and released their code and models. We used their off-the-shelf
+predictor to replace the classifier in our Pairwise model. Given sentential
+paraphrases, aligning relation phrases is natural, because OpenIE has
+already identified the relation phrases.
+
+
+\begin{table}[bt]
+\begin{center}
+\footnotesize
+\begin{tabular}{|c|c|c|c|c|}
+ \hline
+ \multirow{2}{*}{ System} & \multicolumn{2}{c|}{ P/R }  & \multicolumn{2}{c|}{
+ $\textrm{P/R diverse}$} \\
+\cline{ 2-5}
+         & ~prec~ & ~rec~  & ~prec~ & ~rec~ \\\hline
+Baseline & 0.67 & 1.00 & 0.53 & 1.00\\
+Pairwise & 0.90 & 0.60 & 0.81 & 0.37\\
+Socher & 0.81 & 0.35 & 0.68 & 0.29 \\\hline
+\sys\ & \bf{0.92} & 0.55 & \bf{0.87} & 0.31\\
+\hline
+\end{tabular}
+\end{center}
+\caption{Comparison with methods using parallel news corpora} \label{t:compare_to_parallel}
+\end{table}
+
+Table~\ref{t:compare_to_parallel} shows precision and recall numbers.  It
+is interesting that the basic model already obtains $0.67$ precision
+overall and $0.53$ in the diverse condition. This demonstrates that the
+\bag s generated from the news streams are a promising resource for
+paraphrasing.  Socher's method performs better, but not as well as Pairwise or
+\sys, especially in the diverse cases. This is probably due to the fact
+that Socher's method is  based  purely on text metrics and does not consider any
+temporal attributes. Taking into account the features used by \sys,
+Pairwise significantly improves the precision, which demonstrates the power
+of our temporal correspondence heuristics.  Our joint cluster model, \sys,
+which considers both temporal features and constraints, gets the best
+performance in both conditions.
+
+We conducted ablation testing to evaluate how spike features and tense
+features, which are particularly relevant to the temporal aspects of news
+streams, can improve performance. Figure~\ref{ablation} compares the
+precision/recall curves for three systems in the diverse condition: (1)
+\sys; (2) w/oSpike: turning off all spike features; and (3) w/oTense:
+turning off all features about tense.  (4) w/oDiscourse: turning off one
+event-mention per discourse heuristic. There are some dips in the curves because
+they are drawn after sorting the predictions by the value of the corresponding
+ILP objective functions, which do not perfectly reflect prediction accuracy.
+However, it is clear that \sys\ produces greater precision over all ranges of recall.
+
+
+\begin{figure}
+\centering
+\includegraphics[width=3.1in]{ablation.pdf}
+\caption{Precision recall curves on hard, diverse cases for NewsSpike,
+w/oSpike, w/oTense and w/oDiscourse. }
+\label{ablation}
+\end{figure}
+
+
+
+
+\subsection{Comparison with Methods using the Distributional Hypothesis}
+\label{section_methods_of_distributional} We evaluated our model against
+methods based on the distributional hypothesis. We ran \sys\ over all \bag
+s except for the development set and compared to the following systems:
+
+{\bf Resolver: } Resolver~\cite{yates2009unsupervised} uses a set of
+extraction tuples in the form of $(a_1,r,a_2)$ as the input and creates a
+set of relation clusters as the output paraphrases. Resolver also
+produces argument clusters, but this paper only evaluates relation
+clustering. We evaluated Resolver's performance with an input of the 2.6
+million extractions described in section \ref{section_data_generation}, using Resolver's
+default parameters.
+
+
+{\bf ResolverNYT: } Since Resolver is supposed to perform better when given
+more accurate statistics from a larger corpus, we tried giving it more
+data. Specifically, we ran ReVerb on 1.8 million NY Times articles
+published between 1987 and 2007 obtain 60 million
+extractions~\cite{sandhaus08}.  We ran Resolver on the union of this and
+our standard test set, but report performance only on clusters whose
+relations were seen in our news stream.
+
+{\bf ResolverNytTop: } Resolver is designed to achieve good performance on
+its top results. We thus ranked the ResolverNYT outputs by their scores and
+report the precision of the top 100 clusters.
+
+{\bf Cosine: } Cosine similarity is a basic metric for the distributional
+hypothesis. This system employs the same setup as Resolver in order to
+generate paraphrase clusters, except that Resolver's similarity metric is
+replaced with the cosine. Each relation is represented by a vector of
+argument pairs. The similarity threshold to merge two clusters was 0.5.
+
+{\bf CosineNYT: } As for ResolverNYT, we ran CosineNYT with an extra
+60 million extractions and reported the performance on relations seen in
+our news stream.
+
+
+
+
+
+
+We measured the precision of each system by manually labeling all output if
+100 or fewer clusters were generated (\eg\ ResolverNytTop), otherwise 100
+randomly chosen clusters were sampled. Annotators first determined the
+meaning of every output cluster and then created a gold cluster by choosing
+the correct relations. The gold cluster could be empty if the
+output cluster was nonsensical. Unlike many papers that simply report
+recall on the most frequent relations, we evaluated the total number of
+returned relations in the output clusters. As in
+Section~\ref{section_eval_parallel}, we also report numbers for the case
+of lexically diverse relation phrases.
+
+
+%in the same way as Resolver~\cite{yates2009unsupervised}, a relation $r$ in the output cluster is labeled as correct if the majority of relations in that cluster are synonyms of $r$. The precision is the number of relations in the output clusters which are correct dividing the total number of relations in output clusters. Measure overall recall requires labeling all relations, which is impossible. The recall of Resolver is measured on 200 most frequent relations. We are interested in clustering all relations, more than most frequent ones. So we simply compare the total number of relations in output clusters for each system.
+
+%We notice that clusters with relation phrases sharing the same head verb (\eg {\tt (convert to, convert into)} are very likely to be correct clusters. But simple clusters like this are less interesting, and counting them could exaggerate the precision of a system. In this paper, we include another metric by reporting numbers after ignoring all simple cases. We only take into account relations in an output cluster that do not share the majority head verb of that cluster. For example, in a cluster {\tt (convert to, convert into, turn into)}, only {\tt turn into} counts. To our best knowledge, we are the first paper to introduce this challenging metric.
+
+
+
+\begin{table}[bt]
+\begin{center}
+\footnotesize
+\begin{tabular}{|c|c|c|c|c|c|}
+ \hline
+\multirow{2}{*}{ System} & \multicolumn{2}{c|}{ all }  & \multicolumn{2}{c|}{ diverse } \\
+\cline{ 2-5}
+         & ~prec~ & \#rels & ~prec~ & \#rels \\\hline
+{ Resolver} & 0.78 & 129 & 0.65 & 57 \\
+{ ResolverNyt} & 0.64 & 1461 & 0.52 & 841 \\
+{ ResolverNytTop} & 0.83 & 207 & 0.72 & 79 \\
+{Cosine} & 0.65 & 17 & 0.33 & 9 \\
+{CosineNyt} & 0.56 & 73 & 0.46 & 59 \\\hline
+\sys\ & \bf{0.93} & 24843 & \bf{0.87} & 5574 \\
+\hline
+\end{tabular}
+\end{center}
+\caption{Comparison with methods using the distributional hypothesis} \label{t:compare_to_distributional}
+\end{table}
+
+As can be seen in Table~\ref{t:compare_to_distributional}, \sys\ outperformed
+methods based on the distributional hypothesis. The performance of the Cosine
+and CosineNyt was very low, suggesting that simple similarity metrics are
+insufficient for handling the paraphrasing problem, even when large-scale
+input is involved. Resolver and ResolverNyt employ an advanced similarity
+measurement and achieve better results. However, it is surprising that Resolver
+results in a greater precision than ResolverNyt. It is possible that argument
+pairs from news streams spanning 20 years sometimes provide incorrect evidence
+for paraphrasing. For example, there were extractions like \mtt{(the Rangers, be
+third in, the NHL)} and \mtt{(the Rangers, be fourth in, the NHL)} from news in
+2007 and 2003 respectively. Using these phrases, ResolverNyt produced the
+incorrect cluster \mtt{\{be third in, be fourth in\}}. \sys\ achieves greater
+precision than even the best results from ResolverNytTop, because \sys\
+successfully captures the temporal heuristics, and does not confuse
+synonyms with antonyms, or causes with effects.  \sys\ also returned on
+order of magnitude more relations than other
+methods.\comment{This is because given two relations in news streams,
+conclusions can only be drawn from distributional similarities when given
+large amounts of shared extractions; this is not common even given the
+whole NY Times corpus as input. When distributional similarities are
+confronted with insufficient statistical evidences, \sys\ can still predict
+many relations correctly by exploiting the strength of temporal
+information.}
+
+% The heuristics and models in this paper are proposed for high precision. To
+% compare with the distributional hypothesis, we purposely forced \sys\ not to
+% rely on any distribution similarity. But \sys's graphical model has the
+% flexibility to incorporate any similarity metrics as features. Such a hybrid
+% model has great potential to increase recall, which is one goal for future work.
+
+
+\subsection{Discussion}
+Unlike some domain-specific clustering methods, we tested on all relation
+phrases extracted by OpenIE on the collected news streams. There are no
+restrictions on the types of relations. Output paraphrases cover a broad range,
+including politics, sports, entertainment, health, science, etc. 
+There are 10 thousand nonempty clusters over 17 thousand distinct phrases with
+average size 2.4. Unlike methods based on distributional similarity,
+NewsSpike correctly clusters infrequently appearing phrases.
+
+Since we focus on high precision, it is not surprising that most clusters are of
+size 2 and 3. These high precision clusters can contribute a lot to generate
+larger paraphrase clusters. For example, one can invent the technique to merge
+smaller clusters together.  The work presented here provides a foundation for
+future work to more closely examine these challenges.
+
+While this paper gives promising results, there are still behaviors
+found in news streams that prove challenging. Many errors are due to the
+discourse context: the two sentences are synonymous in the given \bag , but the
+relation phrases are not paraphrases in general. For example, consider the
+following two sentences: {\em ``DA14 narrowly misses Earth''} and {\em ``DA14
+flies so close to Earth''}. Statistics information from large corpus would be
+helpful to handle such challenges. Note in this paper, in order to fairly
+compare with the distributional hypothesis, we purposely forced \sys\ not to rely on any
+distributional similarity. But \sys's graphical model has the flexibility to
+incorporate any similarity metrics as features. Such a hybrid model has great
+potential to increase both precision and recall, which is one goal for future
+work.
+
+ 

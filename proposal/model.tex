@@ -1,0 +1,355 @@
+%\begin{figure*}[htb]
+%\centering
+%\subfigure[]{
+%  \includegraphics[width=1.7in]{plate-model.pdf}
+%  \label{fig-plate}
+%}
+%\subfigure[]{
+%  \includegraphics[width=4.6in]{fig.pdf}
+%  \label{fig-example}
+%}
+%    \vspace{-5pt}
+%\caption{(a) Network structure depicted as plate model and (b) an
+%  example network instantiation for the pair of entities {\tt Steve Jobs}, {\tt Apple}.}
+%  \vspace{-5pt}
+%\end{figure*}
+
+\section{System Overview}
+\label{section_framework}
+\begin{figure}
+\centering
+\includegraphics[width=3.1in]{systemoverview.pdf}
+\caption{\sys\ first applies open information extraction to articles in the news
+streams, obtaining shallow extractions with time-stamps. Next, an \Eec\ (\eec)
+is obtained after grouping daily extractions by argument pairs. Temporal
+features and constraints are developed based on our temporal correspondence
+heuristics and encoded into a joint inference model. The model finally creates
+the paraphrase clusters by predicting the relation phrases that describe the
+\eec.
+%System overview: exploiting the temporal hypotheses to cluster relations in the news streams
+}
+
+\label{systemoverview}
+\end{figure}
+The main goal of this work is to generate high precision paraphrases for
+relation phrases. News streams are a promising resource, since articles
+from different sources tend to use semantically equivalent phrases to
+describe the same daily events. For example, when a recent scandal
+hit, headlines read: \mtt{``Armstrong steps down from Livestrong''};
+\mtt{``Armstrong resigns from Livestrong''} and \mtt{``Armstrong cuts
+  ties with Livestrong''}. From these we can conclude that the
+following relation phrases are semantically similar: \mtt{\{step down
+  from, resign from, cut ties with\}}.
+
+To realize this intuition, our first challenge is to represent an
+event. In practice, a question like {\it ``What happened to Armstrong
+  and Livestrong on Oct 17?''} could often lead to a unique
+answer. It implies that using an argument pair and a time-stamp could
+be an effective way to identify an event (\eg\ \mtt{(Armstrong,
+  Livestrong, Oct 17)} for the previous question). Based on this
+observation, this paper introduces a novel mechanism to paraphrase
+relations as summarized in Figure~\ref{systemoverview}.
+
+%It has been noticed that entity pairs carry strong information to suggest relations and events~\cite{hasegawa2004discovering,sekine2005automatic}.
+
+
+\sys\ first applies the ReVerb open information extraction (IE)
+system~\cite{fader11} on the news streams to obtain a set of
+$(a_1,r,a_2,t)$ tuples, where the $a_i$ are the arguments, $r$ is a
+relation phrase, and $t$ is the time-stamp of the corresponding news
+article. When $(a_1,a_2,t)$ suggests a real word event, the relation
+$r$ of $(a_1,r,a_2,t)$ is likely to describe that event
+(\eg\ \mtt{(Armstrong, resign from, Livestrong, Oct 17}). We call
+every $(a_1, a_2, t)$ an {\em \Eec} (\eec), and every relation describing the
+event an {\em event-mention}.
+
+For each \eec\ $(a_1,a_2,t)$, suppose there are $m$ extraction tuples
+$(a_1,r_1,a_2,t)\ldots (a_1,r_m,a_2,t)$ sharing the values of $a_1,
+a_2,$ and $t$. We refer to this set of extraction tuples as the {\em
+  \bag}, and denote it $(a_1,a_2,t,\{r_1\ldots r_m\})$. All the
+event-mentions in the \bag\ may be semantically equivalent and are
+hence candidates for a good paraphrase cluster.
+
+Thus, the paraphrasing problem becomes a prediction problem:
+for each relation $r_i$ in the \bag, does it or does it not describe
+the hypothesized event?  We solve this problem in two steps. The next
+section proposes a set of temporal correspondence heuristics that
+partially characterize semantically equivalent \bag s. Then, in
+Section~\ref{section_model}, we present a joint inference model
+designed to use these heuristics to solve the prediction problem and
+to generate paraphrase clusters.
+
+
+
+
+%In sum, we frame our relation clustering problem as finding these semantically equivalent relations in the \bag, and then generate the relation cluster.
+
+\section{Temporal Correspondence Heuristics}
+\label{section_temporal}
+\theoremstyle{plain} \newtheorem{hypothesis}{H}
+
+
+
+\newtheorem*{H1}{Temporal Functionality Heuristic}
+\newtheorem*{H2}{Temporal Burstiness Heuristic}
+\newtheorem*{H3}{One Event-Mention Per Discourse Heuristic}
+
+
+
+In this section, we propose a set of temporal heuristics that are
+useful to generate paraphrases at high precision. Our heuristics start
+from the basic observation mentioned previously --- events can often
+be uniquely determined by their arguments and time.  Additionally, we
+find that it is not just the {\em publication time} of the news story
+that matters, the {\em verb tenses} of the sentences are also
+important. For example, the two sentences \mtt{``Armstrong was the
+  chairman of Livestrong''} and \mtt{``Armstrong steps down from
+  Livestrong''} have past and present tense respectively, which
+suggests that the relation phrases are less likely to describe the
+same event and are thus not semantically equivalent. To capture these
+intuitions, we propose the {\em Temporal Functionality Heuristic}:
+
+\begin{H1}
+	\label{hypo_one}
+        News articles published at the same time that mention the
+        same entities and use the same tense tend to describe the
+        same events.
+% News articles published at the same time, mentioning the same
+% entities, and using the same tense tend to describe the same events.
+\end{H1}
+
+
+Unfortunately, we find that not all the event candidates,
+$(a_1,a_2,t)$, are equally good for paraphrasing. For example, today's
+news might include both \mtt{``Barack Obama heads to the White
+  House''} and \mtt{``Barack Obama greets reporters at the White
+  House''}. Although the two sentences are highly similar, sharing
+$a_1 = $ ``Barack Obama'' and $a_2 = $ ``White House,'' and were
+published at the same time, they describe different events.
+
+From a probabilistic point of view, we can treat each sentence as
+being generated by a particular hidden event which involves several
+actors.  Clearly, some of these actors, like Obama, participate in
+many more events than others, and in such cases we observe sentences
+generated from a {\em mixture} of events.  Since two event mentions
+from such a mixture are much less likely to denote the same event or
+relation, we wish to distinguish them from the better (semantically
+homogeneous) \eec s like the \mtt{(Armstrong, Livestrong)}
+example. The question becomes ``How one can distinguish good entity
+pairs from bad?''
+
+Our method rests on the simple observation that an entity which
+participates in many different events on one day is likely to have
+participated in events in recent days. Therefore we can judge whether
+an entity pair is good for paraphrasing by looking at the {\em
+  history of the frequencies} that the entity pair is mentioned in the
+news streams, which is the {\em time series} of that entity pair. The
+time series of the entity pair \mtt{(Barack Obama, the White House)}
+tends to be high over time, while the time series of the entity pair
+\mtt{(Armstrong, Livestrong)} is flat for a long time and suddenly
+spikes upwards on a single day. This observation leads to:
+
+\begin{H2}
+	\label{hypo_two}
+If an entity or an entity pair appears significantly more frequently
+in one day's news than in recent history, the corresponding event
+candidates are likely to be good to generate paraphrase.
+\end{H2}
+
+The temporal burstiness heuristic implies that a good
+\eec\ $(a_1,a_2,t)$ tends to have a {\em spike} in the time series of
+its entities $a_i$, or argument pair $(a_1,a_2)$, on day $t$.
+
+However, even if we have selected a good \eec\ for paraphrasing,
+it is likely that it contains a few relation phrases that are related to
+(but not synonymous with) the other relations included in the
+\eec. For example, it's likely that the news story reporting
+\mtt{``Armstrong steps down from Livestrong.''} might also mention
+\mtt{``Armstrong is the founder of Livestrong.''} and so both ``steps
+down from'' and ``is the founder of'' relation phrases would be part
+of the same \bag.  Inspired by the idea of one sense per discourse
+from ~\cite{gale1992one}, we propose:
+
+\begin{H3}
+	\label{hypo_three}
+A news article tends not to state the same fact more than once.
+\end{H3}
+
+
+The one event-mention per discourse heuristic is proposed in order to gain
+precision at the expense of recall --- the heuristic directs an algorithm
+to choose, from a news story, the single ``best'' relation phrase
+connecting a pair of two entities.  Of course, this doesn't answer the
+question of deciding which phrase is ``best.''  In
+Section~\ref{section_joint_cluster_model}, we describe how to learn a
+probabilistic graphical model which does exactly this.
+
+
+\section{Exploiting the Temporal Heuristics}
+\label{section_model}
+
+In this section we propose several models to capture the temporal
+correspondence heuristics, and discuss their pros and cons.
+
+\subsection{Baseline Model}
+\label{section_basic_model}
+
+An easy way to use an \bag\ is to simply predict that all $r_i$
+%The baseline model to use the \bag\ is to simply predict that all $r_i$
+in the \bag\ are event-mentions, and hence are semantically equivalent. That is,
+given \bag\ $(a_1,a_2,t,\{r_1\ldots r_m\})$, the output cluster is
+$\{r_1\ldots r_m\}$.
+
+This baseline model captures the most of the temporal functionality heuristic,
+except for the tense requirement. Our empirical study shows that it performs
+surprisingly well. This demonstrates that the quality of our input for the
+learning model is good: the \bag s are promising resources for paraphrasing.
+
+Unfortunately, the baseline model cannot deal with the other
+heuristics, a problem we will remedy in the following sections.
+
+\subsection{Pairwise Model}
+\label{section_news_spike}
+The temporal functionality heuristic suggests we exploit the tenses
+of the relations in an \bag; while the temporal burstiness heuristic suggests we
+exploit the time series of its arguments. A pairwise model can be designed to
+capture them: we compare pairs of relations in the \bag, and predict whether
+each pair is synonymous or non-synonymous.  Paraphrase clusters are then
+generated according to some heuristic rules (\eg\ assuming transitivity among
+synonyms). The tenses of the relations and time series of the arguments are
+encoded as features, which we call {\em tense features} and {\em spike features}
+respectively. An example tense feature is whether one relation is past tense
+while the other relation is present tense; an example spike feature is the
+covariance of the time series.
+
+The pairwise model can be considered similar to paraphrasing
+techniques which examine two sentences and determine whether they are
+semantically equivalent~\cite{dolan2005automatically,SocherEtAl2011:PoolRAE}. 
+Unfortunately, these techniques often based purely on text metrics and does not
+consider any temporal attributes. In section~\ref{empirical_study}, we evaluate the effect of
+applying these techniques. 
+
+\subsection{Joint Cluster Model}
+\label{section_joint_cluster_model}
+The pairwise model has several drawbacks: \textit{1)} it lacks the ability to
+handle constraints, such as the mutual exclusion constraint implied by the
+one-mention per discourse heuristic; \textit{2)} ad-hoc rules, rather than
+formal optimizations, are required to generate clusters containing more than two
+relations.
+
+A common approach to overcome the drawbacks of the pairwise model and
+to combine heuristics together is to introduce a joint cluster
+model, in which heuristics are encoded as features and constraints. Data,
+instead of ad-hoc rules, determines the relevance of different insights, which
+can be learned as parameters. The advantage of the joint model is analogous to
+that of cluster-based approaches for coreference resolution (CR). In particular,
+a joint model can better capture constraints on multiple variables and can yield
+higher quality results than pairwise CR models~\cite{rahman2009supervised}.
+
+
+We propose an undirected graphical model, \sys, which
+jointly clusters relations. Constraints are captured by
+factors connecting multiple random variables. We introduce random
+variables, the factors, the objective function, the inference
+algorithm, and the learning algorithm in the following sections.
+Figure~\ref{graphmodel} shows an example model for \eec\
+\mtt{(Armstrong, Livestrong, Oct 17)}.
+
+
+\begin{figure}
+\centering
+\includegraphics[width=3.1in]{graphmodel.pdf}
+\caption{an example model for \eec\ (Armstrong, Livestrong, Oct 17). $Y$ and $Z$ are binary random variables. $\Phi^Y$, $\Phi^Z$ and $\Phi^{\text{joint}}$ are factors. \mtt{be founder of} and \mtt{step down} come from article 1 while \mtt{give speech at}, \mtt{be chairman of} and \mtt{resign from} come from article 2.}
+\label{graphmodel}
+\end{figure}
+
+\subsubsection{Random Variables}
+
+For the \bag\ $(a_1,a_2,t,\{r_1,\ldots r_m\})$, we introduce one event
+variable and $m$ relation variables, all boolean valued. The
+event variable $Z^{(a_1,a_2,t)}$ indicates whether $(a_1,a_2,t)$ is a good event
+for paraphrasing. It is designed in accordance with the temporal burstiness
+heuristic: for the \eec\ \mtt{(Barack Obama, the White House, Oct 17)}, $Z$
+should be assigned the value 0.
+
+The relation variable $Y^r$ indicates whether relation $r$ describes
+the \eec\ $(a_1,a_2,t)$ or not (\ie\ $r$ is an event-mention or not). The set of
+all event-mentions with $Y^r=1$ define a paraphrase cluster, containing
+relation phrases. For example, the assignments $Y^{\textit{step\
+down}}=Y^{\textit{resign from}}=1$ produce a paraphrase cluster \mtt{\{step
+down, resign from\}}.
+
+%The relation variable $Y^r$ indicates whether relation $r$ describes the \eec\ $(a_1,a_2,t)$ or not. All event-describing relations with $Y^r=1$ could compose a cluster. For example, the assignments $Y^{\textit{step\ down}}=Y^{\textit{resign}}=1$ produce a relation cluster \mtt{\{step down, resign\}}.
+
+\subsubsection{Factors and the Joint Distribution}
+\label{sec:factorsAndTheJointDistribution}
+In this section, we introduce a conditional probability model defining
+a joint distribution over all of the event and relation variables. The
+joint distribution is a function over {\it factors}. Our model
+contains {\em event factors}, {\em relation factors} and {\em joint factors}.
+
+The event factor $\Phi^Z$ is a log-linear function with spike
+features, used to distinguish good events. A relation factor
+$\Phi^Y$ is also a log-linear function. It can be defined for
+individual relation variables (\eg\ $\Phi^Y_1$ in Figure \ref{graphmodel})
+with features such as whether a relation phrase comes from a clausal
+complement\footnote{Relation phrases in clausal complement are less useful for
+paraphrasing because they often do not describe a fact. For example, in the
+sentence \mtt{He heard Romney had won the election}, the extraction (Romney, had
+won, the election) is not a fact at all.}.
+A relation factor can also be defined for a pair of relation variables (\eg\
+$\Phi^Y_2$ in Figure~\ref{graphmodel}) with features capturing the pairwise
+evidence for paraphrasing, such as if two relation phrases have the same tense.
+
+
+The joint factors $\Phi^{\text{joint}}$ are defined to apply constraints
+implied by the temporal heuristics. They play two roles in our model:
+\textit{1)} to satisfy the temporal burstiness heuristic, when the value of
+the event variable is false, the \eec\ is not appropriate for paraphrasing,
+and so all relation variables should also be false; and \textit{2)} to
+satisfy the one-mention per discourse heuristic, at most one relation
+variable from a single article could be true.
+
+We define the joint distribution over these variables and factors as
+follows. Let $\mathbf{Y}=(Y^{r_1}\ldots Y^{r_m})$ be the vector of relation
+variables; let $\mathbf{x}$ be the features. The joint distribution is:
+
+\begin{eqnarray*}
+\lefteqn{p(Z = z, \mathbf{Y} = \mathbf{y}|\mathbf{x}; \Theta) \stackrel{\text{\tiny def}}{=} \frac{1}{Z_{x}}\Phi^{Z}(z,\mathbf{x}) }\\
+    && \times \prod_d \Phi^{\text{joint}}(z,\mathbf{y}_d,\mathbf{x})
+        \prod_{i,j} \Phi^Y (y_i,y_j,\mathbf{x})
+\end{eqnarray*}
+\noindent
+where $\mathbf{y}_d$ indicates the subset of relation variables from a
+particular article $d$, and the parameter vector $\Theta$ is the weight vector
+of the features in $\Phi^Z$ and $\Phi^Y$, which are log-linear functions; \ie,
+\[
+\Phi^{Y}(y_i,y_j,\mathbf{x}) \stackrel{\text{\tiny def}}{=}
+\exp \left( \sum_j \theta_{j} \phi_j(y_i,y_j,\mathbf{x}) \right)
+\]
+where $\phi_j$ is the $j$th feature function.
+
+The joint factors $\Phi^{\text{joint}}$ are used to apply the temporal
+burstiness heuristic and the one event-mention per discourse
+heuristic.  $\Phi^{\text{joint}}$ is zero when the \eec\ is not good
+for paraphrasing, but some $y^r=1$; or when there is more than one $r$ in a
+single article such that $y^r=1$.
+Formally, it is calculated as:
+\[
+\Phi^{\text{joint}}(z,\mathbf{y}_d,\mathbf{x})
+\stackrel{\text{\tiny def}}{=}
+\begin{cases}
+\footnotesize
+0  & {\rm if} ~ z=0 \land \exists  y^r = 1  \\
+0  & {\rm if} ~ \sum_{y^r\in \mathbf{y}_d} y^r > 1  \\
+1  & {\rm otherwise} \\
+\end{cases}
+\]
+
+
+
+
+
+
+
+
