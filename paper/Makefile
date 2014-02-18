@@ -1,4 +1,4 @@
-REPORT=proposal
+REPORT=paper
 LATEX=pdflatex
 BIBTEX=bibtex
 EXTRA_BIBS=general.bib
