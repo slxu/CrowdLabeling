@@ -2,7 +2,7 @@ REPORT=proposal
 LATEX=pdflatex
 BIBTEX=bibtex
 
-SRCS=$(REPORT).tex
+SRCS=$(REPORT).tex introduction.tex system.tex evaluation.tex related.tex
 REFS=$(REPORT).bib general.bib
 FIGS=$(wildcard figures/*)
 
