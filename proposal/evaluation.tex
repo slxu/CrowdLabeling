@@ -1,44 +1,52 @@
 \section{Evaluation methods}
 
-We are going to do separate evaluations of the two proposed
-visualization tools. we will build for tow different tasks of natural
-language processing.
+We are going to do separate evaluations of the two targeted 
+labeling tasks. 
 
 \begin{itemize}
 
-\item Clustering visualization. In order to evaluate the clustering
-visualization tool, we plan to compare the labeling process using our
-tool to that of a traditional labeling
-process of doing word clustering, where the participants are required
-to manually label each word according to different categories on a
-Microsoft Excel or similar chart software.
+\item Tree building. There are a lot of tree builiding tasks in the
+NLP area. We propose to evaluate our system using the task of semantic
+tree parsing of sentences. The goal of the task is to get the semantic
+parsing tree of each labeling sentence. 
 
-\textit{Participants}: We plan to gather 10 participants from UW
-undergraduate/graduate students.  \textit{Experiment}: The
-participants are divided into two groups, Each group will complete two
-standard linguistic clustering tasks with similar work load and
-difficulty. One of the group will conduct the task with help of our
-visualization tool first, the other will do the task without
-visualization first. Then the tow groups switch task.
+\textit{Participants}: We propose to gather 4 to 10 participants from
+undergraduate/graduate UW students.  
 
-Evaluation: Both time consumption and accuracy of the two groups of
-participants will be evaluated.
+\textit{Evaluation process}: Each participant is given 2 sets of
+randomly selected sentences.  In each set, there may be around 100
+sentences. All the participants are divided into two groups.  Half of
+the participants will be asked to complete the parsing of the first
+given sentence set using only plain text file editors, plain html
+files or Microsoft Excel files without diagrams. They are then
+required to complete the second setence set with the aid of our tool.
+The other half of the participants will be asked to complete the
+labeling tasks in the reverse order. The purpose of the two group
+splitting and the different order of conducting the labeling is to
+eliminate the possible factor of gaining unexpected information from
+using the first labeling tool.
 
-\item Tree Parsing. Because of the difficulty of the Tree Parsing
-tasks, there is actually no reliable way for people to conduct such
-tree parsing without tedious training. So our evaluation aim to
-discover how this good this tool can actually turn something almost
-impossible to reality.
+\textit{Evaluation}: Both time consumption and result quality of the two
+groups of participants will be evaluated.
 
-Participants: We will gather 10 native speaker participants form
-undergraduate/graduate CSE students.  Experiment: participants will
-complete two standard linguistic parcing tasks with similar work load
-and difficulty. One of the group will conduct the task with help of
-our visualization tool first, the other will do the task without
-visualization first. Then the two groups switch task.
+\item Clustering building. In order to evaluate the clustering
+building task, we propose to use entity clustering in NLP relation
+extraction. The goal of the task is to get a cluster structure of
+given entities.
+
+\textit{Participants}: We propose to also gather 4 to 10 participants from
+UW undergraduate/graduate students.
+
+\textit{Evaluation process}: Each participant is given 2 sets of
+randomly selected entities, e.g. human names, together with extra
+context info for entity resolution. The participants are also divided
+into two groups as in the tree building task. And also the two groups label the
+entities in the same way as in tree building task.
+
+\textit{Evaluation}: Both time consumption and result quality of the
+two groups of participants will be evaluated.
+
 
 \end{itemize}
 
-Evaluation: Both time consumption and accuracy of the two groups of
-participants will be evaluated.
 
