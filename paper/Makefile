@@ -1,10 +1,9 @@
 REPORT=paper
 LATEX=pdflatex
 BIBTEX=bibtex
-EXTRA_BIBS=general.bib
 
 SRCS=*.tex
-REFS=$(REPORT).bib $(EXTRA_BIBS)
+REFS=*.bib 
 FIGS=$(wildcard figures/*)
 
 all: $(REPORT).pdf
