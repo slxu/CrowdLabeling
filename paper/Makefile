@@ -1,9 +1,9 @@
-REPORT=proposal
+REPORT=paper
 LATEX=pdflatex
 BIBTEX=bibtex
 
 SRCS=*.tex
-REFS=*.bib
+REFS=*.bib 
 FIGS=$(wildcard figures/*)
 
 all: $(REPORT).pdf
