@@ -2,9 +2,31 @@
 
 In this project, we aim to develop a visualized toolkit for crowdsourcing NLP annotations. The target audience are normal people with little knowledge and patience. The toolkit would allow them to quickly label NLP datasets.
 
-There are two key properties of our toolkit: firstly, annotators could interact with the points to understand the data in an up-to-date way. For example, any partial annotations reflect annotators' partial understanding. So they would expect immediate feedback from the toolkit. Secondly, the toolkit should enable and even encourage trial and errors. It would not take any edits from the users as granted, but treat the edits as clues to better render the data to the annotator. When the annotator finish a labeling task, he should be satisfied with the global outcome and confident. In the above $\{A_1,\ldots,A_{10}\}$ and $\{B_1,\ldots,B_{10}\}$ example, it is likely that $A_1$ and $B_2$ are hard to distinguish when the pair is seen separately from the rest of the data. But if the toolkit could immediate show a big cluster $\{A_1,\ldots,A_{10}, B_1,\ldots,B_{10}\}$ after accidentally merge $A_1$ with $B_2$, the annotators would have a good chance to change their mind and fix the errors. 
+There are two key properties of our toolkit: firstly, annotators could interact with the data to understand them in an refresh way. Any partial annotations show annotators' understanding, so they would expect immediate feedback from the toolkit. Secondly, the toolkit should enable and encourage trial and errors. It would not take any edits from the users as granted, but treat the edits as clues to better render the data to the annotator. When the annotator finish a labeling task, he should be satisfied with the global outcome and confident. In the above $\{A_1,\ldots,A_{10}\}$ and $\{B_1,\ldots,B_{10}\}$ example, it is likely that $A_1$ and $B_2$ are hard to distinguish when the pair is seen separately from the rest of the data. But if the toolkit could immediate show a big cluster $\{A_1,\ldots,A_{10}, B_1,\ldots,B_{10}\}$ after accidentally merge $A_1$ with $B_2$, the annotators would have a good chance to change their mind and fix the errors. 
 
- In this project, we would focus on two important kinds of NLP annotations: a tree prediction (\eg\  parsing) and a graph prediction (\eg\ coreference). But we would keep in mind that the toolkit should be easily extensible to any NLP problems. 
+ In this project, we would focus on two important kinds of NLP annotations: tree predictions (\eg\  parsing) and a graph prediction (\eg\ coreference). But we would keep in mind that the toolkit should be easily extensible to any NLP problems. 
 
-\subsection{Annotate Tree Prediction}
-\subsection{Annotate Graph Prediction}
+\subsection{Graph Prediction}
+Formally, the input is a list of nodes, the output would be a tag for each node. Nodes with the same tag should stay in the same cluster. Let us use the following running example: the task is to co-refer five mentions ``Jeffery Heer", ``Jeff Bilmes", ``Jeff", ``Professor Heer" and ``Mr Bilmes". We propose to use ``dependency wheel" for this task. At first, annotator would see 5 objects listed on the right side of the window, and there is nothing on the wheel. He could operate the data in the following ways:
+
+Drag node $a$ to node $b$ when they are in the same cluster: Suppose we drag ``Jeff" to ``Jeffery Heer". If they has not been on the wheel yet, they would be added. Suppose ``Jeff'', ``Jeffery Heer'' are in clusters $\{$``Jeff, Jeff Bilmes''$\}$ and $\{$``Jeffery Heer, Professor Heer''$\}$. Then the resulting cluster would be $\{$``Jeff, Jeff Bilmes, Jeffery Heer, Professor Heer"$\}$. All four nodes will be colored same and group together on the wheel. There is also an ``same edge" between ``Jeff'' and ``Jeffery Heer'' highlighting this operator. 
+
+Two nodes are different: annotators soon notice that ``Jeff Bilmes" and ``Jeffery Heer" in the resulting cluster is bad. But he is not aware what edit results in this. So he tell the toolkit that ``Jeff Bilmes" and ``Jeffery Heer" are two different entities. There comes a different edge between them. The system would figure out this different edge is conflict with the previous same edge between ``Jeff'' and ``Jeffery Heer''. The toolkit would highlight the conflicts so annotator could cancel one or several of them.
+
+Tag the node: nodes with the same tag would be grouped together and put together on the wheel. The tag could cause conflicts, which would be highlighted on the screen for annotators to decide.
+
+
+\subsection{Tree Prediction}
+Formally, the input is a list of nodes, the output would be a tree whose leaf nodes are the input nodes. Also, breadth-first search the tree will not change the initial order of the nodes. Let us see parsing the sentence ``My little dog also likes eating sausage" as a running example.  Note that the order of the words will not be changed at the  At first, annotators would see 6 individual nodes. He could operate the tree in the following ways: 
+
+Drag node $A$ to node $B$ when they are siblings: When two nodes has no parent node, we would create a inner node, put two nodes as its children, and add edges from parent to children. For example, user can drag ``little" to ``dog" to create a node for phrase ``little dog". When $B$ has its parent $C$ already, $A$ will be linked to $C$ as its new child. For example, user can drag ``My" to ``little" or ``dog" to merge ``my" and ``little dog". This operator is enough to build a tree.
+
+Click the edge to cancel parent-child relationship: when the parent node lose all its children, the node will be removed from the tree. This operator enables trial and error for annotators. 
+
+Name the nodes: when linguistics build the parse tree, they would also tag the POS tags (\ie\ Verb, noun phrase). Since there are dozens tags on the tree, it is too complicated for normal people to tag all of them. But fortunately, a partial set of tags, especially verb and nouns, would help the machine learning algorithms a lot. Annotators could choose to name some of the nodes with those most important tags. We would also support edit and delete the names. 
+
+
+
+
+
+
