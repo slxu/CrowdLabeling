@@ -1,9 +1,10 @@
-\section{Project Plan}
-\subsection{System overview}
-In this project, we aim to develop a visualized toolkit for
-crowd-sourcing NLP annotations. The target audience are normal people
-with little knowledge and patience. The toolkit would allow them to
-quickly label NLP datasets.
+\section{Project Plan} 
+
+\subsection{System overview} In this project,
+we aim to develop a visualized toolkit for crowd-sourcing NLP
+annotations. The target audience are normal people with little
+knowledge and patience. The toolkit would allow them to quickly label
+NLP datasets.
 
 There are two key properties of our toolkit: firstly, annotators could
 interact with the data to understand them in a refresh way. Annotators
@@ -20,10 +21,45 @@ show a big cluster $\{$``Jeff, Jeff Bilmes, Jeffery Heer, Professor
 Heer"$\}$ after incorrectly merge two points, the annotators would
 have a good chance to fix it.
 
+\subsection{System detailed design}
+
+We propose to build our system as a web application for collabrative
+annotation because we are targeting our toolkit as deployable by
+scalable crowsoursing systems. Based on this requirement, we plan to
+build the toolkit based on the D3 web visualization library.
+
+\subsubsection{Input Output design} As a collaborative web
+application, the input/output data must be sharable by different
+annotators. We plan to use the data storage service provided by the
+Google app engine. 
+
+\subsubsection{Data representation design} By survying a lot of
+existing NLP tasks, we decide to focus on two types of annotating
+data. 1) Given an article or a webpage and a list of entities
+represented by words or phrases, where the entities appear in the
+article, annotate the entities; 2) Given a list of sentences,
+paragraphs or articles, directly annotate them. 
+
+
+\subsubsection{Task visualization design}
+
 In this project, we would focus on two important kinds of NLP
 annotations: building trees (\eg\  parsing) and clustering (\eg\
-coreference resolution). But we would keep in mind that the toolkit
-should be easily extensible to any NLP problems. 
+coreference resolution). 
+
+We propose to build a new D3 tree plugin for conducting the tree
+building task by visualizing the in-building trees. The users can
+directly operate on the visualized tree to complete the whole annoting
+process.  In addition to the tree builidng from a set of unstructured
+data points, we also plan to support tree evolving, i.e. building
+other trees from an existing tree. This feature is applicable to many
+cross-lingual tasks such as mapping a semantic tree of an English
+sentence to the tree of the translated Chinese sentence.
+
+For the clustering task, we propse to do it by building a graph based
+clustering plugin on D3. The users can directly operate on the
+clustering graph to finish the clustering annotating processing.
+
 \subsection{Milestones}
 
 \emph{System Brainstorming}
