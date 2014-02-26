@@ -1,0 +1,35 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Abekawa \bgroup et al.\egroup
+  }2010]{abekawa2010community}
+Takeshi Abekawa, Masao Utiyama, Eiichiro Sumita, and Kyo Kageura.
+\newblock 2010.
+\newblock Community-based construction of draft and final translation corpus
+  through a translation hosting site minna no hon'yaku (mnh).
+\newblock In {\em LREC}. Citeseer.
+
+\bibitem[\protect\citename{Irvine and Klementiev}2010]{irvine2010using}
+Ann Irvine and Alexandre Klementiev.
+\newblock 2010.
+\newblock Using mechanical turk to annotate lexicons for less commonly used
+  languages.
+\newblock In {\em Proceedings of the NAACL HLT 2010 Workshop on Creating Speech
+  and Language Data with Amazon's Mechanical Turk}, pages 108--113. Association
+  for Computational Linguistics.
+
+\bibitem[\protect\citename{Quinn and Bederson}2009]{quinn2009taxonomy}
+Alexander~J Quinn and Benjamin~B Bederson.
+\newblock 2009.
+\newblock A taxonomy of distributed human computation.
+\newblock {\em Human-Computer Interaction Lab Tech Report, University of
+  Maryland}.
+
+\bibitem[\protect\citename{Yan and Webster}2012]{yan2012collaborative}
+Hengbin Yan and Jonathan Webster.
+\newblock 2012.
+\newblock Collaborative annotation and visualization of functional and
+  discourse structures.
+\newblock In {\em Proceedings of the Twenty-Fourth Conference on Computational
+  Linguistics and Speech Processing}, pages 366--374.
+
+\end{thebibliography}
