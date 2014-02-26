@@ -1,1 +1,36 @@
 \section{Project Plan}
+\subsection{System overview}
+In this project, we aim to develop a visualized toolkit for
+crowd-sourcing NLP annotations. The target audience are normal people
+with little knowledge and patience. The toolkit would allow them to
+quickly label NLP datasets.
+
+There are two key properties of our toolkit: firstly, annotators could
+interact with the data to understand them in a refresh way. Annotators
+label some examples and they expect immediate feedback from the
+toolkit. These feedbacks will help them understand the problem.
+Secondly, the toolkit should enable and encourage trial and errors. It
+would not assume any edits from the users as gold, but treat the edits
+as clues to better visualize the data to the annotator. When the
+annotator finishes a labeling task, he should be satisfied and
+confident with the overall outcome. For example, it is hard to
+distinguish whether ``Jeff" is ``Jeff Bilmes" or ``Jeffery Heer" when
+data points are seen individually. But if the toolkit could immediate
+show a big cluster $\{$``Jeff, Jeff Bilmes, Jeffery Heer, Professor
+Heer"$\}$ after incorrectly merge two points, the annotators would
+have a good chance to fix it.
+
+In this project, we would focus on two important kinds of NLP
+annotations: building trees (\eg\  parsing) and clustering (\eg\
+coreference resolution). But we would keep in mind that the toolkit
+should be easily extensible to any NLP problems. 
+\subsection{Milestones}
+
+\emph{System Brainstorming}
+\\All group members work on this together.
+\\[1\baselineskip]
+\emph{System Input Output Implementation:}\\Major Responsibility: Congle Zhang \\Minor Responsibility: Shengliang Xu, Haichen Shen
+\\[1\baselineskip]
+\emph{System Graphic \& Visualization Implementation:} \\Major Responsibility: Haichen Shen， Shengliang Xu \\Minor Responsibility: Hanchuan Li, Congle Zhang 
+\\[1\baselineskip]
+\emph{System Layout Adjustment \& User Evaluation Study:} \\Major Responsibility: Hanchuan Li \\ Minor Responsibility: Congle Zhang, Haichen Shen, Shehgliang Xu.

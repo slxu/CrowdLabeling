@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  25 FEB 2014 17:21
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  25 FEB 2014 19:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -550,32 +550,61 @@ File: omspcr.fd
 LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 86.
 
-No file proposal.bbl.
-[1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+(./introduction.tex <figs/parsetree.png, id=4, 864.22874pt x 328.22626pt>
+File: figs/parsetree.png Graphic file (type png)
+
+<use figs/parsetree.png>
+Package pdftex.def Info: figs/parsetree.png used on input line 65.
+(pdftex.def)             Requested size: 224.03743pt x 85.0864pt.
+
+Underfull \hbox (badness 1742) in paragraph at lines 71--82
+[]\OT1/ptm/m/n/10.95 The chal-lenges listed above make the la-bel-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 
 
+ <./figs/parsetree.png>]) (./system.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 28.
+ [2]) (./evaluation.tex
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 8.
 
-]
-(./proposal.aux) ) 
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
+) (./related.tex [3]
+Underfull \hbox (badness 1028) in paragraph at lines 33--44
+\OT1/ptm/m/n/10.95 fo-cus on con-cep-tual study and for-mal-iza-tion of
+ []
+
+) (./proposal.bbl) [4] (./proposal.aux) ) 
 Here is how much of TeX's memory you used:
- 9720 strings out of 493315
- 170222 string characters out of 6137904
- 215029 words of memory out of 5000000
- 12905 multiletter control sequences out of 15000+600000
- 15269 words of font info for 46 fonts, out of 8000000 for 9000
+ 9807 strings out of 493315
+ 171414 string characters out of 6137904
+ 223235 words of memory out of 5000000
+ 12956 multiletter control sequences out of 15000+600000
+ 30874 words of font info for 79 fonts, out of 8000000 for 9000
  967 hyphenation exceptions out of 8191
  56i,10n,55p,442b,256s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.e
-nc}</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
-b></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/
-local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texl
-ive/2013/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on proposal.pdf (1 page, 41379 bytes).
+{/usr/local/texlive/2013/texmf-dist/fo
+nts/enc/dvips/base/8r.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/cou
+rier/ucrr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmb8
+a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></us
+r/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on proposal.pdf (4 pages, 202237 bytes).
 PDF statistics:
- 28 PDF objects out of 1000 (max. 8388607)
- 20 compressed objects within 1 object stream
+ 46 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
 

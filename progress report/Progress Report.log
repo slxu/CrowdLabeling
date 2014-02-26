@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  25 FEB 2014 18:04
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  25 FEB 2014 19:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -574,7 +574,32 @@ e 40.
 LaTeX Warning: Citation `irvine2010using' on page 1 undefined on input line 40.
 
 
-) (./ProjectPlan.tex) (./Progress Report.bbl
+) (./Projectplan.tex [1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updm
+ap/pdftex.map}
+
+
+
+
+]
+Missing character: There is no ï in font ptmr7t!
+Missing character: There is no ¼ in font ptmr7t!
+Missing character: There is no Œ in font ptmr7t!
+)
+Underfull \hbox (badness 1331) in paragraph at lines 29--90
+\OT1/ptm/m/n/10.95 Minor Re-spon-si-bil-ity: Shengliang Xu, Haichen
+ []
+
+
+Underfull \hbox (badness 3168) in paragraph at lines 29--90
+\OT1/ptm/m/it/10.95 Sys-tem Lay-out Ad-just-ment & User Eval-u-a-tion
+ []
+
+
+Underfull \hbox (badness 2020) in paragraph at lines 29--90
+\OT1/ptm/m/n/10.95 Minor Re-spon-si-bil-ity: Con-gle Zhang, Haichen
+ []
+
+(./Progress Report.bbl
 
 ! LaTeX Error: Something's wrong--perhaps a missing \item.
 
@@ -587,30 +612,27 @@ l.3 \end{thebibliography}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-) [1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+) [2
 
-
-
-
-]
-(./Progress Report.aux) ) 
+] (./Progress Report.aux) ) 
 Here is how much of TeX's memory you used:
- 9737 strings out of 493315
- 170569 string characters out of 6137904
- 219029 words of memory out of 5000000
- 12912 multiletter control sequences out of 15000+600000
- 18480 words of font info for 50 fonts, out of 8000000 for 9000
+ 9745 strings out of 493315
+ 170697 string characters out of 6137904
+ 220990 words of memory out of 5000000
+ 12919 multiletter control sequences out of 15000+600000
+ 21518 words of font info for 58 fonts, out of 8000000 for 9000
  967 hyphenation exceptions out of 8191
  56i,10n,55p,451b,256s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/ba
-se/8r.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb
-></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/loc
-al/texlive/2013/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on "Progress Report.pdf" (1 page, 48963 bytes).
+{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/
+base/8r.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/courier/ucrr8a.p
+fb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/l
+ocal/texlive/2013/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texli
+ve/2013/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "Progress Report.pdf" (2 pages, 63868 bytes).
 PDF statistics:
- 28 PDF objects out of 1000 (max. 8388607)
- 20 compressed objects within 1 object stream
+ 35 PDF objects out of 1000 (max. 8388607)
+ 25 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
