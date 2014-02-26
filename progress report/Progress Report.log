@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  25 FEB 2014 17:32
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  25 FEB 2014 18:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -550,10 +550,44 @@ File: omspcr.fd
 LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 86.
 
-(./Literaturereview.tex) (./ProjectPlan.tex)
-No file "Progress Report".bbl.
-[1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+(./Literaturereview.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
 
+
+LaTeX Warning: Citation `yan2012collaborative' on page 1 undefined on input lin
+e 13.
+
+
+LaTeX Warning: Citation `yan2012collaborative' on page 1 undefined on input lin
+e 23.
+
+
+LaTeX Warning: Citation `quinn2009taxonomy' on page 1 undefined on input line 3
+5.
+
+
+LaTeX Warning: Citation `abekawa2010community' on page 1 undefined on input lin
+e 40.
+
+
+LaTeX Warning: Citation `irvine2010using' on page 1 undefined on input line 40.
+
+
+) (./ProjectPlan.tex) (./Progress Report.bbl
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \end{thebibliography}
+                         
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) [1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 
@@ -561,11 +595,11 @@ No file "Progress Report".bbl.
 ]
 (./Progress Report.aux) ) 
 Here is how much of TeX's memory you used:
- 9726 strings out of 493315
- 170388 string characters out of 6137904
- 215029 words of memory out of 5000000
- 12905 multiletter control sequences out of 15000+600000
- 15269 words of font info for 46 fonts, out of 8000000 for 9000
+ 9737 strings out of 493315
+ 170569 string characters out of 6137904
+ 219029 words of memory out of 5000000
+ 12912 multiletter control sequences out of 15000+600000
+ 18480 words of font info for 50 fonts, out of 8000000 for 9000
  967 hyphenation exceptions out of 8191
  56i,10n,55p,451b,256s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/ba
@@ -573,7 +607,7 @@ se/8r.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb
 ></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/loc
 al/texlive/2013/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on "Progress Report.pdf" (1 page, 42189 bytes).
+Output written on "Progress Report.pdf" (1 page, 48963 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
  20 compressed objects within 1 object stream
