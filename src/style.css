@@ -1,0 +1,39 @@
+h1 {
+  margin-left: 10px;
+}
+
+div.component {
+  float: left;
+  width: 45%;
+  height: 600px;
+  margin-left: 10px;
+  margin-right: 4%;
+}
+
+div.input {
+  height: 80%;
+}
+
+div #display {
+  height: 92%;
+  overflow-y: scroll;
+}
+
+svg.component {
+  float: left;
+  width: 45%;
+  height: 100%;
+  margin-right: 10px;
+  border: 1px;
+}
+
+.tolabel {
+  display: inline;
+  padding: 1px 1px 1px;
+  color: #ffffff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: .25em;
+  background-color: #428bca;
+}
