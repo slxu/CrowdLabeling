@@ -1,28 +1,30 @@
+body {
+  background-color: #ddd;
+}
+
 h1 {
   margin-left: 10px;
 }
 
-div.component {
-  float: left;
-  width: 45%;
-  height: 600px;
+div#component {
+  width: 450px;
+  height: 700px;
   margin-left: 10px;
   margin-right: 4%;
 }
 
-div.input {
+div#input {
   height: 80%;
 }
 
-div #display {
+div#display {
   height: 92%;
   overflow-y: scroll;
 }
 
-svg.component {
-  float: left;
-  width: 45%;
-  height: 100%;
+div#chart {
+  position: relative;
+  float: right;
   margin-right: 10px;
   border: 1px;
 }

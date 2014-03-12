@@ -27,9 +27,11 @@
   <body>
     <h1>Crowd NLP Annotation</h1>
     
+    <div id="chart">
+    </div>
 
-  	<div class="component">
-      <div class="panel panel-default input">
+  	<div id="component">
+      <div class="panel panel-default" id="input">
         <div class="panel-heading">
           <h3 class="panel-title">Input</h3>
         </div>
@@ -41,16 +43,14 @@
         <button type="button" class="btn btn-lg btn-default" onclick="onUploadClick()">Upload</button>
       </div>
     </div>
-    <svg class="component">
-      <circle cx="10" cy="25" r="7" />
-    </svg>
 
+    
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="bootstrap/js/bootstrap.min.js"></script>
-
     <script type="text/javascript" src="js/d3.v3.min.js"></script>
     <script type="text/javascript" src="js/input.js"></script>
+    <script type="text/javascript" src="js/cluster.js"></script>
   </body>
 </html>
