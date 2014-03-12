@@ -24,3 +24,7 @@ function onUploadClick() {
     display.innerHTML = content;
   });
 }
+
+
+
+
