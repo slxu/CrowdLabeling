@@ -51,8 +51,8 @@ d3.json("/data/sentence.json", function(error, flare) {
   root = flare;
   root.x0 = height / 2;
   root.y0 = 0;
-
-  root.children.forEach(sentenceTree.collapse);
+  sentenceTree.nodes(root);
+  root.children.forEach(function(d){ d.collapse();});
   update(root);
 });
 
@@ -97,7 +97,7 @@ function update(source) {
 
   nodeUpdate.select("circle")
       .attr("r", 4.5)
-      .style("fill", function(d) { return d._children ? "red" : "#fff"; });
+      .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
 
   nodeUpdate.select("text")
 //      .attr("x", function(d) { return d.children || d._children ? -10 : 10; })
@@ -155,7 +155,8 @@ function update(source) {
 
 // Toggle children on click.
 function click(d) {
-  sentenceTree.collapse(d);
+//  sentenceTree.collapse(d);
+  d.collapse();
   update(d);
 }
 

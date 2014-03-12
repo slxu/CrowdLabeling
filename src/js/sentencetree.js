@@ -161,6 +161,32 @@
         }
         return ancestor;
       }
+      function collapseName(d){
+        var name = d.name?d.name:"";
+        var children = d.children?d.children:[];
+        children.forEach(function(c){
+            var cName = collapseName(c);
+            if (cName && cName.length)
+              name = name.concat(" ").concat(cName);
+          }
+        );
+        return name;
+      }
+      function collapse(d) {
+        if (d.children) {
+          d._children = d.children;
+          d._name = d.name;
+          d.name = collapseName(d);
+          d.children = null;
+        }
+        else if (d._children)
+        {
+          d.children = d._children;
+          d._children = null;
+          d.name = d._name;
+          d._name = null;
+        }
+      }
       d3_layout_treeVisitAfter(root, function(node, previousSibling) {
         node._tree = {
           ancestor: node,
@@ -177,10 +203,12 @@
       d3_layout_treeVisitAfter(root, nodeSize ? function(node) {
         node.x *= height;
         node.y = node.depth * width;
+        node.collapse = function(){collapse(this);};
         delete node._tree;
       } : function(node) {
         node.x = (node.x - x0) / (x1 - x0) * height;
         node.y = node.depth / y1 * width;
+        node.collapse = function(){collapse(this);};
         delete node._tree;
       });
       return nodes;
@@ -205,38 +233,5 @@
       nodeSize = height != null;
       return sentenceTree;
     };
-    sentenceTree.collapse = function(root)
-    {
-      function collapseName(d){
-        var name = d.name?d.name:"";
-        var children = d.children?d.children:[];
-        children.forEach(function(c){
-            var cName = collapseName(c);
-            if (cName && cName.length)
-              name = name.concat(" ").concat(cName);
-          }
-        );
-        console.log("new Name: ".concat(name))
-        return name;
-      }
-
-      function collapse(d) {
-        if (d.children) {
-          d._children = d.children;
-          d._name = d.name;
-          d.name = collapseName(d);
-          d.children = null;
-        }
-        else if (d._children)
-        {
-          d.children = d._children;
-          d._children = null;
-          d.name = d._name;
-          d._name = null;
-        }
-      }
-      collapse(root);
-      return sentenceTree;
-    }
     return d3_layout_hierarchyRebind(sentenceTree, hierarchy);
   };
