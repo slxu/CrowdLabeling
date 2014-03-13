@@ -49,55 +49,20 @@ var i = 0,
     duration = 750,
     root;
 
-var sentenceTree = d3.layout.sentenceTree().size([height, 140]);
+var sentenceTree = d3.layout.sentenceTree().size([height,
+width]).textSize(10).textMargin(10);
 
 var diagonal = d3.svg.diagonal().projection(function(d) { return [d.y, d.x]; });
+var extendedDiagonal = d3.svg.diagonal().projection(function(d) { return [d.y, d.x]; });
 
 var line;
 
-//var line = d3.svg.line()
-//                .x(function(d) { return d[0]; })
-//                .y(function(d) { return d[1]; })
-//                .interpolate('linear');
 var lineData = [];
 
 function lineString()
 {
   return "M"+lineData[0][0]+","+lineData[0][1]+"L"+lineData[1][0]+","+lineData[1][1];
 }
-
-//var redrawLine = function() {
-//    var svgLines = svg.selectAll('path.line')
-//                        .data(lineData)
-//                        .remove();
-//
-//
-//    svgLines.enter()
-//            .append('path')
-//            .attr('d', line(lineData))
-//            .attr('class', 'line');
-//
-//    svgLines.exit()
-//            .remove();
-//
-//};
-
-//var drawLine = function() {
-//    var svgLines = svg.selectAll('path.line')
-//                        .data(lineData)
-//                        .remove();
-//
-//
-//    svgLines.enter()
-//            .append('path')
-//            .attr('d', line(lineData))
-//            .attr('class', 'line');
-//
-//    svgLines.exit()
-//            .remove();
-//
-//};
-
 
 var mouseIsDown=false;
 function mousedown() {
@@ -195,10 +160,11 @@ function addDepth(root,deltaDepth) {
     });
 }
 
-function addMiddleNode(parentNode, childrenNodes) {
+function addMergeNode(parentNode, childrenNodes) {
   var newNode={};
   newNode.parent = parentNode;
   newNode.children= childrenNodes;
+  newNode.depth= parentNode.depth+1;
   childrenNodes.forEach(function(d){
     d.parent=newNode;
     addDepth(d,1);
@@ -217,19 +183,65 @@ function addMiddleNode(parentNode, childrenNodes) {
   parentNode.children = newChildren;
 }
 
-function mergeSelected(){
-  var selectedSubTree = pathSelection();
-  cleanupPathSelection();
+function mergeSelected(selectedSubTree){
   if (selectedSubTree && selectedSubTree.length) {
     var ancestorChildren = nearestCommonAncestorOrdered(selectedSubTree);
     if (ancestorChildren)
     {
       var ancestor = ancestorChildren[0];
       var aChildren = ancestorChildren[1];
-      addMiddleNode(ancestor,aChildren);
+      addMergeNode(ancestor,aChildren);
       return ancestor;
     }
     return null;
+  }
+  return null;
+}
+
+function cutEdge(selectedSubTree) {
+  //can only remove first child or last child
+  if (selectedSubTree && selectedSubTree.length==1) {
+    var selectedParent = selectedSubTree[0].parent;
+    var selectedChild = selectedSubTree[0];
+    if (selectedParent.depth!=0) {
+      var grandParent = selectedParent.parent;
+      //if it's root-> leaf, don't cut
+      if (selectedParent.children.length==1) {
+        // single child, should remove the parent node
+        for (var i=0;i<grandParent.children.length;i++)
+          if (grandParent.children[i] == selectedParent)
+          {
+            grandParent.children[i] = selectedChild;
+            selectedChild.parent = grandParent;
+            addDepth(selectedChild,-1);
+            break;
+          }
+      }
+      else if (selectedParent.children[0] == selectedSubTree[0]) {
+        //first child
+        for (var i=0;i<grandParent.children.length;i++)
+          if (grandParent.children[i] == selectedParent)
+          {
+            grandParent.children.splice(i,0,selectedChild);
+            selectedChild.parent = grandParent;
+            selectedParent.children.splice(0,1);
+            addDepth(selectedChild,-1);
+            break;
+          }
+      } else if (selectedParent.children[selectedParent.children.length-1] == selectedSubTree[0]) {
+        //last child
+        for (var i=0;i<grandParent.children.length;i++)
+          if (grandParent.children[i] == selectedParent)
+          {
+            grandParent.children.splice(i+1,0,selectedChild);
+            selectedChild.parent = grandParent;
+            selectedParent.children.splice(selectedParent.children.length-1,1);
+            addDepth(selectedChild,-1);
+            break;
+          }
+      }
+      return grandParent;
+    }
   }
   return null;
 }
@@ -239,9 +251,15 @@ function mouseup() {
   if (mouseIsDown)
   {
     var m = d3.mouse(this);
-    var ancestor = mergeSelected();
-    if (ancestor)
-      update(ancestor);
+    var selectedSubTree = pathSelection();
+    cleanupPathSelection();
+    var cutted = cutEdge(selectedSubTree);
+    if (!cutted) {
+      var ancestor = mergeSelected(selectedSubTree);
+      if (ancestor)
+        update(ancestor);
+    } else
+      update(cutted);
   }
   mouseIsDown=false;
 }
@@ -321,9 +339,11 @@ function update(source) {
       .attr("x", function(d) { return 10; })
       .attr("dy", ".35em")
 //      .attr("text-anchor", function(d) { return d.children || d._children ? "end" : "start"; })
-      .attr("text-anchor", function(d) { return "start"; })
       .text(function(d) { return d.name; })
-      .style("fill-opacity", 1e-5);
+      .style("fill-opacity", 1e-5)
+      .attr("text-anchor", function(d) {
+        return "start";
+      });
 
   // Transition nodes to their new position.
   var nodeUpdate = node.transition()
@@ -339,9 +359,11 @@ function update(source) {
       .attr("x", function(d) { return 10; })
       .attr("dy", ".35em")
 //      .attr("text-anchor", function(d) { return d.children || d._children ? "end" : "start"; })
-      .attr("text-anchor", function(d) { return "start"; })
       .text(function(d) { return d.name; })
-      .style("fill-opacity", 1);
+      .style("fill-opacity", 1)
+      .attr("text-anchor", function(d) {
+        return "start";
+      });
 
   // Transition exiting nodes to the parent's new position.
   var nodeExit = node.exit().transition()
@@ -390,7 +412,6 @@ function update(source) {
 
 // Toggle children on click.
 function click(d) {
-//  sentenceTree.collapse(d);
   d.collapse();
   update(d);
 }
