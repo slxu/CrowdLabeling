@@ -161,30 +161,63 @@
         }
         return ancestor;
       }
-      function collapseName(d){
-        var name = d.name?d.name:"";
-        var children = d.children?d.children:[];
+      function d3_layout_numLeaves(root){
+        d3_layout_treeVisitAfter(root, function(node, previousSibling){
+            if (!node.children || !node.children.length)
+              node._numLeaves=1;
+            else{
+              node._numLeaves=0;
+              for (var i=0;i<node.children.length;i++)
+                node._numLeaves+=node.children[i]._numLeaves;
+            }
+          }
+        );
+      }
+      function d3_layout_assignNodeHeights(root){
+        //total height is 1
+        var leafIndex=0;
+        var totalLeaves = root._numLeaves;
+        var leaveGap = 1.0/(totalLeaves+1);
+        d3_layout_treeVisitAfter(root, function(node, previousSibling){
+            if (!node.children || !node.children.length)
+            {
+              //leaf
+              node.x = leaveGap*(leafIndex+1);
+              leafIndex++;
+            }
+            else{
+              node.x=0;
+              for (var i=0;i<node.children.length;i++)
+                node.x+=node.children[i].x;
+              node.x = node.x*1.0/node.children.length;
+            }
+          }
+        );
+      }
+      function d3_layout_collapseName(root){
+        var name = root.name?root.name:"";
+        var children = root.children?root.children:[];
         children.forEach(function(c){
-            var cName = collapseName(c);
+            var cName = d3_layout_collapseName(c);
             if (cName && cName.length)
               name = name.concat(" ").concat(cName);
           }
         );
         return name;
       }
-      function collapse(d) {
-        if (d.children) {
-          d._children = d.children;
-          d._name = d.name;
-          d.name = collapseName(d);
-          d.children = null;
+      function d3_layout_collapse(root) {
+        if (root.children) {
+          root._children = root.children;
+          root._name = root.name;
+          root.name = d3_layout_collapseName(root);
+          root.children = null;
         }
-        else if (d._children)
+        else if (root._children)
         {
-          d.children = d._children;
-          d._children = null;
-          d.name = d._name;
-          d._name = null;
+          root.children = root._children;
+          root._children = null;
+          root.name = root._name;
+          root._name = null;
         }
       }
       d3_layout_treeVisitAfter(root, function(node, previousSibling) {
@@ -197,18 +230,20 @@
           number: previousSibling ? previousSibling._tree.number + 1 : 0
         };
       });
-      firstWalk(root);
-      secondWalk(root, -root._tree.prelim);
+      //firstWalk(root);
+      //secondWalk(root, -root._tree.prelim);
       var left = d3_layout_treeSearch(root, d3_layout_treeLeftmost), right = d3_layout_treeSearch(root, d3_layout_treeRightmost), deep = d3_layout_treeSearch(root, d3_layout_treeDeepest), x0 = left.x - separation(left, right) / 2, x1 = right.x + separation(right, left) / 2, y1 = deep.depth || 1;
-      d3_layout_treeVisitAfter(root, nodeSize ? function(node) {
+      d3_layout_numLeaves(root);
+      d3_layout_assignNodeHeights(root);
+      d3_layout_treeVisitAfter(root, !nodeSize ? function(node) {
         node.x *= height;
         node.y = node.depth * width;
-        node.collapse = function(){collapse(this);};
+        node.collapse = function(){d3_layout_collapse(this);};
         delete node._tree;
       } : function(node) {
         node.x = (node.x - x0) / (x1 - x0) * height;
         node.y = node.depth / y1 * width;
-        node.collapse = function(){collapse(this);};
+        node.collapse = function(){d3_layout_collapse(this);};
         delete node._tree;
       });
       return nodes;
