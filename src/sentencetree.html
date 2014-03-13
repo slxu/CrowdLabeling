@@ -23,10 +23,22 @@
   stroke-width: 1.5px;
 }
 
+.selectedLink {
+  fill: none;
+  stroke: #222;
+  stroke-width: 1.5px;
+}
+
+line {
+    stroke: black;
+    stroke-width: 1px;
+}
+
 </style>
 <body>
 <script src="/js/d3.v3.min.js"></script>
 <script src="/js/sentencetree.js"></script>
+<script src="/js/raphael-min.js"></script>
 <script>
 
 var margin = {top: 20, right: 120, bottom: 20, left: 120},
@@ -37,13 +49,236 @@ var i = 0,
     duration = 750,
     root;
 
-var sentenceTree = d3.layout.sentenceTree().size([height, width]);
+var sentenceTree = d3.layout.sentenceTree().size([height, 140]);
 
 var diagonal = d3.svg.diagonal().projection(function(d) { return [d.y, d.x]; });
+
+var line;
+
+//var line = d3.svg.line()
+//                .x(function(d) { return d[0]; })
+//                .y(function(d) { return d[1]; })
+//                .interpolate('linear');
+var lineData = [];
+
+function lineString()
+{
+  return "M"+lineData[0][0]+","+lineData[0][1]+"L"+lineData[1][0]+","+lineData[1][1];
+}
+
+//var redrawLine = function() {
+//    var svgLines = svg.selectAll('path.line')
+//                        .data(lineData)
+//                        .remove();
+//
+//
+//    svgLines.enter()
+//            .append('path')
+//            .attr('d', line(lineData))
+//            .attr('class', 'line');
+//
+//    svgLines.exit()
+//            .remove();
+//
+//};
+
+//var drawLine = function() {
+//    var svgLines = svg.selectAll('path.line')
+//                        .data(lineData)
+//                        .remove();
+//
+//
+//    svgLines.enter()
+//            .append('path')
+//            .attr('d', line(lineData))
+//            .attr('class', 'line');
+//
+//    svgLines.exit()
+//            .remove();
+//
+//};
+
+
+var mouseIsDown=false;
+function mousedown() {
+  if (!mouseIsDown) {
+    mouseIsDown=true;
+    var m = d3.mouse(this);
+    lineData[0] =  [m[0]-margin.left, m[1]-margin.top];
+    lineData[1] =  [m[0]-margin.left, m[1]-margin.top];
+    line = svg.append("line")
+        .attr("x1", lineData[0][0])
+        .attr("y1", lineData[0][1])
+        .attr("x2", lineData[1][0])
+        .attr("y2", lineData[1][1]);
+  }
+}
+
+function mousemove() {
+  if (mouseIsDown) {
+    var m = d3.mouse(this);
+    lineData[1] =  [m[0]-margin.left, m[1]-margin.top];
+    line
+        .attr("x2", lineData[1][0])
+        .attr("y2", lineData[1][1]);
+    pathSelection();
+  }
+}
+
+function removeDuplicates(subTreeRoots) {
+  var subTreeRootsNeedMerge=new Array();
+  subTreeRoots.forEach(function(d){
+    if (subTreeRootsNeedMerge.indexOf(d)<0)
+      subTreeRootsNeedMerge.push(d);
+  });
+  return subTreeRootsNeedMerge;
+}
+
+function nearestCommonAncestorOrdered(subTreeRoots){
+  var subTreeRoots = subTreeRoots.slice(0);
+  var minDepth = d3.min(subTreeRoots, function(d){
+    return d.depth;
+  });
+  
+  for (var i=0;i<subTreeRoots.length;i++) {
+    while (subTreeRoots[i].depth>minDepth) {
+      subTreeRoots[i] = subTreeRoots[i].parent;
+    }
+  }
+  
+  subTreeRoots = removeDuplicates(subTreeRoots);
+  var lastSubTreeRoots=null;
+  while (subTreeRoots.length>1) {
+    lastSubTreeRoots=subTreeRoots.slice(0);
+    for (var i=0;i<subTreeRoots.length;i++) {
+      subTreeRoots[i] = subTreeRoots[i].parent;
+    }
+    subTreeRoots = removeDuplicates(subTreeRoots);
+  }
+  if (lastSubTreeRoots==null)
+    return null;
+
+  if (subTreeRoots.length==1)
+  {
+    var ancestor = subTreeRoots[0];
+    var correctOrderedChildren=new Array();
+    lastSubTreeRoots.forEach(function(d){
+      correctOrderedChildren.push({"node":d,"idx":ancestor.children.indexOf(d)});
+    });
+    correctOrderedChildren.sort(function(a,b){
+      return a.idx-b.idx;
+    });
+    var orderedChildren=new Array();
+    var lastIdx=correctOrderedChildren[0].idx-1;
+    correctOrderedChildren.forEach(function(d){
+      if (d.idx != lastIdx+1){
+        lastIdx=-1;
+        return;
+      }
+      lastIdx+=1;
+      orderedChildren.push(d.node);
+    });
+    if (lastIdx>=0)
+      return [ancestor,orderedChildren];
+    else
+      return null;
+  }
+  else
+    return null;
+}
+
+function addDepth(root,deltaDepth) {
+  root.depth+=deltaDepth;
+  if (root.children && root.children.length)
+    root.children.forEach(function(d) {
+      addDepth(d,deltaDepth);
+    });
+}
+
+function addMiddleNode(parentNode, childrenNodes) {
+  var newNode={};
+  newNode.parent = parentNode;
+  newNode.children= childrenNodes;
+  childrenNodes.forEach(function(d){
+    d.parent=newNode;
+    addDepth(d,1);
+  });
+  var newChildren=new Array();
+  var newNodeAdded=false;
+  parentNode.children.forEach(function(d) {
+    if (childrenNodes.indexOf(d)<0)
+      newChildren.push(d);
+    else
+      if (!newNodeAdded) {
+        newChildren.push(newNode);
+        newNodeAdded=true;
+      }
+  });
+  parentNode.children = newChildren;
+}
+
+function mergeSelected(){
+  var selectedSubTree = pathSelection();
+  cleanupPathSelection();
+  if (selectedSubTree && selectedSubTree.length) {
+    var ancestorChildren = nearestCommonAncestorOrdered(selectedSubTree);
+    if (ancestorChildren)
+    {
+      var ancestor = ancestorChildren[0];
+      var aChildren = ancestorChildren[1];
+      addMiddleNode(ancestor,aChildren);
+      return ancestor;
+    }
+    return null;
+  }
+  return null;
+}
+
+
+function mouseup() {
+  if (mouseIsDown)
+  {
+    var m = d3.mouse(this);
+    var ancestor = mergeSelected();
+    if (ancestor)
+      update(ancestor);
+  }
+  mouseIsDown=false;
+}
+
+function cleanupPathSelection(){
+  lineData[0] =  [0,0];
+  lineData[1] =  [0,0];
+  line
+      .attr("x2", lineData[1][0])
+      .attr("y2", lineData[1][1]);
+  svg.select("line").remove();
+  pathSelection();
+}
+
+function pathSelection(){
+    var link = svg.selectAll("path.link");
+    var selectedSubTree=new Array();
+    link[0].forEach(function(l){
+      var intersects = Raphael.pathIntersection(l.attributes[1].value, lineString());
+      if (intersects && intersects.length)
+        selectedSubTree.push(l.__data__.target);
+    });
+    link.filter(function(d,i){ 
+      return (selectedSubTree.indexOf(d.target)>=0);
+      }).attr("style","stroke: #222");
+    link.filter(function(d,i){ 
+      return !(selectedSubTree.indexOf(d.target)>=0);
+      }).attr("style",null);
+    return selectedSubTree;
+}
 
 var svg = d3.select("body").append("svg")
     .attr("width", width + margin.right + margin.left)
     .attr("height", height + margin.top + margin.bottom)
+    .on("mousedown",mousedown)
+    .on("mousemove",mousemove)
+    .on("mouseup",mouseup)
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
