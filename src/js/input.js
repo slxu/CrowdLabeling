@@ -7,7 +7,7 @@ function replace(match) {
 }
 
 function onUploadClick() {
-  $.get('data/APW20001001.2021.0521.html', function(response) {
+  $.get('data/APW20001221.0431.0227.html', function(response) {
     var content = response;
     var display = document.getElementById("display");
     var lines = content.trim().split('\n');
@@ -22,6 +22,10 @@ function onUploadClick() {
     content = content.replace(/<\/label>/g, "</span>");
     console.log(content);
     display.innerHTML = content;
+
+    var cluster = d3.cluster();
+      console.log(cluster);
+      cluster.start('data/cluster.json');
   });
 }
 

@@ -1,128 +1,152 @@
-var w = 800,
-    h = 600,
-    fill = d3.scale.category10(),
-    nodeData = d3.range(50).map(Object),
-    linkData = [],
-    groupData = [],
-    idToGroup = {};
-
-var cX = w / 2,
-    cY = h / 2,
-    nodeRadius = 10;
-
-var multiGroups = function() {
-  var g = [];
-  groupData.forEach(function(d) {
-    if (d.nodes.length > 1)
-      g.push(d);
-  });
-  return g;
-};
-
 (function(){
-  // init node position
-  var row = Math.floor(Math.sqrt(nodeData.length / 1.33)) + 1;
-  var column = Math.floor(row * 1.33) + 1;
-  var index = 0;
-  var margin = 50;
-  var gap = Math.min((w-margin*2)/column, (h-margin*2)/row);
-  for (var i = 0; i < row; i++) {
-    for (var j = 0; j < column; j++) {
-      var node = nodeData[index];
-      node.x = margin + j * gap;
-      node.y = margin + i * gap;
-      node.links = [];
-      node.text = "token" + (index+1);
-      createNewGroup([node]);
+d3.cluster = function(){
+  var cluster = {};
+  var w = document.getElementById('chart').clientWidth,
+      h = document.getElementById('chart').clientHeight,
+      ratio = w / h,
+      fill = d3.scale.category10(),
+      nodeData = [],
+      linkData = [],
+      groupData = [],
+      idToGroup = {},
+      nodeBundle = null,
+      textBundle = null,
+      force = null;
 
-      index ++;
-      if (index == nodeData.length)
-        return;
+  var cX = w / 2,
+      cY = h / 2,
+      marginLeft = 50,
+      marginRight = 50,
+      marginTop = 50,
+      marginBottom = 50,
+      nodeRadius = 12,
+      gravity = .03,
+      kForceX = 100 / ratio,
+      kForceY = 70;
+
+  var multiGroups = function() {
+    var g = [];
+    groupData.forEach(function(d) {
+      if (d.nodes.length > 1)
+        g.push(d);
+    });
+    return g;
+  };
+
+  var svg = d3.select("#chart").append("svg")
+        .attr("width", w)
+        .attr("height", h);
+
+    svg.style("opacity", 1e-6)
+      .transition()
+        .duration(1000)
+        .style("opacity", 1);
+
+  function initNode(){
+    // init node position
+    var row = Math.floor(Math.sqrt(nodeData.length / ratio)) + 1;
+    var column = Math.floor(row * ratio) + 1;
+    console.log(row + 'x' + column);
+    var index = 0;
+    var margin = 100;
+    var xGap = (w-margin*2)/column;
+    var yGap = (h-margin*2)/row;
+    for (var i = 0; i < row; i++) {
+      for (var j = 0; j < column; j++) {
+        var node = nodeData[index];
+        node.x = 100 + j * xGap;
+        node.y = 100 + i * yGap;
+        node.links = [];
+        // node.index = index + 1;
+        // node.abbrText = "token" + (index+1);
+        createNewGroup([node]);
+
+        index ++;
+        // console.log(index);
+        if (index == nodeData.length)
+          return;
+      }
     }
   }
-})();
 
-var svg = d3.select("#chart").append("svg")
-    .attr("width", w)
-    .attr("height", h);
+  cluster.start = function(filename) {
+    d3.json(filename, function(obj) {
+      nodeData = obj['items'];
+      initNode();
 
-svg.style("opacity", 1e-6)
-  .transition()
-    .duration(1000)
-    .style("opacity", 1);
+      force = d3.layout.force()
+        .nodes(nodeData)
+        .links([])
+        .size([w, h])
+        .gravity(gravity)
+        .start();
 
-var force = d3.layout.force()
-    .nodes(nodeData)
-    .links([])
-    .size([w, h])
-    .gravity(0.05)
-    .start();
+      var drag = d3.behavior.drag()
+        .origin(d3.d3_identity)
+        .on("dragstart.force", dragstart)
+        .on("drag.force", dragmove)
+        .on("dragend.force", dragend);
 
-var drag = d3.behavior.drag()
-  .origin(d3.d3_identity)
-  .on("dragstart.force", dragstart)
-  .on("drag.force", dragmove)
-  .on("dragend.force", dragend);
+      nodeBundle = svg.selectAll("g.bundle")
+          .data(nodeData)
+        .enter().append("g")
+          .attr("class", "bundle")
+          .attr("transform", function(d) {
+            return "translate(" + d.x + "," + d.y + ")";
+          })
+          .call(drag);
 
-var nodeShadow = svg.selectAll("circle.shadow")
-    .data(nodeData)
-  .enter().append("circle")
-    .attr("class", "shadow")
-    .attr("cx", function(d) { return d.x; })
-    .attr("cy", function(d) { return d.y; })
-    .attr("r", nodeRadius * 2.5)
-    .style("fill", 'red')
-    .style("opacity", .2)
-    .style("visibility", "hidden");
+      nodeBundle.append("circle")
+        .attr("class", "shadow")
+        .attr("r", nodeRadius * 2.5)
+          .style("fill", 'red')
+          .style("opacity", .2)
+          .style("visibility", "hidden");
 
-var node = svg.selectAll("circle.node")
-    .data(nodeData)
-  .enter().append("circle")
-    .attr("class", "node")
-    .attr("cx", function(d) { return d.x; })
-    .attr("cy", function(d) { return d.y; })
-    .attr("r", nodeRadius)
-    .style("fill", nodeFill)
-    .style("stroke", function(d, i) { return d3.rgb(d.groupId).darker(2); })
-    .style("stroke-width", 1.5)
-    .call(drag);
+      nodeBundle.append("circle")
+        .attr("class", "node")
+        .attr("r", nodeRadius)
+        .style("fill", nodeFill)
+        .style("stroke", function(d, i) { return d3.rgb(d.groupId).darker(2); })
+        .style("stroke-width", 1.5)
+        .append("title")
+          .text(function(d) { return d.text; });
 
-node.append("title")
-    .text(function(d) { return d.text; });
-    
+      nodeBundle.append("text")
+        .attr("text-anchor", "middle")
+        .attr("y", (nodeRadius + 10) + "px")
+        .attr("fill", "#000")
+        .attr("stroke", "#000")
+        .attr("stroke-width", ".5px")
+        .attr("font-size", "11px")
+        .text(function(d) { return d.abbrText; });
 
-force.on("tick", function(e) {
-  // Push different nodes in different directions for clustering.
-  var k = 3 * e.alpha;
-  nodeData.forEach(function(o, i) {
-    var group = idToGroup[o.groupId];
-    var forceX = (group.cx - cX) / 80;
-    var forceY = (group.cy - cY) / 80;
-    o.x += forceX * k;
-    o.y += forceY * k;
-  });
+      nodeBundle.append("text")
+        .attr("text-anchor", "middle")
+        .attr("y", "5px")
+        .attr("fill", "#fff")
+        .attr("stroke", "#fff")
+        .attr("stroke-width", ".5px")
+        .attr("font-size", "15px")
+        .text(function(d) { return d.index + 1; });
 
-  node
-    .attr("cx", function(d) { return d.x; })
-    .attr("cy", function(d) { return d.y; })
-    .style("fill", nodeFill)
-    .style("stroke", function(d, i) { return d3.rgb(d.groupId).darker(2); });
-  
-  nodeShadow
-    .attr("cx", function(d) { return d.x; })
-    .attr("cy", function(d) { return d.y; })
-    .style("visibility", function(d) {
-      if (dragNode != null)
-      // if (idToGroup[d.groupId].nodes.length == 1 && dragNode != d)
-        return "visible";
-      else
-        return "hidden";
+      force.on("tick", function(e) {
+        // Push different nodes in different directions for clustering.
+        nodeData.forEach(function(o, i) {
+          var group = idToGroup[o.groupId];
+          var forceX = (group.cx - cX) / kForceX;
+          var forceY = (group.cy - cY) / kForceY;
+          o.x += forceX * e.alpha;
+          o.y += forceY * e.alpha;
+        });
+
+        updateTempLink();
+        updateLink();
+        updateNodeBundle();
+        updateGroupShadow();
+      });
     });
-
-  updateGroupShadow();
-  updateTempLink();
-  updateLink();
-});
+  }
 
 var dragNode = null;
 var selectedNode = null;
@@ -137,14 +161,20 @@ function dragstart(d) {
   d.fixed |= 2;
   dragNode = d;
   selectedNode = null;
-  nodeShadow.style("visibility", "visible");
   removeElement(idToGroup[d.groupId].nodes, d);
+
+  var group = idToGroup[d.groupId];
+  // console.log("[drag] node: " + d.x + "," + d.y); 
+  // console.log("[drag] group " + group.id + ": " + group.cx + "," + group.cy);
+
+  svg.selectAll("circle.shadow")
+    .style("visibility", "visible");
 }
 
 function dragend(d) {
   d.fixed &= ~6;
   
-  nodeShadow.style("visibility", "hidden");
+  svg.selectAll("circle.shadow").style("visibility", "hidden");
 
   var oldGroup = idToGroup[d.groupId];
   if (selectedNode != null) {
@@ -161,7 +191,6 @@ function dragend(d) {
     }
 
     addLink(d, selectedNode);
-    updateGroupCenter(newGroup);
 
   } else {
     oldGroup.nodes.push(d);
@@ -198,6 +227,17 @@ function updateSelectedNode(v) {
   }
 }
 
+function updateNodeBundle() {
+  nodeBundle
+    .attr("transform", function(d) {
+      return "translate(" + d.x + "," + d.y + ")";
+    });
+
+  svg.selectAll("circle.node")
+    .style("fill", nodeFill)
+    .style("stroke", function(d, i) { return d3.rgb(d.groupId).darker(2); });
+}
+
 function updateTempLink() {
   var data = [];
   
@@ -211,7 +251,7 @@ function updateTempLink() {
       .data(data)
       .attr("d", linkPath);
 
-  templink.enter().append("path")
+  templink.enter().insert("path", "g")
     .attr("class", "templink");
 
   templink.exit().remove();
@@ -222,7 +262,7 @@ function updateLink() {
     .data(linkData)
       .attr("d", linkPath);
 
-  link.enter().append("path")
+  link.enter().insert("path", "g")
     .attr("class", "link")
     .attr("d", linkPath)
     .on("click", removeLink);
@@ -237,7 +277,7 @@ function updateGroupShadow() {
       .style("fill", groupFill)
       .style("stroke", groupFill);
 
-  groupShadow.enter().insert("path", "circle")
+  groupShadow.enter().insert("path", ".link")
     .attr("class", "group")
     .style("stroke-width", 40)
     .style("stroke-linejoin", "round")
@@ -275,12 +315,17 @@ function removeLink(d) {
     else 
       splitOut = srcConnected;
     
-    createNewGroup(splitOut);
+    var newGroup = createNewGroup(splitOut);
     splitOut.forEach(function(v) {
       removeElement(group.nodes, v);
     });
+
+    updateGroupCenter(group);
+    updateGroupCenter(newGroup);
     
     updateGroupShadow();
+    updateLink();
+    updateNodeBundle();
   }
 }
 
@@ -311,7 +356,7 @@ function nodeFill(d) {
 function connectedComponent(v) {
   var component = [v];
   var visited = {};
-  visited[v] = true;
+  visited[v.id] = true;
   var open = 0;
   var closed = 1;
   while (open < closed) {
@@ -320,13 +365,13 @@ function connectedComponent(v) {
       var node = component[open];
       for (var i = 0; i < node.links.length; i++) {
         var l = node.links[i];
-        if (!(l.source in visited)) {
+        if (!(l.source.id in visited)) {
           component.push(l.source);
-          visited[l.source] = true;
+          visited[l.source.id] = true;
           closed ++;
-        } else if (!(l.target in visited)) {
+        } else if (!(l.target.id in visited)) {
           component.push(l.target);
-          visited[l.target] = true;
+          visited[l.target.id] = true;
           closed ++;
         }
       }
@@ -365,14 +410,14 @@ function updateGroupCenter(g) {
   g.cx /= g.nodes.length;
   g.cy /= g.nodes.length;
   var box = boundingBox(g);
-  if (box.left <= 50)
-    g.cx = 50 + box.diameter/2;
-  else if (box.right >= w-50)
-    g.cx = w - 50 - box.diameter/2;
-  if (box.top <= 50)
-    g.cy = 50 + box.diameter/2;
-  else if (box.bottom >= h-50) 
-    g.cy = h - 50 - box.diameter/2;
+  if (box.left <= marginLeft)
+    g.cx = marginLeft + box.diameter/2;
+  else if (box.right >= w - marginRight)
+    g.cx = w - marginRight - box.diameter/2;
+  if (box.top <= marginTop)
+    g.cy = marginTop + box.diameter/2;
+  else if (box.bottom >= h - marginBottom) 
+    g.cy = h - marginBottom - box.diameter/2;
 }
 
 function boundingBox(g) {
@@ -423,7 +468,7 @@ function createNewGroup(nodes) {
       break;
     id += 1;
   }
-  console.log('new group ' + id);
+  
   var group = new Object();
   group.id = id;
   group.nodes = nodes;
@@ -437,6 +482,8 @@ function createNewGroup(nodes) {
   group.cx /= nodes.length;
   group.cy /= nodes.length;
 
+  console.log('new group ' + id + ': ' + group.cx + "," + group.cy);
+
   groupData.push(group);
   idToGroup[id] = group;
   
@@ -448,4 +495,6 @@ function removeGroup(g) {
   delete idToGroup[g.id];
   console.log('remove group ' + g.id);
 }
-
+return cluster;
+};
+})();

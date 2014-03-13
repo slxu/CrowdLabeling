@@ -7,26 +7,31 @@ h1 {
 }
 
 div#component {
-  width: 450px;
-  height: 700px;
+  width: 37%;
+  height: 800px;
   margin-left: 10px;
-  margin-right: 4%;
+  margin-right: 10px;
 }
 
 div#input {
-  height: 80%;
+  height: 735px;
 }
 
 div#display {
-  height: 92%;
+  height: 695px;
   overflow-y: scroll;
 }
 
 div#chart {
   position: relative;
+  width: 60%;
+  height: 800px;
   float: right;
+  margin-left: 10px;
   margin-right: 10px;
-  border: 1px;
+  margin-bottom: 10px;
+  border-width: 1px;
+  border-style:solid
 }
 
 span.tolabel {
