@@ -49,7 +49,8 @@ var i = 0,
     duration = 750,
     root;
 
-var sentenceTree = d3.layout.sentenceTree().size([height, 140]);
+var sentenceTree = d3.layout.sentenceTree().size([height,
+width]).textSize(10).textMargin(10);
 
 var diagonal = d3.svg.diagonal().projection(function(d) { return [d.y, d.x]; });
 
@@ -195,7 +196,7 @@ function addDepth(root,deltaDepth) {
     });
 }
 
-function addMiddleNode(parentNode, childrenNodes) {
+function addMergeNode(parentNode, childrenNodes) {
   var newNode={};
   newNode.parent = parentNode;
   newNode.children= childrenNodes;
@@ -226,7 +227,7 @@ function mergeSelected(){
     {
       var ancestor = ancestorChildren[0];
       var aChildren = ancestorChildren[1];
-      addMiddleNode(ancestor,aChildren);
+      addMergeNode(ancestor,aChildren);
       return ancestor;
     }
     return null;

@@ -93,7 +93,23 @@
     function d3_layout_treeAncestor(vim, node, ancestor) {
       return vim._tree.ancestor.parent == node.parent ? vim._tree.ancestor : ancestor;
     }
-    var hierarchy = d3.layout.hierarchy().sort(null).value(null), separation = d3_layout_treeSeparation, height = 1, width = 1, nodeSize = false;
+    function d3_layout_computeDepthGap(root, width, textMargin, textSize){
+      var minGap = Number.MAX_VALUE;
+      d3_layout_treeVisitAfter(root, function(node, previousSibling){
+          if (!node.children || !node.children.length) {
+            var myTextLength=0;
+            if (node.text)
+              myTextLength = node.text.length*textSize
+            if (node.depth>0) {
+              var myGap = (width - 2*textMargin - myTextLength)/node.depth
+              if (myGap < minGap)
+                minGap = myGap;
+            }
+          }
+        });      
+      return minGap;
+    }
+    var hierarchy = d3.layout.hierarchy().sort(null).value(null), separation = d3_layout_treeSeparation, height = 1, width = 1, nodeSize = false, textSize=10, textMargin=10;
     function sentenceTree(d, i) {
       var nodes = hierarchy.call(this, d, i), root = nodes[0];
       function d3_layout_numLeaves(root){
@@ -168,14 +184,15 @@
       var left = d3_layout_treeSearch(root, d3_layout_treeLeftmost), right = d3_layout_treeSearch(root, d3_layout_treeRightmost), deep = d3_layout_treeSearch(root, d3_layout_treeDeepest), x0 = left.x - separation(left, right) / 2, x1 = right.x + separation(right, left) / 2, y1 = deep.depth || 1;
       d3_layout_numLeaves(root);
       d3_layout_assignNodeHeights(root);
+      var depthGap = d3_layout_computeDepthGap(root, width, textMargin, textSize);
       d3_layout_treeVisitAfter(root, !nodeSize ? function(node) {
         node.x *= height;
-        node.y = node.depth * width;
+        node.y = node.depth * depthGap+textMargin;
         node.collapse = function(){d3_layout_collapse(this);};
         delete node._tree;
       } : function(node) {
         node.x = (node.x - x0) / (x1 - x0) * height;
-        node.y = node.depth / y1 * width;
+        node.y = node.depth / y1 * depthGap + textMargin;
         node.collapse = function(){d3_layout_collapse(this);};
         delete node._tree;
       });
@@ -201,5 +218,18 @@
       nodeSize = height != null;
       return sentenceTree;
     };
+    sentenceTree.textSize = function(x) {
+      if (!arguments.length) return textSize>0 ? textSize : null;
+      if (x>0)
+        textSize = x;
+      return sentenceTree;
+    };
+    sentenceTree.textMargin = function(x) {
+      if (!arguments.length) return textMargin>0 ? textMargin : null;
+      if (x>0)
+        textMargin = x;
+      return sentenceTree;
+    };
+
     return d3_layout_hierarchyRebind(sentenceTree, hierarchy);
   };
