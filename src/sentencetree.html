@@ -53,52 +53,16 @@ var sentenceTree = d3.layout.sentenceTree().size([height,
 width]).textSize(10).textMargin(10);
 
 var diagonal = d3.svg.diagonal().projection(function(d) { return [d.y, d.x]; });
+var extendedDiagonal = d3.svg.diagonal().projection(function(d) { return [d.y, d.x]; });
 
 var line;
 
-//var line = d3.svg.line()
-//                .x(function(d) { return d[0]; })
-//                .y(function(d) { return d[1]; })
-//                .interpolate('linear');
 var lineData = [];
 
 function lineString()
 {
   return "M"+lineData[0][0]+","+lineData[0][1]+"L"+lineData[1][0]+","+lineData[1][1];
 }
-
-//var redrawLine = function() {
-//    var svgLines = svg.selectAll('path.line')
-//                        .data(lineData)
-//                        .remove();
-//
-//
-//    svgLines.enter()
-//            .append('path')
-//            .attr('d', line(lineData))
-//            .attr('class', 'line');
-//
-//    svgLines.exit()
-//            .remove();
-//
-//};
-
-//var drawLine = function() {
-//    var svgLines = svg.selectAll('path.line')
-//                        .data(lineData)
-//                        .remove();
-//
-//
-//    svgLines.enter()
-//            .append('path')
-//            .attr('d', line(lineData))
-//            .attr('class', 'line');
-//
-//    svgLines.exit()
-//            .remove();
-//
-//};
-
 
 var mouseIsDown=false;
 function mousedown() {
@@ -219,9 +183,7 @@ function addMergeNode(parentNode, childrenNodes) {
   parentNode.children = newChildren;
 }
 
-function mergeSelected(){
-  var selectedSubTree = pathSelection();
-  cleanupPathSelection();
+function mergeSelected(selectedSubTree){
   if (selectedSubTree && selectedSubTree.length) {
     var ancestorChildren = nearestCommonAncestorOrdered(selectedSubTree);
     if (ancestorChildren)
@@ -236,14 +198,68 @@ function mergeSelected(){
   return null;
 }
 
+function cutEdge(selectedSubTree) {
+  //can only remove first child or last child
+  if (selectedSubTree && selectedSubTree.length==1) {
+    var selectedParent = selectedSubTree[0].parent;
+    var selectedChild = selectedSubTree[0];
+    if (selectedParent.depth!=0) {
+      var grandParent = selectedParent.parent;
+      //if it's root-> leaf, don't cut
+      if (selectedParent.children.length==1) {
+        // single child, should remove the parent node
+        for (var i=0;i<grandParent.children.length;i++)
+          if (grandParent.children[i] == selectedParent)
+          {
+            grandParent.children[i] = selectedChild;
+            selectedChild.parent = grandParent;
+            addDepth(selectedChild,-1);
+            break;
+          }
+      }
+      else if (selectedParent.children[0] == selectedSubTree[0]) {
+        //first child
+        for (var i=0;i<grandParent.children.length;i++)
+          if (grandParent.children[i] == selectedParent)
+          {
+            grandParent.children.splice(i,0,selectedChild);
+            selectedChild.parent = grandParent;
+            selectedParent.children.splice(0,1);
+            addDepth(selectedChild,-1);
+            break;
+          }
+      } else if (selectedParent.children[selectedParent.children.length-1] == selectedSubTree[0]) {
+        //last child
+        for (var i=0;i<grandParent.children.length;i++)
+          if (grandParent.children[i] == selectedParent)
+          {
+            grandParent.children.splice(i+1,0,selectedChild);
+            selectedChild.parent = grandParent;
+            selectedParent.children.splice(selectedParent.children.length-1,1);
+            addDepth(selectedChild,-1);
+            break;
+          }
+      }
+      return grandParent;
+    }
+  }
+  return null;
+}
+
 
 function mouseup() {
   if (mouseIsDown)
   {
     var m = d3.mouse(this);
-    var ancestor = mergeSelected();
-    if (ancestor)
-      update(ancestor);
+    var selectedSubTree = pathSelection();
+    cleanupPathSelection();
+    var cutted = cutEdge(selectedSubTree);
+    if (!cutted) {
+      var ancestor = mergeSelected(selectedSubTree);
+      if (ancestor)
+        update(ancestor);
+    } else
+      update(cutted);
   }
   mouseIsDown=false;
 }
@@ -326,7 +342,6 @@ function update(source) {
       .text(function(d) { return d.name; })
       .style("fill-opacity", 1e-5)
       .attr("text-anchor", function(d) {
-        d._textWidth=this.getComputedTextLength();
         return "start";
       });
 
@@ -347,7 +362,6 @@ function update(source) {
       .text(function(d) { return d.name; })
       .style("fill-opacity", 1)
       .attr("text-anchor", function(d) {
-        d._textWidth=this.getComputedTextLength();
         return "start";
       });
 
@@ -398,7 +412,6 @@ function update(source) {
 
 // Toggle children on click.
 function click(d) {
-//  sentenceTree.collapse(d);
   d.collapse();
   update(d);
 }

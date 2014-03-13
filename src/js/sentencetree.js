@@ -110,10 +110,8 @@
       d3_layout_treeVisitAfter(root, function(node, previousSibling){
           if (!node.children || !node.children.length) {
             var myTextLength=0;
-            if (node._textWidth)
-              myTextLength = node._textWidth;
-            else if (node.name) {
-              myTextLength = d3_layout_renderedTextSize(node.name, textSize)[0];
+            if (node.name) {
+              myTextLength = d3_layout_renderedTextSize(node.name, textSize).width;
             }
             if (node.depth>0) {
               var myGap = (width - 2*textMargin - myTextLength)/node.depth
