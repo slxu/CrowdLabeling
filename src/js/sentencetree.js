@@ -93,13 +93,28 @@
     function d3_layout_treeAncestor(vim, node, ancestor) {
       return vim._tree.ancestor.parent == node.parent ? vim._tree.ancestor : ancestor;
     }
+    function d3_layout_renderedTextSize(string, fontSize) {
+        var paper = Raphael(0, 0, 0, 0);
+            paper.canvas.style.visibility = 'hidden';
+        var el = paper.text(0, 0, string);
+            el.attr('font-size', fontSize);
+        var bBox = el.getBBox();
+        paper.remove();
+        return {
+            width: bBox.width,
+            height: bBox.height
+        };
+    }
     function d3_layout_computeDepthGap(root, width, textMargin, textSize){
       var minGap = Number.MAX_VALUE;
       d3_layout_treeVisitAfter(root, function(node, previousSibling){
           if (!node.children || !node.children.length) {
             var myTextLength=0;
-            if (node.text)
-              myTextLength = node.text.length*textSize
+            if (node._textWidth)
+              myTextLength = node._textWidth;
+            else if (node.name) {
+              myTextLength = d3_layout_renderedTextSize(node.name, textSize)[0];
+            }
             if (node.depth>0) {
               var myGap = (width - 2*textMargin - myTextLength)/node.depth
               if (myGap < minGap)

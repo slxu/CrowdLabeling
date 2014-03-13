@@ -200,6 +200,7 @@ function addMergeNode(parentNode, childrenNodes) {
   var newNode={};
   newNode.parent = parentNode;
   newNode.children= childrenNodes;
+  newNode.depth= parentNode.depth+1;
   childrenNodes.forEach(function(d){
     d.parent=newNode;
     addDepth(d,1);
@@ -322,9 +323,12 @@ function update(source) {
       .attr("x", function(d) { return 10; })
       .attr("dy", ".35em")
 //      .attr("text-anchor", function(d) { return d.children || d._children ? "end" : "start"; })
-      .attr("text-anchor", function(d) { return "start"; })
       .text(function(d) { return d.name; })
-      .style("fill-opacity", 1e-5);
+      .style("fill-opacity", 1e-5)
+      .attr("text-anchor", function(d) {
+        d._textWidth=this.getComputedTextLength();
+        return "start";
+      });
 
   // Transition nodes to their new position.
   var nodeUpdate = node.transition()
@@ -340,9 +344,12 @@ function update(source) {
       .attr("x", function(d) { return 10; })
       .attr("dy", ".35em")
 //      .attr("text-anchor", function(d) { return d.children || d._children ? "end" : "start"; })
-      .attr("text-anchor", function(d) { return "start"; })
       .text(function(d) { return d.name; })
-      .style("fill-opacity", 1);
+      .style("fill-opacity", 1)
+      .attr("text-anchor", function(d) {
+        d._textWidth=this.getComputedTextLength();
+        return "start";
+      });
 
   // Transition exiting nodes to the parent's new position.
   var nodeExit = node.exit().transition()
