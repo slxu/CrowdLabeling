@@ -3,7 +3,7 @@ var id = 0;
 function replace(match) {
     var token = 'token' + id;
     id++;
-    return "<span class='tolabel " + token + "'>";
+    return "<kbd class='custom'>" + id + "</kbd><span class='tolabel " + token + "'>";
 }
 
 function onUploadClick() {

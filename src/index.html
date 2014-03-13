@@ -39,10 +39,10 @@
           test
         </div>
       </div>
-      <div style="text-align:center">
-        <input type="file" id="files1"  name="files1[]" multiple />
-              
-        <!-- <button type="button" class="btn btn-lg btn-default" onclick="onUploadClick2()">Upload</button> -->
+      <div>
+        <!--input type="file" id="files1"  name="files1[]" multiple /-->
+        <button type="button" class="btn btn-lg btn-default" onclick="onUploadClick()" style="float:right">Upload</button>
+        <input type="file">
       </div>
     </div>
 
@@ -51,6 +51,17 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="bootstrap/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/d3.v3.min.js"></script>
+    <script>//<![CDATA[
+      $(function(){$.fn.bootstrapFileInput=function(){this.each(function(i,elem){var $elem=$(elem);if(typeof $elem.attr('data-bfi-disabled')!='undefined'){return;}
+      var buttonWord='Browse';if(typeof $elem.attr('title')!='undefined'){buttonWord=$elem.attr('title');}
+      var className='';if(!!$elem.attr('class')){className=' '+$elem.attr('class');}
+      $elem.wrap('<a class="file-input-wrapper btn btn-lg btn-default '+className+'"></a>').parent().prepend(buttonWord);}).promise().done(function(){$('.file-input-wrapper').mousemove(function(cursor){var input,wrapper,wrapperX,wrapperY,inputWidth,inputHeight,cursorX,cursorY;wrapper=$(this);input=wrapper.find("input");wrapperX=wrapper.offset().left;wrapperY=wrapper.offset().top;inputWidth=input.width();inputHeight=input.height();cursorX=cursor.pageX;cursorY=cursor.pageY;moveInputX=cursorX-wrapperX-inputWidth+20;moveInputY=cursorY-wrapperY-(inputHeight/2);input.css({left:moveInputX,top:moveInputY});});$('body').on('change','.file-input-wrapper input[type=file]',function(){var fileName;fileName=$(this).val();$(this).parent().next('.file-input-name').remove();if(!!$(this).prop('files')&&$(this).prop('files').length>1){fileName=$(this)[0].files.length+' files';}
+      else{fileName=fileName.substring(fileName.lastIndexOf('\\')+1,fileName.length);}
+      $(this).parent().after('<span class="file-input-name">'+fileName+'</span>');});});};var cssHtml='<style>'+'.file-input-wrapper { overflow: hidden; position: relative; cursor: pointer; z-index: 1; }'+'.file-input-wrapper input[type=file], .file-input-wrapper input[type=file]:focus, .file-input-wrapper input[type=file]:hover { position: absolute; top: 0; left: 0; cursor: pointer; opacity: 0; filter: alpha(opacity=0); z-index: 99; outline: 0; }'+'.file-input-name { margin-left: 8px; }'+'</style>';$('link[rel=stylesheet]').eq(0).before(cssHtml);});
+      //]]>
+    </script>
+    <script>$(document).ready(function(){$('input[type=file]').bootstrapFileInput();});</script>
+
     <script type="text/javascript" src="js/input.js"></script>
     <script type="text/javascript" src="js/cluster.js"></script>
     <script type="text/javascript" src="js/choosefile.js"></script>
