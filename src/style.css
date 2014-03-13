@@ -29,7 +29,7 @@ div#chart {
   border: 1px;
 }
 
-.tolabel {
+span.tolabel {
   display: inline;
   padding: 1px 1px 1px;
   color: #ffffff;
@@ -38,4 +38,30 @@ div#chart {
   vertical-align: baseline;
   border-radius: .25em;
   background-color: #428bca;
+}
+
+kbd.custom {
+  padding: 1px 4px 1px;
+  font-size: 90%;
+  color: #fff;
+  background-color: #333;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .25);
+}
+
+.link {
+  fill: none;
+  stroke: #000;
+  stroke-width: 5px;
+  opacity: .5;
+}
+
+.link:hover {
+  stroke: red;
+}
+
+.templink {
+  fill: none;
+  stroke: red;
+  stroke-width: 5px;
 }
