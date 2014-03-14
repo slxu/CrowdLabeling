@@ -49,8 +49,10 @@ var i = 0,
     duration = 750,
     root;
 
+var textSize = 16;
+
 var sentenceTree = d3.layout.sentenceTree().size([height,
-width]).textSize(16).textMargin(10);
+width]).textSize(textSize).textMargin(10);
 
 var diagonal = d3.svg.diagonal().projection(function(d) { return [d.y, d.x]; });
 var extendedDiagonal = d3.svg.diagonal().projection(function(d) { return [d.y, d.x]; });
@@ -183,9 +185,9 @@ function addMergeNode(parentNode, childrenNodes) {
   parentNode.children = newChildren;
 }
 
-function mergeSelected(selectedSubTree){
-  if (selectedSubTree && selectedSubTree.length) {
-    var ancestorChildren = nearestCommonAncestorOrdered(selectedSubTree);
+function mergeSelected(selectedSubTrees){
+  if (selectedSubTrees && selectedSubTrees.length) {
+    var ancestorChildren = nearestCommonAncestorOrdered(selectedSubTrees);
     if (ancestorChildren)
     {
       var ancestor = ancestorChildren[0];
@@ -198,11 +200,32 @@ function mergeSelected(selectedSubTree){
   return null;
 }
 
-function cutEdge(selectedSubTree) {
+
+function cutRearEdge(selectedSubTrees) {
+  if (selectedSubTrees && selectedSubTrees.length==1) {
+    var selectedParent = selectedSubTrees[0].parent;
+    var selectedChild = selectedSubTrees[0];
+    var selectedGrandChildren = selectedChild.children;
+    if (selectedGrandChildren && selectedGrandChildren.length) {
+      var childIdx = selectedParent.children.indexOf(selectedChild);
+      selectedParent.children.splice(childIdx,1);
+      selectedGrandChildren.forEach(function(e){
+        e.parent = selectedParent;
+        addDepth(e,-1);
+        selectedParent.children.splice(childIdx,0,e);
+        childIdx++;
+      });
+    }
+    return selectedParent;
+  }
+  return null;
+}
+
+function cutFrontEdge(selectedSubTrees) {
   //can only remove first child or last child
-  if (selectedSubTree && selectedSubTree.length==1) {
-    var selectedParent = selectedSubTree[0].parent;
-    var selectedChild = selectedSubTree[0];
+  if (selectedSubTrees && selectedSubTrees.length==1) {
+    var selectedParent = selectedSubTrees[0].parent;
+    var selectedChild = selectedSubTrees[0];
     if (selectedParent.depth!=0) {
       var grandParent = selectedParent.parent;
       //if it's root-> leaf, don't cut
@@ -217,7 +240,7 @@ function cutEdge(selectedSubTree) {
             break;
           }
       }
-      else if (selectedParent.children[0] == selectedSubTree[0]) {
+      else if (selectedParent.children[0] == selectedSubTrees[0]) {
         //first child
         for (var i=0;i<grandParent.children.length;i++)
           if (grandParent.children[i] == selectedParent)
@@ -228,7 +251,8 @@ function cutEdge(selectedSubTree) {
             addDepth(selectedChild,-1);
             break;
           }
-      } else if (selectedParent.children[selectedParent.children.length-1] == selectedSubTree[0]) {
+      } else if
+      (selectedParent.children[selectedParent.children.length-1] == selectedSubTrees[0]) {
         //last child
         for (var i=0;i<grandParent.children.length;i++)
           if (grandParent.children[i] == selectedParent)
@@ -251,11 +275,11 @@ function mouseup() {
   if (mouseIsDown)
   {
     var m = d3.mouse(this);
-    var selectedSubTree = pathSelection();
+    var selectedSubTrees = pathSelection();
     cleanupPathSelection();
-    var cutted = cutEdge(selectedSubTree);
+    var cutted = cutRearEdge(selectedSubTrees);
     if (!cutted) {
-      var ancestor = mergeSelected(selectedSubTree);
+      var ancestor = mergeSelected(selectedSubTrees);
       if (ancestor)
         update(ancestor);
     } else
@@ -276,19 +300,19 @@ function cleanupPathSelection(){
 
 function pathSelection(){
     var link = svg.selectAll("path.link");
-    var selectedSubTree=new Array();
+    var selectedSubTrees=new Array();
     link[0].forEach(function(l){
       var intersects = Raphael.pathIntersection(l.attributes[1].value, lineString());
       if (intersects && intersects.length)
-        selectedSubTree.push(l.__data__.target);
+        selectedSubTrees.push(l.__data__.target);
     });
     link.filter(function(d,i){ 
-      return (selectedSubTree.indexOf(d.target)>=0);
+      return (selectedSubTrees.indexOf(d.target)>=0);
       }).attr("style","stroke: #222");
     link.filter(function(d,i){ 
-      return !(selectedSubTree.indexOf(d.target)>=0);
+      return !(selectedSubTrees.indexOf(d.target)>=0);
       }).attr("style",null);
-    return selectedSubTree;
+    return selectedSubTrees;
 }
 
 var svg = d3.select("body").append("svg")
@@ -336,7 +360,7 @@ function update(source) {
 
   nodeEnter.append("text")
 //      .attr("x", function(d) { return d.children || d._children ? -10 : 10; })
-      .attr("x", function(d) { return 16; })
+      .attr("x", function(d) { return textSize; })
       .attr("dy", ".35em")
 //      .attr("text-anchor", function(d) { return d.children || d._children ? "end" : "start"; })
       .text(function(d) { return d.name; })
@@ -356,7 +380,7 @@ function update(source) {
 
   nodeUpdate.select("text")
 //      .attr("x", function(d) { return d.children || d._children ? -10 : 10; })
-      .attr("x", function(d) { return 16; })
+      .attr("x", function(d) { return textSize; })
       .attr("dy", ".35em")
 //      .attr("text-anchor", function(d) { return d.children || d._children ? "end" : "start"; })
       .text(function(d) { return d.name; })
