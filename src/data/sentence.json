@@ -2,292 +2,97 @@
   "tag": "ROOT",
   "children":[
     {
-      "tag": "S",
-      "children":[
-        {
-          "tag": "NP",
-          "children":[
-            {
-              "tag": "NP",
-              "children":[
-                {
-                  "tag": "DT",
-                  "name": "The"
-                },
-                {
-                  "tag": "NN",
-                  "name": "outbreak"
-                }
-              ]
-            },
-            {
-              "tag":"PP",
-              "children":[
-                {
-                  "tag": "IN",
-                  "name": "of"
-                },
-                {
-                  "tag": "NP",
-                  "children":[
-                    {
-                      "tag": "NP",
-                      "children":[
-                        {
-                          "tag": "DT",
-                          "name": "the"
-                        },
-                        {
-                          "tag": "JJ",
-                          "name": "Liberal"
-                        },
-                        {
-                          "tag": "NN",
-                          "name": "Revolution"
-                        }
-                      ]
-                    },
-                    {
-                      "tag": "PP",
-                      "children":[
-                        {
-                          "tag": "IN",
-                          "name": "of"
-                        },
-                        {
-                          "tag": "NP",
-                          "children":[
-                            {
-                              "tag": "NP",
-                              "children":[
-                                {
-                                  "tag": "CD",
-                                  "name": "1820"
-                                }
-                              ]
-                            },
-                            {
-                              "tag": "PP",
-                              "children":[
-                                {
-                                  "tag": "IN",
-                                  "name": "in"
-                                },
-                                {
-                                  "tag": "NP",
-                                  "children":[
-                                    {
-                                      "tag": "NNP",
-                                          "name": "Lisbon"
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "tag": "VP",
-          "children":[
-            {
-              "tag": "VBN",
-                  "name": "compelled"
-            },
-            {
-              "tag": "S",
-              "children":[
-                {
-                  "tag": "NP",
-                  "children":[
-                    {
-                      "tag": "NNP",
-                          "name": "Pedro"
-                    }
-                  ]
-                },
-                {
-                  "tag": "NP",
-                  "children":[
-                    {
-                      "tag": "NP",
-                      "children":[
-                        {
-                          "tag": "PRP",
-                              "name": "I"
-                        },
-                        {
-                          "tag": "POS",
-                              "name": "'s"
-                        }
-                      ]
-                    },
-                    {
-                      "tag": "NN",
-                          "name": "father"
-                    },
-                    {
-                      "tag": "S",
-                      "children":[
-                        {
-                          "tag": "VP",
-                          "children":[
-                            {
-                              "tag": "TO",
-                                  "name": "to"
-                            },
-                            {
-                              "tag": "VP",
-                              "children":[
-                                {
-                                  "tag": "VB",
-                                      "name": "return"
-                                },
-                                {
-                                  "tag": "PP",
-                                  "children":[
-                                    {
-                                      "tag": "TO",
-                                          "name": "to"
-                                    },
-                                    {
-                                      "tag": "NP",
-                                      "children":[
-                                        {
-                                          "tag": "NNP",
-                                              "name": "Portugal"
-                                        }
-                                      ]
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "tag": "PP",
-              "children":[
-                {
-                  "tag": "IN",
-                      "name": "in"
-                },
-                {
-                  "tag": "NP",
-                  "children":[
-                    {
-                      "tag": "NNP",
-                          "name": "April"
-                    },
-                    {
-                      "tag":"CD",
-                          "name": "1821"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "tag": ",",
-                  "name": ","
-            },
-            {
-              "tag": "S",
-              "children":[
-                {
-                  "tag": "VP",
-                  "children":[
-                    {
-                      "tag": "VBG",
-                          "name": "leaving"
-                    },
-                    {
-                      "tag": "S",
-                      "children":[
-                        {
-                          "tag": "NP",
-                          "children":[
-                            {
-                              "tag": "PRP",
-                                  "name": "him"
-                            }
-                          ]
-                        },
-                        {
-                          "tag": "VP",
-                          "children":[
-                            {
-                              "tag": "TO",
-                                  "name": "to"
-                            },
-                            {
-                              "tag": "VP",
-                              "children":[
-                                {
-                                  "tag": "VB",
-                                      "name": "rule"
-                                },
-                                {
-                                  "tag": "NP",
-                                  "children":[
-                                    {
-                                      "tag": "NP",
-                                      "children":[
-                                        {
-                                          "tag": "NNP",
-                                              "name": "Brazil"
-                                        }
-                                      ]
-                                    },
-                                    {
-                                      "tag": "PP",
-                                      "children":[
-                                        {
-                                          "tag": "IN",
-                                              "name":"as"
-                                        },
-                                        {
-                                          "tag": "NP",
-                                          "children":[
-                                            {
-                                              "tag": "NN",
-                                                  "name": "regent"
-                                            }
-                                          ]
-                                        }
-                                      ]
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "."
-        }
-      ]
+      "name": "The"
+    },
+    {
+      "name": "outbreak"
+    },
+    {
+      "name": "of"
+    },
+    {
+      "name": "the"
+    },
+    {
+      "name": "Liberal"
+    },
+    {
+      "name": "Revolution"
+    },
+    {
+      "name": "of"
+    },
+    {
+      "name": "1820"
+    },
+    {
+      "name": "in"
+    },
+    {
+      "name": "Lisbon"
+    },
+    {
+      "name": "compelled"
+    },
+    {
+      "name": "Pedro"
+    },
+    {
+      "name": "I"
+    },
+    {
+      "name": "'s"
+    },
+    {
+      "name": "father"
+    },
+    {
+      "name": "to"
+    },
+    {
+      "name": "return"
+    },
+    {
+      "name": "to"
+    },
+    {
+      "name": "Portugal"
+    },
+    {
+      "name": "in"
+    },
+    {
+      "name": "April"
+    },
+    {
+      "name": "1821"
+    },
+    {
+      "name": ","
+    },
+    {
+      "name": "leaving"
+    },
+    {
+      "name": "him"
+    },
+    {
+      "name": "to"
+    },
+    {
+      "name": "rule"
+    },
+    {
+      "name": "Brazil"
+    },
+    {
+      "name":"as"
+    },
+    {
+      "name": "regent"
+    },
+    {
+      "name": "."
     }
   ]
 }
