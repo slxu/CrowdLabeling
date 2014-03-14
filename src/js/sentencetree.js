@@ -71,25 +71,6 @@
       }
       visit(node, null);
     }
-    function d3_layout_treeShift(node) {
-      var shift = 0, change = 0, children = node.children, i = children.length, child;
-      while (--i >= 0) {
-        child = children[i]._tree;
-        child.prelim += shift;
-        child.mod += shift;
-        shift += child.shift + (change += child.change);
-      }
-    }
-    function d3_layout_treeMove(ancestor, node, shift) {
-      ancestor = ancestor._tree;
-      node = node._tree;
-      var change = shift / (node.number - ancestor.number);
-      ancestor.change += change;
-      node.change -= change;
-      node.shift += shift;
-      node.prelim += shift;
-      node.mod += shift;
-    }
     function d3_layout_treeAncestor(vim, node, ancestor) {
       return vim._tree.ancestor.parent == node.parent ? vim._tree.ancestor : ancestor;
     }
@@ -121,6 +102,175 @@
           }
         });      
       return minGap;
+    }
+    function removeDuplicates(subTreeRoots) {
+      var subTreeRootsNeedMerge=new Array();
+      subTreeRoots.forEach(function(d){
+        if (subTreeRootsNeedMerge.indexOf(d)<0)
+          subTreeRootsNeedMerge.push(d);
+      });
+      return subTreeRootsNeedMerge;
+    }
+    function nearestCommonAncestorOrdered(subTreeRoots){
+      var subTreeRoots = subTreeRoots.slice(0);
+      var minDepth = d3.min(subTreeRoots, function(d){
+        return d.depth;
+      });
+      
+      for (var i=0;i<subTreeRoots.length;i++) {
+        while (subTreeRoots[i].depth>minDepth) {
+          subTreeRoots[i] = subTreeRoots[i].parent;
+        }
+      }
+      
+      subTreeRoots = removeDuplicates(subTreeRoots);
+      var lastSubTreeRoots=null;
+      while (subTreeRoots.length>1) {
+        lastSubTreeRoots=subTreeRoots.slice(0);
+        for (var i=0;i<subTreeRoots.length;i++) {
+          subTreeRoots[i] = subTreeRoots[i].parent;
+        }
+        subTreeRoots = removeDuplicates(subTreeRoots);
+      }
+      if (lastSubTreeRoots==null)
+        return null;
+
+      if (subTreeRoots.length==1)
+      {
+        var ancestor = subTreeRoots[0];
+        var correctOrderedChildren=new Array();
+        lastSubTreeRoots.forEach(function(d){
+          correctOrderedChildren.push({"node":d,"idx":ancestor.children.indexOf(d)});
+        });
+        correctOrderedChildren.sort(function(a,b){
+          return a.idx-b.idx;
+        });
+        var orderedChildren=new Array();
+        var lastIdx=correctOrderedChildren[0].idx-1;
+        correctOrderedChildren.forEach(function(d){
+          if (d.idx != lastIdx+1){
+            lastIdx=-1;
+            return;
+          }
+          lastIdx+=1;
+          orderedChildren.push(d.node);
+        });
+        if (lastIdx>=0)
+          return [ancestor,orderedChildren];
+        else
+          return null;
+      }
+      else
+        return null;
+    }
+    function changeDepth(root,deltaDepth) {
+      root.depth+=deltaDepth;
+      if (root.children && root.children.length)
+        root.children.forEach(function(d) {
+          changeDepth(d,deltaDepth);
+        });
+    }
+    function d3_layout_cutEdgeMergeRear(selectedSubTrees) {
+      if (selectedSubTrees && selectedSubTrees.length==1) {
+        var selectedParent = selectedSubTrees[0].parent;
+        var selectedChild = selectedSubTrees[0];
+        var selectedGrandChildren = selectedChild.children;
+        if (selectedGrandChildren && selectedGrandChildren.length) {
+          var childIdx = selectedParent.children.indexOf(selectedChild);
+          selectedParent.children.splice(childIdx,1);
+          selectedGrandChildren.forEach(function(e){
+            e.parent = selectedParent;
+            changeDepth(e,-1);
+            selectedParent.children.splice(childIdx,0,e);
+            childIdx++;
+          });
+        }
+        return selectedParent;
+      }
+      return null;
+    }
+    function d3_layout_cutEdgeMergeFront(selectedSubTrees) {
+      //can only remove first child or last child
+      if (selectedSubTrees && selectedSubTrees.length==1) {
+        var selectedParent = selectedSubTrees[0].parent;
+        var selectedChild = selectedSubTrees[0];
+        if (selectedParent.depth!=0) {
+          var grandParent = selectedParent.parent;
+          //if it's root-> leaf, don't cut
+          if (selectedParent.children.length==1) {
+            // single child, should remove the parent node
+            for (var i=0;i<grandParent.children.length;i++)
+              if (grandParent.children[i] == selectedParent)
+              {
+                grandParent.children[i] = selectedChild;
+                selectedChild.parent = grandParent;
+                changeDepth(selectedChild,-1);
+                break;
+              }
+          }
+          else if (selectedParent.children[0] == selectedSubTrees[0]) {
+            //first child
+            for (var i=0;i<grandParent.children.length;i++)
+              if (grandParent.children[i] == selectedParent)
+              {
+                grandParent.children.splice(i,0,selectedChild); selectedChild.parent = grandParent;
+                selectedParent.children.splice(0,1);
+                changeDepth(selectedChild,-1);
+                break;
+              }
+          } else if
+          (selectedParent.children[selectedParent.children.length-1] == selectedSubTrees[0]) {
+            //last child
+            for (var i=0;i<grandParent.children.length;i++)
+              if (grandParent.children[i] == selectedParent)
+              {
+                grandParent.children.splice(i+1,0,selectedChild);
+                selectedChild.parent = grandParent;
+                selectedParent.children.splice(selectedParent.children.length-1,1);
+                changeDepth(selectedChild,-1);
+                break;
+              }
+          }
+          return grandParent;
+        }
+      }
+      return null;
+    }
+    function addMergeNode(parentNode, childrenNodes) {
+      var newNode={};
+      newNode.parent = parentNode;
+      newNode.children= childrenNodes;
+      newNode.depth= parentNode.depth+1;
+      childrenNodes.forEach(function(d){
+        d.parent=newNode;
+        changeDepth(d,1);
+      });
+      var newChildren=new Array();
+      var newNodeAdded=false;
+      parentNode.children.forEach(function(d) {
+        if (childrenNodes.indexOf(d)<0)
+          newChildren.push(d);
+        else
+          if (!newNodeAdded) {
+            newChildren.push(newNode);
+            newNodeAdded=true;
+          }
+      });
+      parentNode.children = newChildren;
+    }
+    function d3_layout_mergeSelectedSubTrees(selectedSubTrees){
+      if (selectedSubTrees && selectedSubTrees.length) {
+        var ancestorChildren = nearestCommonAncestorOrdered(selectedSubTrees);
+        if (ancestorChildren)
+        {
+          var ancestor = ancestorChildren[0];
+          var aChildren = ancestorChildren[1];
+          addMergeNode(ancestor,aChildren);
+          return ancestor;
+        }
+        return null;
+      }
+      return null;
     }
     var hierarchy = d3.layout.hierarchy().sort(null).value(null), separation = d3_layout_treeSeparation, height = 1, width = 1, nodeSize = false, textSize=10, textMargin=10;
     function sentenceTree(d, i) {
@@ -243,6 +393,9 @@
         textMargin = x;
       return sentenceTree;
     };
+    sentenceTree.cutEdgeMergeRear = d3_layout_cutEdgeMergeRear;
+    sentenceTree.cutEdgeMergeFront = d3_layout_cutEdgeMergeFront;
+    sentenceTree.mergeSelectedSubTrees = d3_layout_mergeSelectedSubTrees;
 
     return d3_layout_hierarchyRebind(sentenceTree, hierarchy);
   };
