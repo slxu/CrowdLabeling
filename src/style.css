@@ -8,24 +8,24 @@ h1 {
 
 div#component {
   width: 37%;
-  height: 800px;
+  height: 650px;
   margin-left: 10px;
   margin-right: 10px;
 }
 
 div#input {
-  height: 735px;
+  height: 585px;
 }
 
 div#display {
-  height: 695px;
+  height: 545px;
   overflow-y: scroll;
 }
 
 div#chart {
   position: relative;
   width: 60%;
-  height: 800px;
+  height: 650px;
   float: right;
   margin-left: 10px;
   margin-right: 10px;
@@ -39,7 +39,7 @@ span.tolabel {
   padding: 1px 1px 1px;
   color: #ffffff;
   text-align: center;
-  white-space: nowrap;
+  white-space: wrap;
   vertical-align: baseline;
   border-radius: .25em;
   background-color: #428bca;
