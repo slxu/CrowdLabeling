@@ -39,7 +39,7 @@ span.tolabel {
   padding: 1px 1px 1px;
   color: #ffffff;
   text-align: center;
-  white-space: nowrap;
+  white-space: wrap;
   vertical-align: baseline;
   border-radius: .25em;
   background-color: #428bca;
