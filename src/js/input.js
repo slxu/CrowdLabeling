@@ -5,8 +5,9 @@ var onOutputClick = null;
 
 function replace(match) {
   var token = 'token' + id;
+  var replace = '<kbd class="custom" draggable="true" contenteditable="false">' + id + '</kbd><span class="tolabel ' + token + '" onclick="onSpanClick()">';
   id++;
-  return '<kbd class="custom" draggable="true" contenteditable="false">' + id + '</kbd><span class="tolabel ' + token + '" onclick="onSpanClick()">';
+  return replace;
 }
 
 function onStartClick() {

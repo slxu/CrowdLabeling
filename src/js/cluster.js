@@ -108,7 +108,7 @@ d3.cluster = function(){
         .attr("stroke", indexFill)
         .attr("stroke-width", ".2px")
         .attr("font-size", "15px")
-        .text(function(d) { return d.index + 1; })
+        .text(function(d) { return d.index; })
         .append("title")
           .text(function(d) { return d.fullText; });
 
