@@ -16,9 +16,6 @@
 "name": "reported"
 },
 {
-"name": "*-2"
-},
-{
 "name": "more"
 },
 {
@@ -83,9 +80,6 @@
 },
 {
 "name": "likely"
-},
-{
-"name": "*"
 },
 {
 "name": "to"
