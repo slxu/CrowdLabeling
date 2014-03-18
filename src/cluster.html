@@ -31,16 +31,32 @@
     </div>
 
   	<div id="component">
-      <div class="panel panel-default" id="input">
+      <div class="panel panel-default" id="display">
         <div class="panel-heading">
           <h3 class="panel-title">Input</h3>
         </div>
-        <div class="panel-body" id="display"></div>
+        <div class="panel-body" id="input"></div>
       </div>
-      <div>
-        <!--input type="file" id="files1"  name="files1[]" multiple /-->
+      <!--div>
         <button type="button" class="btn btn-lg btn-default" onclick="onUploadClick()" style="float:right">Upload</button>
         <input type="file">
+      </div-->
+      <div>
+        <button type="button" class="btn btn-lg btn-default" onclick="onOutputClick()" style="float:right">Output</button>
+        <button type="button" class="btn btn-lg btn-default" onclick="onStartClick()" style="float:right">Start</button>
+        <select class="form-control" id="docselect">
+          <option>APW20001001.2021.0521</option>
+          <option>APW20001002.0615.0146</option>
+          <option>APW20001002.1912.0524</option>
+          <option>APW20001006.0338.0184</option>
+          <option>APW20001007.0339.0149</option>
+          <option>APW20001007.1745.0371</option>
+          <option>APW20001007.1745.0378</option>
+          <option>APW20001008.1511.0218</option>
+          <option>APW20001009.1751.0391</option>
+          <option>APW20001012.1321.0434</option>
+        </select>
+        
       </div>
     </div>
     
@@ -59,9 +75,7 @@
     </script>
     <script>$(document).ready(function(){$('input[type=file]').bootstrapFileInput();});</script>
 
-    
     <script type="text/javascript" src="js/cluster.js"></script>
-    <script type="text/javascript" src="js/choosefile.js"></script>
     <script type="text/javascript" src="js/input.js"></script>
   </body>
 </html>

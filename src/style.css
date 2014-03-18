@@ -1,5 +1,5 @@
 body {
-  background-color: #ddd;
+  background-color: #eee;
 }
 
 h1 {
@@ -8,24 +8,24 @@ h1 {
 
 div#component {
   width: 37%;
-  height: 650px;
+  height: 700px;
   margin-left: 10px;
   margin-right: 10px;
 }
 
-div#input {
-  height: 585px;
+div#display {
+  height: 635px;
 }
 
-div#display {
-  height: 545px;
-  overflow-y: scroll;
+div#input {
+  height: 596px;
+  overflow: auto;
 }
 
 div#chart {
   position: relative;
   width: 60%;
-  height: 650px;
+  height: 700px;
   float: right;
   margin-left: 10px;
   margin-right: 10px;
@@ -42,7 +42,7 @@ span.tolabel {
   white-space: wrap;
   vertical-align: baseline;
   border-radius: .25em;
-  background-color: #428bca;
+  background-color: #888;
 }
 
 kbd.custom {
@@ -52,6 +52,16 @@ kbd.custom {
   background-color: #333;
   border-radius: 3px;
   box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .25);
+}
+
+select#docselect {
+  width: 60%;
+  margin-right: 2%;
+}
+
+button {
+  width: 17%;
+  margin-right: 2%
 }
 
 .link {
