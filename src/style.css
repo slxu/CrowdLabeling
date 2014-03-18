@@ -8,24 +8,22 @@ h1 {
 
 div#component {
   width: 37%;
-  height: 700px;
+  height: 100%;
   margin-left: 10px;
   margin-right: 10px;
 }
 
 div#display {
-  height: 635px;
 }
 
 div#input {
-  height: 596px;
   overflow: auto;
 }
 
 div#chart {
   position: relative;
   width: 60%;
-  height: 700px;
+  overflow: auto;
   float: right;
   margin-left: 10px;
   margin-right: 10px;

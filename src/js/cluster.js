@@ -1,21 +1,4 @@
-var w = document.getElementById('chart').clientWidth,
-    h = document.getElementById('chart').clientHeight,
-    ratio = w / h,
-    fill = d3.scale.category10();
 
-var cX = w / 2,
-    cY = h / 2,
-    marginLeft = 50,
-    marginRight = 50,
-    marginTop = 50,
-    marginBottom = 50,
-    nodeRadius = 12,
-    gravity = .03,
-    kForceX = w / 12,
-    kForceY = h / 6;
-
-var nodeDefaultColor = '#aaa',
-    spanDefaultColor = '#888';
 
 (function(){
 d3.cluster = function(){
@@ -27,15 +10,35 @@ d3.cluster = function(){
       nodeBundle = null,
       force = null;
 
+  var w = document.getElementById('chart').clientWidth - 10,
+      h = document.getElementById('chart').clientHeight - 10,
+      ratio = w / h,
+      fill = d3.scale.category10();
+
+  var cX = w / 2,
+      cY = h / 2,
+      marginLeft = 50,
+      marginRight = 50,
+      marginTop = 50,
+      marginBottom = 50,
+      nodeRadius = 12,
+      gravity = .03,
+      kForceX = w / 12,
+      kForceY = h / 7;
+
+  var nodeDefaultColor = '#aaa',
+      spanDefaultColor = '#888';
+
   var svg = null,
-      inputdiv = document.getElementById('input');
+      inputDiv = document.getElementById('input'),
+      chartDiv = document.getElementById('chart');
 
   cluster.start = function(filename) {
     d3.json(filename, function(obj) {
       nodeData = obj['items'];
-      // console.log(nodeData);
       initNode();
 
+      chartDiv.innerHTML = "";
       d3.selectAll("svg").data([]).exit().remove();
 
       svg = d3.select("#chart").append("svg")
@@ -148,7 +151,21 @@ d3.cluster = function(){
   };
 
   cluster.onOutputClick = function() {
+    d3.selectAll("svg").data([]).exit().remove();
+    var index = 0;
+    groupData.forEach(function(g) {
+      if (g.nodes.length == 1)
+        return;
+      index++;
+      chartDiv.innerHTML += "Group " + index + ":";
+      g.nodes.forEach(function(n) {
+        chartDiv.innerHTML += " " + n.id;
+      });
+      chartDiv.innerHTML += "<br/>";
+    });
 
+    document.getElementById("output_btn").disabled = true;
+    document.getElementById("start_btn").disabled = false;
   };
 
   function initNode(){
@@ -202,10 +219,10 @@ d3.cluster = function(){
     var sel = d3.select("span.token" + d.index)
       .style("background-color", "red");
     var span = sel[0][0];
-    var offsetPos = span.offsetTop - inputdiv.offsetTop;
-    if (inputdiv.scrollTop > offsetPos ||
-        inputdiv.scrollTop+inputdiv.offsetHeight < offsetPos)
-      inputdiv.scrollTop = offsetPos - 50;
+    var offsetPos = span.offsetTop - inputDiv.offsetTop;
+    if (inputDiv.scrollTop > offsetPos ||
+        inputDiv.scrollTop+inputDiv.offsetHeight < offsetPos)
+      inputDiv.scrollTop = offsetPos - 50;
   }
 
   function dragend(d) {
@@ -242,7 +259,7 @@ d3.cluster = function(){
     }
 
     if (newGroup != null) {
-      if (oldGroup.nodes.length == 0 && oldGroup.colorId != null)
+      if (newGroup.colorId == null && oldGroup.nodes.length == 0 && oldGroup.colorId != null)
         newGroup.setColorId(oldGroup.colorId);
       updateGroupNodeColor(newGroup);
     }
@@ -461,157 +478,157 @@ d3.cluster = function(){
     console.log('remove group ' + g.id);
   }
 
-  return cluster;
-};
-})();
+  var colors = {};
+  var Group = function(nodes, id) {
+    var group = {};
+    group.nodes = nodes;
+    group.id = id;
 
-var colors = {};
-var Group = function(nodes, id) {
-  var group = {};
-  group.nodes = nodes;
-  group.id = id;
+    group.cx = 0;
+    group.cy = 0;
+    nodes.forEach(function(d) {
+      group.cx += d.x;
+      group.cy += d.y;
+      d.groupId = id;
+    });
+    group.cx /= nodes.length;
+    group.cy /= nodes.length;
 
-  group.cx = 0;
-  group.cy = 0;
-  nodes.forEach(function(d) {
-    group.cx += d.x;
-    group.cy += d.y;
-    d.groupId = id;
-  });
-  group.cx /= nodes.length;
-  group.cy /= nodes.length;
-
-  group.colorId = null;
-  group.getColorId = function() {
-    if (group.nodes.length < 2) {
-      if (group.colorId != null) {
-        delete colors[group.colorId];
-        group.colorId = null;
+    group.colorId = null;
+    group.getColorId = function() {
+      if (group.nodes.length < 2) {
+        if (group.colorId != null) {
+          delete colors[group.colorId];
+          group.colorId = null;
+        }
+        return -1;
       }
-      return -1;
-    }
 
-    if (group.colorId != null)
-      return group.colorId;
+      if (group.colorId != null)
+        return group.colorId;
 
-    for (var i = 0; i < 10; i++)
-      if (!(i in colors)) {
-        colors[i] = true;
+      for (var i = 0; i < 10; i++)
+        if (!(i in colors)) {
+          colors[i] = true;
+          group.colorId = i;
+          // console.log("assign color: " + i);
+          return i;
+        }
+      if (i == 10) {
+        i = Math.floor(Math.random() * 10) % 10;
         group.colorId = i;
         // console.log("assign color: " + i);
         return i;
       }
-    if (i == 10) {
-      i = Math.floor(Math.random() * 10) % 10;
-      group.colorId = i;
-      // console.log("assign color: " + i);
-      return i;
+    };
+    group.setColorId = function(c) {
+      group.colorId = c;
+      colors[c] = true;
     }
-  };
-  group.setColorId = function(c) {
-    group.colorId = c;
-    colors[c] = true;
-  }
 
-  group.groupPath = function() { 
-    return "M" + group.convexhull().join("L") + "Z"; 
-  }
-
-  group.convexhull = function() {
-    nodeArr = [];
-    if (group.nodes.length == 2) {
-      v1 = group.nodes[0];
-      v2 = group.nodes[1];
-      r = 0.1;
-      nodeArr.push([v1.x+r, v1.y+r])
-      nodeArr.push([v1.x+r, v1.y-r])
-      nodeArr.push([v1.x-r, v1.y+r])
-      nodeArr.push([v1.x-r, v1.y-r])
-      nodeArr.push([v2.x+r, v2.y+r])
-      nodeArr.push([v2.x+r, v2.y-r])
-      nodeArr.push([v2.x-r, v2.y+r])
-      nodeArr.push([v2.x-r, v2.y-r])
-    } else {
-      nodeArr = group.nodes.map(function(v) { return [v.x, v.y]; });
+    group.groupPath = function() { 
+      return "M" + group.convexhull().join("L") + "Z"; 
     }
-    return d3.geom.hull(nodeArr);
-  };
 
-  group.boundingBox = function boundingBox() {
-    var box = {};
-    if (group.nodes.length == 1) {
-      var v = group.nodes[0];
-      box.left = v.x - nodeRadius - 10;
-      box.right = v.x + nodeRadius + 10;
-      box.top = v.y - nodeRadius - 10;
-      box.bottom = v.y + nodeRadius + 10;
-    } else {
-      convex = group.convexhull();
-      box.left = convex[0][0];
-      box.right = convex[0][0];
-      box.top = convex[0][1];
-      box.bottom = convex[0][1];
-      convex.forEach(function(d) {
-        if (d[0] < box.left)
-          box.left = d[0];
-        if (d[0] > box.right)
-          box.right = d[0];
-        if (d[1] > box.top)
-          box.top = d[1];
-        if (d[1] < box.bottom)
-          box.bottom = d[1];
+    group.convexhull = function() {
+      nodeArr = [];
+      if (group.nodes.length == 2) {
+        v1 = group.nodes[0];
+        v2 = group.nodes[1];
+        r = 0.1;
+        nodeArr.push([v1.x+r, v1.y+r])
+        nodeArr.push([v1.x+r, v1.y-r])
+        nodeArr.push([v1.x-r, v1.y+r])
+        nodeArr.push([v1.x-r, v1.y-r])
+        nodeArr.push([v2.x+r, v2.y+r])
+        nodeArr.push([v2.x+r, v2.y-r])
+        nodeArr.push([v2.x-r, v2.y+r])
+        nodeArr.push([v2.x-r, v2.y-r])
+      } else {
+        nodeArr = group.nodes.map(function(v) { return [v.x, v.y]; });
+      }
+      return d3.geom.hull(nodeArr);
+    };
+
+    group.boundingBox = function boundingBox() {
+      var box = {};
+      if (group.nodes.length == 1) {
+        var v = group.nodes[0];
+        box.left = v.x - nodeRadius - 10;
+        box.right = v.x + nodeRadius + 10;
+        box.top = v.y - nodeRadius - 10;
+        box.bottom = v.y + nodeRadius + 10;
+      } else {
+        convex = group.convexhull();
+        box.left = convex[0][0];
+        box.right = convex[0][0];
+        box.top = convex[0][1];
+        box.bottom = convex[0][1];
+        convex.forEach(function(d) {
+          if (d[0] < box.left)
+            box.left = d[0];
+          if (d[0] > box.right)
+            box.right = d[0];
+          if (d[1] > box.top)
+            box.top = d[1];
+          if (d[1] < box.bottom)
+            box.bottom = d[1];
+        });
+      }
+      box.diameter = Math.max(box.right - box.left, box.bottom - box.top);
+      return box;
+    };
+
+    group.updateCenter = function() {
+      group.cx = 0;
+      group.cy = 0;
+      group.nodes.forEach(function(n) {
+        group.cx += n.x;
+        group.cy += n.y;
       });
+      group.cx /= group.nodes.length;
+      group.cy /= group.nodes.length;
+      var box = group.boundingBox();
+      if (box.left <= marginLeft)
+        group.cx = marginLeft + box.diameter/2;
+      else if (box.right >= w - marginRight)
+        group.cx = w - marginRight - box.diameter/2;
+      if (box.top <= marginTop)
+        group.cy = marginTop + box.diameter/2;
+      else if (box.bottom >= h - marginBottom) 
+        group.cy = h - marginBottom - box.diameter/2;
     }
-    box.diameter = Math.max(box.right - box.left, box.bottom - box.top);
-    return box;
+
+    return group;
   };
 
-  group.updateCenter = function() {
-    group.cx = 0;
-    group.cy = 0;
-    group.nodes.forEach(function(n) {
-      group.cx += n.x;
-      group.cy += n.y;
-    });
-    group.cx /= group.nodes.length;
-    group.cy /= group.nodes.length;
-    var box = group.boundingBox();
-    if (box.left <= marginLeft)
-      group.cx = marginLeft + box.diameter/2;
-    else if (box.right >= w - marginRight)
-      group.cx = w - marginRight - box.diameter/2;
-    if (box.top <= marginTop)
-      group.cy = marginTop + box.diameter/2;
-    else if (box.bottom >= h - marginBottom) 
-      group.cy = h - marginBottom - box.diameter/2;
-  }
-
-  return group;
-};
-
-function connectedComponent(v) {
-  var component = [v];
-  var visited = {};
-  visited[v.id] = true;
-  var open = 0;
-  var closed = 1;
-  while (open < closed) {
-    var tmp = closed;
-    for (; open < tmp; open++) {
-      var node = component[open];
-      for (var i = 0; i < node.links.length; i++) {
-        var l = node.links[i];
-        if (!(l.source.id in visited)) {
-          component.push(l.source);
-          visited[l.source.id] = true;
-          closed ++;
-        } else if (!(l.target.id in visited)) {
-          component.push(l.target);
-          visited[l.target.id] = true;
-          closed ++;
+  function connectedComponent(v) {
+    var component = [v];
+    var visited = {};
+    visited[v.id] = true;
+    var open = 0;
+    var closed = 1;
+    while (open < closed) {
+      var tmp = closed;
+      for (; open < tmp; open++) {
+        var node = component[open];
+        for (var i = 0; i < node.links.length; i++) {
+          var l = node.links[i];
+          if (!(l.source.id in visited)) {
+            component.push(l.source);
+            visited[l.source.id] = true;
+            closed ++;
+          } else if (!(l.target.id in visited)) {
+            component.push(l.target);
+            visited[l.target.id] = true;
+            closed ++;
+          }
         }
       }
     }
+    return component;
   }
-  return component;
-}
+
+  return cluster;
+};
+})();

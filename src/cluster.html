@@ -42,8 +42,8 @@
         <input type="file">
       </div-->
       <div>
-        <button type="button" class="btn btn-lg btn-default" onclick="onOutputClick()" style="float:right">Output</button>
-        <button type="button" class="btn btn-lg btn-default" onclick="onStartClick()" style="float:right">Start</button>
+        <button type="button" class="btn btn-lg btn-default" onclick="onOutputClick()" style="float:right" id="output_btn" disabled>Output</button>
+        <button type="button" class="btn btn-lg btn-default" onclick="onStartClick()" style="float:right" id="start_btn">Start</button>
         <select class="form-control" id="docselect">
           <option>APW20001001.2021.0521</option>
           <option>APW20001002.0615.0146</option>
@@ -74,6 +74,15 @@
       //]]>
     </script>
     <script>$(document).ready(function(){$('input[type=file]').bootstrapFileInput();});</script>
+
+    <script type="text/javascript">
+      window.onload = function() {
+        var availHeight = $(window).height() - 89;
+        document.getElementById("component").style.height = availHeight + "px";
+        document.getElementById("input").style.height = availHeight - 105 + "px";
+        document.getElementById("chart").style.height = availHeight + "px";
+      };
+    </script>
 
     <script type="text/javascript" src="js/cluster.js"></script>
     <script type="text/javascript" src="js/input.js"></script>

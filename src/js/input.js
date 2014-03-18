@@ -1,6 +1,7 @@
 var id = 0;
 var cluster = null;
 var onSpanClick = null;
+var onOutputClick = null;
 
 function replace(match) {
   var token = 'token' + id;
@@ -29,10 +30,13 @@ function onStartClick() {
     display.innerHTML = content;
 
     cluster = d3.cluster();
-    // console.log(cluster);
+    console.log('data/cluster/' + doc +'.json');
     cluster.start('data/cluster/' + doc +'.json');
     onSpanClick = cluster.onSpanClick;
+    onOutputClick = cluster.onOutputClick;
 
+    document.getElementById("output_btn").disabled = false;
+    document.getElementById("start_btn").disabled = true;
   });
 }
 
