@@ -1,15 +1,20 @@
 var id = 0;
+var cluster = null;
+var onSpanClick = null;
 
 function replace(match) {
-    var token = 'token' + id;
-    id++;
-    return "<kbd class='custom'>" + id + "</kbd><span class='tolabel " + token + "'>";
+  var token = 'token' + id;
+  id++;
+  return '<kbd class="custom" draggable="true" contenteditable="false">' + id + '</kbd><span class="tolabel ' + token + '" onclick="onSpanClick()">';
 }
 
-function onUploadClick() {
-  $.get('data/APW20001221.0431.0227.html', function(response) {
+function onStartClick() {
+  var select = document.getElementById("docselect");
+  var doc = select.options[select.selectedIndex].value;
+  console.log(doc);
+  $.get('data/cluster/' + doc + '.html', function(response) {
     var content = response;
-    var display = document.getElementById("display");
+    var display = document.getElementById("input");
     var lines = content.trim().split('\n');
 
     // remove first and last line
@@ -20,12 +25,14 @@ function onUploadClick() {
     content = lines.join('\n');
     content = content.replace(/<label[^>]*>/g, replace);
     content = content.replace(/<\/label>/g, "</span>");
-    console.log(content);
+    // console.log(content);
     display.innerHTML = content;
 
-    var cluster = d3.cluster();
-      console.log(cluster);
-      cluster.start('data/cluster.json');
+    cluster = d3.cluster();
+    // console.log(cluster);
+    cluster.start('data/cluster/' + doc +'.json');
+    onSpanClick = cluster.onSpanClick;
+
   });
 }
 
