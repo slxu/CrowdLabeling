@@ -1,66 +1,7 @@
-0	NYT20001017.1908.0279-E17	A federal judge in Delaware	..judge..
-1	NYT20001017.1908.0279-E2	Delaware	Delaware
-2	NYT20001017.1908.0279-E15	one company	..company
-3	NYT20001017.1908.0279-E25	85 other large corporations	..corporations
-4	NYT20001017.1908.0279-E28	U.S.	U.S.
-5	NYT20001017.1908.0279-E27	U.S. District Court	..District
-6	NYT20001017.1908.0279-E17	U.S. District Court Judge	..Judge
-7	NYT20001017.1908.0279-E17	U.S. District Court Judge Murray Schwartz in Wilmington , Del.	..Murray..
-8	NYT20001017.1908.0279-E29	Wilmington , Del.	Wilmington..
-9	NYT20001017.1908.0279-E2	Del.	Del.
-10	NYT20001017.1908.0279-E15	Camelot Music	Camelot
-11	NYT20001017.1908.0279-E15	it	it
-12	NYT20001017.1908.0279-E15	its	its
-13	NYT20001017.1908.0279-E30	its 1,430 employees	..employees
-14	NYT20001017.1908.0279-E15	Camelot Music	Camelot
-15	NYT20001017.1908.0279-E31	Trans World Entertainment , which bought the company last year for $ 451.9 million	Trans..
-16	NYT20001017.1908.0279-E31	which	which
-17	NYT20001017.1908.0279-E15	the company	..company
-18	NYT20001017.1908.0279-E32	many of the other 85 companies , which the judge did not identify by name	many..
-19	NYT20001017.1908.0279-E25	the other 85 companies , which the judge did not identify by name	..companies..
-20	NYT20001017.1908.0279-E25	which	which
-21	NYT20001017.1908.0279-E17	the judge	..judge
-22	NYT20001017.1908.0279-E17	his	his
-23	NYT20001017.1908.0279-E1	every company organized in Delaware , whose corporate-governance laws have made it a major center for large companies to have their nominal headquarters	..company..
-24	NYT20001017.1908.0279-E2	Delaware , whose corporate-governance laws have made it a major center for large companies to have their nominal headquarters	Delaware..
-25	NYT20001017.1908.0279-E2	whose	whose
-26	NYT20001017.1908.0279-E2	it	it
-27	NYT20001017.1908.0279-E2	a major center for large companies to have their nominal headquarters	..center..
-28	NYT20001017.1908.0279-E3	large companies	..companies
-29	NYT20001017.1908.0279-E3	their	their
-30	NYT20001017.1908.0279-E4	their nominal headquarters	..headquarters
-31	NYT20001017.1908.0279-E5	American Electric Power	American
-32	NYT20001017.1908.0279-E5	an electric utility in Columbus , Ohio	..utility..
-33	NYT20001017.1908.0279-E7	Columbus , Ohio	Columbus..
-34	NYT20001017.1908.0279-E8	Ohio	Ohio
-35	NYT20001017.1908.0279-E9	Pat D. Hemlepp	Pat
-36	NYT20001017.1908.0279-E9	a spokesman for the company	..spokesman..
-37	NYT20001017.1908.0279-E5	the company	..company
-38	NYT20001017.1908.0279-E15	Camelot	Camelot
-39	NYT20001017.1908.0279-E11	the Hartford Group	..Hartford
-40	NYT20001017.1908.0279-E15	its	its
-41	NYT20001017.1908.0279-E30	its 1,430 workers	..workers
-42	NYT20001017.1908.0279-E15	The company	..company
-43	NYT20001017.1908.0279-E15	its	its
-44	NYT20001017.1908.0279-E15	the company	..company
-45	NYT20001017.1908.0279-E15	it	it
-46	NYT20001017.1908.0279-E17	Schwartz	Schwartz
-47	NYT20001017.1908.0279-E15	the company	..company
-48	NYT20001017.1908.0279-E17	He	He
-49	NYT20001017.1908.0279-E17	The judge	..judge
-50	NYT20001017.1908.0279-E12	the Internal Revenue Service	..Internal
-51	NYT20001017.1908.0279-E13	John Sullivan	John
-52	NYT20001017.1908.0279-E31	Trans World Entertainment	Trans
-53	NYT20001017.1908.0279-E13	Trans World Entertainment 's chief financial officer	..officer
-54	NYT20001017.1908.0279-E15	the company	..company
-55	NYT20001017.1908.0279-E13	I	I
-56	NYT20001017.1908.0279-E13	Sullivan	Sullivan
-57	NYT20001017.1908.0279-E13	he	he
-58	NYT20001017.1908.0279-E15	the company	..company
-59	NYT20001017.1908.0279-E15	Camelot Music	Camelot
-60	NYT20001017.1908.0279-E5	American Electric Power	American
-61	NYT20001017.1908.0279-E18	Winn-Dixie Stores	Winn-Dixie
-62	NYT20001017.1908.0279-E20	supermarket	supermarket
-63	NYT20001017.1908.0279-E18	a big supermarket chain	..chain
-64	NYT20001017.1908.0279-E22	tax court	..court
-65	NYT20001017.1908.0279-E21	a tax court judge	..judge
+NYT20001017.1908.0279-E9	14	15	
+NYT20001017.1908.0279-E30	6	18	
+NYT20001017.1908.0279-E17	0	3	10	23	25	26	
+NYT20001017.1908.0279-E18	37	38	
+NYT20001017.1908.0279-E15	1	4	5	7	16	19	20	21	22	24	30	34	35	
+NYT20001017.1908.0279-E13	28	29	31	32	33	
+NYT20001017.1908.0279-E5	12	13	36	

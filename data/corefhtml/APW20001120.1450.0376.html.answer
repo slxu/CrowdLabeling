@@ -1,71 +1,9 @@
-0	APW20001120.1450.0376-E14	KABUL , Afghanistan	KABUL..
-1	APW20001120.1450.0376-E22	Afghanistan	Afghanistan
-2	APW20001120.1450.0376-E23	(AP)	(AP)
-3	APW20001120.1450.0376-E24	Taliban	Taliban
-4	APW20001120.1450.0376-E24	The ruling Taliban militia	..militia
-5	APW20001120.1450.0376-E11	Shiite	Shiite
-6	APW20001120.1450.0376-E11	Shiite Muslim	..Muslim
-7	APW20001120.1450.0376-E25	137 Shiite Muslim prisoners it had held for nearly two years	..prisoners..
-8	APW20001120.1450.0376-E24	it	it
-9	APW20001120.1450.0376-E27	the opposition	..opposition
-10	APW20001120.1450.0376-E24	government	government
-11	APW20001120.1450.0376-E28	government prisoners it is holding	..prisoners..
-12	APW20001120.1450.0376-E27	it	it
-13	APW20001120.1450.0376-E25	The freed men , all said to be fighters belonging to the opposition alliance	..men..
-14	APW20001120.1450.0376-E25	fighters belonging to the opposition alliance	fighters..
-15	APW20001120.1450.0376-E27	opposition	opposition
-16	APW20001120.1450.0376-E27	the opposition alliance	..alliance
-17	APW20001120.1450.0376-E31	Islamic	Islamic
-18	APW20001120.1450.0376-E1	devout Muslims	..Muslims
-19	APW20001120.1450.0376-E25	The prisoners	..prisoners
-20	APW20001120.1450.0376-E24	the Taliban	..Taliban
-21	APW20001120.1450.0376-E2	the Taliban 's supreme leader	..leader
-22	APW20001120.1450.0376-E2	Mullah Mohammed Omar	Mullah
-23	APW20001120.1450.0376-E24	the Taliban	..Taliban
-24	APW20001120.1450.0376-E4	the Taliban 's Interior Minister	..Minister
-25	APW20001120.1450.0376-E4	Abdul Razzak Akhund	Abdul
-26	APW20001120.1450.0376-E24	We	We
-27	APW20001120.1450.0376-E27	the opposition	..opposition
-28	APW20001120.1450.0376-E27	their	their
-29	APW20001120.1450.0376-E24	government	government
-30	APW20001120.1450.0376-E28	government prisoners in their jails	..prisoners..
-31	APW20001120.1450.0376-E27	their	their
-32	APW20001120.1450.0376-E6	their jails	..jails
-33	APW20001120.1450.0376-E27	opposition	opposition
-34	APW20001120.1450.0376-E27	The opposition alliance , which controls barely five percent of Afghanistan and is fighting a war against the dominant Taliban	..alliance..
-35	APW20001120.1450.0376-E27	which	which
-36	APW20001120.1450.0376-E7	five percent of Afghanistan	five..
-37	APW20001120.1450.0376-E22	Afghanistan	Afghanistan
-38	APW20001120.1450.0376-E24	the dominant Taliban	..Taliban
-39	APW20001120.1450.0376-E22	the country	..country
-40	APW20001120.1450.0376-E8	the country 's minority ethnic and religious groups	..groups
-41	APW20001120.1450.0376-E24	The Taliban	..Taliban
-42	APW20001120.1450.0376-E9	Sunni	Sunni
-43	APW20001120.1450.0376-E9	Sunni Muslim , which is the majority Islamic sect in the country	..Muslim..
-44	APW20001120.1450.0376-E9	which	which
-45	APW20001120.1450.0376-E31	Islamic	Islamic
-46	APW20001120.1450.0376-E9	the majority Islamic sect in the country	..sect..
-47	APW20001120.1450.0376-E22	the country	..country
-48	APW20001120.1450.0376-E24	The Taliban	..Taliban
-49	APW20001120.1450.0376-E21	human	human
-50	APW20001120.1450.0376-E10	international human rights groups	..groups
-51	APW20001120.1450.0376-E11	Shiite	Shiite
-52	APW20001120.1450.0376-E11	the minority Shiite Muslims	..Muslims
-53	APW20001120.1450.0376-E24	they	they
-54	APW20001120.1450.0376-E25	The newly released prisoners	..prisoners
-55	APW20001120.1450.0376-E24	the Taliban	..Taliban
-56	APW20001120.1450.0376-E22	Afghanistan	Afghanistan
-57	APW20001120.1450.0376-E12	Bamyan	Bamyan
-58	APW20001120.1450.0376-E12	Afghanistan 's central Bamyan province	..province
-59	APW20001120.1450.0376-E12	The area	..area
-60	APW20001120.1450.0376-E11	Shiite	Shiite
-61	APW20001120.1450.0376-E11	minority Shiite Muslims	..Muslims
-62	APW20001120.1450.0376-E17	I	I
-63	APW20001120.1450.0376-E18	Ali Jan	Ali
-64	APW20001120.1450.0376-E18	one of the prisoners who said he was a farmer in Bamyan and not a soldier	one..
-65	APW20001120.1450.0376-E25	the prisoners	..prisoners
-66	APW20001120.1450.0376-E18	who	who
-67	APW20001120.1450.0376-E18	he	he
-68	APW20001120.1450.0376-E18	a farmer in Bamyan	..farmer..
-69	APW20001120.1450.0376-E12	Bamyan	Bamyan
-70	APW20001120.1450.0376-E20	a soldier	..soldier
+APW20001120.1450.0376-E2	10	11	
+APW20001120.1450.0376-E4	12	13	
+APW20001120.1450.0376-E12	28	29	
+APW20001120.1450.0376-E11	24	30	
+APW20001120.1450.0376-E28	5	17	
+APW20001120.1450.0376-E27	4	15	16	18	
+APW20001120.1450.0376-E25	3	6	9	26	
+APW20001120.1450.0376-E24	2	14	20	22	25	27	
+APW20001120.1450.0376-E18	32	33	
