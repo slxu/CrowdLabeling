@@ -39,9 +39,9 @@ d3.cluster = function(){
       initNode();
 
       chartDiv.innerHTML = "";
-      d3.selectAll("svg").data([]).exit().remove();
+      d3.selectAll("#cluster-svg").data([]).exit().remove();
 
-      svg = d3.select("#chart").append("svg")
+      svg = d3.select("#chart").append("svg").attr("id","cluster-svg")
         .attr("width", w)
         .attr("height", h);
 
@@ -151,7 +151,7 @@ d3.cluster = function(){
   };
 
   cluster.onOutputClick = function() {
-    d3.selectAll("svg").data([]).exit().remove();
+    d3.selectAll("#cluster-svg").data([]).exit().remove();
     var index = 0;
     groupData.forEach(function(g) {
       if (g.nodes.length == 1)
