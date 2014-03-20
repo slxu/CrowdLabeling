@@ -48,12 +48,6 @@
         document.getElementById("inputTree").style.height = availHeight - 105 + "px";
         document.getElementById("chartTree").style.height = document.getElementById("chart").style.height;
 
-        var height = document.getElementById("chart").clientHeight-30;
-        var width = document.getElementById("chart").clientWidth-30;
-              
-        var st = sentenceTree().size([height,
-            width]).textSize(16).textMargin(10).displayContainer("#chartTree").margin({top:20,
-              bottom:0, left:20,right:0}).animationDuration(750).show();
       };
       var currentDisplay="cluster";
       function changeDisplay(e)
@@ -107,8 +101,7 @@
           <button type="button" class="btn btn-lg btn-default" onclick="onOutputClick()" style="float:right" id="output_btn" disabled>Output</button>
           <button type="button" class="btn btn-lg btn-default" onclick="onStartClick()" style="float:right" id="start_btn">Start</button>
           <select class="form-control" id="docselect">
-            <option>APW20001001.2021.0521</option>
-            <option>APW20001002.0615.0146</option>
+            <option>APW20001001.2021.0521</option> <option>APW20001002.0615.0146</option>
             <option>APW20001002.1912.0524</option>
             <option>APW20001006.0338.0184</option>
             <option>APW20001007.0339.0149</option>
@@ -138,11 +131,13 @@
           <div class="panel-body" id="inputTree"></div>
         </div>
         <div>
-          <button type="button" class="btn btn-lg btn-default" onclick="onOutputClick()" style="float:right" id="output_btn-tree" disabled>Output</button>
-          <button type="button" class="btn btn-lg btn-default" onclick="onStartClick()" style="float:right" id="start_btn-tree">Start</button>
+          <button type="button" class="btn btn-lg btn-default" onclick="stopTreeAnnotation()" style="float:right" id="output_btn-tree" disabled>Output</button>
+          <button type="button" class="btn btn-lg btn-default" onclick="startTreeAnnotation()" style="float:right" id="start_btn-tree">Start</button>
           <select class="form-control" id="docselectTree">
             <option></option>
-            <option value="data/pennTree/wsj_0003">wsj_0003</option>
+            <option value="data/wsj_0003_1.txt">wsj_0003_1-10</option>
+            <option value="data/wsj_0003_2.txt">wsj_0003_11-20</option>
+            <option value="data/wsj_0003_3.txt">wsj_0003_21-30</option>
           </select>
           
         </div>
