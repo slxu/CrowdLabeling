@@ -529,8 +529,7 @@
     var sentenceTree_lineData = [];
     var sentenceTree_mouseIsDown=false;
 
-    var hierarchy = d3.layout.hierarchy().sort(null).value(null), separation = d3_layout_treeSeparation,
-           height = 1, width = 1, textSize=10, textMargin=10,
+    var hierarchy = d3.layout.hierarchy().sort(null).value(null), height = 1, width = 1, textSize=10, textMargin=10,
            displayContainer = "body", treeNodeID=0, duration = 750, treeRoot, treeSvg, sentenceTree_margin, alignWords = false; 
 
     function sentenceTree(d, i) {
@@ -595,7 +594,7 @@
           currentRoot._name = null;
         }
       }
-      var left = d3_layout_treeSearch(treeRoot, d3_layout_treeLeftmost), right = d3_layout_treeSearch(treeRoot, d3_layout_treeRightmost), deep = d3_layout_treeSearch(treeRoot, d3_layout_treeDeepest), x0 = left.x - separation(left, right) / 2, x1 = right.x + separation(right, left) / 2, y1 = deep.depth || 1;
+      var left = d3_layout_treeSearch(treeRoot, d3_layout_treeLeftmost), right = d3_layout_treeSearch(treeRoot, d3_layout_treeRightmost), deep = d3_layout_treeSearch(treeRoot, d3_layout_treeDeepest), y1 = deep.depth || 1;
       d3_layout_numLeaves(treeRoot);
       d3_layout_assignNodeHeights(treeRoot);
       var textLengthNodeGap = null;
@@ -626,9 +625,9 @@
       return nodes;
     }
 
-    sentenceTree.separation = function(x) {
-      if (!arguments.length) return separation;
-      separation = x;
+    sentenceTree.alignWords = function(x) {
+      if (!arguments.length) return alignWords;
+      alignWords = x;
       return sentenceTree;
     };
     sentenceTree.size = function(x) {
@@ -664,6 +663,10 @@
       duration = x;
       return sentenceTree;
     };
+    sentenceTree.update = function(x) {
+      sentenceTree_update(x);
+      return sentenceTree;
+    };
     sentenceTree.show = function() {
       treeSvg = d3.select(displayContainer).append("svg")
         .attr("width", width + sentenceTree_margin.right + sentenceTree_margin.left)
@@ -680,15 +683,6 @@
         .on("mouseup",sentenceTree_mouseup)
       .append("g")
         .attr("transform", "translate(" + sentenceTree_margin.left + "," + sentenceTree_margin.top + ")");
-
-      d3.json("/data/sentence.json", function(error, flare) {
-        var root = flare;
-        root.x0 = height / 2;
-        root.y0 = 0;
-        sentenceTree.nodes(root);
-        root.children.forEach(function(d){ d.collapse();});
-        sentenceTree_update(root);
-      });
 
       return sentenceTree;
     };

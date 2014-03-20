@@ -13,5 +13,12 @@
       
   var st = sentenceTree().size([height, width]).textSize(16).textMargin(10).displayContainer("body").animationDuration(750).margin(margin).show();
 
+  d3.json("/data/sentence.json", function(error, flare) {
+    var root = flare;
+    root.x0 = height / 2;
+    root.y0 = 0;
+    st.nodes(root);
+    st.update(root);
+  });
 
 </script>

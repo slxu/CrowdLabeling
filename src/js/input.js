@@ -42,52 +42,85 @@ function onStartClick() {
 }
 
 
+var sentences=new Array();
+var initialized=false;
+var sentenceTree;
+
+function sentenceClicked(sentenceIdx) {
+  var height = document.getElementById("chartTree").clientHeight-30;
+  var width = document.getElementById("chartTree").clientWidth-30;
+ 
+  if (!initialized) {
+    initialized=true;
+    sentenceTree = sentenceTree().size([height,
+        width]).textSize(16).textMargin(10).displayContainer("#chartTree").margin({top:20,
+          bottom:0, left:20,right:0}).animationDuration(750).show();
+    document.getElementById("output_btn-tree").disabled = false;
+    document.getElementById("start_btn-tree").disabled = true;
+  }
+  
+  var s = sentences[sentenceIdx];
+  var root = s.result;
+  if (root.x0 == null || root.x0 == undefined) {
+    root.x0 = height / 2;
+    root.y0 = 0;
+  }
+
+  sentenceTree.nodes(root);
+  sentenceTree.update(root);
+}
+
+function splitSentenceToJson(s) {
+  var words = s.trim().split(/\s+/);
+  var leaves=new Array();
+  words.forEach(function(d){
+    leaves.push({"name":d});
+  });
+  return {"children":leaves};
+}
 
 function startTreeAnnotation() {
   var select = document.getElementById("docselectTree");
   var doc = select.options[select.selectedIndex].value;
   $.get(doc, function(response) {
-    var content = response;
     var display = document.getElementById("inputTree");
-    var lines = content.trim().split('\n');
+    var lines = response.trim().split('\n');
+    var contents="";
+    var idx=0;
 
-    // remove first and last line
-    //lines.splice(0, 1);
-    //lines.splice(lines.length - 1, 1);
+    sentences = new Array();
+    lines.forEach(function(d){
+      sentences.push({
+        "sentence": d,
+        "id": idx,
+        "result": splitSentenceToJson(d)
+      });
+      contents+=
+      '<div id="sentence_'+idx+'" onClick="javascript:sentenceClicked('+idx+')" style="margin-bottom:10px">'
+      +'<span> #'+(idx+1)+'. </span>'
+      +'<span> '+d+' </span>'
+      +'</div>';
+      idx++;
+    });
 
-    id = 0;
-    content = lines.join('<br/><br/>');
-    content = content.replace(/<label[^>]*>/g, replace);
-    content = content.replace(/<\/label>/g, "</span>");
-    // console.log(content);
-    display.innerHTML = content;
-
-    var height = document.getElementById("chartTree").clientHeight-30;
-    var width = document.getElementById("chartTree").clientWidth-30;
-          
-    sentenceTree().size([height,
-        width]).textSize(16).textMargin(10).displayContainer("#chartTree").margin({top:20,
-          bottom:0, left:20,right:0}).animationDuration(750).show();
-    
-    document.getElementById("output_btn-tree").disabled = false;
-    document.getElementById("start_btn-tree").disabled = true;
+    display.innerHTML = contents;
   });
 }
 
 function stopTreeAnnotation() {
-    d3.selectAll("#cluster-svg").data([]).exit().remove();
-    var index = 0;
-    groupData.forEach(function(g) {
-      if (g.nodes.length == 1)
-        return;
-      index++;
-      chartDiv.innerHTML += "Group " + index + ":";
-      g.nodes.forEach(function(n) {
-        chartDiv.innerHTML += " " + n.id;
-      });
-      chartDiv.innerHTML += "<br/>";
+  d3.selectAll("#cluster-svg").data([]).exit().remove();
+  var index = 0;
+  groupData.forEach(function(g) {
+    if (g.nodes.length == 1)
+      return;
+    index++;
+    chartDiv.innerHTML += "Group " + index + ":";
+    g.nodes.forEach(function(n) {
+      chartDiv.innerHTML += " " + n.id;
     });
+    chartDiv.innerHTML += "<br/>";
+  });
 
-    document.getElementById("output_btn").disabled = true;
-    document.getElementById("start_btn").disabled = false;
-  };
+  document.getElementById("output_btn").disabled = true;
+  document.getElementById("start_btn").disabled = false;
+}
