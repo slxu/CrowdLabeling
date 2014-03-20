@@ -89,9 +89,9 @@
             height: bBox.height
         };
     }
-    function sentenceTree_computeDepthGap(root, width, textMargin, textSize){
+    function sentenceTree_computeDepthGap(currentRoot, width, textMargin, textSize){
       var minGap = Number.MAX_VALUE;
-      d3_layout_treeVisitAfter(root, function(node, previousSibling){
+      d3_layout_treeVisitAfter(currentRoot, function(node, previousSibling){
           if (!node.children || !node.children.length) {
             var myTextLength=0;
             if (node.name) {
@@ -106,10 +106,10 @@
         });      
       return {"nodeGap":minGap};
     }
-    function sentenceTree_computeDepthGapWordsAlign(root, width, textMargin, textSize){
+    function sentenceTree_computeDepthGapWordsAlign(currentRoot, width, textMargin, textSize){
       var maxTextLength = Number.MIN_VALUE;
       var maxDepth = 0;
-      d3_layout_treeVisitAfter(root, function(node, previousSibling){
+      d3_layout_treeVisitAfter(currentRoot, function(node, previousSibling){
           if (!node.children || !node.children.length) {
             var myTextLength=0;
             if (node.name) {
@@ -181,10 +181,10 @@
       else
         return null;
     }
-    function sentenceTree_changeDepth(root,deltaDepth) {
-      root.depth+=deltaDepth;
-      if (root.children && root.children.length)
-        root.children.forEach(function(d) {
+    function sentenceTree_changeDepth(currentRoot,deltaDepth) {
+      currentRoot.depth+=deltaDepth;
+      if (currentRoot.children && currentRoot.children.length)
+        currentRoot.children.forEach(function(d) {
           sentenceTree_changeDepth(d,deltaDepth);
         });
     }
@@ -325,11 +325,11 @@
         var m = d3.mouse(this);
         var selectedSubTrees = sentenceTree_pathSelection();
         sentenceTree_cleanupPathSelection();
-        var cutted = sentenceTree.cutEdgeMergeRear(selectedSubTrees);
+        var cutted = sentenceTree_cutEdgeMergeRear(selectedSubTrees);
         if (!cutted) {
-          cutted = sentenceTree.cutEdgeMergeFront(selectedSubTrees);
+          cutted = sentenceTree_cutEdgeMergeFront(selectedSubTrees);
           if (!cutted) {
-            var ancestor = sentenceTree.mergeSelectedSubTrees(selectedSubTrees);
+            var ancestor = sentenceTree_mergeSelectedSubTrees(selectedSubTrees);
             if (ancestor)
               sentenceTree_update(ancestor);
           } else 
@@ -369,7 +369,7 @@
     function sentenceTree_update(source) {
 
       // Compute the new tree layout.
-      var treeNodes = sentenceTree.nodes(root).reverse(),
+      var treeNodes = sentenceTree.nodes(treeRoot).reverse(),
           treeLinks = sentenceTree.links(treeNodes);
 
       // Update the nodes…
@@ -534,9 +534,10 @@
            displayContainer = "body", treeNodeID=0, duration = 750, treeRoot, treeSvg, sentenceTree_margin, alignWords = false; 
 
     function sentenceTree(d, i) {
-      var nodes = hierarchy.call(this, d, i), root = nodes[0];
-      function d3_layout_numLeaves(root){
-        d3_layout_treeVisitAfter(root, function(node, previousSibling){
+      var nodes = hierarchy.call(this, d, i);
+      treeRoot = nodes[0];
+      function d3_layout_numLeaves(currentRoot){
+        d3_layout_treeVisitAfter(currentRoot, function(node, previousSibling){
             if (!node.children || !node.children.length)
               node._numLeaves=1;
             else{
@@ -547,12 +548,12 @@
           }
         );
       }
-      function d3_layout_assignNodeHeights(root){
+      function d3_layout_assignNodeHeights(currentRoot){
         //total height is 1
         var leafIndex=0;
-        var totalLeaves = root._numLeaves;
+        var totalLeaves = currentRoot._numLeaves;
         var leaveGap = 1.0/(totalLeaves+1);
-        d3_layout_treeVisitAfter(root, function(node, previousSibling){
+        d3_layout_treeVisitAfter(currentRoot, function(node, previousSibling){
             if (!node.children || !node.children.length)
             {
               //leaf
@@ -568,9 +569,9 @@
           }
         );
       }
-      function d3_layout_collapseName(root){
-        var name = root.name?root.name:"";
-        var children = root.children?root.children:[];
+      function d3_layout_collapseName(currentRoot){
+        var name = currentRoot.name?currentRoot.name:"";
+        var children = currentRoot.children?currentRoot.children:[];
         children.forEach(function(c){
             var cName = d3_layout_collapseName(c);
             if (cName && cName.length)
@@ -579,40 +580,30 @@
         );
         return name;
       }
-      function d3_layout_collapse(root) {
-        if (root.children) {
-          root._children = root.children;
-          root._name = root.name;
-          root.name = d3_layout_collapseName(root);
-          root.children = null;
+      function d3_layout_collapse(currentRoot) {
+        if (currentRoot.children) {
+          currentRoot._children = currentRoot.children;
+          currentRoot._name = currentRoot.name;
+          currentRoot.name = d3_layout_collapseName(currentRoot);
+          currentRoot.children = null;
         }
-        else if (root._children)
+        else if (currentRoot._children)
         {
-          root.children = root._children;
-          root._children = null;
-          root.name = root._name;
-          root._name = null;
+          currentRoot.children = currentRoot._children;
+          currentRoot._children = null;
+          currentRoot.name = currentRoot._name;
+          currentRoot._name = null;
         }
       }
-      d3_layout_treeVisitAfter(root, function(node, previousSibling) {
-        node._tree = {
-          ancestor: node,
-          prelim: 0,
-          mod: 0,
-          change: 0,
-          shift: 0,
-          number: previousSibling ? previousSibling._tree.number + 1 : 0
-        };
-      });
-      var left = d3_layout_treeSearch(root, d3_layout_treeLeftmost), right = d3_layout_treeSearch(root, d3_layout_treeRightmost), deep = d3_layout_treeSearch(root, d3_layout_treeDeepest), x0 = left.x - separation(left, right) / 2, x1 = right.x + separation(right, left) / 2, y1 = deep.depth || 1;
-      d3_layout_numLeaves(root);
-      d3_layout_assignNodeHeights(root);
+      var left = d3_layout_treeSearch(treeRoot, d3_layout_treeLeftmost), right = d3_layout_treeSearch(treeRoot, d3_layout_treeRightmost), deep = d3_layout_treeSearch(treeRoot, d3_layout_treeDeepest), x0 = left.x - separation(left, right) / 2, x1 = right.x + separation(right, left) / 2, y1 = deep.depth || 1;
+      d3_layout_numLeaves(treeRoot);
+      d3_layout_assignNodeHeights(treeRoot);
       var textLengthNodeGap = null;
       if (alignWords)
-        textLengthNodeGap = sentenceTree_computeDepthGapWordsAlign(root, width, textMargin, textSize);
+        textLengthNodeGap = sentenceTree_computeDepthGapWordsAlign(treeRoot, width, textMargin, textSize);
       else
-        textLengthNodeGap = sentenceTree_computeDepthGap(root, width, textMargin, textSize);
-      d3_layout_treeVisitAfter(root, function(node) {
+        textLengthNodeGap = sentenceTree_computeDepthGap(treeRoot, width, textMargin, textSize);
+      d3_layout_treeVisitAfter(treeRoot, function(node) {
         node.x *= height;
         if (alignWords) {
           if (!node.children || !node.children.length) {
@@ -631,7 +622,6 @@
         else
           node.y = node.depth * textLengthNodeGap.nodeGap+textMargin;
         node.collapse = function(){d3_layout_collapse(this);};
-        delete node._tree;
       } );
       return nodes;
     }
@@ -692,7 +682,7 @@
         .attr("transform", "translate(" + sentenceTree_margin.left + "," + sentenceTree_margin.top + ")");
 
       d3.json("/data/sentence.json", function(error, flare) {
-        root = flare;
+        var root = flare;
         root.x0 = height / 2;
         root.y0 = 0;
         sentenceTree.nodes(root);
@@ -702,10 +692,19 @@
 
       return sentenceTree;
     };
-
-    sentenceTree.cutEdgeMergeRear = sentenceTree_cutEdgeMergeRear;
-    sentenceTree.cutEdgeMergeFront = sentenceTree_cutEdgeMergeFront;
-    sentenceTree.mergeSelectedSubTrees = sentenceTree_mergeSelectedSubTrees;
+    sentenceTree.toJson = function(){
+      return JSON.stringify(treeRoot, function(key, value){
+        var result=undefined;
+        if (value && (typeof value === 'object') && (!(value instanceof Array))){
+          result={"children":value.children,"name":value.name};
+          if (value._children && value._children.length)
+            result = {"children":value._children,"name":""};
+        } else
+          if (key=="children" || key=="name")
+            result = value;
+        return result;
+      });
+    };
 
     return d3_layout_hierarchyRebind(sentenceTree, hierarchy);
   };
