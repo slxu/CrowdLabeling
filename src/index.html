@@ -26,6 +26,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="bootstrap/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/d3.v3.min.js"></script>
+    <script src="js/raphael-min.js"></script>
     <script>//<![CDATA[
       $(function(){$.fn.bootstrapFileInput=function(){this.each(function(i,elem){var $elem=$(elem);if(typeof $elem.attr('data-bfi-disabled')!='undefined'){return;}
       var buttonWord='Browse';if(typeof $elem.attr('title')!='undefined'){buttonWord=$elem.attr('title');}
@@ -43,6 +44,16 @@
         document.getElementById("component").style.height = availHeight + "px";
         document.getElementById("input").style.height = availHeight - 105 + "px";
         document.getElementById("chart").style.height = availHeight + "px";
+        document.getElementById("componentTree").style.height = availHeight + "px";
+        document.getElementById("inputTree").style.height = availHeight - 105 + "px";
+        document.getElementById("chartTree").style.height = document.getElementById("chart").style.height;
+
+        var height = document.getElementById("chart").clientHeight-30;
+        var width = document.getElementById("chart").clientWidth-30;
+              
+        var st = sentenceTree().size([height,
+            width]).textSize(16).textMargin(10).displayContainer("#chartTree").margin({top:20,
+              bottom:0, left:20,right:0}).animationDuration(750).show();
       };
       var currentDisplay="cluster";
       function changeDisplay(e)
@@ -111,34 +122,25 @@
         </div>
       </div>
       
-
       <script type="text/javascript" src="js/cluster.js"></script>
       <script type="text/javascript" src="js/input.js"></script>
     </div>
-    <div id="tree">
+    <div id="tree" style="display:none">
 
-      <div id="chart-tree">
+      <div id="chartTree">
       </div>
 
-      <div id="component-tree">
-        <div class="panel panel-default" id="display-tree">
+      <div id="componentTree">
+        <div class="panel panel-default" id="displayTree">
           <div class="panel-heading">
             <h3 class="panel-title">Input</h3>
           </div>
-          <div class="panel-body" id="input-tree"></div>
+          <div class="panel-body" id="inputTree"></div>
         </div>
-        <!--div>
-          <button type="button" class="btn btn-lg btn-default" onclick="onUploadClick()" style="float:right">Upload</button>
-          <input type="file">
-        </div-->
         <div>
-          <button type="button" class="btn btn-lg btn-default"
-          onclick="onOutputClick()" style="float:right"
-          id="output_btn-tree" disabled>Output</button>
-          <button type="button" class="btn btn-lg btn-default"
-          onclick="onStartClick()" style="float:right"
-          id="start_btn-tree">Start</button>
-          <select class="form-control" id="docselect-tree">
+          <button type="button" class="btn btn-lg btn-default" onclick="onOutputClick()" style="float:right" id="output_btn-tree" disabled>Output</button>
+          <button type="button" class="btn btn-lg btn-default" onclick="onStartClick()" style="float:right" id="start_btn-tree">Start</button>
+          <select class="form-control" id="docselectTree">
             <option></option>
             <option value="data/pennTree/wsj_0003">wsj_0003</option>
           </select>
@@ -146,6 +148,7 @@
         </div>
       </div>
    
+      <script src="js/sentencetree.js"></script>
     </div>
   </body>
 </html>
