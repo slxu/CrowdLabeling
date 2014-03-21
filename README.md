@@ -1,14 +1,13 @@
-fp-clzhang-slxu-haichen-hanchuan
-================================
 ## Team Members
-- Congle Zhang : 
-- Haichen Shen :
-- Hanchuan Li: hanchuan@uw.edu
-- Shengliang Xu : 
+- Congle Zhang, Haichen Shen, Hanchuan Li, Shengliang Xu {clzhang,slxu,hanchuan,haichen}@cs.washington.edu
 
 ## Project Name
 ## A Visualized Toolkit for Crowdsourcing NLP Annotations
 ## Development Process
+We design, inplenemted and evaluated two visualizationt tool for crowdsorsing NLP annotations.
+
+The clustering tool fucused on direct dragging functing on the cluster graph to enable fast and direct annotation process.
+The tree building tool fcused on direct cutting and merging functio on the tree graph to enable fast and accurate tree building process.
 
 System Brainstorming
 - All group members work on this together.
