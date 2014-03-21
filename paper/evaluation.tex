@@ -1,52 +1,49 @@
-\section{Evaluation methods}
+\section{Evaluation}
+Our goal is to evaluate whether our visualization toolkit is helpful for non-experts of NLP to annotate clustering and parsing training data. 
 
-We are going to do separate evaluations of the two targeted 
-labeling tasks. 
+\subsection{Setup}
+For clustering, we use co-reference as our running example; for parsing, we ask workers to build syntactic tree for sentences according to their English skills. They don't need to tag any of the nodes. We designed the user studies as follows:
+\bi
+\item Participants: We asked 6 graduate students aged 21 to 26 years old to participant in our user study. 3 are native English speakers, the other 3 learned English as a second language. None of them are NLP experts. We divide them into native group and foreign group.
+\item Instructions: each participant is given two answer examples one on parsing and one on clustering. And given 5 minute to learn the example and ask whatever question they have.
+\item Clustering: each of them are given 10 articles for co-reference with 5 using our visualization tool and 5 conducted using Excel in the traditional way (where they will cluster expressions by putting them into the same row). The orders of the articles and the tools are random.
+\item Parsing: each of them are given 10 sentences for tree parsing with 5 using our visualization tool and 5 using text editor to put parenthesis in the traditional way. For example {\em (My dog) (also likes) (eating sausage).)}
+\ei 
+The order of the articles, the sentences and the toolkit they use are randomly shuffled.
 
-\begin{itemize}
+We compare the time efficiency and accuracy to generate training data with and without the toolkit. For clustering, time efficiency is defined as the seconds worker used for each correct co-reference cluster. Accuracy is computed by purity and random index. Let $N_{ij}$ be the number of mentions in cluster $i$ that belong to entity $j$, and let $N_j=\sum_i N_{ij}$. Then the purity of a cluster is $p_i=\max_j p_{ij}$. The overall purity is $\sum_i \frac{N_i}{N} p_i$. Rand index is computed similar to pairwise precision and recall but also count false negative. The definition is $R=\frac{TP+TN}{TP+FP+FN+TN}$. Both metrics range between 0 (bad) and 1 (good). Table~\ref{t:cluster} shows the average time, purity and rand index for 5 workers. It is clear that using our toolkit dramatically improve the efficiency and accuracy.
 
-\item Tree building. There are a lot of tree builiding tasks in the
-NLP area. We propose to evaluate our system using the task of semantic
-tree parsing of sentences. The goal of the task is to get the semantic
-parsing tree of each labeling sentence. 
+\begin{table*}[bt]
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+ \hline
+ & Participant & W1 & W2 & W3 & W4 & W5 & Avg \\\hline
+ & time & 1& 1 & 1 & 1 & 1 & 1\\
+Text Editor& purity & 1 & 1 & 1& 1 & 1 & 1\\
+& rand index & 1 & 1 & 1& 1 & 1 & 1\\\hline
+& time & 1& 1 & 1 & 1 & 1 & 1\\
+Visual. Tool& purity & 1 & 1 & 1& 1 & 1 & 1\\
+& rand index & 1 & 1 & 1& 1 & 1 & 1\\
+\hline
+\end{tabular}
+\end{center}
+\caption{For clustering, comparing time, purity and rand index with and without the visualization toolkit} \label{t:cluster}
+\end{table*}
 
-\textit{Participants}: We propose to gather 4 to 10 participants from
-undergraduate/graduate UW students.  
-
-\textit{Evaluation process}: Each participant is given 2 sets of
-randomly selected sentences.  In each set, there may be around 100
-sentences. All the participants are divided into two groups.  Half of
-the participants will be asked to complete the parsing of the first
-given sentence set using only plain text file editors, plain html
-files or Microsoft Excel files without diagrams. They are then
-required to complete the second setence set with the aid of our tool.
-The other half of the participants will be asked to complete the
-labeling tasks in the reverse order. The purpose of the two group
-splitting and the different order of conducting the labeling is to
-eliminate the possible factor of gaining unexpected information from
-using the first labeling tool.
-
-\textit{Evaluation}: Both time consumption and result quality of the two
-groups of participants will be evaluated.
-
-\item Clustering building. In order to evaluate the clustering
-building task, we propose to use entity clustering in NLP relation
-extraction. The goal of the task is to get a cluster structure of
-given entities.
-
-\textit{Participants}: We propose to also gather 4 to 10 participants from
-UW undergraduate/graduate students.
-
-\textit{Evaluation process}: Each participant is given 2 sets of
-randomly selected entities, e.g. human names, together with extra
-context info for entity resolution. The participants are also divided
-into two groups as in the tree building task. And also the two groups label the
-entities in the same way as in tree building task.
-
-\textit{Evaluation}: Both time consumption and result quality of the
-two groups of participants will be evaluated.
+For parsing, time efficiency is defined as the seconds worker used for each token, to compensate the time cost over long sentences. 
+\begin{table*}[bt]
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+ \hline
+ & Participant & W1 & W2 & W3 & W4 & W5 & Avg \\\hline
+parenthesis & time & 1& 1 & 1 & 1 & 1 & 1\\\hline
+Visual. Tool& time & 1 & 1 & 1& 1 & 1 & 1\\\hline
+\end{tabular}
+\end{center}
+\caption{For parsing, compare time with and without the visualization toolkit} \label{t:cluster}
+\end{table*}
+We manually check the quality of these tree and find out that the qualities with and without the toolkit is quite comparable. It is reasonable because we provide workers text edits with the function of parenthesis matching, so people can easily figure out the errors of parenthesis in the sentences. It shows that people are more intolerable about the errors in parsing, even with text editors. But it is clear that they spent much more time on each tree. During crowd-sourcing, time cost equals money spending. It shows that our toolkit is still valuable. 
 
 
-\end{itemize}
 
 
