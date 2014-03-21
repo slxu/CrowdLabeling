@@ -1,0 +1,78 @@
+T0	ACE-Mention 172 189	the upper Midwest
+#0	ACE T0	entityID: APW20001218.2221.0727-E28; extent: the upper Midwest
+T1	ACE-Mention 210 217	schools
+#1	ACE T1	entityID: APW20001218.2221.0727-E46; extent: schools
+T2	ACE-Mention 290 305	Rockwell , Iowa
+#2	ACE T2	entityID: APW20001218.2221.0727-E47; extent: Rockwell , Iowa
+T3	ACE-Mention 345 363	southern Minnesota
+#3	ACE T3	entityID: APW20001218.2221.0727-E49; extent: southern Minnesota
+T4	ACE-Mention 401 412	the Midwest
+#4	ACE T4	entityID: APW20001218.2221.0727-E50; extent: the Midwest
+T5	ACE-Mention 451 555	parts of Nebraska , Iowa , Minnesota , Wisconsin , northern Missouri , Illinois , Indiana , and Michigan
+#5	ACE T5	entityID: APW20001218.2221.0727-E51; extent: parts of Nebraska , Iowa , Minnesota , Wisconsin , northern Missouri , Illinois , Indiana , and Michigan
+T6	ACE-Mention 559 566	Schools
+#6	ACE T6	entityID: APW20001218.2221.0727-E1; extent: Schools
+T7	ACE-Mention 571 586	some businesses
+#7	ACE T7	entityID: APW20001218.2221.0727-E2; extent: some businesses
+T8	ACE-Mention 597 614	parts of Nebraska
+#8	ACE T8	entityID: APW20001218.2221.0727-E3; extent: parts of Nebraska
+T9	ACE-Mention 618 627	Snowplows
+#9	ACE T9	entityID: APW20001218.2221.0727-E45; extent: Snowplows
+T10	ACE-Mention 644 695	the roads in northeastern Nebraska 's Cuming County
+#10	ACE T10	entityID: APW20001218.2221.0727-E4; extent: the roads in northeastern Nebraska 's Cuming County
+T11	ACE-Mention 799 808	Minnesota
+#11	ACE T11	entityID: APW20001218.2221.0727-E57; extent: Minnesota
+T12	ACE-Mention 869 903	about three dozen school districts
+#12	ACE T12	entityID: APW20001218.2221.0727-E7; extent: about three dozen school districts
+T13	ACE-Mention 924 933	Wisconsin
+#13	ACE T13	entityID: APW20001218.2221.0727-E56; extent: Wisconsin
+T14	ACE-Mention 953 959	school
+#14	ACE T14	entityID: APW20001218.2221.0727-E8; extent: school
+T15	ACE-Mention 1100 1142	western sections of Kentucky and Tennessee
+#15	ACE T15	entityID: APW20001218.2221.0727-E9; extent: western sections of Kentucky and Tennessee
+T16	ACE-Mention 1201 1209	Arkansas
+#16	ACE T16	entityID: APW20001218.2221.0727-E12; extent: Arkansas
+T17	ACE-Mention 1212 1223	Mississippi
+#17	ACE T17	entityID: APW20001218.2221.0727-E13; extent: Mississippi
+T18	ACE-Mention 1230 1239	Louisiana
+#18	ACE T18	entityID: APW20001218.2221.0727-E14; extent: Louisiana
+T19	ACE-Mention 1249 1262	eastern Texas
+#19	ACE T19	entityID: APW20001218.2221.0727-E15; extent: eastern Texas
+T20	ACE-Mention 1316 1323	Alabama
+#20	ACE T20	entityID: APW20001218.2221.0727-E16; extent: Alabama
+T21	ACE-Mention 1326 1333	Georgia
+#21	ACE T21	entityID: APW20001218.2221.0727-E17; extent: Georgia
+T22	ACE-Mention 1340 1360	northwestern Florida
+#22	ACE T22	entityID: APW20001218.2221.0727-E18; extent: northwestern Florida
+T23	ACE-Mention 1438 1496	parts of Wyoming , western South Dakota , eastern Colorado
+#23	ACE T23	entityID: APW20001218.2221.0727-E19; extent: parts of Wyoming , western South Dakota , eastern Colorado
+T24	ACE-Mention 1503 1542	western sections of Nebraska and Kansas
+#24	ACE T24	entityID: APW20001218.2221.0727-E23; extent: western sections of Nebraska and Kansas
+T25	ACE-Mention 1549 1562	the Northeast
+#25	ACE T25	entityID: APW20001218.2221.0727-E25; extent: the Northeast
+T26	ACE-Mention 1610 1622	Pennsylvania
+#26	ACE T26	entityID: APW20001218.2221.0727-E26; extent: Pennsylvania
+T27	ACE-Mention 1630 1646	upstate New York
+#27	ACE T27	entityID: APW20001218.2221.0727-E27; extent: upstate New York
+T28	ACE-Mention 1652 1672	northern New England
+#28	ACE T28	entityID: APW20001218.2221.0727-E29; extent: northern New England
+T29	ACE-Mention 1702 1734	some western parts of Washington
+#29	ACE T29	entityID: APW20001218.2221.0727-E30; extent: some western parts of Washington
+T30	ACE-Mention 1776 1786	the region
+#30	ACE T30	entityID: APW20001218.2221.0727-E32; extent: the region
+T31	ACE-Mention 1792 1803	the Pacific
+#31	ACE T31	entityID: APW20001218.2221.0727-E33; extent: the Pacific
+T32	ACE-Mention 1896 1911	Phillips , Wis.
+#32	ACE T32	entityID: APW20001218.2221.0727-E34; extent: Phillips , Wis.
+T33	ACE-Mention 1942 1960	Oceanside , Calif.
+#33	ACE T33	entityID: APW20001218.2221.0727-E36; extent: Oceanside , Calif.
+T34	ACE-Mention 1967 1986	Brownsville , Texas
+#34	ACE T34	entityID: APW20001218.2221.0727-E38; extent: Brownsville , Texas
+T35	ACE-Mention 2028 2044	Jamestown , N.D.
+#35	ACE T35	entityID: APW20001218.2221.0727-E40; extent: Jamestown , N.D.
+T36	ACE-Mention 2062 2086	National Weather Service
+#36	ACE T36	entityID: APW20001218.2221.0727-E42; extent: National Weather Service
+T37	ACE-Mention 2148 2159	Intellicast
+#37	ACE T37	entityID: APW20001218.2221.0727-E44; extent: Intellicast
+T38	ACE-Mention 2189 2204	Weather Channel
+#38	ACE T38	entityID: APW20001218.2221.0727-E43; extent: Weather Channel

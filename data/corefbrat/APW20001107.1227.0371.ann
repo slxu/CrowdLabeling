@@ -1,0 +1,36 @@
+T0	ACE-Mention 107 114	BEIJING
+#0	ACE T0	entityID: APW20001107.1227.0371-E2; extent: BEIJING
+T1	ACE-Mention 115 119	(AP)
+#1	ACE T1	entityID: APW20001107.1227.0371-E3; extent: (AP)
+T2	ACE-Mention 122 127	China
+#2	ACE T2	entityID: APW20001107.1227.0371-E4; extent: China
+T3	ACE-Mention 138 163	almost 1,600 new aircraft
+#3	ACE T3	entityID: APW20001107.1227.0371-E5; extent: almost 1,600 new aircraft
+T4	ACE-Mention 198 201	its
+#4	ACE T4	entityID: APW20001107.1227.0371-E4; extent: its
+T5	ACE-Mention 235 251	Airbus Industrie
+#5	ACE T5	entityID: APW20001107.1227.0371-E6; extent: Airbus Industrie
+T6	ACE-Mention 268 277	Passenger
+#6	ACE T6	entityID: APW20001107.1227.0371-E7; extent: Passenger
+T7	ACE-Mention 289 305	Chinese carriers
+#7	ACE T7	entityID: APW20001107.1227.0371-E8; extent: Chinese carriers
+T8	ACE-Mention 383 387	them
+#8	ACE T8	entityID: APW20001107.1227.0371-E8; extent: them
+T9	ACE-Mention 398 403	their
+#9	ACE T9	entityID: APW20001107.1227.0371-E8; extent: their
+T10	ACE-Mention 451 483	the European aircraft consortium
+#10	ACE T10	entityID: APW20001107.1227.0371-E6; extent: the European aircraft consortium
+T11	ACE-Mention 505 511	Airbus
+#11	ACE T11	entityID: APW20001107.1227.0371-E6; extent: Airbus
+T12	ACE-Mention 522 542	China 's 19 airlines
+#12	ACE T12	entityID: APW20001107.1227.0371-E8; extent: China 's 19 airlines
+T13	ACE-Mention 553 579	1,570 new passenger planes
+#13	ACE T13	entityID: APW20001107.1227.0371-E12; extent: 1,570 new passenger planes
+T14	ACE-Mention 584 605	26 new cargo carriers
+#14	ACE T14	entityID: APW20001107.1227.0371-E1; extent: 26 new cargo carriers
+T15	ACE-Mention 646 651	China
+#15	ACE T15	entityID: APW20001107.1227.0371-E4; extent: China
+T16	ACE-Mention 743 752	passenger
+#16	ACE T16	entityID: APW20001107.1227.0371-E7; extent: passenger
+T17	ACE-Mention 802 808	Airbus
+#17	ACE T17	entityID: APW20001107.1227.0371-E6; extent: Airbus

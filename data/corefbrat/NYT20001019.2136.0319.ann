@@ -1,0 +1,130 @@
+T0	ACE-Mention 382 401	Gov. George W. Bush
+#0	ACE T0	entityID: NYT20001019.2136.0319-E1; extent: Gov. George W. Bush
+T1	ACE-Mention 405 414	his guest
+#1	ACE T1	entityID: NYT20001019.2136.0319-E1; extent: his guest
+T2	ACE-Mention 417 426	Letterman
+#2	ACE T2	entityID: NYT20001019.2136.0319-E2; extent: Letterman
+T3	ACE-Mention 435 453	an audience member
+#3	ACE T3	entityID: NYT20001019.2136.0319-E3; extent: an audience member
+T4	ACE-Mention 460 465	Texas
+#4	ACE T4	entityID: NYT20001019.2136.0319-E5; extent: Texas
+T5	ACE-Mention 469 471	He
+#5	ACE T5	entityID: NYT20001019.2136.0319-E2; extent: He
+T6	ACE-Mention 490 502	the governor
+#6	ACE T6	entityID: NYT20001019.2136.0319-E1; extent: the governor
+T7	ACE-Mention 517 528	a black car
+#7	ACE T7	entityID: NYT20001019.2136.0319-E6; extent: a black car
+T8	ACE-Mention 532 534	He
+#8	ACE T8	entityID: NYT20001019.2136.0319-E2; extent: He
+T9	ACE-Mention 546 550	Bush
+#9	ACE T9	entityID: NYT20001019.2136.0319-E1; extent: Bush
+T10	ACE-Mention 579 589	a reporter
+#10	ACE T10	entityID: NYT20001019.2136.0319-E7; extent: a reporter
+T11	ACE-Mention 616 625	Letterman
+#11	ACE T11	entityID: NYT20001019.2136.0319-E2; extent: Letterman
+T12	ACE-Mention 645 694	anyone who was expecting a normal night of comedy
+#12	ACE T12	entityID: NYT20001019.2136.0319-E8; extent: anyone who was expecting a normal night of comedy
+T13	ACE-Mention 723 727	Bush
+#13	ACE T13	entityID: NYT20001019.2136.0319-E1; extent: Bush
+T14	ACE-Mention 750 758	The host
+#14	ACE T14	entityID: NYT20001019.2136.0319-E2; extent: The host
+T15	ACE-Mention 767 804	the Republican presidential candidate
+#15	ACE T15	entityID: NYT20001019.2136.0319-E1; extent: the Republican presidential candidate
+T16	ACE-Mention 843 863	a Navy ship in Yemen
+#16	ACE T16	entityID: NYT20001019.2136.0319-E11; extent: a Navy ship in Yemen
+T17	ACE-Mention 878 893	the Middle East
+#17	ACE T17	entityID: NYT20001019.2136.0319-E14; extent: the Middle East
+T18	ACE-Mention 911 916	Texas
+#18	ACE T18	entityID: NYT20001019.2136.0319-E5; extent: Texas
+T19	ACE-Mention 920 922	He
+#19	ACE T19	entityID: NYT20001019.2136.0319-E2; extent: He
+T20	ACE-Mention 964 966	he
+#20	ACE T20	entityID: NYT20001019.2136.0319-E2; extent: he
+T21	ACE-Mention 977 980	his
+#21	ACE T21	entityID: NYT20001019.2136.0319-E2; extent: his
+T22	ACE-Mention 996 999	his
+#22	ACE T22	entityID: NYT20001019.2136.0319-E2; extent: his
+T23	ACE-Mention 1019 1023	Bush
+#23	ACE T23	entityID: NYT20001019.2136.0319-E1; extent: Bush
+T24	ACE-Mention 1068 1070	he
+#24	ACE T24	entityID: NYT20001019.2136.0319-E1; extent: he
+T25	ACE-Mention 1079 1081	he
+#25	ACE T25	entityID: NYT20001019.2136.0319-E1; extent: he
+T26	ACE-Mention 1112 1114	he
+#26	ACE T26	entityID: NYT20001019.2136.0319-E1; extent: he
+T27	ACE-Mention 1130 1144	a lot of folks
+#27	ACE T27	entityID: NYT20001019.2136.0319-E15; extent: a lot of folks
+T28	ACE-Mention 1158 1159	I
+#28	ACE T28	entityID: NYT20001019.2136.0319-E1; extent: I
+T29	ACE-Mention 1199 1200	I
+#29	ACE T29	entityID: NYT20001019.2136.0319-E1; extent: I
+T30	ACE-Mention 1259 1260	I
+#30	ACE T30	entityID: NYT20001019.2136.0319-E1; extent: I
+T31	ACE-Mention 1288 1289	I
+#31	ACE T31	entityID: NYT20001019.2136.0319-E1; extent: I
+T32	ACE-Mention 1293 1307	George W. Bush
+#32	ACE T32	entityID: NYT20001019.2136.0319-E1; extent: George W. Bush
+T33	ACE-Mention 1323 1332	Letterman
+#33	ACE T33	entityID: NYT20001019.2136.0319-E2; extent: Letterman
+T34	ACE-Mention 1381 1383	we
+#34	ACE T34	entityID: NYT20001019.2136.0319-E16; extent: we
+T35	ACE-Mention 1410 1413	you
+#35	ACE T35	entityID: NYT20001019.2136.0319-E1; extent: you
+T36	ACE-Mention 1428 1443	people in Texas
+#36	ACE T36	entityID: NYT20001019.2136.0319-E26; extent: people in Texas
+T37	ACE-Mention 1512 1516	Bush
+#37	ACE T37	entityID: NYT20001019.2136.0319-E1; extent: Bush
+T38	ACE-Mention 1600 1601	I
+#38	ACE T38	entityID: NYT20001019.2136.0319-E1; extent: I
+T39	ACE-Mention 1623 1627	Bush
+#39	ACE T39	entityID: NYT20001019.2136.0319-E1; extent: Bush
+T40	ACE-Mention 1639 1642	You
+#40	ACE T40	entityID: NYT20001019.2136.0319-E17; extent: You
+T41	ACE-Mention 1676 1677	I
+#41	ACE T41	entityID: NYT20001019.2136.0319-E1; extent: I
+T42	ACE-Mention 1688 1691	you
+#42	ACE T42	entityID: NYT20001019.2136.0319-E16; extent: you
+T43	ACE-Mention 1727 1734	victims
+#43	ACE T43	entityID: NYT20001019.2136.0319-E18; extent: victims
+T44	ACE-Mention 1738 1771	other people who are put to death
+#44	ACE T44	entityID: NYT20001019.2136.0319-E19; extent: other people who are put to death
+T45	ACE-Mention 1788 1797	Letterman
+#45	ACE T45	entityID: NYT20001019.2136.0319-E2; extent: Letterman
+T46	ACE-Mention 1819 1822	you
+#46	ACE T46	entityID: NYT20001019.2136.0319-E1; extent: you
+T47	ACE-Mention 1876 1880	Bush
+#47	ACE T47	entityID: NYT20001019.2136.0319-E1; extent: Bush
+T48	ACE-Mention 1886 1888	he
+#48	ACE T48	entityID: NYT20001019.2136.0319-E1; extent: he
+T49	ACE-Mention 1902 1905	his
+#49	ACE T49	entityID: NYT20001019.2136.0319-E1; extent: his
+T50	ACE-Mention 1914 1916	he
+#50	ACE T50	entityID: NYT20001019.2136.0319-E1; extent: he
+T51	ACE-Mention 1979 1986	someone
+#51	ACE T51	entityID: NYT20001019.2136.0319-E21; extent: someone
+T52	ACE-Mention 2015 2024	Letterman
+#52	ACE T52	entityID: NYT20001019.2136.0319-E2; extent: Letterman
+T53	ACE-Mention 2085 2097	the governor
+#53	ACE T53	entityID: NYT20001019.2136.0319-E1; extent: the governor
+T54	ACE-Mention 2106 2113	the two
+#54	ACE T54	entityID: NYT20001019.2136.0319-E22; extent: the two
+T55	ACE-Mention 2128 2132	Bush
+#55	ACE T55	entityID: NYT20001019.2136.0319-E1; extent: Bush
+T56	ACE-Mention 2161 2188	a nature preserve in Alaska
+#56	ACE T56	entityID: NYT20001019.2136.0319-E23; extent: a nature preserve in Alaska
+T57	ACE-Mention 2201 2206	Texas
+#57	ACE T57	entityID: NYT20001019.2136.0319-E5; extent: Texas
+T58	ACE-Mention 2255 2260	Texas
+#58	ACE T58	entityID: NYT20001019.2136.0319-E5; extent: Texas
+T59	ACE-Mention 2266 2274	the host
+#59	ACE T59	entityID: NYT20001019.2136.0319-E2; extent: the host
+T60	ACE-Mention 2287 2291	Bush
+#60	ACE T60	entityID: NYT20001019.2136.0319-E1; extent: Bush
+T61	ACE-Mention 2337 2339	we
+#61	ACE T61	entityID: NYT20001019.2136.0319-E5; extent: we
+T62	ACE-Mention 2345 2358	a lot of cars
+#62	ACE T62	entityID: NYT20001019.2136.0319-E25; extent: a lot of cars
+T63	ACE-Mention 2517 2554	Bush , usually a chronic word mangler
+#63	ACE T63	entityID: NYT20001019.2136.0319-E1; extent: Bush , usually a chronic word mangler
+T64	ACE-Mention 2666 2668	he
+#64	ACE T64	entityID: NYT20001019.2136.0319-E1; extent: he

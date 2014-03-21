@@ -1,0 +1,214 @@
+T0	ACE-Mention 542 561	CHATTANOOGA , Tenn.
+#0	ACE T0	entityID: NYT20001106.1705.0187-E16; extent: CHATTANOOGA , Tenn.
+T1	ACE-Mention 587 589	he
+#1	ACE T1	entityID: NYT20001106.1705.0187-E23; extent: he
+T2	ACE-Mention 603 606	his
+#2	ACE T2	entityID: NYT20001106.1705.0187-E23; extent: his
+T3	ACE-Mention 665 684	Gov. George W. Bush
+#3	ACE T3	entityID: NYT20001106.1705.0187-E23; extent: Gov. George W. Bush
+T4	ACE-Mention 691 694	his
+#4	ACE T4	entityID: NYT20001106.1705.0187-E23; extent: his
+T5	ACE-Mention 774 784	Washington
+#5	ACE T5	entityID: NYT20001106.1705.0187-E46; extent: Washington
+T6	ACE-Mention 793 795	he
+#6	ACE T6	entityID: NYT20001106.1705.0187-E23; extent: he
+T7	ACE-Mention 843 847	Bush
+#7	ACE T7	entityID: NYT20001106.1705.0187-E23; extent: Bush
+T8	ACE-Mention 861 864	his
+#8	ACE T8	entityID: NYT20001106.1705.0187-E23; extent: his
+T9	ACE-Mention 1004 1006	he
+#9	ACE T9	entityID: NYT20001106.1705.0187-E23; extent: he
+T10	ACE-Mention 1047 1050	His
+#10	ACE T10	entityID: NYT20001106.1705.0187-E23; extent: His
+T11	ACE-Mention 1076 1085	Tennessee
+#11	ACE T11	entityID: NYT20001106.1705.0187-E43; extent: Tennessee
+T12	ACE-Mention 1090 1093	his
+#12	ACE T12	entityID: NYT20001106.1705.0187-E23; extent: his
+T13	ACE-Mention 1115 1123	Arkansas
+#13	ACE T13	entityID: NYT20001106.1705.0187-E47; extent: Arkansas
+T14	ACE-Mention 1126 1206	the home states , respectively , of Vice President Al Gore and President Clinton
+#14	ACE T14	entityID: NYT20001106.1705.0187-E48; extent: the home states , respectively , of Vice President Al Gore and President Clinton
+T15	ACE-Mention 1210 1228	The Texas governor
+#15	ACE T15	entityID: NYT20001106.1705.0187-E23; extent: The Texas governor
+T16	ACE-Mention 1262 1264	he
+#16	ACE T16	entityID: NYT20001106.1705.0187-E23; extent: he
+T17	ACE-Mention 1269 1276	himself
+#17	ACE T17	entityID: NYT20001106.1705.0187-E23; extent: himself
+T18	ACE-Mention 1280 1450	the country 's best hope for bridging ideological divides , healing partisan wounds and making sure that Americans could gaze upon the White House with unfettered respect
+#18	ACE T18	entityID: NYT20001106.1705.0187-E4; extent: the country 's best hope for bridging ideological divides , healing partisan wounds and making sure that Americans could gaze upon the White House with unfettered respect
+T19	ACE-Mention 1488 1490	we
+#19	ACE T19	entityID: NYT20001106.1705.0187-E7; extent: we
+T20	ACE-Mention 1496 1627	a leader who 's willing to unite the country , to bring people together , to elevate the people 's business above everyday politics
+#20	ACE T20	entityID: NYT20001106.1705.0187-E8; extent: a leader who 's willing to unite the country , to bring people together , to elevate the people 's business above everyday politics
+T21	ACE-Mention 1633 1637	Bush
+#21	ACE T21	entityID: NYT20001106.1705.0187-E23; extent: Bush
+T22	ACE-Mention 1661 1763	a hangar at the airport here , where supporters ' chants evoked the nearness of the moment of decision
+#22	ACE T22	entityID: NYT20001106.1705.0187-E10; extent: a hangar at the airport here , where supporters ' chants evoked the nearness of the moment of decision
+T23	ACE-Mention 1789 1793	they
+#23	ACE T23	entityID: NYT20001106.1705.0187-E12; extent: they
+T24	ACE-Mention 1831 1841	the nation
+#24	ACE T24	entityID: NYT20001106.1705.0187-E5; extent: the nation
+T25	ACE-Mention 1851 1855	Bush
+#25	ACE T25	entityID: NYT20001106.1705.0187-E23; extent: Bush
+T26	ACE-Mention 1861 1865	them
+#26	ACE T26	entityID: NYT20001106.1705.0187-E12; extent: them
+T27	ACE-Mention 1875 1912	a president who can unite this nation
+#27	ACE T27	entityID: NYT20001106.1705.0187-E13; extent: a president who can unite this nation
+T28	ACE-Mention 1915 2017	a president who puts aside the endless partisan bickering that seems to gridlock our nation 's capitol
+#28	ACE T28	entityID: NYT20001106.1705.0187-E13; extent: a president who puts aside the endless partisan bickering that seems to gridlock our nation 's capitol
+T29	ACE-Mention 2020 2057	a president who puts the people first
+#29	ACE T29	entityID: NYT20001106.1705.0187-E13; extent: a president who puts the people first
+T30	ACE-Mention 2060 2104	a president who lifts this nation 's spirits
+#30	ACE T30	entityID: NYT20001106.1705.0187-E13; extent: a president who lifts this nation 's spirits
+T31	ACE-Mention 2111 2112	I
+#31	ACE T31	entityID: NYT20001106.1705.0187-E23; extent: I
+T32	ACE-Mention 2120 2134	that president
+#32	ACE T32	entityID: NYT20001106.1705.0187-E13; extent: that president
+T33	ACE-Mention 2140 2142	he
+#33	ACE T33	entityID: NYT20001106.1705.0187-E23; extent: he
+T34	ACE-Mention 2242 2246	Bush
+#34	ACE T34	entityID: NYT20001106.1705.0187-E23; extent: Bush
+T35	ACE-Mention 2300 2306	voters
+#35	ACE T35	entityID: NYT20001106.1705.0187-E17; extent: voters
+T36	ACE-Mention 2310 2313	His
+#36	ACE T36	entityID: NYT20001106.1705.0187-E23; extent: His
+T37	ACE-Mention 2412 2421	Tennessee
+#37	ACE T37	entityID: NYT20001106.1705.0187-E43; extent: Tennessee
+T38	ACE-Mention 2426 2434	Arkansas
+#38	ACE T38	entityID: NYT20001106.1705.0187-E47; extent: Arkansas
+T39	ACE-Mention 2437 2455	his campaign plane
+#39	ACE T39	entityID: NYT20001106.1705.0187-E18; extent: his campaign plane
+T40	ACE-Mention 2472 2481	Wisconsin
+#40	ACE T40	entityID: NYT20001106.1705.0187-E19; extent: Wisconsin
+T41	ACE-Mention 2486 2490	Iowa
+#41	ACE T41	entityID: NYT20001106.1705.0187-E20; extent: Iowa
+T42	ACE-Mention 2503 2531	any one of those four states
+#42	ACE T42	entityID: NYT20001106.1705.0187-E21; extent: any one of those four states
+T43	ACE-Mention 2569 2573	Bush
+#43	ACE T43	entityID: NYT20001106.1705.0187-E23; extent: Bush
+T44	ACE-Mention 2621 2668	such battlegrounds as Michigan and Pennsylvania
+#44	ACE T44	entityID: NYT20001106.1705.0187-E24; extent: such battlegrounds as Michigan and Pennsylvania
+T45	ACE-Mention 2676 2680	they
+#45	ACE T45	entityID: NYT20001106.1705.0187-E22; extent: they
+T46	ACE-Mention 2685 2765	genuine tossups that were initially predicted to be much more hospitable to Gore
+#46	ACE T46	entityID: NYT20001106.1705.0187-E22; extent: genuine tossups that were initially predicted to be much more hospitable to Gore
+T47	ACE-Mention 2781 2785	them
+#47	ACE T47	entityID: NYT20001106.1705.0187-E22; extent: them
+T48	ACE-Mention 2795 2799	Bush
+#48	ACE T48	entityID: NYT20001106.1705.0187-E23; extent: Bush
+T49	ACE-Mention 2826 2829	his
+#49	ACE T49	entityID: NYT20001106.1705.0187-E23; extent: his
+T50	ACE-Mention 2883 2901	the vice president
+#50	ACE T50	entityID: NYT20001106.1705.0187-E49; extent: the vice president
+T51	ACE-Mention 2905 2907	He
+#51	ACE T51	entityID: NYT20001106.1705.0187-E23; extent: He
+T52	ACE-Mention 2920 2923	his
+#52	ACE T52	entityID: NYT20001106.1705.0187-E23; extent: his
+T53	ACE-Mention 2970 2973	him
+#53	ACE T53	entityID: NYT20001106.1705.0187-E23; extent: him
+T54	ACE-Mention 3016 3026	supporters
+#54	ACE T54	entityID: NYT20001106.1705.0187-E28; extent: supporters
+T55	ACE-Mention 3036 3039	him
+#55	ACE T55	entityID: NYT20001106.1705.0187-E23; extent: him
+T56	ACE-Mention 3092 3096	Bush
+#56	ACE T56	entityID: NYT20001106.1705.0187-E23; extent: Bush
+T57	ACE-Mention 3201 3202	I
+#57	ACE T57	entityID: NYT20001106.1705.0187-E23; extent: I
+T58	ACE-Mention 3208 3211	you
+#58	ACE T58	entityID: NYT20001106.1705.0187-E29; extent: you
+T59	ACE-Mention 3231 3232	I
+#59	ACE T59	entityID: NYT20001106.1705.0187-E23; extent: I
+T60	ACE-Mention 3261 3265	Bush
+#60	ACE T60	entityID: NYT20001106.1705.0187-E23; extent: Bush
+T61	ACE-Mention 3271 3347	a crowd of more than 1,000 people at a convention center in Green Bay , Wis.
+#61	ACE T61	entityID: NYT20001106.1705.0187-E29; extent: a crowd of more than 1,000 people at a convention center in Green Bay , Wis.
+T62	ACE-Mention 3351 3352	I
+#62	ACE T62	entityID: NYT20001106.1705.0187-E23; extent: I
+T63	ACE-Mention 3358 3361	you
+#63	ACE T63	entityID: NYT20001106.1705.0187-E29; extent: you
+T64	ACE-Mention 3371 3375	your
+#64	ACE T64	entityID: NYT20001106.1705.0187-E29; extent: your
+T65	ACE-Mention 3397 3403	people
+#65	ACE T65	entityID: NYT20001106.1705.0187-E32; extent: people
+T66	ACE-Mention 3415 3424	the polls
+#66	ACE T66	entityID: NYT20001106.1705.0187-E33; extent: the polls
+T67	ACE-Mention 3447 3449	he
+#67	ACE T67	entityID: NYT20001106.1705.0187-E23; extent: he
+T68	ACE-Mention 3466 3469	you
+#68	ACE T68	entityID: NYT20001106.1705.0187-E29; extent: you
+T69	ACE-Mention 3492 3501	the folks
+#69	ACE T69	entityID: NYT20001106.1705.0187-E34; extent: the folks
+T70	ACE-Mention 3508 3510	we
+#70	ACE T70	entityID: NYT20001106.1705.0187-E35; extent: we
+T71	ACE-Mention 3541 3543	we
+#71	ACE T71	entityID: NYT20001106.1705.0187-E35; extent: we
+T72	ACE-Mention 3576 3582	people
+#72	ACE T72	entityID: NYT20001106.1705.0187-E36; extent: people
+T73	ACE-Mention 3617 3620	you
+#73	ACE T73	entityID: NYT20001106.1705.0187-E29; extent: you
+T74	ACE-Mention 3687 3706	the American people
+#74	ACE T74	entityID: NYT20001106.1705.0187-E5; extent: the American people
+T75	ACE-Mention 3709 3710	I
+#75	ACE T75	entityID: NYT20001106.1705.0187-E23; extent: I
+T76	ACE-Mention 3738 3758	what political party
+#76	ACE T76	entityID: NYT20001106.1705.0187-E39; extent: what political party
+T77	ACE-Mention 3759 3763	they
+#77	ACE T77	entityID: NYT20001106.1705.0187-E37; extent: they
+T78	ACE-Mention 3774 3778	They
+#78	ACE T78	entityID: NYT20001106.1705.0187-E37; extent: They
+T79	ACE-Mention 3797 3800	our
+#79	ACE T79	entityID: NYT20001106.1705.0187-E35; extent: our
+T80	ACE-Mention 3814 3825	Chattanooga
+#80	ACE T80	entityID: NYT20001106.1705.0187-E16; extent: Chattanooga
+T81	ACE-Mention 3828 3832	Bush
+#81	ACE T81	entityID: NYT20001106.1705.0187-E23; extent: Bush
+T82	ACE-Mention 3852 3856	Gore
+#82	ACE T82	entityID: NYT20001106.1705.0187-E49; extent: Gore
+T83	ACE-Mention 3899 3965	Tennessee , where Gore is not at all certain to prevail on Tuesday
+#83	ACE T83	entityID: NYT20001106.1705.0187-E43; extent: Tennessee , where Gore is not at all certain to prevail on Tuesday
+T84	ACE-Mention 3969 3987	The Texas governor
+#84	ACE T84	entityID: NYT20001106.1705.0187-E23; extent: The Texas governor
+T85	ACE-Mention 4001 4005	Gore
+#85	ACE T85	entityID: NYT20001106.1705.0187-E49; extent: Gore
+T86	ACE-Mention 4034 4044	Washington
+#86	ACE T86	entityID: NYT20001106.1705.0187-E5; extent: Washington
+T87	ACE-Mention 4059 4062	him
+#87	ACE T87	entityID: NYT20001106.1705.0187-E49; extent: him
+T88	ACE-Mention 4068 4091	the rest of the country
+#88	ACE T88	entityID: NYT20001106.1705.0187-E40; extent: the rest of the country
+T89	ACE-Mention 4102 4105	him
+#89	ACE T89	entityID: NYT20001106.1705.0187-E49; extent: him
+T90	ACE-Mention 4122 4140	federal government
+#90	ACE T90	entityID: NYT20001106.1705.0187-E5; extent: federal government
+T91	ACE-Mention 4180 4191	My opponent
+#91	ACE T91	entityID: NYT20001106.1705.0187-E49; extent: My opponent
+T92	ACE-Mention 4206 4220	his home state
+#92	ACE T92	entityID: NYT20001106.1705.0187-E43; extent: his home state
+T93	ACE-Mention 4226 4230	Bush
+#93	ACE T93	entityID: NYT20001106.1705.0187-E23; extent: Bush
+T94	ACE-Mention 4242 4244	He
+#94	ACE T94	entityID: NYT20001106.1705.0187-E49; extent: He
+T95	ACE-Mention 4253 4270	Washington , D.C.
+#95	ACE T95	entityID: NYT20001106.1705.0187-E46; extent: Washington , D.C.
+T96	ACE-Mention 4277 4279	he
+#96	ACE T96	entityID: NYT20001106.1705.0187-E49; extent: he
+T97	ACE-Mention 4300 4309	Tennessee
+#97	ACE T97	entityID: NYT20001106.1705.0187-E43; extent: Tennessee
+T98	ACE-Mention 4316 4318	He
+#98	ACE T98	entityID: NYT20001106.1705.0187-E49; extent: He
+T99	ACE-Mention 4326 4329	his
+#99	ACE T99	entityID: NYT20001106.1705.0187-E49; extent: his
+T100	ACE-Mention 4341 4345	Bush
+#100	ACE T100	entityID: NYT20001106.1705.0187-E23; extent: Bush
+T101	ACE-Mention 4358 4360	He
+#101	ACE T101	entityID: NYT20001106.1705.0187-E49; extent: He
+T102	ACE-Mention 4374 4376	he
+#102	ACE T102	entityID: NYT20001106.1705.0187-E49; extent: he
+T103	ACE-Mention 4388 4390	He
+#103	ACE T103	entityID: NYT20001106.1705.0187-E49; extent: He
+T104	ACE-Mention 4398 4408	Washington
+#104	ACE T104	entityID: NYT20001106.1705.0187-E5; extent: Washington
+T105	ACE-Mention 4412 4414	We
+#105	ACE T105	entityID: NYT20001106.1705.0187-E42; extent: We
+T106	ACE-Mention 4421 4431	the people
+#106	ACE T106	entityID: NYT20001106.1705.0187-E5; extent: the people

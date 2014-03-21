@@ -1,0 +1,122 @@
+T0	ACE-Mention 104 118	BAGHDAD , Iraq
+#0	ACE T0	entityID: APW20001028.2128.0494-E21; extent: BAGHDAD , Iraq
+T1	ACE-Mention 119 123	(AP)
+#1	ACE T1	entityID: APW20001028.2128.0494-E46; extent: (AP)
+T2	ACE-Mention 126 154	Saddam International Airport
+#2	ACE T2	entityID: APW20001028.2128.0494-E47; extent: Saddam International Airport
+T3	ACE-Mention 215 221	planes
+#3	ACE T3	entityID: APW20001028.2128.0494-E48; extent: planes
+T4	ACE-Mention 228 245	the United States
+#4	ACE T4	entityID: APW20001028.2128.0494-E49; extent: the United States
+T5	ACE-Mention 267 271	Iraq
+#5	ACE T5	entityID: APW20001028.2128.0494-E3; extent: Iraq
+T6	ACE-Mention 283 295	Three planes
+#6	ACE T6	entityID: APW20001028.2128.0494-E51; extent: Three planes
+T7	ACE-Mention 308 311	two
+#7	ACE T7	entityID: APW20001028.2128.0494-E52; extent: two
+T8	ACE-Mention 354 468	delegations of people opposed to the sanctions from Russia , Egypt , Turkey and , for the first time , the Ukraine
+#8	ACE T8	entityID: APW20001028.2128.0494-E53; extent: delegations of people opposed to the sanctions from Russia , Egypt , Turkey and , for the first time , the Ukraine
+T9	ACE-Mention 509 513	Iraq
+#9	ACE T9	entityID: APW20001028.2128.0494-E3; extent: Iraq
+T10	ACE-Mention 518 521	its
+#10	ACE T10	entityID: APW20001028.2128.0494-E3; extent: its
+T11	ACE-Mention 539 545	Kuwait
+#11	ACE T11	entityID: APW20001028.2128.0494-E1; extent: Kuwait
+T12	ACE-Mention 549 577	Organizers of recent flights
+#12	ACE T12	entityID: APW20001028.2128.0494-E2; extent: Organizers of recent flights
+T13	ACE-Mention 582 586	they
+#13	ACE T13	entityID: APW20001028.2128.0494-E2; extent: they
+T14	ACE-Mention 619 635	the Iraqi people
+#14	ACE T14	entityID: APW20001028.2128.0494-E3; extent: the Iraqi people
+T15	ACE-Mention 639 643	Iraq
+#15	ACE T15	entityID: APW20001028.2128.0494-E3; extent: Iraq
+T16	ACE-Mention 708 719	The airport
+#16	ACE T16	entityID: APW20001028.2128.0494-E47; extent: The airport
+T17	ACE-Mention 819 821	it
+#17	ACE T17	entityID: APW20001028.2128.0494-E47; extent: it
+T18	ACE-Mention 874 890	dozens of planes
+#18	ACE T18	entityID: APW20001028.2128.0494-E4; extent: dozens of planes
+T19	ACE-Mention 939 946	Baghdad
+#19	ACE T19	entityID: APW20001028.2128.0494-E21; extent: Baghdad
+T20	ACE-Mention 1002 1033	Saturday 's Egyptian delegation
+#20	ACE T20	entityID: APW20001028.2128.0494-E5; extent: Saturday 's Egyptian delegation
+T21	ACE-Mention 1043 1115	more than 150 delegates , most representing unions and political parties
+#21	ACE T21	entityID: APW20001028.2128.0494-E5; extent: more than 150 delegates , most representing unions and political parties
+T22	ACE-Mention 1119 1125	Actors
+#22	ACE T22	entityID: APW20001028.2128.0494-E10; extent: Actors
+T23	ACE-Mention 1130 1137	singers
+#23	ACE T23	entityID: APW20001028.2128.0494-E11; extent: singers
+T24	ACE-Mention 1183 1190	Baghdad
+#24	ACE T24	entityID: APW20001028.2128.0494-E21; extent: Baghdad
+T25	ACE-Mention 1274 1285	Palestinian
+#25	ACE T25	entityID: APW20001028.2128.0494-E12; extent: Palestinian
+T26	ACE-Mention 1305 1307	my
+#26	ACE T26	entityID: APW20001028.2128.0494-E13; extent: my
+T27	ACE-Mention 1332 1336	Iraq
+#27	ACE T27	entityID: APW20001028.2128.0494-E3; extent: Iraq
+T28	ACE-Mention 1341 1351	the people
+#28	ACE T28	entityID: APW20001028.2128.0494-E3; extent: the people
+T29	ACE-Mention 1387 1388	I
+#29	ACE T29	entityID: APW20001028.2128.0494-E13; extent: I
+T30	ACE-Mention 1403 1407	here
+#30	ACE T30	entityID: APW20001028.2128.0494-E3; extent: here
+T31	ACE-Mention 1416 1418	my
+#31	ACE T31	entityID: APW20001028.2128.0494-E13; extent: my
+T32	ACE-Mention 1437 1477	well-known Egyptian actress Madeha Yusri
+#32	ACE T32	entityID: APW20001028.2128.0494-E13; extent: well-known Egyptian actress Madeha Yusri
+T33	ACE-Mention 1481 1513	Deputy Prime Minister Tareq Aziz
+#33	ACE T33	entityID: APW20001028.2128.0494-E15; extent: Deputy Prime Minister Tareq Aziz
+T34	ACE-Mention 1523 1546	the Egyptian delegation
+#34	ACE T34	entityID: APW20001028.2128.0494-E5; extent: the Egyptian delegation
+T35	ACE-Mention 1559 1564	their
+#35	ACE T35	entityID: APW20001028.2128.0494-E5; extent: their
+T36	ACE-Mention 1576 1583	Baghdad
+#36	ACE T36	entityID: APW20001028.2128.0494-E21; extent: Baghdad
+T37	ACE-Mention 1596 1600	Arab
+#37	ACE T37	entityID: APW20001028.2128.0494-E17; extent: Arab
+T38	ACE-Mention 1615 1657	The Russian , Ukrainian and Turkish planes
+#38	ACE T38	entityID: APW20001028.2128.0494-E18; extent: The Russian , Ukrainian and Turkish planes
+T39	ACE-Mention 1666 1677	businessmen
+#39	ACE T39	entityID: APW20001028.2128.0494-E23; extent: businessmen
+T40	ACE-Mention 1682 1689	doctors
+#40	ACE T40	entityID: APW20001028.2128.0494-E24; extent: doctors
+T41	ACE-Mention 1705 1753	Palestine National Council Speaker Salim Zaanoun
+#41	ACE T41	entityID: APW20001028.2128.0494-E25; extent: Palestine National Council Speaker Salim Zaanoun
+T42	ACE-Mention 1759 1775	the Palestinians
+#42	ACE T42	entityID: APW20001028.2128.0494-E12; extent: the Palestinians
+T43	ACE-Mention 1786 1793	a plane
+#43	ACE T43	entityID: APW20001028.2128.0494-E32; extent: a plane
+T44	ACE-Mention 1797 1801	Iraq
+#44	ACE T44	entityID: APW20001028.2128.0494-E3; extent: Iraq
+T45	ACE-Mention 1835 1849	United Nations
+#45	ACE T45	entityID: APW20001028.2128.0494-E29; extent: United Nations
+T46	ACE-Mention 1878 1892	Amman , Jordan
+#46	ACE T46	entityID: APW20001028.2128.0494-E30; extent: Amman , Jordan
+T47	ACE-Mention 1895 1902	Zaanoun
+#47	ACE T47	entityID: APW20001028.2128.0494-E25; extent: Zaanoun
+T48	ACE-Mention 1908 1917	the plane
+#48	ACE T48	entityID: APW20001028.2128.0494-E32; extent: the plane
+T49	ACE-Mention 1929 2036	20 Palestinians wounded in ongoing violence in the Palestinian territories for treatment in Iraqi hospitals
+#49	ACE T49	entityID: APW20001028.2128.0494-E33; extent: 20 Palestinians wounded in ongoing violence in the Palestinian territories for treatment in Iraqi hospitals
+T50	ACE-Mention 2040 2061	Palestinian lawmakers
+#50	ACE T50	entityID: APW20001028.2128.0494-E36; extent: Palestinian lawmakers
+T51	ACE-Mention 2130 2134	Gaza
+#51	ACE T51	entityID: APW20001028.2128.0494-E37; extent: Gaza
+T52	ACE-Mention 2155 2160	Amman
+#52	ACE T52	entityID: APW20001028.2128.0494-E30; extent: Amman
+T53	ACE-Mention 2181 2188	Zaanoun
+#53	ACE T53	entityID: APW20001028.2128.0494-E25; extent: Zaanoun
+T54	ACE-Mention 2197 2199	He
+#54	ACE T54	entityID: APW20001028.2128.0494-E25; extent: He
+T55	ACE-Mention 2251 2279	the U.N. Sanctions Committee
+#55	ACE T55	entityID: APW20001028.2128.0494-E38; extent: the U.N. Sanctions Committee
+T56	ACE-Mention 2286 2307	U.N. Security Council
+#56	ACE T56	entityID: APW20001028.2128.0494-E40; extent: U.N. Security Council
+T57	ACE-Mention 2358 2362	Iraq
+#57	ACE T57	entityID: APW20001028.2128.0494-E3; extent: Iraq
+T58	ACE-Mention 2378 2409	its weapons of mass destruction
+#58	ACE T58	entityID: APW20001028.2128.0494-E42; extent: its weapons of mass destruction
+T59	ACE-Mention 2413 2420	Baghdad
+#59	ACE T59	entityID: APW20001028.2128.0494-E3; extent: Baghdad
+T60	ACE-Mention 2476 2496	U.N. arms inspectors
+#60	ACE T60	entityID: APW20001028.2128.0494-E41; extent: U.N. arms inspectors

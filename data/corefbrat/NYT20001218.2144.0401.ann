@@ -1,0 +1,200 @@
+T0	ACE-Mention 356 448	The fashion house of Donna Karan , which has long struggled to achieve financial equilibrium
+#0	ACE T0	entityID: NYT20001218.2144.0401-E12; extent: The fashion house of Donna Karan , which has long struggled to achieve financial equilibrium
+T1	ACE-Mention 469 486	a potential buyer
+#1	ACE T1	entityID: NYT20001218.2144.0401-E38; extent: a potential buyer
+T2	ACE-Mention 520 600	LVMH-Moet Hennessy Louis Vuitton , which has been on a sustained acquisition bid
+#2	ACE T2	entityID: NYT20001218.2144.0401-E38; extent: LVMH-Moet Hennessy Louis Vuitton , which has been on a sustained acquisition bid
+T3	ACE-Mention 626 651	Donna Karan International
+#3	ACE T3	entityID: NYT20001218.2144.0401-E12; extent: Donna Karan International
+T4	ACE-Mention 704 706	it
+#4	ACE T4	entityID: NYT20001218.2144.0401-E38; extent: it
+T5	ACE-Mention 720 731	the company
+#5	ACE T5	entityID: NYT20001218.2144.0401-E12; extent: the company
+T6	ACE-Mention 772 780	overseas
+#6	ACE T6	entityID: NYT20001218.2144.0401-E2; extent: overseas
+T7	ACE-Mention 814 818	LVMH
+#7	ACE T7	entityID: NYT20001218.2144.0401-E38; extent: LVMH
+T8	ACE-Mention 971 982	the company
+#8	ACE T8	entityID: NYT20001218.2144.0401-E12; extent: the company
+T9	ACE-Mention 1053 1064	the company
+#9	ACE T9	entityID: NYT20001218.2144.0401-E12; extent: the company
+T10	ACE-Mention 1140 1181	European luxury fashion houses like Fendi
+#10	ACE T10	entityID: NYT20001218.2144.0401-E3; extent: European luxury fashion houses like Fendi
+T11	ACE-Mention 1239 1244	board
+#11	ACE T11	entityID: NYT20001218.2144.0401-E31; extent: board
+T12	ACE-Mention 1315 1319	LVMH
+#12	ACE T12	entityID: NYT20001218.2144.0401-E38; extent: LVMH
+T13	ACE-Mention 1330 1346	Gabrielle Studio
+#13	ACE T13	entityID: NYT20001218.2144.0401-E6; extent: Gabrielle Studio
+T14	ACE-Mention 1349 1460	the company held by the designer and her husband , Stephan Weiss , that holds all of the Donna Karan trademarks
+#14	ACE T14	entityID: NYT20001218.2144.0401-E6; extent: the company held by the designer and her husband , Stephan Weiss , that holds all of the Donna Karan trademarks
+T15	ACE-Mention 1542 1546	LVMH
+#15	ACE T15	entityID: NYT20001218.2144.0401-E38; extent: LVMH
+T16	ACE-Mention 1583 1586	DKI
+#16	ACE T16	entityID: NYT20001218.2144.0401-E12; extent: DKI
+T17	ACE-Mention 1627 1631	LVMH
+#17	ACE T17	entityID: NYT20001218.2144.0401-E38; extent: LVMH
+T18	ACE-Mention 1637 1639	it
+#18	ACE T18	entityID: NYT20001218.2144.0401-E38; extent: it
+T19	ACE-Mention 1657 1666	Gabrielle
+#19	ACE T19	entityID: NYT20001218.2144.0401-E6; extent: Gabrielle
+T20	ACE-Mention 1671 1696	Donna Karan International
+#20	ACE T20	entityID: NYT20001218.2144.0401-E12; extent: Donna Karan International
+T21	ACE-Mention 1706 1708	it
+#21	ACE T21	entityID: NYT20001218.2144.0401-E38; extent: it
+T22	ACE-Mention 1723 1728	Karan
+#22	ACE T22	entityID: NYT20001218.2144.0401-E8; extent: Karan
+T23	ACE-Mention 1733 1744	her husband
+#23	ACE T23	entityID: NYT20001218.2144.0401-E9; extent: her husband
+T24	ACE-Mention 1793 1796	DKI
+#24	ACE T24	entityID: NYT20001218.2144.0401-E12; extent: DKI
+T25	ACE-Mention 1845 1864	the combined entity
+#25	ACE T25	entityID: NYT20001218.2144.0401-E32; extent: the combined entity
+T26	ACE-Mention 1871 1955	Karan , who will stay on as chief designer and creative leader for the design studio
+#26	ACE T26	entityID: NYT20001218.2144.0401-E8; extent: Karan , who will stay on as chief designer and creative leader for the design studio
+T27	ACE-Mention 1986 1995	Gabrielle
+#27	ACE T27	entityID: NYT20001218.2144.0401-E6; extent: Gabrielle
+T28	ACE-Mention 2009 2035	her namesake design studio
+#28	ACE T28	entityID: NYT20001218.2144.0401-E12; extent: her namesake design studio
+T29	ACE-Mention 2041 2046	which
+#29	ACE T29	entityID: NYT20001218.2144.0401-E12; extent: which
+T30	ACE-Mention 2047 2050	she
+#30	ACE T30	entityID: NYT20001218.2144.0401-E8; extent: she
+T31	ACE-Mention 2055 2060	Weiss
+#31	ACE T31	entityID: NYT20001218.2144.0401-E9; extent: Weiss
+T32	ACE-Mention 2111 2114	She
+#32	ACE T32	entityID: NYT20001218.2144.0401-E8; extent: She
+T33	ACE-Mention 2132 2133	I
+#33	ACE T33	entityID: NYT20001218.2144.0401-E8; extent: I
+T34	ACE-Mention 2196 2197	I
+#34	ACE T34	entityID: NYT20001218.2144.0401-E8; extent: I
+T35	ACE-Mention 2215 2217	my
+#35	ACE T35	entityID: NYT20001218.2144.0401-E8; extent: my
+T36	ACE-Mention 2229 2233	LVMH
+#36	ACE T36	entityID: NYT20001218.2144.0401-E38; extent: LVMH
+T37	ACE-Mention 2266 2272	global
+#37	ACE T37	entityID: NYT20001218.2144.0401-E33; extent: global
+T38	ACE-Mention 2369 2372	our
+#38	ACE T38	entityID: NYT20001218.2144.0401-E12; extent: our
+T39	ACE-Mention 2385 2390	Karan
+#39	ACE T39	entityID: NYT20001218.2144.0401-E8; extent: Karan
+T40	ACE-Mention 2428 2548	Paris-based LVMH , which like many European acquirers has been largely indifferent to established American design houses
+#40	ACE T40	entityID: NYT20001218.2144.0401-E38; extent: Paris-based LVMH , which like many European acquirers has been largely indifferent to established American design houses
+T41	ACE-Mention 2580 2584	hers
+#41	ACE T41	entityID: NYT20001218.2144.0401-E8; extent: hers
+T42	ACE-Mention 2618 2622	they
+#42	ACE T42	entityID: NYT20001218.2144.0401-E38; extent: they
+T43	ACE-Mention 2664 2667	she
+#43	ACE T43	entityID: NYT20001218.2144.0401-E8; extent: she
+T44	ACE-Mention 2676 2685	Investors
+#44	ACE T44	entityID: NYT20001218.2144.0401-E13; extent: Investors
+T45	ACE-Mention 2774 2778	them
+#45	ACE T45	entityID: NYT20001218.2144.0401-E12; extent: them
+T46	ACE-Mention 2827 2842	Harvey Robinson
+#46	ACE T46	entityID: NYT20001218.2144.0401-E14; extent: Harvey Robinson
+T47	ACE-Mention 2845 2939	an apparel analyst with the Chapman Co. , a Baltimore-based investment bank and brokerage firm
+#47	ACE T47	entityID: NYT20001218.2144.0401-E14; extent: an apparel analyst with the Chapman Co. , a Baltimore-based investment bank and brokerage firm
+T48	ACE-Mention 2946 2948	We
+#48	ACE T48	entityID: NYT20001218.2144.0401-E16; extent: We
+T49	ACE-Mention 2955 2959	LVMH
+#49	ACE T49	entityID: NYT20001218.2144.0401-E38; extent: LVMH
+T50	ACE-Mention 3019 3021	we
+#50	ACE T50	entityID: NYT20001218.2144.0401-E16; extent: we
+T51	ACE-Mention 3030 3034	they
+#51	ACE T51	entityID: NYT20001218.2144.0401-E38; extent: they
+T52	ACE-Mention 3091 3116	Donna Karan International
+#52	ACE T52	entityID: NYT20001218.2144.0401-E12; extent: Donna Karan International
+T53	ACE-Mention 3139 3142	its
+#53	ACE T53	entityID: NYT20001218.2144.0401-E12; extent: its
+T54	ACE-Mention 3185 3196	Wall Street
+#54	ACE T54	entityID: NYT20001218.2144.0401-E19; extent: Wall Street
+T55	ACE-Mention 3200 3209	Investors
+#55	ACE T55	entityID: NYT20001218.2144.0401-E13; extent: Investors
+T56	ACE-Mention 3229 3233	they
+#56	ACE T56	entityID: NYT20001218.2144.0401-E13; extent: they
+T57	ACE-Mention 3280 3342	Karan , who acted as chief designer as well as chief executive
+#57	ACE T57	entityID: NYT20001218.2144.0401-E8; extent: Karan , who acted as chief designer as well as chief executive
+T58	ACE-Mention 3381 3396	a large retinue
+#58	ACE T58	entityID: NYT20001218.2144.0401-E35; extent: a large retinue
+T59	ACE-Mention 3478 3481	her
+#59	ACE T59	entityID: NYT20001218.2144.0401-E8; extent: her
+T60	ACE-Mention 3549 3574	Donna Karan International
+#60	ACE T60	entityID: NYT20001218.2144.0401-E12; extent: Donna Karan International
+T61	ACE-Mention 3657 3668	the company
+#61	ACE T61	entityID: NYT20001218.2144.0401-E12; extent: the company
+T62	ACE-Mention 3675 3687	John D. Idol
+#62	ACE T62	entityID: NYT20001218.2144.0401-E20; extent: John D. Idol
+T63	ACE-Mention 3704 3719	chief executive
+#63	ACE T63	entityID: NYT20001218.2144.0401-E20; extent: chief executive
+T64	ACE-Mention 3723 3727	Idol
+#64	ACE T64	entityID: NYT20001218.2144.0401-E20; extent: Idol
+T65	ACE-Mention 3826 3837	The company
+#65	ACE T65	entityID: NYT20001218.2144.0401-E12; extent: The company
+T66	ACE-Mention 3972 3974	he
+#66	ACE T66	entityID: NYT20001218.2144.0401-E20; extent: he
+T67	ACE-Mention 4025 4029	Idol
+#67	ACE T67	entityID: NYT20001218.2144.0401-E20; extent: Idol
+T68	ACE-Mention 4033 4058	Donna Karan International
+#68	ACE T68	entityID: NYT20001218.2144.0401-E12; extent: Donna Karan International
+T69	ACE-Mention 4063 4072	Gabrielle
+#69	ACE T69	entityID: NYT20001218.2144.0401-E6; extent: Gabrielle
+T70	ACE-Mention 4127 4136	investors
+#70	ACE T70	entityID: NYT20001218.2144.0401-E13; extent: investors
+T71	ACE-Mention 4160 4171	the company
+#71	ACE T71	entityID: NYT20001218.2144.0401-E12; extent: the company
+T72	ACE-Mention 4191 4196	Karan
+#72	ACE T72	entityID: NYT20001218.2144.0401-E8; extent: Karan
+T73	ACE-Mention 4219 4235	Gabrielle studio
+#73	ACE T73	entityID: NYT20001218.2144.0401-E6; extent: Gabrielle studio
+T74	ACE-Mention 4287 4298	the company
+#74	ACE T74	entityID: NYT20001218.2144.0401-E6; extent: the company
+T75	ACE-Mention 4327 4376	That company , privately owned by Karan and Weiss
+#75	ACE T75	entityID: NYT20001218.2144.0401-E6; extent: That company , privately owned by Karan and Weiss
+T76	ACE-Mention 4535 4560	Donna Karan International
+#76	ACE T76	entityID: NYT20001218.2144.0401-E12; extent: Donna Karan International
+T77	ACE-Mention 4566 4571	Karan
+#77	ACE T77	entityID: NYT20001218.2144.0401-E8; extent: Karan
+T78	ACE-Mention 4576 4581	Weiss
+#78	ACE T78	entityID: NYT20001218.2144.0401-E9; extent: Weiss
+T79	ACE-Mention 4610 4626	the design house
+#79	ACE T79	entityID: NYT20001218.2144.0401-E12; extent: the design house
+T80	ACE-Mention 4666 4670	LVMH
+#80	ACE T80	entityID: NYT20001218.2144.0401-E38; extent: LVMH
+T81	ACE-Mention 4693 4718	Donna Karan International
+#81	ACE T81	entityID: NYT20001218.2144.0401-E12; extent: Donna Karan International
+T82	ACE-Mention 4732 4734	it
+#82	ACE T82	entityID: NYT20001218.2144.0401-E12; extent: it
+T83	ACE-Mention 4740 4749	Gabrielle
+#83	ACE T83	entityID: NYT20001218.2144.0401-E6; extent: Gabrielle
+T84	ACE-Mention 4797 4822	several industry insiders
+#84	ACE T84	entityID: NYT20001218.2144.0401-E21; extent: several industry insiders
+T85	ACE-Mention 4840 4844	LVMH
+#85	ACE T85	entityID: NYT20001218.2144.0401-E38; extent: LVMH
+T86	ACE-Mention 4877 4882	Karan
+#86	ACE T86	entityID: NYT20001218.2144.0401-E8; extent: Karan
+T87	ACE-Mention 4986 5012	midprice department stores
+#87	ACE T87	entityID: NYT20001218.2144.0401-E37; extent: midprice department stores
+T88	ACE-Mention 5059 5070	Marc Jacobs
+#88	ACE T88	entityID: NYT20001218.2144.0401-E22; extent: Marc Jacobs
+T89	ACE-Mention 5075 5087	Michael Kors
+#89	ACE T89	entityID: NYT20001218.2144.0401-E23; extent: Michael Kors
+T90	ACE-Mention 5091 5103	Myron Ullman
+#90	ACE T90	entityID: NYT20001218.2144.0401-E24; extent: Myron Ullman
+T91	ACE-Mention 5106 5131	LVMH 's managing director
+#91	ACE T91	entityID: NYT20001218.2144.0401-E24; extent: LVMH 's managing director
+T92	ACE-Mention 5148 5153	Karan
+#92	ACE T92	entityID: NYT20001218.2144.0401-E8; extent: Karan
+T93	ACE-Mention 5184 5190	global
+#93	ACE T93	entityID: NYT20001218.2144.0401-E33; extent: global
+T94	ACE-Mention 5245 5261	outside the U.S.
+#94	ACE T94	entityID: NYT20001218.2144.0401-E27; extent: outside the U.S.
+T95	ACE-Mention 5265 5290	Donna Karan International
+#95	ACE T95	entityID: NYT20001218.2144.0401-E12; extent: Donna Karan International
+T96	ACE-Mention 5310 5313	its
+#96	ACE T96	entityID: NYT20001218.2144.0401-E12; extent: its
+T97	ACE-Mention 5328 5336	overseas
+#97	ACE T97	entityID: NYT20001218.2144.0401-E28; extent: overseas
+T98	ACE-Mention 5340 5344	Idol
+#98	ACE T98	entityID: NYT20001218.2144.0401-E20; extent: Idol
+T99	ACE-Mention 5382 5393	the company
+#99	ACE T99	entityID: NYT20001218.2144.0401-E12; extent: the company

@@ -1,0 +1,174 @@
+T0	ACE-Mention 113 122	ST. LOUIS
+#0	ACE T0	entityID: APW20001017.1313.0396-E14; extent: ST. LOUIS
+T1	ACE-Mention 123 127	(AP)
+#1	ACE T1	entityID: APW20001017.1313.0396-E65; extent: (AP)
+T2	ACE-Mention 133 158	Republican George W. Bush
+#2	ACE T2	entityID: APW20001017.1313.0396-E4; extent: Republican George W. Bush
+T3	ACE-Mention 163 179	Democrat Al Gore
+#3	ACE T3	entityID: APW20001017.1313.0396-E9; extent: Democrat Al Gore
+T4	ACE-Mention 217 223	voters
+#4	ACE T4	entityID: APW20001017.1313.0396-E72; extent: voters
+T5	ACE-Mention 284 310	Missouri Gov. Mel Carnahan
+#5	ACE T5	entityID: APW20001017.1313.0396-E1; extent: Missouri Gov. Mel Carnahan
+T6	ACE-Mention 328 333	their
+#6	ACE T6	entityID: APW20001017.1313.0396-E76; extent: their
+T7	ACE-Mention 488 515	officials of both campaigns
+#7	ACE T7	entityID: APW20001017.1313.0396-E77; extent: officials of both campaigns
+T8	ACE-Mention 573 585	Mel Carnahan
+#8	ACE T8	entityID: APW20001017.1313.0396-E1; extent: Mel Carnahan
+T9	ACE-Mention 604 606	us
+#9	ACE T9	entityID: APW20001017.1313.0396-E2; extent: us
+T10	ACE-Mention 626 657	a senior Bush campaign official
+#10	ACE T10	entityID: APW20001017.1313.0396-E3; extent: a senior Bush campaign official
+T11	ACE-Mention 703 715	Bush 's wife
+#11	ACE T11	entityID: APW20001017.1313.0396-E6; extent: Bush 's wife
+T12	ACE-Mention 718 723	Laura
+#12	ACE T12	entityID: APW20001017.1313.0396-E6; extent: Laura
+T13	ACE-Mention 764 787	Bush campaign officials
+#13	ACE T13	entityID: APW20001017.1313.0396-E8; extent: Bush campaign officials
+T14	ACE-Mention 878 882	Gore
+#14	ACE T14	entityID: APW20001017.1313.0396-E9; extent: Gore
+T15	ACE-Mention 931 939	Carnahan
+#15	ACE T15	entityID: APW20001017.1313.0396-E1; extent: Carnahan
+T16	ACE-Mention 942 983	a Democrat who was running for the Senate
+#16	ACE T16	entityID: APW20001017.1313.0396-E1; extent: a Democrat who was running for the Senate
+T17	ACE-Mention 1002 1006	Gore
+#17	ACE T17	entityID: APW20001017.1313.0396-E9; extent: Gore
+T18	ACE-Mention 1016 1034	the vice president
+#18	ACE T18	entityID: APW20001017.1313.0396-E9; extent: the vice president
+T19	ACE-Mention 1042 1050	Missouri
+#19	ACE T19	entityID: APW20001017.1313.0396-E11; extent: Missouri
+T20	ACE-Mention 1078 1082	Gore
+#20	ACE T20	entityID: APW20001017.1313.0396-E9; extent: Gore
+T21	ACE-Mention 1090 1102	Air Force II
+#21	ACE T21	entityID: APW20001017.1313.0396-E12; extent: Air Force II
+T22	ACE-Mention 1108 1119	Kansas City
+#22	ACE T22	entityID: APW20001017.1313.0396-E13; extent: Kansas City
+T23	ACE-Mention 1142 1146	Gore
+#23	ACE T23	entityID: APW20001017.1313.0396-E9; extent: Gore
+T24	ACE-Mention 1154 1167	Mrs. Carnahan
+#24	ACE T24	entityID: APW20001017.1313.0396-E15; extent: Mrs. Carnahan
+T25	ACE-Mention 1173 1176	his
+#25	ACE T25	entityID: APW20001017.1313.0396-E9; extent: his
+T26	ACE-Mention 1225 1230	aides
+#26	ACE T26	entityID: APW20001017.1313.0396-E17; extent: aides
+T27	ACE-Mention 1242 1244	We
+#27	ACE T27	entityID: APW20001017.1313.0396-E18; extent: We
+T28	ACE-Mention 1335 1390	Democratic vice presidential candidate Joseph Lieberman
+#28	ACE T28	entityID: APW20001017.1313.0396-E19; extent: Democratic vice presidential candidate Joseph Lieberman
+T29	ACE-Mention 1422 1449	The Bush and Gore campaigns
+#29	ACE T29	entityID: APW20001017.1313.0396-E28; extent: The Bush and Gore campaigns
+T30	ACE-Mention 1466 1476	each other
+#30	ACE T30	entityID: APW20001017.1313.0396-E22; extent: each other
+T31	ACE-Mention 1543 1576	the debate commission 's director
+#31	ACE T31	entityID: APW20001017.1313.0396-E23; extent: the debate commission 's director
+T32	ACE-Mention 1579 1590	Janet Brown
+#32	ACE T32	entityID: APW20001017.1313.0396-E23; extent: Janet Brown
+T33	ACE-Mention 1645 1650	Brown
+#33	ACE T33	entityID: APW20001017.1313.0396-E23; extent: Brown
+T34	ACE-Mention 1698 1710	neither side
+#34	ACE T34	entityID: APW20001017.1313.0396-E26; extent: neither side
+T35	ACE-Mention 1735 1753	campaign officials
+#35	ACE T35	entityID: APW20001017.1313.0396-E27; extent: campaign officials
+T36	ACE-Mention 1757 1771	The commission
+#36	ACE T36	entityID: APW20001017.1313.0396-E25; extent: The commission
+T37	ACE-Mention 1819 1833	each candidate
+#37	ACE T37	entityID: APW20001017.1313.0396-E29; extent: each candidate
+T38	ACE-Mention 1893 1955	Carnahan , who died Monday night in the crash of a small plane
+#38	ACE T38	entityID: APW20001017.1313.0396-E1; extent: Carnahan , who died Monday night in the crash of a small plane
+T39	ACE-Mention 1983 2019	uncommitted voters across the nation
+#39	ACE T39	entityID: APW20001017.1313.0396-E31; extent: uncommitted voters across the nation
+T40	ACE-Mention 2065 2080	both candidates
+#40	ACE T40	entityID: APW20001017.1313.0396-E76; extent: both candidates
+T41	ACE-Mention 2212 2216	Gore
+#41	ACE T41	entityID: APW20001017.1313.0396-E9; extent: Gore
+T42	ACE-Mention 2243 2245	he
+#42	ACE T42	entityID: APW20001017.1313.0396-E9; extent: he
+T43	ACE-Mention 2305 2307	he
+#43	ACE T43	entityID: APW20001017.1313.0396-E9; extent: he
+T44	ACE-Mention 2338 2484	Bush , who has less formal debate experience than the vice president but whose standing in public opinion polls rose after the first two face-offs
+#44	ACE T44	entityID: APW20001017.1313.0396-E4; extent: Bush , who has less formal debate experience than the vice president but whose standing in public opinion polls rose after the first two face-offs
+T45	ACE-Mention 2604 2639	the campus of Washington University
+#45	ACE T45	entityID: APW20001017.1313.0396-E33; extent: the campus of Washington University
+T46	ACE-Mention 2649 2662	the moderator
+#46	ACE T46	entityID: APW20001017.1313.0396-E35; extent: the moderator
+T47	ACE-Mention 2671 2731	the same as in the Boston and Winston-Salem , N.C. , debates
+#47	ACE T47	entityID: APW20001017.1313.0396-E35; extent: the same as in the Boston and Winston-Salem , N.C. , debates
+T48	ACE-Mention 2734 2751	Jim Lehrer of PBS
+#48	ACE T48	entityID: APW20001017.1313.0396-E35; extent: Jim Lehrer of PBS
+T49	ACE-Mention 2789 2801	the audience
+#49	ACE T49	entityID: APW20001017.1313.0396-E41; extent: the audience
+T50	ACE-Mention 2805 2836	The Gallup polling organization
+#50	ACE T50	entityID: APW20001017.1313.0396-E42; extent: The Gallup polling organization
+T51	ACE-Mention 2851 2889	the Commission on Presidential Debates
+#51	ACE T51	entityID: APW20001017.1313.0396-E25; extent: the Commission on Presidential Debates
+T52	ACE-Mention 2901 2912	questioners
+#52	ACE T52	entityID: APW20001017.1313.0396-E43; extent: questioners
+T53	ACE-Mention 2947 2997	all registered voters in St. Louis and its suburbs
+#53	ACE T53	entityID: APW20001017.1313.0396-E44; extent: all registered voters in St. Louis and its suburbs
+T54	ACE-Mention 3022 3051	all but `` uncommitted voters
+#54	ACE T54	entityID: APW20001017.1313.0396-E46; extent: all but `` uncommitted voters
+T55	ACE-Mention 3062 3075	Frank Newport
+#55	ACE T55	entityID: APW20001017.1313.0396-E10; extent: Frank Newport
+T56	ACE-Mention 3078 3104	Gallup 's executive editor
+#56	ACE T56	entityID: APW20001017.1313.0396-E10; extent: Gallup 's executive editor
+T57	ACE-Mention 3108 3118	The result
+#57	ACE T57	entityID: APW20001017.1313.0396-E49; extent: The result
+T58	ACE-Mention 3123 3244	a group of area voters who say they could support either Gore or Bush _ though they might be leaning one way or the other
+#58	ACE T58	entityID: APW20001017.1313.0396-E49; extent: a group of area voters who say they could support either Gore or Bush _ though they might be leaning one way or the other
+T59	ACE-Mention 3248 3278	The theater-in-the-round stage
+#59	ACE T59	entityID: APW20001017.1313.0396-E52; extent: The theater-in-the-round stage
+T60	ACE-Mention 3336 3351	100 questioners
+#60	ACE T60	entityID: APW20001017.1313.0396-E53; extent: 100 questioners
+T61	ACE-Mention 3356 3383	an additional 500 onlookers
+#61	ACE T61	entityID: APW20001017.1313.0396-E54; extent: an additional 500 onlookers
+T62	ACE-Mention 3580 3595	both candidates
+#62	ACE T62	entityID: APW20001017.1313.0396-E76; extent: both candidates
+T63	ACE-Mention 3616 3652	a dwindling band of undecided voters
+#63	ACE T63	entityID: APW20001017.1313.0396-E55; extent: a dwindling band of undecided voters
+T64	ACE-Mention 3656 3660	Gore
+#64	ACE T64	entityID: APW20001017.1313.0396-E9; extent: Gore
+T65	ACE-Mention 3701 3710	23 voters
+#65	ACE T65	entityID: APW20001017.1313.0396-E57; extent: 23 voters
+T66	ACE-Mention 3714 3752	the Innsbrook resort outside St. Louis
+#66	ACE T66	entityID: APW20001017.1313.0396-E58; extent: the Innsbrook resort outside St. Louis
+T67	ACE-Mention 3761 3764	him
+#67	ACE T67	entityID: APW20001017.1313.0396-E9; extent: him
+T68	ACE-Mention 3780 3781	I
+#68	ACE T68	entityID: APW20001017.1313.0396-E9; extent: I
+T69	ACE-Mention 3802 3803	I
+#69	ACE T69	entityID: APW20001017.1313.0396-E9; extent: I
+T70	ACE-Mention 3831 3840	Tennessee
+#70	ACE T70	entityID: APW20001017.1313.0396-E59; extent: Tennessee
+T71	ACE-Mention 3888 3892	Gore
+#71	ACE T71	entityID: APW20001017.1313.0396-E9; extent: Gore
+T72	ACE-Mention 3916 3924	Congress
+#72	ACE T72	entityID: APW20001017.1313.0396-E60; extent: Congress
+T73	ACE-Mention 3927 3931	Gore
+#73	ACE T73	entityID: APW20001017.1313.0396-E9; extent: Gore
+T74	ACE-Mention 3967 3989	Tennessee constituents
+#74	ACE T74	entityID: APW20001017.1313.0396-E62; extent: Tennessee constituents
+T75	ACE-Mention 4033 4036	his
+#75	ACE T75	entityID: APW20001017.1313.0396-E9; extent: his
+T76	ACE-Mention 4132 4136	Gore
+#76	ACE T76	entityID: APW20001017.1313.0396-E9; extent: Gore
+T77	ACE-Mention 4180 4181	I
+#77	ACE T77	entityID: APW20001017.1313.0396-E63; extent: I
+T78	ACE-Mention 4195 4198	you
+#78	ACE T78	entityID: APW20001017.1313.0396-E64; extent: you
+T79	ACE-Mention 4222 4247	Gore 's campaign chairman
+#79	ACE T79	entityID: APW20001017.1313.0396-E63; extent: Gore 's campaign chairman
+T80	ACE-Mention 4250 4263	William Daley
+#80	ACE T80	entityID: APW20001017.1313.0396-E63; extent: William Daley
+T81	ACE-Mention 4311 4312	I
+#81	ACE T81	entityID: APW20001017.1313.0396-E63; extent: I
+T82	ACE-Mention 4319 4322	you
+#82	ACE T82	entityID: APW20001017.1313.0396-E64; extent: you
+T83	ACE-Mention 4421 4425	your
+#83	ACE T83	entityID: APW20001017.1313.0396-E64; extent: your
+T84	ACE-Mention 4436 4440	Bush
+#84	ACE T84	entityID: APW20001017.1313.0396-E4; extent: Bush
+T85	ACE-Mention 4570 4571	I
+#85	ACE T85	entityID: APW20001017.1313.0396-E4; extent: I
+T86	ACE-Mention 4607 4621	the Republican
+#86	ACE T86	entityID: APW20001017.1313.0396-E4; extent: the Republican

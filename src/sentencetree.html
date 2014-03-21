@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link href="style.css" rel="stylesheet">
+<body>
+<script type="text/javascript" src="js/d3.v3.min.js"></script>
+<script src="/js/raphael-min.js"></script>
+<script src="js/sentencetree.js"> </script>
+<script>
+  var margin = {top: 20, right: 120, bottom: 20, left: 120},
+      width = 1260 - margin.right - margin.left,
+      height = 1000 - margin.top - margin.bottom;
+      
+  var st = sentenceTree().size([height, width]).textSize(16).textMargin(10).displayContainer("body").animationDuration(750).margin(margin).show();
+
+  d3.json("/data/sentence.json", function(error, flare) {
+    var root = flare;
+    root.x0 = height / 2;
+    root.y0 = 0;
+    st.nodes(root);
+    st.update(root);
+  });
+
+</script>

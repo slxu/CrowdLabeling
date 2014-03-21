@@ -1,0 +1,210 @@
+T0	ACE-Mention 862 957	A majority of women , older voters , Democrats , liberals and black , Hispanic and Asian voters
+#0	ACE T0	entityID: NYT20001111.1033.0046-E27; extent: A majority of women , older voters , Democrats , liberals and black , Hispanic and Asian voters
+T1	ACE-Mention 963 968	their
+#1	ACE T1	entityID: NYT20001111.1033.0046-E27; extent: their
+T2	ACE-Mention 981 988	Al Gore
+#2	ACE T2	entityID: NYT20001111.1033.0046-E92; extent: Al Gore
+T3	ACE-Mention 992 1006	George W. Bush
+#3	ACE T3	entityID: NYT20001111.1033.0046-E93; extent: George W. Bush
+T4	ACE-Mention 1029 1112	most men , whites , conservatives , Republicans , Southerners and white Protestants
+#4	ACE T4	entityID: NYT20001111.1033.0046-E94; extent: most men , whites , conservatives , Republicans , Southerners and white Protestants
+T5	ACE-Mention 1116 1164	Ralph Nader , who received 2 percent of the vote
+#5	ACE T5	entityID: NYT20001111.1033.0046-E95; extent: Ralph Nader , who received 2 percent of the vote
+T6	ACE-Mention 1182 1222	independents , particularly liberal ones
+#6	ACE T6	entityID: NYT20001111.1033.0046-E96; extent: independents , particularly liberal ones
+T7	ACE-Mention 1235 1244	young men
+#7	ACE T7	entityID: NYT20001111.1033.0046-E2; extent: young men
+T8	ACE-Mention 1295 1315	several large groups
+#8	ACE T8	entityID: NYT20001111.1033.0046-E3; extent: several large groups
+T9	ACE-Mention 1318 1333	voters under 65
+#9	ACE T9	entityID: NYT20001111.1033.0046-E4; extent: voters under 65
+T10	ACE-Mention 1336 1348	independents
+#10	ACE T10	entityID: NYT20001111.1033.0046-E5; extent: independents
+T11	ACE-Mention 1351 1387	voters from the Midwest and the West
+#11	ACE T11	entityID: NYT20001111.1033.0046-E6; extent: voters from the Midwest and the West
+T12	ACE-Mention 1392 1404	suburbanites
+#12	ACE T12	entityID: NYT20001111.1033.0046-E9; extent: suburbanites
+T13	ACE-Mention 1415 1420	their
+#13	ACE T13	entityID: NYT20001111.1033.0046-E3; extent: their
+T14	ACE-Mention 1449 1473	the two major candidates
+#14	ACE T14	entityID: NYT20001111.1033.0046-E11; extent: the two major candidates
+T15	ACE-Mention 1524 1579	voters leaving the polls ( including those in Florida )
+#15	ACE T15	entityID: NYT20001111.1033.0046-E12; extent: voters leaving the polls ( including those in Florida )
+T16	ACE-Mention 1592 1608	different groups
+#16	ACE T16	entityID: NYT20001111.1033.0046-E16; extent: different groups
+T17	ACE-Mention 1624 1633	president
+#17	ACE T17	entityID: NYT20001111.1033.0046-E17; extent: president
+T18	ACE-Mention 1656 1679	large numbers of people
+#18	ACE T18	entityID: NYT20001111.1033.0046-E18; extent: large numbers of people
+T19	ACE-Mention 1742 1913	groups like Jewish or Asian voters or young blacks or liberal Republicans whose portion of the voting population is often too small to examine in typical telephone surveys
+#19	ACE T19	entityID: NYT20001111.1033.0046-E19; extent: groups like Jewish or Asian voters or young blacks or liberal Republicans whose portion of the voting population is often too small to examine in typical telephone surveys
+T20	ACE-Mention 1932 1936	Bush
+#20	ACE T20	entityID: NYT20001111.1033.0046-E93; extent: Bush
+T21	ACE-Mention 1971 1974	men
+#21	ACE T21	entityID: NYT20001111.1033.0046-E25; extent: men
+T22	ACE-Mention 1979 1983	Gore
+#22	ACE T22	entityID: NYT20001111.1033.0046-E92; extent: Gore
+T23	ACE-Mention 1998 2017	a majority of women
+#23	ACE T23	entityID: NYT20001111.1033.0046-E26; extent: a majority of women
+T24	ACE-Mention 2066 2076	more women
+#24	ACE T24	entityID: NYT20001111.1033.0046-E29; extent: more women
+T25	ACE-Mention 2086 2095	Democrats
+#25	ACE T25	entityID: NYT20001111.1033.0046-E30; extent: Democrats
+T26	ACE-Mention 2098 2106	more men
+#26	ACE T26	entityID: NYT20001111.1033.0046-E28; extent: more men
+T27	ACE-Mention 2114 2125	Republicans
+#27	ACE T27	entityID: NYT20001111.1033.0046-E38; extent: Republicans
+T28	ACE-Mention 2173 2177	Gore
+#28	ACE T28	entityID: NYT20001111.1033.0046-E92; extent: Gore
+T29	ACE-Mention 2198 2203	women
+#29	ACE T29	entityID: NYT20001111.1033.0046-E66; extent: women
+T30	ACE-Mention 2214 2217	men
+#30	ACE T30	entityID: NYT20001111.1033.0046-E25; extent: men
+T31	ACE-Mention 2324 2374	black voters , who strongly supported Gore overall
+#31	ACE T31	entityID: NYT20001111.1033.0046-E31; extent: black voters , who strongly supported Gore overall
+T32	ACE-Mention 2410 2427	college graduates
+#32	ACE T32	entityID: NYT20001111.1033.0046-E32; extent: college graduates
+T33	ACE-Mention 2432 2448	unmarried voters
+#33	ACE T33	entityID: NYT20001111.1033.0046-E33; extent: unmarried voters
+T34	ACE-Mention 2452 2457	Party
+#34	ACE T34	entityID: NYT20001111.1033.0046-E35; extent: Party
+T35	ACE-Mention 2473 2483	Few voters
+#35	ACE T35	entityID: NYT20001111.1033.0046-E36; extent: Few voters
+T36	ACE-Mention 2492 2497	party
+#36	ACE T36	entityID: NYT20001111.1033.0046-E35; extent: party
+T37	ACE-Mention 2507 2538	Large majorities of Republicans
+#37	ACE T37	entityID: NYT20001111.1033.0046-E37; extent: Large majorities of Republicans
+T38	ACE-Mention 2549 2553	Bush
+#38	ACE T38	entityID: NYT20001111.1033.0046-E93; extent: Bush
+T39	ACE-Mention 2557 2561	Gore
+#39	ACE T39	entityID: NYT20001111.1033.0046-E92; extent: Gore
+T40	ACE-Mention 2579 2593	most Democrats
+#40	ACE T40	entityID: NYT20001111.1033.0046-E39; extent: most Democrats
+T41	ACE-Mention 2597 2644	Voters who identified themselves as independent
+#41	ACE T41	entityID: NYT20001111.1033.0046-E5; extent: Voters who identified themselves as independent
+T42	ACE-Mention 2668 2735	Most independents who described their political ideology as liberal
+#42	ACE T42	entityID: NYT20001111.1033.0046-E40; extent: Most independents who described their political ideology as liberal
+T43	ACE-Mention 2746 2750	Gore
+#43	ACE T43	entityID: NYT20001111.1033.0046-E92; extent: Gore
+T44	ACE-Mention 2754 2758	Bush
+#44	ACE T44	entityID: NYT20001111.1033.0046-E93; extent: Bush
+T45	ACE-Mention 2773 2830	independents who characterized themselves as conservative
+#45	ACE T45	entityID: NYT20001111.1033.0046-E41; extent: independents who characterized themselves as conservative
+T46	ACE-Mention 2834 2855	Moderate independents
+#46	ACE T46	entityID: NYT20001111.1033.0046-E42; extent: Moderate independents
+T47	ACE-Mention 2891 2895	They
+#47	ACE T47	entityID: NYT20001111.1033.0046-E43; extent: They
+T48	ACE-Mention 2914 2929	most Easterners
+#48	ACE T48	entityID: NYT20001111.1033.0046-E44; extent: most Easterners
+T49	ACE-Mention 2940 2952	the Democrat
+#49	ACE T49	entityID: NYT20001111.1033.0046-E92; extent: the Democrat
+T50	ACE-Mention 2983 2994	Southerners
+#50	ACE T50	entityID: NYT20001111.1033.0046-E45; extent: Southerners
+T51	ACE-Mention 3023 3035	Bill Clinton
+#51	ACE T51	entityID: NYT20001111.1033.0046-E46; extent: Bill Clinton
+T52	ACE-Mention 3040 3048	Bob Dole
+#52	ACE T52	entityID: NYT20001111.1033.0046-E47; extent: Bob Dole
+T53	ACE-Mention 3061 3065	Bush
+#53	ACE T53	entityID: NYT20001111.1033.0046-E93; extent: Bush
+T54	ACE-Mention 3078 3087	the South
+#54	ACE T54	entityID: NYT20001111.1033.0046-E48; extent: the South
+T55	ACE-Mention 3091 3102	The Midwest
+#55	ACE T55	entityID: NYT20001111.1033.0046-E7; extent: The Midwest
+T56	ACE-Mention 3107 3115	the West
+#56	ACE T56	entityID: NYT20001111.1033.0046-E8; extent: the West
+T57	ACE-Mention 3151 3169	the two candidates
+#57	ACE T57	entityID: NYT20001111.1033.0046-E11; extent: the two candidates
+T58	ACE-Mention 3173 3177	Gore
+#58	ACE T58	entityID: NYT20001111.1033.0046-E92; extent: Gore
+T59	ACE-Mention 3193 3202	urbanites
+#59	ACE T59	entityID: NYT20001111.1033.0046-E49; extent: urbanites
+T60	ACE-Mention 3206 3210	Bush
+#60	ACE T60	entityID: NYT20001111.1033.0046-E93; extent: Bush
+T61	ACE-Mention 3227 3240	smaller towns
+#61	ACE T61	entityID: NYT20001111.1033.0046-E50; extent: smaller towns
+T62	ACE-Mention 3248 3259	rural areas
+#62	ACE T62	entityID: NYT20001111.1033.0046-E51; extent: rural areas
+T63	ACE-Mention 3263 3278	Suburban voters
+#63	ACE T63	entityID: NYT20001111.1033.0046-E9; extent: Suburban voters
+T64	ACE-Mention 3321 3393	Voters who say their finances have improved during a president 's tenure
+#64	ACE T64	entityID: NYT20001111.1033.0046-E52; extent: Voters who say their finances have improved during a president 's tenure
+T65	ACE-Mention 3408 3421	the incumbent
+#65	ACE T65	entityID: NYT20001111.1033.0046-E53; extent: the incumbent
+T66	ACE-Mention 3430 3444	the challenger
+#66	ACE T66	entityID: NYT20001111.1033.0046-E54; extent: the challenger
+T67	ACE-Mention 3461 3517	those who say their financial situation has deteriorated
+#67	ACE T67	entityID: NYT20001111.1033.0046-E55; extent: those who say their financial situation has deteriorated
+T68	ACE-Mention 3549 3553	Gore
+#68	ACE T68	entityID: NYT20001111.1033.0046-E92; extent: Gore
+T69	ACE-Mention 3577 3649	voters who said their family 's finances were better than four years ago
+#69	ACE T69	entityID: NYT20001111.1033.0046-E52; extent: voters who said their family 's finances were better than four years ago
+T70	ACE-Mention 3653 3657	Bush
+#70	ACE T70	entityID: NYT20001111.1033.0046-E93; extent: Bush
+T71	ACE-Mention 3677 3734	those who said their financial situation had deteriorated
+#71	ACE T71	entityID: NYT20001111.1033.0046-E55; extent: those who said their financial situation had deteriorated
+T72	ACE-Mention 3748 3767	one in three voters
+#72	ACE T72	entityID: NYT20001111.1033.0046-E57; extent: one in three voters
+T73	ACE-Mention 3773 3778	their
+#73	ACE T73	entityID: NYT20001111.1033.0046-E57; extent: their
+T74	ACE-Mention 3855 3859	half
+#74	ACE T74	entityID: NYT20001111.1033.0046-E58; extent: half
+T75	ACE-Mention 3879 3935	those who say their economic conditions have not changed
+#75	ACE T75	entityID: NYT20001111.1033.0046-E59; extent: those who say their economic conditions have not changed
+T76	ACE-Mention 3943 3948	their
+#76	ACE T76	entityID: NYT20001111.1033.0046-E59; extent: their
+T77	ACE-Mention 3965 3989	the two major candidates
+#77	ACE T77	entityID: NYT20001111.1033.0046-E60; extent: the two major candidates
+T78	ACE-Mention 4028 4040	two in three
+#78	ACE T78	entityID: NYT20001111.1033.0046-E61; extent: two in three
+T79	ACE-Mention 4051 4055	Bush
+#79	ACE T79	entityID: NYT20001111.1033.0046-E93; extent: Bush
+T80	ACE-Mention 4091 4109	Voter News Service
+#80	ACE T80	entityID: NYT20001111.1033.0046-E62; extent: Voter News Service
+T81	ACE-Mention 4147 4221	13,279 voters leaving 300 polling places around the nation on Election Day
+#81	ACE T81	entityID: NYT20001111.1033.0046-E63; extent: 13,279 voters leaving 300 polling places around the nation on Election Day
+T82	ACE-Mention 4275 4293	Voter News Service
+#82	ACE T82	entityID: NYT20001111.1033.0046-E62; extent: Voter News Service
+T83	ACE-Mention 4323 4336	16,627 voters
+#83	ACE T83	entityID: NYT20001111.1033.0046-E67; extent: 16,627 voters
+T84	ACE-Mention 4390 4416	Voter Research and Surveys
+#84	ACE T84	entityID: NYT20001111.1033.0046-E68; extent: Voter Research and Surveys
+T85	ACE-Mention 4422 4435	15,490 voters
+#85	ACE T85	entityID: NYT20001111.1033.0046-E69; extent: 15,490 voters
+T86	ACE-Mention 4501 4519	The New York Times
+#86	ACE T86	entityID: NYT20001111.1033.0046-E70; extent: The New York Times
+T87	ACE-Mention 4524 4532	CBS News
+#87	ACE T87	entityID: NYT20001111.1033.0046-E71; extent: CBS News
+T88	ACE-Mention 4535 4541	11,645
+#88	ACE T88	entityID: NYT20001111.1033.0046-E72; extent: 11,645
+T89	ACE-Mention 4552 4557	9,174
+#89	ACE T89	entityID: NYT20001111.1033.0046-E73; extent: 9,174
+T90	ACE-Mention 4568 4574	15,201
+#90	ACE T90	entityID: NYT20001111.1033.0046-E74; extent: 15,201
+T91	ACE-Mention 4587 4593	15,300
+#91	ACE T91	entityID: NYT20001111.1033.0046-E75; extent: 15,300
+T92	ACE-Mention 4605 4611	Family
+#92	ACE T92	entityID: NYT20001111.1033.0046-E76; extent: Family
+T93	ACE-Mention 5140 5152	independents
+#93	ACE T93	entityID: NYT20001111.1033.0046-E5; extent: independents
+T94	ACE-Mention 5162 5266	respondents who indicated they considered themselves `` something else '' in 1972 , 1992 , 1996 and 2000
+#94	ACE T94	entityID: NYT20001111.1033.0046-E77; extent: respondents who indicated they considered themselves `` something else '' in 1972 , 1992 , 1996 and 2000
+T95	ACE-Mention 5328 5361	Male and female college graduates
+#95	ACE T95	entityID: NYT20001111.1033.0046-E32; extent: Male and female college graduates
+T96	ACE-Mention 5370 5403	those with postgraduate education
+#96	ACE T96	entityID: NYT20001111.1033.0046-E78; extent: those with postgraduate education
+T97	ACE-Mention 5444 5488	voters first registered to vote in that year
+#97	ACE T97	entityID: NYT20001111.1033.0046-E79; extent: voters first registered to vote in that year
+T98	ACE-Mention 5513 5526	Congressional
+#98	ACE T98	entityID: NYT20001111.1033.0046-E82; extent: Congressional
+T99	ACE-Mention 5549 5557	New York
+#99	ACE T99	entityID: NYT20001111.1033.0046-E80; extent: New York
+T100	ACE-Mention 5562 5572	California
+#100	ACE T100	entityID: NYT20001111.1033.0046-E81; extent: California
+T101	ACE-Mention 5576 5582	Family
+#101	ACE T101	entityID: NYT20001111.1033.0046-E76; extent: Family
+T102	ACE-Mention 5728 5736	NBC News
+#102	ACE T102	entityID: NYT20001111.1033.0046-E83; extent: NBC News
+T103	ACE-Mention 5740 5764	Those who gave no answer
+#103	ACE T103	entityID: NYT20001111.1033.0046-E84; extent: Those who gave no answer
+T104	ACE-Mention 5943 5954	respondents
+#104	ACE T104	entityID: NYT20001111.1033.0046-E85; extent: respondents

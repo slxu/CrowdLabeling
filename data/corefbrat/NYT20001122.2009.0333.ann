@@ -1,0 +1,64 @@
+T0	ACE-Mention 600 614	most Americans
+#0	ACE T0	entityID: NYT20001122.2009.0333-E21; extent: most Americans
+T1	ACE-Mention 712 742	an increasing number of people
+#1	ACE T1	entityID: NYT20001122.2009.0333-E22; extent: an increasing number of people
+T2	ACE-Mention 773 774	I
+#2	ACE T2	entityID: NYT20001122.2009.0333-E23; extent: I
+T3	ACE-Mention 780 783	you
+#3	ACE T3	entityID: NYT20001122.2009.0333-E24; extent: you
+T4	ACE-Mention 874 905	the top slice of income earners
+#4	ACE T4	entityID: NYT20001122.2009.0333-E27; extent: the top slice of income earners
+T5	ACE-Mention 974 1063	such purveyors of designer delectables as Tiffany & AMP ; Co. and the Neiman Marcus Group
+#5	ACE T5	entityID: NYT20001122.2009.0333-E29; extent: such purveyors of designer delectables as Tiffany & AMP ; Co. and the Neiman Marcus Group
+T6	ACE-Mention 1106 1119	Every shopper
+#6	ACE T6	entityID: NYT20001122.2009.0333-E30; extent: Every shopper
+T7	ACE-Mention 1209 1215	Revlon
+#7	ACE T7	entityID: NYT20001122.2009.0333-E31; extent: Revlon
+T8	ACE-Mention 1233 1241	By Terry
+#8	ACE T8	entityID: NYT20001122.2009.0333-E32; extent: By Terry
+T9	ACE-Mention 1276 1298	luxury-goods companies
+#9	ACE T9	entityID: NYT20001122.2009.0333-E33; extent: luxury-goods companies
+T10	ACE-Mention 1356 1361	their
+#10	ACE T10	entityID: NYT20001122.2009.0333-E33; extent: their
+T11	ACE-Mention 1374 1376	We
+#11	ACE T11	entityID: NYT20001122.2009.0333-E3; extent: We
+T12	ACE-Mention 1428 1441	Christina Kim
+#12	ACE T12	entityID: NYT20001122.2009.0333-E1; extent: Christina Kim
+T13	ACE-Mention 1444 1477	a spokeswoman for Hermes of Paris
+#13	ACE T13	entityID: NYT20001122.2009.0333-E1; extent: a spokeswoman for Hermes of Paris
+T14	ACE-Mention 1541 1557	Public companies
+#14	ACE T14	entityID: NYT20001122.2009.0333-E4; extent: Public companies
+T15	ACE-Mention 1599 1603	they
+#15	ACE T15	entityID: NYT20001122.2009.0333-E4; extent: they
+T16	ACE-Mention 1638 1643	their
+#16	ACE T16	entityID: NYT20001122.2009.0333-E4; extent: their
+T17	ACE-Mention 1670 1713	a luxury company like Gucci or Estee Lauder
+#17	ACE T17	entityID: NYT20001122.2009.0333-E5; extent: a luxury company like Gucci or Estee Lauder
+T18	ACE-Mention 1823 1828	their
+#18	ACE T18	entityID: NYT20001122.2009.0333-E5; extent: their
+T19	ACE-Mention 1966 1973	the Gap
+#19	ACE T19	entityID: NYT20001122.2009.0333-E8; extent: the Gap
+T20	ACE-Mention 1978 2004	other chain apparel stores
+#20	ACE T20	entityID: NYT20001122.2009.0333-E9; extent: other chain apparel stores
+T21	ACE-Mention 2095 2113	most luxury houses
+#21	ACE T21	entityID: NYT20001122.2009.0333-E10; extent: most luxury houses
+T22	ACE-Mention 2195 2226	one executive at a luxury house
+#22	ACE T22	entityID: NYT20001122.2009.0333-E11; extent: one executive at a luxury house
+T23	ACE-Mention 2326 2333	Italian
+#23	ACE T23	entityID: NYT20001122.2009.0333-E13; extent: Italian
+T24	ACE-Mention 2344 2353	) tannery
+#24	ACE T24	entityID: NYT20001122.2009.0333-E14; extent: ) tannery
+T25	ACE-Mention 2389 2407	a master craftsman
+#25	ACE T25	entityID: NYT20001122.2009.0333-E15; extent: a master craftsman
+T26	ACE-Mention 2653 2667	this executive
+#26	ACE T26	entityID: NYT20001122.2009.0333-E11; extent: this executive
+T27	ACE-Mention 2683 2686	you
+#27	ACE T27	entityID: NYT20001122.2009.0333-E16; extent: you
+T28	ACE-Mention 2708 2714	Escada
+#28	ACE T28	entityID: NYT20001122.2009.0333-E17; extent: Escada
+T29	ACE-Mention 2784 2796	Hermes Kelly
+#29	ACE T29	entityID: NYT20001122.2009.0333-E18; extent: Hermes Kelly
+T30	ACE-Mention 2994 3017	the fanciest boulevards
+#30	ACE T30	entityID: NYT20001122.2009.0333-E19; extent: the fanciest boulevards
+T31	ACE-Mention 3034 3099	the fine-boned sales clerks who speak in charming foreign accents
+#31	ACE T31	entityID: NYT20001122.2009.0333-E20; extent: the fine-boned sales clerks who speak in charming foreign accents

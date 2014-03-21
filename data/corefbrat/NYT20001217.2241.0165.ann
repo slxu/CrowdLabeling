@@ -1,0 +1,168 @@
+T0	ACE-Mention 565 568	you
+#0	ACE T0	entityID: NYT20001217.2241.0165-E29; extent: you
+T1	ACE-Mention 602 605	you
+#1	ACE T1	entityID: NYT20001217.2241.0165-E29; extent: you
+T2	ACE-Mention 636 644	airports
+#2	ACE T2	entityID: NYT20001217.2241.0165-E1; extent: airports
+T3	ACE-Mention 661 664	you
+#3	ACE T3	entityID: NYT20001217.2241.0165-E29; extent: you
+T4	ACE-Mention 690 717	the least-congested airport
+#4	ACE T4	entityID: NYT20001217.2241.0165-E2; extent: the least-congested airport
+T5	ACE-Mention 729 792	some airports , like Chicago O 'Hare and La Guardia in New York
+#5	ACE T5	entityID: NYT20001217.2241.0165-E3; extent: some airports , like Chicago O 'Hare and La Guardia in New York
+T6	ACE-Mention 877 900	an airport in the South
+#6	ACE T6	entityID: NYT20001217.2241.0165-E7; extent: an airport in the South
+T7	ACE-Mention 1024 1032	Airlines
+#7	ACE T7	entityID: NYT20001217.2241.0165-E9; extent: Airlines
+T8	ACE-Mention 1096 1099	you
+#8	ACE T8	entityID: NYT20001217.2241.0165-E29; extent: you
+T9	ACE-Mention 1105 1110	yours
+#9	ACE T9	entityID: NYT20001217.2241.0165-E29; extent: yours
+T10	ACE-Mention 1133 1137	your
+#10	ACE T10	entityID: NYT20001217.2241.0165-E29; extent: your
+T11	ACE-Mention 1237 1266	The Transportation Department
+#11	ACE T11	entityID: NYT20001217.2241.0165-E10; extent: The Transportation Department
+T12	ACE-Mention 1276 1299	major domestic airlines
+#12	ACE T12	entityID: NYT20001217.2241.0165-E11; extent: major domestic airlines
+T13	ACE-Mention 1357 1366	consumers
+#13	ACE T13	entityID: NYT20001217.2241.0165-E12; extent: consumers
+T14	ACE-Mention 1370 1373	You
+#14	ACE T14	entityID: NYT20001217.2241.0165-E29; extent: You
+T15	ACE-Mention 1450 1462	each airline
+#15	ACE T15	entityID: NYT20001217.2241.0165-E13; extent: each airline
+T16	ACE-Mention 1704 1722	business travelers
+#16	ACE T16	entityID: NYT20001217.2241.0165-E14; extent: business travelers
+T17	ACE-Mention 1850 1857	airline
+#17	ACE T17	entityID: NYT20001217.2241.0165-E9; extent: airline
+T18	ACE-Mention 1877 1893	smaller airports
+#18	ACE T18	entityID: NYT20001217.2241.0165-E16; extent: smaller airports
+T19	ACE-Mention 1908 1933	Los Angeles International
+#19	ACE T19	entityID: NYT20001217.2241.0165-E17; extent: Los Angeles International
+T20	ACE-Mention 1971 1978	Burbank
+#20	ACE T20	entityID: NYT20001217.2241.0165-E18; extent: Burbank
+T21	ACE-Mention 1982 2026	John Wayne Airport in Orange County , Calif.
+#21	ACE T21	entityID: NYT20001217.2241.0165-E19; extent: John Wayne Airport in Orange County , Calif.
+T22	ACE-Mention 2036 2062	Westchester County Airport
+#22	ACE T22	entityID: NYT20001217.2241.0165-E22; extent: Westchester County Airport
+T23	ACE-Mention 2074 2077	JFK
+#23	ACE T23	entityID: NYT20001217.2241.0165-E23; extent: JFK
+T24	ACE-Mention 2081 2089	New York
+#24	ACE T24	entityID: NYT20001217.2241.0165-E6; extent: New York
+T25	ACE-Mention 2235 2248	most airlines
+#25	ACE T25	entityID: NYT20001217.2241.0165-E24; extent: most airlines
+T26	ACE-Mention 2252 2255	you
+#26	ACE T26	entityID: NYT20001217.2241.0165-E29; extent: you
+T27	ACE-Mention 2271 2279	carriers
+#27	ACE T27	entityID: NYT20001217.2241.0165-E9; extent: carriers
+T28	ACE-Mention 2417 2500	airlines experiencing labor strife , which often increases cancellations and delays
+#28	ACE T28	entityID: NYT20001217.2241.0165-E25; extent: airlines experiencing labor strife , which often increases cancellations and delays
+T29	ACE-Mention 2534 2559	the airline you book with
+#29	ACE T29	entityID: NYT20001217.2241.0165-E26; extent: the airline you book with
+T30	ACE-Mention 2588 2591	you
+#30	ACE T30	entityID: NYT20001217.2241.0165-E29; extent: you
+T31	ACE-Mention 2644 2658	a travel agent
+#31	ACE T31	entityID: NYT20001217.2241.0165-E27; extent: a travel agent
+T32	ACE-Mention 2662 2672	A good one
+#32	ACE T32	entityID: NYT20001217.2241.0165-E27; extent: A good one
+T33	ACE-Mention 2680 2718	a great ally in the event of a problem
+#33	ACE T33	entityID: NYT20001217.2241.0165-E27; extent: a great ally in the event of a problem
+T34	ACE-Mention 2734 2737	you
+#34	ACE T34	entityID: NYT20001217.2241.0165-E29; extent: you
+T35	ACE-Mention 2798 2802	your
+#35	ACE T35	entityID: NYT20001217.2241.0165-E29; extent: your
+T36	ACE-Mention 2838 2849	the airport
+#36	ACE T36	entityID: NYT20001217.2241.0165-E1; extent: the airport
+T37	ACE-Mention 2885 2892	airline
+#37	ACE T37	entityID: NYT20001217.2241.0165-E9; extent: airline
+T38	ACE-Mention 2953 2966	ticket agents
+#38	ACE T38	entityID: NYT20001217.2241.0165-E31; extent: ticket agents
+T39	ACE-Mention 2970 3005	The Federal Aviation Administration
+#39	ACE T39	entityID: NYT20001217.2241.0165-E30; extent: The Federal Aviation Administration
+T40	ACE-Mention 3090 3110	the biggest airports
+#40	ACE T40	entityID: NYT20001217.2241.0165-E32; extent: the biggest airports
+T41	ACE-Mention 3187 3191	your
+#41	ACE T41	entityID: NYT20001217.2241.0165-E29; extent: your
+T42	ACE-Mention 3226 3235	an infant
+#42	ACE T42	entityID: NYT20001217.2241.0165-E46; extent: an infant
+T43	ACE-Mention 3341 3344	you
+#43	ACE T43	entityID: NYT20001217.2241.0165-E29; extent: you
+T44	ACE-Mention 3371 3379	carriers
+#44	ACE T44	entityID: NYT20001217.2241.0165-E9; extent: carriers
+T45	ACE-Mention 3388 3392	your
+#45	ACE T45	entityID: NYT20001217.2241.0165-E29; extent: your
+T46	ACE-Mention 3418 3426	yourself
+#46	ACE T46	entityID: NYT20001217.2241.0165-E29; extent: yourself
+T47	ACE-Mention 3444 3456	your airline
+#47	ACE T47	entityID: NYT20001217.2241.0165-E26; extent: your airline
+T48	ACE-Mention 3476 3486	passengers
+#48	ACE T48	entityID: NYT20001217.2241.0165-E12; extent: passengers
+T49	ACE-Mention 3550 3561	the airline
+#49	ACE T49	entityID: NYT20001217.2241.0165-E26; extent: the airline
+T50	ACE-Mention 3594 3597	you
+#50	ACE T50	entityID: NYT20001217.2241.0165-E29; extent: you
+T51	ACE-Mention 3608 3635	the airline representatives
+#51	ACE T51	entityID: NYT20001217.2241.0165-E33; extent: the airline representatives
+T52	ACE-Mention 3687 3691	your
+#52	ACE T52	entityID: NYT20001217.2241.0165-E29; extent: your
+T53	ACE-Mention 3718 3735	airline personnel
+#53	ACE T53	entityID: NYT20001217.2241.0165-E35; extent: airline personnel
+T54	ACE-Mention 3773 3778	their
+#54	ACE T54	entityID: NYT20001217.2241.0165-E35; extent: their
+T55	ACE-Mention 3908 3919	the airline
+#55	ACE T55	entityID: NYT20001217.2241.0165-E26; extent: the airline
+T56	ACE-Mention 3925 3936	the airport
+#56	ACE T56	entityID: NYT20001217.2241.0165-E36; extent: the airport
+T57	ACE-Mention 3953 3971	the ticket counter
+#57	ACE T57	entityID: NYT20001217.2241.0165-E37; extent: the ticket counter
+T58	ACE-Mention 4069 4084	the competition
+#58	ACE T58	entityID: NYT20001217.2241.0165-E38; extent: the competition
+T59	ACE-Mention 4091 4106	another airline
+#59	ACE T59	entityID: NYT20001217.2241.0165-E39; extent: another airline
+T60	ACE-Mention 4120 4124	your
+#60	ACE T60	entityID: NYT20001217.2241.0165-E29; extent: your
+T61	ACE-Mention 4143 4155	your airline
+#61	ACE T61	entityID: NYT20001217.2241.0165-E26; extent: your airline
+T62	ACE-Mention 4167 4171	your
+#62	ACE T62	entityID: NYT20001217.2241.0165-E29; extent: your
+T63	ACE-Mention 4211 4214	you
+#63	ACE T63	entityID: NYT20001217.2241.0165-E29; extent: you
+T64	ACE-Mention 4230 4233	you
+#64	ACE T64	entityID: NYT20001217.2241.0165-E29; extent: you
+T65	ACE-Mention 4256 4285	a high-mileage frequent flier
+#65	ACE T65	entityID: NYT20001217.2241.0165-E29; extent: a high-mileage frequent flier
+T66	ACE-Mention 4292 4303	the airline
+#66	ACE T66	entityID: NYT20001217.2241.0165-E26; extent: the airline
+T67	ACE-Mention 4312 4316	Your
+#67	ACE T67	entityID: NYT20001217.2241.0165-E29; extent: Your
+T68	ACE-Mention 4382 4393	the airline
+#68	ACE T68	entityID: NYT20001217.2241.0165-E26; extent: the airline
+T69	ACE-Mention 4408 4418	your hotel
+#69	ACE T69	entityID: NYT20001217.2241.0165-E41; extent: your hotel
+T70	ACE-Mention 4424 4427	you
+#70	ACE T70	entityID: NYT20001217.2241.0165-E29; extent: you
+T71	ACE-Mention 4494 4498	your
+#71	ACE T71	entityID: NYT20001217.2241.0165-E29; extent: your
+T72	ACE-Mention 4534 4539	a car
+#72	ACE T72	entityID: NYT20001217.2241.0165-E42; extent: a car
+T73	ACE-Mention 4628 4640	The airlines
+#73	ACE T73	entityID: NYT20001217.2241.0165-E9; extent: The airlines
+T74	ACE-Mention 4668 4676	consumer
+#74	ACE T74	entityID: NYT20001217.2241.0165-E12; extent: consumer
+T75	ACE-Mention 4706 4710	They
+#75	ACE T75	entityID: NYT20001217.2241.0165-E9; extent: They
+T76	ACE-Mention 4784 4788	your
+#76	ACE T76	entityID: NYT20001217.2241.0165-E29; extent: your
+T77	ACE-Mention 4904 4908	your
+#77	ACE T77	entityID: NYT20001217.2241.0165-E29; extent: your
+T78	ACE-Mention 4919 4929	Washington
+#78	ACE T78	entityID: NYT20001217.2241.0165-E44; extent: Washington
+T79	ACE-Mention 4964 4976	each airline
+#79	ACE T79	entityID: NYT20001217.2241.0165-E13; extent: each airline
+T80	ACE-Mention 4980 5009	the Transportation Department
+#80	ACE T80	entityID: NYT20001217.2241.0165-E10; extent: the Transportation Department
+T81	ACE-Mention 5122 5154	Aviation Consumer Protection Div
+#81	ACE T81	entityID: NYT20001217.2241.0165-E47; extent: Aviation Consumer Protection Div
+T82	ACE-Mention 5167 5195	Department of Transportation
+#82	ACE T82	entityID: NYT20001217.2241.0165-E10; extent: Department of Transportation
+T83	ACE-Mention 5196 5232	400 Seventh St. S.W. Washington , DC
+#83	ACE T83	entityID: NYT20001217.2241.0165-E45; extent: 400 Seventh St. S.W. Washington , DC

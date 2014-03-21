@@ -1,0 +1,170 @@
+T0	ACE-Mention 565 583	TALLAHASSEE , Fla.
+#0	ACE T0	entityID: NYT20001129.2040.0383-E20; extent: TALLAHASSEE , Fla.
+T1	ACE-Mention 586 620	Lawyers for Vice President Al Gore
+#1	ACE T1	entityID: NYT20001129.2040.0383-E35; extent: Lawyers for Vice President Al Gore
+T2	ACE-Mention 636 641	their
+#2	ACE T2	entityID: NYT20001129.2040.0383-E35; extent: their
+T3	ACE-Mention 669 672	his
+#3	ACE T3	entityID: NYT20001129.2040.0383-E13; extent: his
+T4	ACE-Mention 688 695	Florida
+#4	ACE T4	entityID: NYT20001129.2040.0383-E38; extent: Florida
+T5	ACE-Mention 727 731	they
+#5	ACE T5	entityID: NYT20001129.2040.0383-E35; extent: they
+T6	ACE-Mention 801 805	they
+#6	ACE T6	entityID: NYT20001129.2040.0383-E35; extent: they
+T7	ACE-Mention 825 850	the Florida Supreme Court
+#7	ACE T7	entityID: NYT20001129.2040.0383-E39; extent: the Florida Supreme Court
+T8	ACE-Mention 870 876	itself
+#8	ACE T8	entityID: NYT20001129.2040.0383-E39; extent: itself
+T9	ACE-Mention 920 948	the District Court of Appeal
+#9	ACE T9	entityID: NYT20001129.2040.0383-E40; extent: the District Court of Appeal
+T10	ACE-Mention 1001 1027	the state 's highest court
+#10	ACE T10	entityID: NYT20001129.2040.0383-E39; extent: the state 's highest court
+T11	ACE-Mention 1045 1060	Gore 's lawyers
+#11	ACE T11	entityID: NYT20001129.2040.0383-E35; extent: Gore 's lawyers
+T12	ACE-Mention 1089 1106	the Supreme Court
+#12	ACE T12	entityID: NYT20001129.2040.0383-E39; extent: the Supreme Court
+T13	ACE-Mention 1120 1124	Gore
+#13	ACE T13	entityID: NYT20001129.2040.0383-E13; extent: Gore
+T14	ACE-Mention 1149 1176	the slow-moving trial court
+#14	ACE T14	entityID: NYT20001129.2040.0383-E42; extent: the slow-moving trial court
+T15	ACE-Mention 1200 1206	itself
+#15	ACE T15	entityID: NYT20001129.2040.0383-E39; extent: itself
+T16	ACE-Mention 1235 1239	Gore
+#16	ACE T16	entityID: NYT20001129.2040.0383-E13; extent: Gore
+T17	ACE-Mention 1240 1250	the winner
+#17	ACE T17	entityID: NYT20001129.2040.0383-E1; extent: the winner
+T18	ACE-Mention 1254 1256	he
+#18	ACE T18	entityID: NYT20001129.2040.0383-E13; extent: he
+T19	ACE-Mention 1281 1312	lawyers for Gov. George W. Bush
+#19	ACE T19	entityID: NYT20001129.2040.0383-E2; extent: lawyers for Gov. George W. Bush
+T20	ACE-Mention 1318 1322	they
+#20	ACE T20	entityID: NYT20001129.2040.0383-E2; extent: they
+T21	ACE-Mention 1427 1431	they
+#21	ACE T21	entityID: NYT20001129.2040.0383-E2; extent: they
+T22	ACE-Mention 1442 1472	Circuit Judge N. Sanders Sauls
+#22	ACE T22	entityID: NYT20001129.2040.0383-E5; extent: Circuit Judge N. Sanders Sauls
+T23	ACE-Mention 1523 1557	Miami-Dade and Palm Beach counties
+#23	ACE T23	entityID: NYT20001129.2040.0383-E7; extent: Miami-Dade and Palm Beach counties
+T24	ACE-Mention 1576 1589	south Florida
+#24	ACE T24	entityID: NYT20001129.2040.0383-E10; extent: south Florida
+T25	ACE-Mention 1604 1613	the court
+#25	ACE T25	entityID: NYT20001129.2040.0383-E39; extent: the court
+T26	ACE-Mention 1689 1698	the judge
+#26	ACE T26	entityID: NYT20001129.2040.0383-E11; extent: the judge
+T27	ACE-Mention 1737 1748	Tallahassee
+#27	ACE T27	entityID: NYT20001129.2040.0383-E20; extent: Tallahassee
+T28	ACE-Mention 1752 1765	the Gore team
+#28	ACE T28	entityID: NYT20001129.2040.0383-E12; extent: the Gore team
+T29	ACE-Mention 1853 1866	Barry Richard
+#29	ACE T29	entityID: NYT20001129.2040.0383-E14; extent: Barry Richard
+T30	ACE-Mention 1869 1900	Bush 's chief trial lawyer here
+#30	ACE T30	entityID: NYT20001129.2040.0383-E14; extent: Bush 's chief trial lawyer here
+T31	ACE-Mention 1908 1910	he
+#31	ACE T31	entityID: NYT20001129.2040.0383-E14; extent: he
+T32	ACE-Mention 1976 1980	here
+#32	ACE T32	entityID: NYT20001129.2040.0383-E20; extent: here
+T33	ACE-Mention 1987 1989	We
+#33	ACE T33	entityID: NYT20001129.2040.0383-E16; extent: We
+T34	ACE-Mention 2018 2025	Richard
+#34	ACE T34	entityID: NYT20001129.2040.0383-E14; extent: Richard
+T35	ACE-Mention 2056 2059	you
+#35	ACE T35	entityID: NYT20001129.2040.0383-E17; extent: you
+T36	ACE-Mention 2082 2085	you
+#36	ACE T36	entityID: NYT20001129.2040.0383-E17; extent: you
+T37	ACE-Mention 2123 2125	we
+#37	ACE T37	entityID: NYT20001129.2040.0383-E16; extent: we
+T38	ACE-Mention 2241 2250	the court
+#38	ACE T38	entityID: NYT20001129.2040.0383-E39; extent: the court
+T39	ACE-Mention 2300 2302	we
+#39	ACE T39	entityID: NYT20001129.2040.0383-E16; extent: we
+T40	ACE-Mention 2315 2319	here
+#40	ACE T40	entityID: NYT20001129.2040.0383-E20; extent: here
+T41	ACE-Mention 2366 2370	they
+#41	ACE T41	entityID: NYT20001129.2040.0383-E35; extent: they
+T42	ACE-Mention 2420 2435	Gore 's lawyers
+#42	ACE T42	entityID: NYT20001129.2040.0383-E35; extent: Gore 's lawyers
+T43	ACE-Mention 2530 2534	Gore
+#43	ACE T43	entityID: NYT20001129.2040.0383-E13; extent: Gore
+T44	ACE-Mention 2572 2573	I
+#44	ACE T44	entityID: NYT20001129.2040.0383-E18; extent: I
+T45	ACE-Mention 2607 2618	David Boies
+#45	ACE T45	entityID: NYT20001129.2040.0383-E18; extent: David Boies
+T46	ACE-Mention 2621 2647	Gore 's chief trial lawyer
+#46	ACE T46	entityID: NYT20001129.2040.0383-E18; extent: Gore 's chief trial lawyer
+T47	ACE-Mention 2653 2658	Sauls
+#47	ACE T47	entityID: NYT20001129.2040.0383-E5; extent: Sauls
+T48	ACE-Mention 2676 2691	Gore 's lawyers
+#48	ACE T48	entityID: NYT20001129.2040.0383-E35; extent: Gore 's lawyers
+T49	ACE-Mention 2776 2781	their
+#49	ACE T49	entityID: NYT20001129.2040.0383-E35; extent: their
+T50	ACE-Mention 2845 2861	the two counties
+#50	ACE T50	entityID: NYT20001129.2040.0383-E7; extent: the two counties
+T51	ACE-Mention 2888 2897	the judge
+#51	ACE T51	entityID: NYT20001129.2040.0383-E21; extent: the judge
+T52	ACE-Mention 2903 2907	Gore
+#52	ACE T52	entityID: NYT20001129.2040.0383-E13; extent: Gore
+T53	ACE-Mention 2943 2968	the Florida Supreme Court
+#53	ACE T53	entityID: NYT20001129.2040.0383-E39; extent: the Florida Supreme Court
+T54	ACE-Mention 2993 2998	their
+#54	ACE T54	entityID: NYT20001129.2040.0383-E35; extent: their
+T55	ACE-Mention 3073 3077	them
+#55	ACE T55	entityID: NYT20001129.2040.0383-E35; extent: them
+T56	ACE-Mention 3096 3101	their
+#56	ACE T56	entityID: NYT20001129.2040.0383-E35; extent: their
+T57	ACE-Mention 3158 3167	the state
+#57	ACE T57	entityID: NYT20001129.2040.0383-E38; extent: the state
+T58	ACE-Mention 3176 3210	electors for the Electoral College
+#58	ACE T58	entityID: NYT20001129.2040.0383-E22; extent: electors for the Electoral College
+T59	ACE-Mention 3213 3217	Gore
+#59	ACE T59	entityID: NYT20001129.2040.0383-E13; extent: Gore
+T60	ACE-Mention 3280 3294	Kendall Coffey
+#60	ACE T60	entityID: NYT20001129.2040.0383-E24; extent: Kendall Coffey
+T61	ACE-Mention 3297 3328	one of Gore 's election lawyers
+#61	ACE T61	entityID: NYT20001129.2040.0383-E24; extent: one of Gore 's election lawyers
+T62	ACE-Mention 3334 3336	he
+#62	ACE T62	entityID: NYT20001129.2040.0383-E24; extent: he
+T63	ACE-Mention 3352 3369	Sauls ' courtroom
+#63	ACE T63	entityID: NYT20001129.2040.0383-E34; extent: Sauls ' courtroom
+T64	ACE-Mention 3433 3437	They
+#64	ACE T64	entityID: NYT20001129.2040.0383-E27; extent: They
+T65	ACE-Mention 3485 3504	the clerk 's office
+#65	ACE T65	entityID: NYT20001129.2040.0383-E28; extent: the clerk 's office
+T66	ACE-Mention 3525 3529	they
+#66	ACE T66	entityID: NYT20001129.2040.0383-E27; extent: they
+T67	ACE-Mention 3556 3571	Gore 's lawyers
+#67	ACE T67	entityID: NYT20001129.2040.0383-E35; extent: Gore 's lawyers
+T68	ACE-Mention 3610 3615	their
+#68	ACE T68	entityID: NYT20001129.2040.0383-E35; extent: their
+T69	ACE-Mention 3647 3658	the lawyers
+#69	ACE T69	entityID: NYT20001129.2040.0383-E35; extent: the lawyers
+T70	ACE-Mention 3687 3692	their
+#70	ACE T70	entityID: NYT20001129.2040.0383-E35; extent: their
+T71	ACE-Mention 3703 3708	their
+#71	ACE T71	entityID: NYT20001129.2040.0383-E35; extent: their
+T72	ACE-Mention 3731 3735	they
+#72	ACE T72	entityID: NYT20001129.2040.0383-E35; extent: they
+T73	ACE-Mention 3891 3901	plaintiffs
+#73	ACE T73	entityID: NYT20001129.2040.0383-E30; extent: plaintiffs
+T74	ACE-Mention 4042 4061	the Court of Appeal
+#74	ACE T74	entityID: NYT20001129.2040.0383-E40; extent: the Court of Appeal
+T75	ACE-Mention 4078 4087	the court
+#75	ACE T75	entityID: NYT20001129.2040.0383-E40; extent: the court
+T76	ACE-Mention 4340 4351	Tallahassee
+#76	ACE T76	entityID: NYT20001129.2040.0383-E20; extent: Tallahassee
+T77	ACE-Mention 4489 4514	the Florida Supreme Court
+#77	ACE T77	entityID: NYT20001129.2040.0383-E39; extent: the Florida Supreme Court
+T78	ACE-Mention 4521 4536	Gore 's lawyers
+#78	ACE T78	entityID: NYT20001129.2040.0383-E35; extent: Gore 's lawyers
+T79	ACE-Mention 4589 4602	the Bush team
+#79	ACE T79	entityID: NYT20001129.2040.0383-E31; extent: the Bush team
+T80	ACE-Mention 4847 4854	Sanders
+#80	ACE T80	entityID: NYT20001129.2040.0383-E5; extent: Sanders
+T81	ACE-Mention 4888 4897	witnesses
+#81	ACE T81	entityID: NYT20001129.2040.0383-E33; extent: witnesses
+T82	ACE-Mention 4957 4974	the Supreme Court
+#82	ACE T82	entityID: NYT20001129.2040.0383-E39; extent: the Supreme Court
+T83	ACE-Mention 5068 5077	the court
+#83	ACE T83	entityID: NYT20001129.2040.0383-E39; extent: the court
+T84	ACE-Mention 5165 5168	its
+#84	ACE T84	entityID: NYT20001129.2040.0383-E39; extent: its

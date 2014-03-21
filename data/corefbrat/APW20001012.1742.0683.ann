@@ -1,0 +1,16 @@
+T0	ACE-Mention 102 112	WASHINGTON
+#0	ACE T0	entityID: APW20001012.1742.0683-E1; extent: WASHINGTON
+T1	ACE-Mention 113 117	(AP)
+#1	ACE T1	entityID: APW20001012.1742.0683-E2; extent: (AP)
+T2	ACE-Mention 120 137	President Clinton
+#2	ACE T2	entityID: APW20001012.1742.0683-E3; extent: President Clinton
+T3	ACE-Mention 144 152	Israelis
+#3	ACE T3	entityID: APW20001012.1742.0683-E5; extent: Israelis
+T4	ACE-Mention 157 169	Palestinians
+#4	ACE T4	entityID: APW20001012.1742.0683-E6; extent: Palestinians
+T5	ACE-Mention 255 265	both sides
+#5	ACE T5	entityID: APW20001012.1742.0683-E7; extent: both sides
+T6	ACE-Mention 425 438	the president
+#6	ACE T6	entityID: APW20001012.1742.0683-E3; extent: the president
+T7	ACE-Mention 466 493	the White House Rose Garden
+#7	ACE T7	entityID: APW20001012.1742.0683-E8; extent: the White House Rose Garden

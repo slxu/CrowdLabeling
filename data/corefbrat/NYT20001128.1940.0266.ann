@@ -1,0 +1,58 @@
+T0	ACE-Mention 314 322	NEW YORK
+#0	ACE T0	entityID: NYT20001128.1940.0266-E15; extent: NEW YORK
+T1	ACE-Mention 325 344	National Geographic
+#1	ACE T1	entityID: NYT20001128.1940.0266-E16; extent: National Geographic
+T2	ACE-Mention 349 401	the television production unit of The New York Times
+#2	ACE T2	entityID: NYT20001128.1940.0266-E17; extent: the television production unit of The New York Times
+T3	ACE-Mention 479 498	National Geographic
+#3	ACE T3	entityID: NYT20001128.1940.0266-E16; extent: National Geographic
+T4	ACE-Mention 681 709	the channel 's news division
+#4	ACE T4	entityID: NYT20001128.1940.0266-E19; extent: the channel 's news division
+T5	ACE-Mention 714 744	the television production unit
+#5	ACE T5	entityID: NYT20001128.1940.0266-E17; extent: the television production unit
+T6	ACE-Mention 747 772	New York Times Television
+#6	ACE T6	entityID: NYT20001128.1940.0266-E17; extent: New York Times Television
+T7	ACE-Mention 775 823	a subsidiary of The New York Times News Services
+#7	ACE T7	entityID: NYT20001128.1940.0266-E17; extent: a subsidiary of The New York Times News Services
+T8	ACE-Mention 878 896	The New York Times
+#8	ACE T8	entityID: NYT20001128.1940.0266-E18; extent: The New York Times
+T9	ACE-Mention 956 970	Richard Flaste
+#9	ACE T9	entityID: NYT20001128.1940.0266-E22; extent: Richard Flaste
+T10	ACE-Mention 973 1029	managing editor of New York Times Television Enterprises
+#10	ACE T10	entityID: NYT20001128.1940.0266-E22; extent: managing editor of New York Times Television Enterprises
+T11	ACE-Mention 1033 1060	National Geographic Channel
+#11	ACE T11	entityID: NYT20001128.1940.0266-E20; extent: National Geographic Channel
+T12	ACE-Mention 1093 1109	10 million homes
+#12	ACE T12	entityID: NYT20001128.1940.0266-E24; extent: 10 million homes
+T13	ACE-Mention 1126 1145	National Geographic
+#13	ACE T13	entityID: NYT20001128.1940.0266-E16; extent: National Geographic
+T14	ACE-Mention 1184 1212	the Fox Cable Networks Group
+#14	ACE T14	entityID: NYT20001128.1940.0266-E1; extent: the Fox Cable Networks Group
+T15	ACE-Mention 1234 1247	The companies
+#15	ACE T15	entityID: NYT20001128.1940.0266-E2; extent: The companies
+T16	ACE-Mention 1286 1306	AT&AMP ; T Broadband
+#16	ACE T16	entityID: NYT20001128.1940.0266-E2; extent: AT&AMP ; T Broadband
+T17	ACE-Mention 1309 1323	Adelphia Cable
+#17	ACE T17	entityID: NYT20001128.1940.0266-E2; extent: Adelphia Cable
+T18	ACE-Mention 1328 1335	DirecTV
+#18	ACE T18	entityID: NYT20001128.1940.0266-E2; extent: DirecTV
+T19	ACE-Mention 1339 1358	National Geographic
+#19	ACE T19	entityID: NYT20001128.1940.0266-E16; extent: National Geographic
+T20	ACE-Mention 1424 1437	115 countries
+#20	ACE T20	entityID: NYT20001128.1940.0266-E6; extent: 115 countries
+T21	ACE-Mention 1450 1466	85 million homes
+#21	ACE T21	entityID: NYT20001128.1940.0266-E7; extent: 85 million homes
+T22	ACE-Mention 1470 1486	The U.S. channel
+#22	ACE T22	entityID: NYT20001128.1940.0266-E20; extent: The U.S. channel
+T23	ACE-Mention 1515 1535	the overseas channel
+#23	ACE T23	entityID: NYT20001128.1940.0266-E9; extent: the overseas channel
+T24	ACE-Mention 1543 1554	Laureen Ong
+#24	ACE T24	entityID: NYT20001128.1940.0266-E11; extent: Laureen Ong
+T25	ACE-Mention 1557 1590	president of the American channel
+#25	ACE T25	entityID: NYT20001128.1940.0266-E11; extent: president of the American channel
+T26	ACE-Mention 1594 1603	The Times
+#26	ACE T26	entityID: NYT20001128.1940.0266-E18; extent: The Times
+T27	ACE-Mention 1676 1689	Granada Media
+#27	ACE T27	entityID: NYT20001128.1940.0266-E13; extent: Granada Media
+T28	ACE-Mention 1752 1760	ABC News
+#28	ACE T28	entityID: NYT20001128.1940.0266-E14; extent: ABC News

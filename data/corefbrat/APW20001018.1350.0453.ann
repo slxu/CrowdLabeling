@@ -1,0 +1,76 @@
+T0	ACE-Mention 105 115	WASHINGTON
+#0	ACE T0	entityID: APW20001018.1350.0453-E23; extent: WASHINGTON
+T1	ACE-Mention 116 120	(AP)
+#1	ACE T1	entityID: APW20001018.1350.0453-E26; extent: (AP)
+T2	ACE-Mention 123 180	The 45.2 million Americans getting Social Security checks
+#2	ACE T2	entityID: APW20001018.1350.0453-E27; extent: The 45.2 million Americans getting Social Security checks
+T3	ACE-Mention 486 501	Social Security
+#3	ACE T3	entityID: APW20001018.1350.0453-E15; extent: Social Security
+T4	ACE-Mention 551 571	the Labor Department
+#4	ACE T4	entityID: APW20001018.1350.0453-E29; extent: the Labor Department
+T5	ACE-Mention 631 640	Americans
+#5	ACE T5	entityID: APW20001018.1350.0453-E22; extent: Americans
+T6	ACE-Mention 647 662	a new president
+#6	ACE T6	entityID: APW20001018.1350.0453-E30; extent: a new president
+T7	ACE-Mention 671 746	Florida and Pennsylvania _ among the tossup states in the presidential race
+#7	ACE T7	entityID: APW20001018.1350.0453-E31; extent: Florida and Pennsylvania _ among the tossup states in the presidential race
+T8	ACE-Mention 754 825	a large number of older people , who tend to be the most likely to vote
+#8	ACE T8	entityID: APW20001018.1350.0453-E34; extent: a large number of older people , who tend to be the most likely to vote
+T9	ACE-Mention 829 854	Texas Gov. George W. Bush
+#9	ACE T9	entityID: APW20001018.1350.0453-E1; extent: Texas Gov. George W. Bush
+T10	ACE-Mention 857 892	the Republican presidential nominee
+#10	ACE T10	entityID: APW20001018.1350.0453-E1; extent: the Republican presidential nominee
+T11	ACE-Mention 899 921	Vice President Al Gore
+#11	ACE T11	entityID: APW20001018.1350.0453-E3; extent: Vice President Al Gore
+T12	ACE-Mention 924 936	the Democrat
+#12	ACE T12	entityID: APW20001018.1350.0453-E3; extent: the Democrat
+T13	ACE-Mention 987 991	Bush
+#13	ACE T13	entityID: APW20001018.1350.0453-E1; extent: Bush
+T14	ACE-Mention 1010 1021	individuals
+#14	ACE T14	entityID: APW20001018.1350.0453-E35; extent: individuals
+T15	ACE-Mention 1054 1059	their
+#15	ACE T15	entityID: APW20001018.1350.0453-E35; extent: their
+T16	ACE-Mention 1085 1089	Gore
+#16	ACE T16	entityID: APW20001018.1350.0453-E3; extent: Gore
+T17	ACE-Mention 1141 1151	the nation
+#17	ACE T17	entityID: APW20001018.1350.0453-E22; extent: the nation
+T18	ACE-Mention 1297 1305	retirees
+#18	ACE T18	entityID: APW20001018.1350.0453-E6; extent: retirees
+T19	ACE-Mention 1487 1495	retirees
+#19	ACE T19	entityID: APW20001018.1350.0453-E6; extent: retirees
+T20	ACE-Mention 1588 1604	disabled workers
+#20	ACE T20	entityID: APW20001018.1350.0453-E7; extent: disabled workers
+T21	ACE-Mention 1609 1646	families whose breadwinners have died
+#21	ACE T21	entityID: APW20001018.1350.0453-E8; extent: families whose breadwinners have died
+T22	ACE-Mention 1682 1704	low-income individuals
+#22	ACE T22	entityID: APW20001018.1350.0453-E10; extent: low-income individuals
+T23	ACE-Mention 1864 1872	a couple
+#23	ACE T23	entityID: APW20001018.1350.0453-E11; extent: a couple
+T24	ACE-Mention 1938 1952	SSI recipients
+#24	ACE T24	entityID: APW20001018.1350.0453-E12; extent: SSI recipients
+T25	ACE-Mention 2106 2148	Social Security Commissioner Kenneth Apfel
+#25	ACE T25	entityID: APW20001018.1350.0453-E13; extent: Social Security Commissioner Kenneth Apfel
+T26	ACE-Mention 2159 2170	the elderly
+#26	ACE T26	entityID: APW20001018.1350.0453-E16; extent: the elderly
+T27	ACE-Mention 2192 2197	their
+#27	ACE T27	entityID: APW20001018.1350.0453-E16; extent: their
+T28	ACE-Mention 2264 2268	they
+#28	ACE T28	entityID: APW20001018.1350.0453-E16; extent: they
+T29	ACE-Mention 2293 2336	the Department of Health and Human Services
+#29	ACE T29	entityID: APW20001018.1350.0453-E17; extent: the Department of Health and Human Services
+T30	ACE-Mention 2395 2430	most elderly and disabled Americans
+#30	ACE T30	entityID: APW20001018.1350.0453-E18; extent: most elderly and disabled Americans
+T31	ACE-Mention 2482 2498	doctors ' office
+#31	ACE T31	entityID: APW20001018.1350.0453-E20; extent: doctors ' office
+T32	ACE-Mention 2818 2826	Congress
+#32	ACE T32	entityID: APW20001018.1350.0453-E21; extent: Congress
+T33	ACE-Mention 2894 2908	the government
+#33	ACE T33	entityID: APW20001018.1350.0453-E22; extent: the government
+T34	ACE-Mention 3196 3204	consumer
+#34	ACE T34	entityID: APW20001018.1350.0453-E24; extent: consumer
+T35	ACE-Mention 3589 3604	Social Security
+#35	ACE T35	entityID: APW20001018.1350.0453-E15; extent: Social Security
+T36	ACE-Mention 3639 3656	working Americans
+#36	ACE T36	entityID: APW20001018.1350.0453-E25; extent: working Americans
+T37	ACE-Mention 3869 3899	Social Security Administration
+#37	ACE T37	entityID: APW20001018.1350.0453-E15; extent: Social Security Administration

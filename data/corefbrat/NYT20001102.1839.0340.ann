@@ -1,0 +1,170 @@
+T0	ACE-Mention 326 344	TALLAHASSEE , Fla.
+#0	ACE T0	entityID: NYT20001102.1839.0340-E19; extent: TALLAHASSEE , Fla.
+T1	ACE-Mention 371 408	all the other presidential candidates
+#1	ACE T1	entityID: NYT20001102.1839.0340-E42; extent: all the other presidential candidates
+T2	ACE-Mention 411 423	Scott Dailey
+#2	ACE T2	entityID: NYT20001102.1839.0340-E43; extent: Scott Dailey
+T3	ACE-Mention 426 459	a member of the school board here
+#3	ACE T3	entityID: NYT20001102.1839.0340-E43; extent: a member of the school board here
+T4	ACE-Mention 473 485	Pat Buchanan
+#4	ACE T4	entityID: NYT20001102.1839.0340-E46; extent: Pat Buchanan
+T5	ACE-Mention 489 508	a luncheon audience
+#5	ACE T5	entityID: NYT20001102.1839.0340-E47; extent: a luncheon audience
+T6	ACE-Mention 534 537	Pat
+#6	ACE T6	entityID: NYT20001102.1839.0340-E46; extent: Pat
+T7	ACE-Mention 543 545	he
+#7	ACE T7	entityID: NYT20001102.1839.0340-E46; extent: he
+T8	ACE-Mention 549 568	a serious candidate
+#8	ACE T8	entityID: NYT20001102.1839.0340-E46; extent: a serious candidate
+T9	ACE-Mention 586 588	he
+#9	ACE T9	entityID: NYT20001102.1839.0340-E46; extent: he
+T10	ACE-Mention 636 644	Buchanan
+#10	ACE T10	entityID: NYT20001102.1839.0340-E46; extent: Buchanan
+T11	ACE-Mention 647 673	the Reform Party candidate
+#11	ACE T11	entityID: NYT20001102.1839.0340-E46; extent: the Reform Party candidate
+T12	ACE-Mention 714 739	many in political circles
+#12	ACE T12	entityID: NYT20001102.1839.0340-E40; extent: many in political circles
+T13	ACE-Mention 753 764	Ralph Nader
+#13	ACE T13	entityID: NYT20001102.1839.0340-E50; extent: Ralph Nader
+T14	ACE-Mention 844 866	Vice President Al Gore
+#14	ACE T14	entityID: NYT20001102.1839.0340-E1; extent: Vice President Al Gore
+T15	ACE-Mention 870 884	crucial states
+#15	ACE T15	entityID: NYT20001102.1839.0340-E4; extent: crucial states
+T16	ACE-Mention 901 908	Florida
+#16	ACE T16	entityID: NYT20001102.1839.0340-E41; extent: Florida
+T17	ACE-Mention 911 948	hardly anyone , least of all Buchanan
+#17	ACE T17	entityID: NYT20001102.1839.0340-E5; extent: hardly anyone , least of all Buchanan
+T18	ACE-Mention 964 972	Buchanan
+#18	ACE T18	entityID: NYT20001102.1839.0340-E46; extent: Buchanan
+T19	ACE-Mention 1003 1005	He
+#19	ACE T19	entityID: NYT20001102.1839.0340-E46; extent: He
+T20	ACE-Mention 1057 1063	Dailey
+#20	ACE T20	entityID: NYT20001102.1839.0340-E43; extent: Dailey
+T21	ACE-Mention 1107 1109	he
+#21	ACE T21	entityID: NYT20001102.1839.0340-E46; extent: he
+T22	ACE-Mention 1122 1130	Buchanan
+#22	ACE T22	entityID: NYT20001102.1839.0340-E46; extent: Buchanan
+T23	ACE-Mention 1169 1173	Gore
+#23	ACE T23	entityID: NYT20001102.1839.0340-E1; extent: Gore
+T24	ACE-Mention 1182 1186	Bush
+#24	ACE T24	entityID: NYT20001102.1839.0340-E6; extent: Bush
+T25	ACE-Mention 1192 1210	New York Times/CBS
+#25	ACE T25	entityID: NYT20001102.1839.0340-E7; extent: New York Times/CBS
+T26	ACE-Mention 1254 1262	Buchanan
+#26	ACE T26	entityID: NYT20001102.1839.0340-E46; extent: Buchanan
+T27	ACE-Mention 1293 1300	Florida
+#27	ACE T27	entityID: NYT20001102.1839.0340-E41; extent: Florida
+T28	ACE-Mention 1304 1306	He
+#28	ACE T28	entityID: NYT20001102.1839.0340-E46; extent: He
+T29	ACE-Mention 1343 1371	anywhere else in the country
+#29	ACE T29	entityID: NYT20001102.1839.0340-E9; extent: anywhere else in the country
+T30	ACE-Mention 1396 1400	here
+#30	ACE T30	entityID: NYT20001102.1839.0340-E19; extent: here
+T31	ACE-Mention 1412 1420	Buchanan
+#31	ACE T31	entityID: NYT20001102.1839.0340-E46; extent: Buchanan
+T32	ACE-Mention 1438 1440	he
+#32	ACE T32	entityID: NYT20001102.1839.0340-E46; extent: he
+T33	ACE-Mention 1451 1454	his
+#33	ACE T33	entityID: NYT20001102.1839.0340-E46; extent: his
+T34	ACE-Mention 1476 1500	conservative Republicans
+#34	ACE T34	entityID: NYT20001102.1839.0340-E11; extent: conservative Republicans
+T35	ACE-Mention 1535 1548	conservatives
+#35	ACE T35	entityID: NYT20001102.1839.0340-E12; extent: conservatives
+T36	ACE-Mention 1554 1556	he
+#36	ACE T36	entityID: NYT20001102.1839.0340-E46; extent: he
+T37	ACE-Mention 1584 1591	Al Gore
+#37	ACE T37	entityID: NYT20001102.1839.0340-E1; extent: Al Gore
+T38	ACE-Mention 1598 1633	Many of those who will vote for him
+#38	ACE T38	entityID: NYT20001102.1839.0340-E13; extent: Many of those who will vote for him
+T39	ACE-Mention 1636 1644	Buchanan
+#39	ACE T39	entityID: NYT20001102.1839.0340-E46; extent: Buchanan
+T40	ACE-Mention 1689 1691	he
+#40	ACE T40	entityID: NYT20001102.1839.0340-E46; extent: he
+T41	ACE-Mention 1716 1722	Others
+#41	ACE T41	entityID: NYT20001102.1839.0340-E15; extent: Others
+T42	ACE-Mention 1725 1727	he
+#42	ACE T42	entityID: NYT20001102.1839.0340-E46; extent: he
+T43	ACE-Mention 1742 1773	social conservative Republicans
+#43	ACE T43	entityID: NYT20001102.1839.0340-E15; extent: social conservative Republicans
+T44	ACE-Mention 1780 1792	Still others
+#44	ACE T44	entityID: NYT20001102.1839.0340-E17; extent: Still others
+T45	ACE-Mention 1797 1907	blue-collar Democrats who like his protectionist trade policies because they fear their jobs could go overseas
+#45	ACE T45	entityID: NYT20001102.1839.0340-E17; extent: blue-collar Democrats who like his protectionist trade policies because they fear their jobs could go overseas
+T46	ACE-Mention 1916 1920	Bush
+#46	ACE T46	entityID: NYT20001102.1839.0340-E6; extent: Bush
+T47	ACE-Mention 1925 1929	Gore
+#47	ACE T47	entityID: NYT20001102.1839.0340-E1; extent: Gore
+T48	ACE-Mention 1937 1944	Florida
+#48	ACE T48	entityID: NYT20001102.1839.0340-E41; extent: Florida
+T49	ACE-Mention 1947 1951	they
+#49	ACE T49	entityID: NYT20001102.1839.0340-E20; extent: they
+T50	ACE-Mention 2040 2042	he
+#50	ACE T50	entityID: NYT20001102.1839.0340-E46; extent: he
+T51	ACE-Mention 2060 2087	the Tiger Bay Club downtown
+#51	ACE T51	entityID: NYT20001102.1839.0340-E21; extent: the Tiger Bay Club downtown
+T52	ACE-Mention 2090 2098	Buchanan
+#52	ACE T52	entityID: NYT20001102.1839.0340-E46; extent: Buchanan
+T53	ACE-Mention 2124 2144	the other candidates
+#53	ACE T53	entityID: NYT20001102.1839.0340-E23; extent: the other candidates
+T54	ACE-Mention 2225 2233	Buchanan
+#54	ACE T54	entityID: NYT20001102.1839.0340-E46; extent: Buchanan
+T55	ACE-Mention 2266 2282	northern Florida
+#55	ACE T55	entityID: NYT20001102.1839.0340-E24; extent: northern Florida
+T56	ACE-Mention 2337 2343	others
+#56	ACE T56	entityID: NYT20001102.1839.0340-E23; extent: others
+T57	ACE-Mention 2395 2409	the Boy Scouts
+#57	ACE T57	entityID: NYT20001102.1839.0340-E25; extent: the Boy Scouts
+T58	ACE-Mention 2421 2425	gays
+#58	ACE T58	entityID: NYT20001102.1839.0340-E26; extent: gays
+T59	ACE-Mention 2457 2461	Gore
+#59	ACE T59	entityID: NYT20001102.1839.0340-E1; extent: Gore
+T60	ACE-Mention 2466 2470	Bush
+#60	ACE T60	entityID: NYT20001102.1839.0340-E6; extent: Bush
+T61	ACE-Mention 2517 2519	he
+#61	ACE T61	entityID: NYT20001102.1839.0340-E46; extent: he
+T62	ACE-Mention 2533 2535	he
+#62	ACE T62	entityID: NYT20001102.1839.0340-E46; extent: he
+T63	ACE-Mention 2542 2544	he
+#63	ACE T63	entityID: NYT20001102.1839.0340-E46; extent: he
+T64	ACE-Mention 2599 2601	We
+#64	ACE T64	entityID: NYT20001102.1839.0340-E27; extent: We
+T65	ACE-Mention 2616 2633	a new third party
+#65	ACE T65	entityID: NYT20001102.1839.0340-E28; extent: a new third party
+T66	ACE-Mention 2636 2656	a conservative party
+#66	ACE T66	entityID: NYT20001102.1839.0340-E28; extent: a conservative party
+T67	ACE-Mention 2662 2670	Buchanan
+#67	ACE T67	entityID: NYT20001102.1839.0340-E46; extent: Buchanan
+T68	ACE-Mention 2778 2794	the Reform Party
+#68	ACE T68	entityID: NYT20001102.1839.0340-E30; extent: the Reform Party
+T69	ACE-Mention 2875 2877	he
+#69	ACE T69	entityID: NYT20001102.1839.0340-E46; extent: he
+T70	ACE-Mention 2929 2932	you
+#70	ACE T70	entityID: NYT20001102.1839.0340-E31; extent: you
+T71	ACE-Mention 2937 2946	Goldwater
+#71	ACE T71	entityID: NYT20001102.1839.0340-E32; extent: Goldwater
+T72	ACE-Mention 2954 2961	Johnson
+#72	ACE T72	entityID: NYT20001102.1839.0340-E33; extent: Johnson
+T73	ACE-Mention 2964 2967	you
+#73	ACE T73	entityID: NYT20001102.1839.0340-E31; extent: you
+T74	ACE-Mention 2988 2991	you
+#74	ACE T74	entityID: NYT20001102.1839.0340-E31; extent: you
+T75	ACE-Mention 2996 3001	Nixon
+#75	ACE T75	entityID: NYT20001102.1839.0340-E34; extent: Nixon
+T76	ACE-Mention 3006 3011	Agnew
+#76	ACE T76	entityID: NYT20001102.1839.0340-E35; extent: Agnew
+T77	ACE-Mention 3019 3027	McGovern
+#77	ACE T77	entityID: NYT20001102.1839.0340-E36; extent: McGovern
+T78	ACE-Mention 3030 3033	you
+#78	ACE T78	entityID: NYT20001102.1839.0340-E31; extent: you
+T79	ACE-Mention 3054 3057	you
+#79	ACE T79	entityID: NYT20001102.1839.0340-E31; extent: you
+T80	ACE-Mention 3062 3068	Reagan
+#80	ACE T80	entityID: NYT20001102.1839.0340-E37; extent: Reagan
+T81	ACE-Mention 3076 3083	Mondale
+#81	ACE T81	entityID: NYT20001102.1839.0340-E38; extent: Mondale
+T82	ACE-Mention 3086 3089	you
+#82	ACE T82	entityID: NYT20001102.1839.0340-E31; extent: you
+T83	ACE-Mention 3120 3122	he
+#83	ACE T83	entityID: NYT20001102.1839.0340-E46; extent: he
+T84	ACE-Mention 3130 3156	the major-party candidates
+#84	ACE T84	entityID: NYT20001102.1839.0340-E20; extent: the major-party candidates

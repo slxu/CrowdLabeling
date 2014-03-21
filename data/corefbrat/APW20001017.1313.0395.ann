@@ -1,0 +1,190 @@
+T0	ACE-Mention 113 123	WASHINGTON
+#0	ACE T0	entityID: APW20001017.1313.0395-E22; extent: WASHINGTON
+T1	ACE-Mention 124 128	(AP)
+#1	ACE T1	entityID: APW20001017.1313.0395-E50; extent: (AP)
+T2	ACE-Mention 131 153	Herbert Lawrence Block
+#2	ACE T2	entityID: APW20001017.1313.0395-E51; extent: Herbert Lawrence Block
+T3	ACE-Mention 207 310	political cartoonists , a trade that Block _ better known as Herblock _ has plied for the past 71 years
+#3	ACE T3	entityID: APW20001017.1313.0395-E52; extent: political cartoonists , a trade that Block _ better known as Herblock _ has plied for the past 71 years
+T4	ACE-Mention 319 322	his
+#4	ACE T4	entityID: APW20001017.1313.0395-E51; extent: his
+T5	ACE-Mention 331 350	The Washington Post
+#5	ACE T5	entityID: APW20001017.1313.0395-E54; extent: The Washington Post
+T6	ACE-Mention 371 379	Herblock
+#6	ACE T6	entityID: APW20001017.1313.0395-E51; extent: Herblock
+T7	ACE-Mention 414 423	big shots
+#7	ACE T7	entityID: APW20001017.1313.0395-E55; extent: big shots
+T8	ACE-Mention 431 438	Vietnam
+#8	ACE T8	entityID: APW20001017.1313.0395-E56; extent: Vietnam
+T9	ACE-Mention 460 466	Soviet
+#9	ACE T9	entityID: APW20001017.1313.0395-E57; extent: Soviet
+T10	ACE-Mention 479 489	presidents
+#10	ACE T10	entityID: APW20001017.1313.0395-E59; extent: presidents
+T11	ACE-Mention 490 496	Truman
+#11	ACE T11	entityID: APW20001017.1313.0395-E1; extent: Truman
+T12	ACE-Mention 500 505	Nixon
+#12	ACE T12	entityID: APW20001017.1313.0395-E2; extent: Nixon
+T13	ACE-Mention 510 517	Clinton
+#13	ACE T13	entityID: APW20001017.1313.0395-E3; extent: Clinton
+T14	ACE-Mention 524 527	You
+#14	ACE T14	entityID: APW20001017.1313.0395-E4; extent: You
+T15	ACE-Mention 595 629	Herblock , who turned 91 on Friday
+#15	ACE T15	entityID: APW20001017.1313.0395-E51; extent: Herblock , who turned 91 on Friday
+T16	ACE-Mention 642 652	a reporter
+#16	ACE T16	entityID: APW20001017.1313.0395-E5; extent: a reporter
+T17	ACE-Mention 685 688	his
+#17	ACE T17	entityID: APW20001017.1313.0395-E51; extent: his
+T18	ACE-Mention 713 736	the Library of Congress
+#18	ACE T18	entityID: APW20001017.1313.0395-E6; extent: the Library of Congress
+T19	ACE-Mention 749 752	his
+#19	ACE T19	entityID: APW20001017.1313.0395-E51; extent: his
+T20	ACE-Mention 772 790	Slobodan Milosevic
+#20	ACE T20	entityID: APW20001017.1313.0395-E10; extent: Slobodan Milosevic
+T21	ACE-Mention 793 806	Yasser Arafat
+#21	ACE T21	entityID: APW20001017.1313.0395-E11; extent: Yasser Arafat
+T22	ACE-Mention 809 839	the National Rifle Association
+#22	ACE T22	entityID: APW20001017.1313.0395-E12; extent: the National Rifle Association
+T23	ACE-Mention 844 850	others
+#23	ACE T23	entityID: APW20001017.1313.0395-E13; extent: others
+T24	ACE-Mention 854 861	Al Gore
+#24	ACE T24	entityID: APW20001017.1313.0395-E14; extent: Al Gore
+T25	ACE-Mention 866 880	George W. Bush
+#25	ACE T25	entityID: APW20001017.1313.0395-E15; extent: George W. Bush
+T26	ACE-Mention 903 910	whoever
+#26	ACE T26	entityID: APW20001017.1313.0395-E16; extent: whoever
+T27	ACE-Mention 946 950	They
+#27	ACE T27	entityID: APW20001017.1313.0395-E16; extent: They
+T28	ACE-Mention 959 966	Clinton
+#28	ACE T28	entityID: APW20001017.1313.0395-E3; extent: Clinton
+T29	ACE-Mention 970 990	Few Herblock targets
+#29	ACE T29	entityID: APW20001017.1313.0395-E17; extent: Few Herblock targets
+T30	ACE-Mention 1022 1193	Nixon , drawn with deep-set , malevolent eyes , five o 'clock shadow and , when he was vice president in Eisenhower 's administration , with a bloodstained hatchet in hand
+#30	ACE T30	entityID: APW20001017.1313.0395-E2; extent: Nixon , drawn with deep-set , malevolent eyes , five o 'clock shadow and , when he was vice president in Eisenhower 's administration , with a bloodstained hatchet in hand
+T31	ACE-Mention 1201 1209	Herblock
+#31	ACE T31	entityID: APW20001017.1313.0395-E51; extent: Herblock
+T32	ACE-Mention 1231 1236	Nixon
+#32	ACE T32	entityID: APW20001017.1313.0395-E2; extent: Nixon
+T33	ACE-Mention 1249 1258	president
+#33	ACE T33	entityID: APW20001017.1313.0395-E2; extent: president
+T34	ACE-Mention 1270 1272	He
+#34	ACE T34	entityID: APW20001017.1313.0395-E51; extent: He
+T35	ACE-Mention 1278 1283	Nixon
+#35	ACE T35	entityID: APW20001017.1313.0395-E2; extent: Nixon
+T36	ACE-Mention 1298 1299	I
+#36	ACE T36	entityID: APW20001017.1313.0395-E51; extent: I
+T37	ACE-Mention 1305 1308	him
+#37	ACE T37	entityID: APW20001017.1313.0395-E2; extent: him
+T38	ACE-Mention 1338 1344	people
+#38	ACE T38	entityID: APW20001017.1313.0395-E20; extent: people
+T39	ACE-Mention 1349 1351	he
+#39	ACE T39	entityID: APW20001017.1313.0395-E2; extent: he
+T40	ACE-Mention 1356 1374	the same old Nixon
+#40	ACE T40	entityID: APW20001017.1313.0395-E2; extent: the same old Nixon
+T41	ACE-Mention 1380 1388	Herblock
+#41	ACE T41	entityID: APW20001017.1313.0395-E51; extent: Herblock
+T42	ACE-Mention 1420 1428	Herblock
+#42	ACE T42	entityID: APW20001017.1313.0395-E51; extent: Herblock
+T43	ACE-Mention 1438 1482	an unrelenting opponent of Sen. Joe McCarthy
+#43	ACE T43	entityID: APW20001017.1313.0395-E21; extent: an unrelenting opponent of Sen. Joe McCarthy
+T44	ACE-Mention 1489 1499	the artist
+#44	ACE T44	entityID: APW20001017.1313.0395-E51; extent: the artist
+T45	ACE-Mention 1563 1565	he
+#45	ACE T45	entityID: APW20001017.1313.0395-E51; extent: he
+T46	ACE-Mention 1571 1596	four Republican stalwarts
+#46	ACE T46	entityID: APW20001017.1313.0395-E25; extent: four Republican stalwarts
+T47	ACE-Mention 1617 1620	GOP
+#47	ACE T47	entityID: APW20001017.1313.0395-E26; extent: GOP
+T48	ACE-Mention 1762 1764	He
+#48	ACE T48	entityID: APW20001017.1313.0395-E51; extent: He
+T49	ACE-Mention 1769 1780	the library
+#49	ACE T49	entityID: APW20001017.1313.0395-E6; extent: the library
+T50	ACE-Mention 1868 1876	Herblock
+#50	ACE T50	entityID: APW20001017.1313.0395-E51; extent: Herblock
+T51	ACE-Mention 1932 1935	You
+#51	ACE T51	entityID: APW20001017.1313.0395-E27; extent: You
+T52	ACE-Mention 1986 1994	McCarthy
+#52	ACE T52	entityID: APW20001017.1313.0395-E23; extent: McCarthy
+T53	ACE-Mention 1997 2005	Herblock
+#53	ACE T53	entityID: APW20001017.1313.0395-E51; extent: Herblock
+T54	ACE-Mention 2103 2118	Every president
+#54	ACE T54	entityID: APW20001017.1313.0395-E29; extent: Every president
+T55	ACE-Mention 2127 2130	his
+#55	ACE T55	entityID: APW20001017.1313.0395-E29; extent: his
+T56	ACE-Mention 2142 2150	Herblock
+#56	ACE T56	entityID: APW20001017.1313.0395-E51; extent: Herblock
+T57	ACE-Mention 2184 2188	U.S.
+#57	ACE T57	entityID: APW20001017.1313.0395-E28; extent: U.S.
+T58	ACE-Mention 2205 2212	Vietnam
+#58	ACE T58	entityID: APW20001017.1313.0395-E56; extent: Vietnam
+T59	ACE-Mention 2215 2221	Soviet
+#59	ACE T59	entityID: APW20001017.1313.0395-E57; extent: Soviet
+T60	ACE-Mention 2226 2233	Chinese
+#60	ACE T60	entityID: APW20001017.1313.0395-E30; extent: Chinese
+T61	ACE-Mention 2247 2262	nuclear weapons
+#61	ACE T61	entityID: APW20001017.1313.0395-E31; extent: nuclear weapons
+T62	ACE-Mention 2293 2317	the District of Columbia
+#62	ACE T62	entityID: APW20001017.1313.0395-E22; extent: the District of Columbia
+T63	ACE-Mention 2359 2372	drunk drivers
+#63	ACE T63	entityID: APW20001017.1313.0395-E33; extent: drunk drivers
+T64	ACE-Mention 2387 2389	He
+#64	ACE T64	entityID: APW20001017.1313.0395-E51; extent: He
+T65	ACE-Mention 2449 2492	the Post , where he has toiled for 54 years
+#65	ACE T65	entityID: APW20001017.1313.0395-E54; extent: the Post , where he has toiled for 54 years
+T66	ACE-Mention 2520 2539	James H. Billington
+#66	ACE T66	entityID: APW20001017.1313.0395-E34; extent: James H. Billington
+T67	ACE-Mention 2542 2567	the librarian of Congress
+#67	ACE T67	entityID: APW20001017.1313.0395-E34; extent: the librarian of Congress
+T68	ACE-Mention 2575 2583	Herblock
+#68	ACE T68	entityID: APW20001017.1313.0395-E51; extent: Herblock
+T69	ACE-Mention 2641 2651	the artist
+#69	ACE T69	entityID: APW20001017.1313.0395-E51; extent: the artist
+T70	ACE-Mention 2672 2673	I
+#70	ACE T70	entityID: APW20001017.1313.0395-E51; extent: I
+T71	ACE-Mention 2679 2683	they
+#71	ACE T71	entityID: APW20001017.1313.0395-E36; extent: they
+T72	ACE-Mention 2741 2753	Jean Rickard
+#72	ACE T72	entityID: APW20001017.1313.0395-E37; extent: Jean Rickard
+T73	ACE-Mention 2756 2790	Herblock 's assistant for 43 years
+#73	ACE T73	entityID: APW20001017.1313.0395-E37; extent: Herblock 's assistant for 43 years
+T74	ACE-Mention 2798 2812	the cartoonist
+#74	ACE T74	entityID: APW20001017.1313.0395-E51; extent: the cartoonist
+T75	ACE-Mention 2821 2831	the office
+#75	ACE T75	entityID: APW20001017.1313.0395-E54; extent: the office
+T76	ACE-Mention 2874 2877	his
+#76	ACE T76	entityID: APW20001017.1313.0395-E51; extent: his
+T77	ACE-Mention 2890 2891	I
+#77	ACE T77	entityID: APW20001017.1313.0395-E51; extent: I
+T78	ACE-Mention 2950 2958	Herblock
+#78	ACE T78	entityID: APW20001017.1313.0395-E51; extent: Herblock
+T79	ACE-Mention 3051 3070	the newsroom people
+#79	ACE T79	entityID: APW20001017.1313.0395-E39; extent: the newsroom people
+T80	ACE-Mention 3088 3090	me
+#80	ACE T80	entityID: APW20001017.1313.0395-E51; extent: me
+T81	ACE-Mention 3195 3196	I
+#81	ACE T81	entityID: APW20001017.1313.0395-E51; extent: I
+T82	ACE-Mention 3247 3254	Chicago
+#82	ACE T82	entityID: APW20001017.1313.0395-E41; extent: Chicago
+T83	ACE-Mention 3257 3265	Herblock
+#83	ACE T83	entityID: APW20001017.1313.0395-E51; extent: Herblock
+T84	ACE-Mention 3285 3295	cartoonist
+#84	ACE T84	entityID: APW20001017.1313.0395-E42; extent: cartoonist
+T85	ACE-Mention 3310 3332	the Chicago Daily News
+#85	ACE T85	entityID: APW20001017.1313.0395-E43; extent: the Chicago Daily News
+T86	ACE-Mention 3336 3346	His father
+#86	ACE T86	entityID: APW20001017.1313.0395-E44; extent: His father
+T87	ACE-Mention 3349 3358	a chemist
+#87	ACE T87	entityID: APW20001017.1313.0395-E44; extent: a chemist
+T88	ACE-Mention 3363 3393	contributor to humor magazines
+#88	ACE T88	entityID: APW20001017.1313.0395-E44; extent: contributor to humor magazines
+T89	ACE-Mention 3446 3449	his
+#89	ACE T89	entityID: APW20001017.1313.0395-E51; extent: his
+T90	ACE-Mention 3458 3461	His
+#90	ACE T90	entityID: APW20001017.1313.0395-E51; extent: His
+T91	ACE-Mention 3480 3488	the News
+#91	ACE T91	entityID: APW20001017.1313.0395-E43; extent: the News
+T92	ACE-Mention 3517 3536	the timber industry
+#92	ACE T92	entityID: APW20001017.1313.0395-E47; extent: the timber industry
+T93	ACE-Mention 3639 3674	the poet Henry Wadsworth Longfellow
+#93	ACE T93	entityID: APW20001017.1313.0395-E48; extent: the poet Henry Wadsworth Longfellow
+T94	ACE-Mention 3725 3733	Herblock
+#94	ACE T94	entityID: APW20001017.1313.0395-E51; extent: Herblock

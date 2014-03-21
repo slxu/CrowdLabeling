@@ -1,0 +1,94 @@
+T0	ACE-Mention 532 550	the Gulf of Mexico
+#0	ACE T0	entityID: NYT20001002.1754.0290-E23; extent: the Gulf of Mexico
+T1	ACE-Mention 568 583	some scientists
+#1	ACE T1	entityID: NYT20001002.1754.0290-E30; extent: some scientists
+T2	ACE-Mention 646 704	commercial and recreational fisheries in the northern Gulf
+#2	ACE T2	entityID: NYT20001002.1754.0290-E32; extent: commercial and recreational fisheries in the northern Gulf
+T3	ACE-Mention 775 795	prime spawning areas
+#3	ACE T3	entityID: NYT20001002.1754.0290-E28; extent: prime spawning areas
+T4	ACE-Mention 832 840	the Gulf
+#4	ACE T4	entityID: NYT20001002.1754.0290-E23; extent: the Gulf
+T5	ACE-Mention 905 942	the National Marine Fisheries Service
+#5	ACE T5	entityID: NYT20001002.1754.0290-E33; extent: the National Marine Fisheries Service
+T6	ACE-Mention 972 980	the Gulf
+#6	ACE T6	entityID: NYT20001002.1754.0290-E23; extent: the Gulf
+T7	ACE-Mention 1022 1032	Scientists
+#7	ACE T7	entityID: NYT20001002.1754.0290-E34; extent: Scientists
+T8	ACE-Mention 1078 1091	human-induced
+#8	ACE T8	entityID: NYT20001002.1754.0290-E35; extent: human-induced
+T9	ACE-Mention 1121 1196	thousands of oil rigs and artificial reefs established to attract game fish
+#9	ACE T9	entityID: NYT20001002.1754.0290-E36; extent: thousands of oil rigs and artificial reefs established to attract game fish
+T10	ACE-Mention 1322 1326	farm
+#10	ACE T10	entityID: NYT20001002.1754.0290-E37; extent: farm
+T11	ACE-Mention 1422 1442	commercial fishermen
+#11	ACE T11	entityID: NYT20001002.1754.0290-E38; extent: commercial fishermen
+T12	ACE-Mention 1551 1567	Dr. Monty Graham
+#12	ACE T12	entityID: NYT20001002.1754.0290-E39; extent: Dr. Monty Graham
+T13	ACE-Mention 1570 1623	a researcher at the Dauphin Island Sea Lab in Alabama
+#13	ACE T13	entityID: NYT20001002.1754.0290-E39; extent: a researcher at the Dauphin Island Sea Lab in Alabama
+T14	ACE-Mention 1754 1756	he
+#14	ACE T14	entityID: NYT20001002.1754.0290-E39; extent: he
+T15	ACE-Mention 1807 1817	Australian
+#15	ACE T15	entityID: NYT20001002.1754.0290-E3; extent: Australian
+T16	ACE-Mention 1884 1892	the Gulf
+#16	ACE T16	entityID: NYT20001002.1754.0290-E23; extent: the Gulf
+T17	ACE-Mention 1942 1953	the Pacific
+#17	ACE T17	entityID: NYT20001002.1754.0290-E4; extent: the Pacific
+T18	ACE-Mention 2027 2040	the Caribbean
+#18	ACE T18	entityID: NYT20001002.1754.0290-E5; extent: the Caribbean
+T19	ACE-Mention 2082 2087	ocean
+#19	ACE T19	entityID: NYT20001002.1754.0290-E6; extent: ocean
+T20	ACE-Mention 2137 2235	the passes between the barrier islands that separate the Mississippi Sound from the Gulf of Mexico
+#20	ACE T20	entityID: NYT20001002.1754.0290-E7; extent: the passes between the barrier islands that separate the Mississippi Sound from the Gulf of Mexico
+T21	ACE-Mention 2243 2253	Australian
+#21	ACE T21	entityID: NYT20001002.1754.0290-E3; extent: Australian
+T22	ACE-Mention 2292 2300	the Gulf
+#22	ACE T22	entityID: NYT20001002.1754.0290-E23; extent: the Gulf
+T23	ACE-Mention 2308 2326	fishery scientists
+#23	ACE T23	entityID: NYT20001002.1754.0290-E10; extent: fishery scientists
+T24	ACE-Mention 2406 2416	scientists
+#24	ACE T24	entityID: NYT20001002.1754.0290-E12; extent: scientists
+T25	ACE-Mention 2629 2636	Spanish
+#25	ACE T25	entityID: NYT20001002.1754.0290-E13; extent: Spanish
+T26	ACE-Mention 2735 2754	the barrier islands
+#26	ACE T26	entityID: NYT20001002.1754.0290-E8; extent: the barrier islands
+T27	ACE-Mention 2833 2860	the jellyfish-choked passes
+#27	ACE T27	entityID: NYT20001002.1754.0290-E7; extent: the jellyfish-choked passes
+T28	ACE-Mention 2870 2925	the estuaries that serve as nurseries for the baby fish
+#28	ACE T28	entityID: NYT20001002.1754.0290-E14; extent: the estuaries that serve as nurseries for the baby fish
+T29	ACE-Mention 3035 3041	Graham
+#29	ACE T29	entityID: NYT20001002.1754.0290-E39; extent: Graham
+T30	ACE-Mention 3053 3055	We
+#30	ACE T30	entityID: NYT20001002.1754.0290-E15; extent: We
+T31	ACE-Mention 3370 3380	scientists
+#31	ACE T31	entityID: NYT20001002.1754.0290-E16; extent: scientists
+T32	ACE-Mention 3439 3442	You
+#32	ACE T32	entityID: NYT20001002.1754.0290-E17; extent: You
+T33	ACE-Mention 3518 3534	Harriet M. Perry
+#33	ACE T33	entityID: NYT20001002.1754.0290-E18; extent: Harriet M. Perry
+T34	ACE-Mention 3537 3623	director of the fisheries section of the Gulf Coast Research Laboratory in Mississippi
+#34	ACE T34	entityID: NYT20001002.1754.0290-E18; extent: director of the fisheries section of the Gulf Coast Research Laboratory in Mississippi
+T35	ACE-Mention 3833 3838	Perry
+#35	ACE T35	entityID: NYT20001002.1754.0290-E18; extent: Perry
+T36	ACE-Mention 3844 3847	she
+#36	ACE T36	entityID: NYT20001002.1754.0290-E18; extent: she
+T37	ACE-Mention 3913 3919	Graham
+#37	ACE T37	entityID: NYT20001002.1754.0290-E39; extent: Graham
+T38	ACE-Mention 3925 3927	he
+#38	ACE T38	entityID: NYT20001002.1754.0290-E39; extent: he
+T39	ACE-Mention 4002 4004	He
+#39	ACE T39	entityID: NYT20001002.1754.0290-E39; extent: He
+T40	ACE-Mention 4157 4164	Alabama
+#40	ACE T40	entityID: NYT20001002.1754.0290-E2; extent: Alabama
+T41	ACE-Mention 4167 4178	Mississippi
+#41	ACE T41	entityID: NYT20001002.1754.0290-E22; extent: Mississippi
+T42	ACE-Mention 4183 4192	Louisiana
+#42	ACE T42	entityID: NYT20001002.1754.0290-E24; extent: Louisiana
+T43	ACE-Mention 4286 4314	Dr. Joanne Lyczkowski-Shultz
+#43	ACE T43	entityID: NYT20001002.1754.0290-E25; extent: Dr. Joanne Lyczkowski-Shultz
+T44	ACE-Mention 4317 4379	a larval specialist with the National Marine Fisheries Service
+#44	ACE T44	entityID: NYT20001002.1754.0290-E25; extent: a larval specialist with the National Marine Fisheries Service
+T45	ACE-Mention 4383 4400	Lyczkowski-Shultz
+#45	ACE T45	entityID: NYT20001002.1754.0290-E25; extent: Lyczkowski-Shultz
+T46	ACE-Mention 4555 4558	she
+#46	ACE T46	entityID: NYT20001002.1754.0290-E25; extent: she

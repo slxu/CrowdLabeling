@@ -1,0 +1,188 @@
+T0	ACE-Mention 274 300	GROSSE POINTE PARK , Mich.
+#0	ACE T0	entityID: NYT20001125.1558.0117-E21; extent: GROSSE POINTE PARK , Mich.
+T1	ACE-Mention 332 340	Michigan
+#1	ACE T1	entityID: NYT20001125.1558.0117-E43; extent: Michigan
+T2	ACE-Mention 347 391	hunters who climb trees with loaded shotguns
+#2	ACE T2	entityID: NYT20001125.1558.0117-E49; extent: hunters who climb trees with loaded shotguns
+T3	ACE-Mention 397 412	state officials
+#3	ACE T3	entityID: NYT20001125.1558.0117-E50; extent: state officials
+T4	ACE-Mention 452 459	Two men
+#4	ACE T4	entityID: NYT20001125.1558.0117-E52; extent: Two men
+T5	ACE-Mention 483 490	a third
+#5	ACE T5	entityID: NYT20001125.1558.0117-E53; extent: a third
+T6	ACE-Mention 581 589	shotguns
+#6	ACE T6	entityID: NYT20001125.1558.0117-E55; extent: shotguns
+T7	ACE-Mention 592 610	elevated platforms
+#7	ACE T7	entityID: NYT20001125.1558.0117-E7; extent: elevated platforms
+T8	ACE-Mention 644 660	Michigan hunters
+#8	ACE T8	entityID: NYT20001125.1558.0117-E54; extent: Michigan hunters
+T9	ACE-Mention 698 706	Michigan
+#9	ACE T9	entityID: NYT20001125.1558.0117-E43; extent: Michigan
+T10	ACE-Mention 764 771	Firearm
+#10	ACE T10	entityID: NYT20001125.1558.0117-E16; extent: Firearm
+T11	ACE-Mention 785 803	elevated platforms
+#11	ACE T11	entityID: NYT20001125.1558.0117-E7; extent: elevated platforms
+T12	ACE-Mention 827 891	other states with heavy hunting , like New York and Pennsylvania
+#12	ACE T12	entityID: NYT20001125.1558.0117-E58; extent: other states with heavy hunting , like New York and Pennsylvania
+T13	ACE-Mention 943 951	Michigan
+#13	ACE T13	entityID: NYT20001125.1558.0117-E43; extent: Michigan
+T14	ACE-Mention 958 967	officials
+#14	ACE T14	entityID: NYT20001125.1558.0117-E50; extent: officials
+T15	ACE-Mention 988 995	hunters
+#15	ACE T15	entityID: NYT20001125.1558.0117-E54; extent: hunters
+T16	ACE-Mention 1038 1057	Lt. Suzanne Koppelo
+#16	ACE T16	entityID: NYT20001125.1558.0117-E3; extent: Lt. Suzanne Koppelo
+T17	ACE-Mention 1060 1167	hunter safety administrator of the law enforcement division of the Michigan Department of Natural Resources
+#17	ACE T17	entityID: NYT20001125.1558.0117-E3; extent: hunter safety administrator of the law enforcement division of the Michigan Department of Natural Resources
+T18	ACE-Mention 1200 1207	firearm
+#18	ACE T18	entityID: NYT20001125.1558.0117-E16; extent: firearm
+T19	ACE-Mention 1208 1216	platform
+#19	ACE T19	entityID: NYT20001125.1558.0117-E7; extent: platform
+T20	ACE-Mention 1234 1242	Michigan
+#20	ACE T20	entityID: NYT20001125.1558.0117-E43; extent: Michigan
+T21	ACE-Mention 1329 1340	Two hunters
+#21	ACE T21	entityID: NYT20001125.1558.0117-E52; extent: Two hunters
+T22	ACE-Mention 1346 1356	themselves
+#22	ACE T22	entityID: NYT20001125.1558.0117-E52; extent: themselves
+T23	ACE-Mention 1360 1369	platforms
+#23	ACE T23	entityID: NYT20001125.1558.0117-E8; extent: platforms
+T24	ACE-Mention 1374 1381	another
+#24	ACE T24	entityID: NYT20001125.1558.0117-E53; extent: another
+T25	ACE-Mention 1396 1406	the ground
+#25	ACE T25	entityID: NYT20001125.1558.0117-E47; extent: the ground
+T26	ACE-Mention 1410 1443	a hunter shooting from a platform
+#26	ACE T26	entityID: NYT20001125.1558.0117-E9; extent: a hunter shooting from a platform
+T27	ACE-Mention 1453 1460	hunters
+#27	ACE T27	entityID: NYT20001125.1558.0117-E11; extent: hunters
+T28	ACE-Mention 1491 1494	one
+#28	ACE T28	entityID: NYT20001125.1558.0117-E12; extent: one
+T29	ACE-Mention 1577 1584	Koppelo
+#29	ACE T29	entityID: NYT20001125.1558.0117-E3; extent: Koppelo
+T30	ACE-Mention 1601 1606	human
+#30	ACE T30	entityID: NYT20001125.1558.0117-E13; extent: human
+T31	ACE-Mention 1643 1677	More than 750,000 licensed hunters
+#31	ACE T31	entityID: NYT20001125.1558.0117-E14; extent: More than 750,000 licensed hunters
+T32	ACE-Mention 1692 1710	the Michigan woods
+#32	ACE T32	entityID: NYT20001125.1558.0117-E15; extent: the Michigan woods
+T33	ACE-Mention 1723 1801	where they are expected to kill about 500,000 of the state 's 1.9 million deer
+#33	ACE T33	entityID: NYT20001125.1558.0117-E15; extent: where they are expected to kill about 500,000 of the state 's 1.9 million deer
+T34	ACE-Mention 1863 1871	platform
+#34	ACE T34	entityID: NYT20001125.1558.0117-E7; extent: platform
+T35	ACE-Mention 1885 1893	firearms
+#35	ACE T35	entityID: NYT20001125.1558.0117-E16; extent: firearms
+T36	ACE-Mention 1896 1903	Koppelo
+#36	ACE T36	entityID: NYT20001125.1558.0117-E3; extent: Koppelo
+T37	ACE-Mention 1958 1987	hunters using bows and arrows
+#37	ACE T37	entityID: NYT20001125.1558.0117-E17; extent: hunters using bows and arrows
+T38	ACE-Mention 2012 2022	the ground
+#38	ACE T38	entityID: NYT20001125.1558.0117-E48; extent: the ground
+T39	ACE-Mention 2042 2051	the woods
+#39	ACE T39	entityID: NYT20001125.1558.0117-E45; extent: the woods
+T40	ACE-Mention 2054 2058	they
+#40	ACE T40	entityID: NYT20001125.1558.0117-E17; extent: they
+T41	ACE-Mention 2166 2201	the hunter killed from the platform
+#41	ACE T41	entityID: NYT20001125.1558.0117-E53; extent: the hunter killed from the platform
+T42	ACE-Mention 2204 2225	Sgt. Larry D. Sargent
+#42	ACE T42	entityID: NYT20001125.1558.0117-E19; extent: Sgt. Larry D. Sargent
+T43	ACE-Mention 2228 2295	hunter education field coordinator for the law enforcement division
+#43	ACE T43	entityID: NYT20001125.1558.0117-E19; extent: hunter education field coordinator for the law enforcement division
+T44	ACE-Mention 2393 2403	the ground
+#44	ACE T44	entityID: NYT20001125.1558.0117-E48; extent: the ground
+T45	ACE-Mention 2436 2445	the woods
+#45	ACE T45	entityID: NYT20001125.1558.0117-E45; extent: the woods
+T46	ACE-Mention 2459 2471	other people
+#46	ACE T46	entityID: NYT20001125.1558.0117-E23; extent: other people
+T47	ACE-Mention 2509 2516	hunters
+#47	ACE T47	entityID: NYT20001125.1558.0117-E11; extent: hunters
+T48	ACE-Mention 2590 2595	a gun
+#48	ACE T48	entityID: NYT20001125.1558.0117-E24; extent: a gun
+T49	ACE-Mention 2601 2613	Rob Williams
+#49	ACE T49	entityID: NYT20001125.1558.0117-E25; extent: Rob Williams
+T50	ACE-Mention 2624 2626	he
+#50	ACE T50	entityID: NYT20001125.1558.0117-E25; extent: he
+T51	ACE-Mention 2631 2648	a hunting partner
+#51	ACE T51	entityID: NYT20001125.1558.0117-E26; extent: a hunting partner
+T52	ACE-Mention 2651 2659	Art Bush
+#52	ACE T52	entityID: NYT20001125.1558.0117-E26; extent: Art Bush
+T53	ACE-Mention 2692 2762	a conventional earthbound hunting blind about 20 miles west of Detroit
+#53	ACE T53	entityID: NYT20001125.1558.0117-E28; extent: a conventional earthbound hunting blind about 20 miles west of Detroit
+T54	ACE-Mention 2770 2778	Williams
+#54	ACE T54	entityID: NYT20001125.1558.0117-E25; extent: Williams
+T55	ACE-Mention 2820 2832	a loaded gun
+#55	ACE T55	entityID: NYT20001125.1558.0117-E30; extent: a loaded gun
+T56	ACE-Mention 2836 2838	He
+#56	ACE T56	entityID: NYT20001125.1558.0117-E25; extent: He
+T57	ACE-Mention 2854 2856	he
+#57	ACE T57	entityID: NYT20001125.1558.0117-E25; extent: he
+T58	ACE-Mention 2868 2878	a platform
+#58	ACE T58	entityID: NYT20001125.1558.0117-E31; extent: a platform
+T59	ACE-Mention 2879 2881	he
+#59	ACE T59	entityID: NYT20001125.1558.0117-E25; extent: he
+T60	ACE-Mention 2918 2921	his
+#60	ACE T60	entityID: NYT20001125.1558.0117-E25; extent: his
+T61	ACE-Mention 2930 2978	his gun , which he leaves unloaded on the ground
+#61	ACE T61	entityID: NYT20001125.1558.0117-E32; extent: his gun , which he leaves unloaded on the ground
+T62	ACE-Mention 2987 2989	he
+#62	ACE T62	entityID: NYT20001125.1558.0117-E25; extent: he
+T63	ACE-Mention 3003 3012	his stand
+#63	ACE T63	entityID: NYT20001125.1558.0117-E31; extent: his stand
+T64	ACE-Mention 3015 3017	he
+#64	ACE T64	entityID: NYT20001125.1558.0117-E25; extent: he
+T65	ACE-Mention 3024 3031	his gun
+#65	ACE T65	entityID: NYT20001125.1558.0117-E32; extent: his gun
+T66	ACE-Mention 3041 3044	him
+#66	ACE T66	entityID: NYT20001125.1558.0117-E25; extent: him
+T67	ACE-Mention 3055 3057	it
+#67	ACE T67	entityID: NYT20001125.1558.0117-E32; extent: it
+T68	ACE-Mention 3061 3068	Sargent
+#68	ACE T68	entityID: NYT20001125.1558.0117-E19; extent: Sargent
+T69	ACE-Mention 3215 3235	A 16-year-old hunter
+#69	ACE T69	entityID: NYT20001125.1558.0117-E33; extent: A 16-year-old hunter
+T70	ACE-Mention 3296 3298	he
+#70	ACE T70	entityID: NYT20001125.1558.0117-E33; extent: he
+T71	ACE-Mention 3304 3311	the gun
+#71	ACE T71	entityID: NYT20001125.1558.0117-E34; extent: the gun
+T72	ACE-Mention 3321 3328	Koppelo
+#72	ACE T72	entityID: NYT20001125.1558.0117-E3; extent: Koppelo
+T73	ACE-Mention 3337 3357	The teen-ager 's gun
+#73	ACE T73	entityID: NYT20001125.1558.0117-E34; extent: The teen-ager 's gun
+T74	ACE-Mention 3371 3373	he
+#74	ACE T74	entityID: NYT20001125.1558.0117-E33; extent: he
+T75	ACE-Mention 3398 3404	Others
+#75	ACE T75	entityID: NYT20001125.1558.0117-E35; extent: Others
+T76	ACE-Mention 3438 3445	Koppelo
+#76	ACE T76	entityID: NYT20001125.1558.0117-E3; extent: Koppelo
+T77	ACE-Mention 3456 3471	state officials
+#77	ACE T77	entityID: NYT20001125.1558.0117-E50; extent: state officials
+T78	ACE-Mention 3565 3572	hunters
+#78	ACE T78	entityID: NYT20001125.1558.0117-E54; extent: hunters
+T79	ACE-Mention 3605 3618	A lot of guys
+#79	ACE T79	entityID: NYT20001125.1558.0117-E36; extent: A lot of guys
+T80	ACE-Mention 3640 3647	Sargent
+#80	ACE T80	entityID: NYT20001125.1558.0117-E19; extent: Sargent
+T81	ACE-Mention 3659 3663	They
+#81	ACE T81	entityID: NYT20001125.1558.0117-E36; extent: They
+T82	ACE-Mention 3672 3676	they
+#82	ACE T82	entityID: NYT20001125.1558.0117-E36; extent: they
+T83	ACE-Mention 3693 3701	the yard
+#83	ACE T83	entityID: NYT20001125.1558.0117-E46; extent: the yard
+T84	ACE-Mention 3721 3727	Others
+#84	ACE T84	entityID: NYT20001125.1558.0117-E37; extent: Others
+T85	ACE-Mention 3730 3737	Koppelo
+#85	ACE T85	entityID: NYT20001125.1558.0117-E3; extent: Koppelo
+T86	ACE-Mention 3817 3820	she
+#86	ACE T86	entityID: NYT20001125.1558.0117-E3; extent: she
+T87	ACE-Mention 3861 3897	Michigan 's large hunting population
+#87	ACE T87	entityID: NYT20001125.1558.0117-E38; extent: Michigan 's large hunting population
+T88	ACE-Mention 3921 3928	firearm
+#88	ACE T88	entityID: NYT20001125.1558.0117-E16; extent: firearm
+T89	ACE-Mention 3947 3956	platforms
+#89	ACE T89	entityID: NYT20001125.1558.0117-E7; extent: platforms
+T90	ACE-Mention 3959 3963	most
+#90	ACE T90	entityID: NYT20001125.1558.0117-E39; extent: most
+T91	ACE-Mention 4009 4021	other states
+#91	ACE T91	entityID: NYT20001125.1558.0117-E40; extent: other states
+T92	ACE-Mention 4028 4042	Peter Thompson
+#92	ACE T92	entityID: NYT20001125.1558.0117-E41; extent: Peter Thompson
+T93	ACE-Mention 4045 4065	a 16-year-old hunter
+#93	ACE T93	entityID: NYT20001125.1558.0117-E41; extent: a 16-year-old hunter

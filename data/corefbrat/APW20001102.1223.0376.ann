@@ -1,0 +1,20 @@
+T0	ACE-Mention 108 117	JERUSALEM
+#0	ACE T0	entityID: APW20001102.1223.0376-E6; extent: JERUSALEM
+T1	ACE-Mention 118 122	(AP)
+#1	ACE T1	entityID: APW20001102.1223.0376-E7; extent: (AP)
+T2	ACE-Mention 125 135	A car bomb
+#2	ACE T2	entityID: APW20001102.1223.0376-E8; extent: A car bomb
+T3	ACE-Mention 157 207	a crowded outdoor market in the heart of Jerusalem
+#3	ACE T3	entityID: APW20001102.1223.0376-E10; extent: a crowded outdoor market in the heart of Jerusalem
+T4	ACE-Mention 218 237	at least two people
+#4	ACE T4	entityID: APW20001102.1223.0376-E12; extent: at least two people
+T5	ACE-Mention 240 246	police
+#5	ACE T5	entityID: APW20001102.1223.0376-E13; extent: police
+T6	ACE-Mention 255 265	Ambulances
+#6	ACE T6	entityID: APW20001102.1223.0376-E14; extent: Ambulances
+T7	ACE-Mention 275 369	the Mahane Yehuda market , which sells food , vegetables and clothing in Jewish west Jerusalem
+#7	ACE T7	entityID: APW20001102.1223.0376-E10; extent: the Mahane Yehuda market , which sells food , vegetables and clothing in Jewish west Jerusalem
+T8	ACE-Mention 451 484	Israeli Prime Minister Ehud Barak
+#8	ACE T8	entityID: APW20001102.1223.0376-E1; extent: Israeli Prime Minister Ehud Barak
+T9	ACE-Mention 489 521	Palestinian leader Yasser Arafat
+#9	ACE T9	entityID: APW20001102.1223.0376-E3; extent: Palestinian leader Yasser Arafat

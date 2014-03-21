@@ -1,0 +1,106 @@
+T0	ACE-Mention 106 114	NEW YORK
+#0	ACE T0	entityID: APW20001016.1325.0321-E25; extent: NEW YORK
+T1	ACE-Mention 115 119	(AP)
+#1	ACE T1	entityID: APW20001016.1325.0321-E36; extent: (AP)
+T2	ACE-Mention 137 144	college
+#2	ACE T2	entityID: APW20001016.1325.0321-E13; extent: college
+T3	ACE-Mention 219 244	public four-year colleges
+#3	ACE T3	entityID: APW20001016.1325.0321-E37; extent: public four-year colleges
+T4	ACE-Mention 296 311	private schools
+#4	ACE T4	entityID: APW20001016.1325.0321-E26; extent: private schools
+T5	ACE-Mention 393 401	students
+#5	ACE T5	entityID: APW20001016.1325.0321-E30; extent: students
+T6	ACE-Mention 472 498	public , four-year schools
+#6	ACE T6	entityID: APW20001016.1325.0321-E37; extent: public , four-year schools
+T7	ACE-Mention 593 610	the College Board
+#7	ACE T7	entityID: APW20001016.1325.0321-E14; extent: the College Board
+T8	ACE-Mention 614 623	On-campus
+#8	ACE T8	entityID: APW20001016.1325.0321-E34; extent: On-campus
+T9	ACE-Mention 683 709	private four-year colleges
+#9	ACE T9	entityID: APW20001016.1325.0321-E38; extent: private four-year colleges
+T10	ACE-Mention 799 805	campus
+#10	ACE T10	entityID: APW20001016.1325.0321-E34; extent: campus
+T11	ACE-Mention 854 906	public two-year schools , chiefly community colleges
+#11	ACE T11	entityID: APW20001016.1325.0321-E41; extent: public two-year schools , chiefly community colleges
+T12	ACE-Mention 1038 1062	Private two-year schools
+#12	ACE T12	entityID: APW20001016.1325.0321-E43; extent: Private two-year schools
+T13	ACE-Mention 1173 1184	Joni Finney
+#13	ACE T13	entityID: APW20001016.1325.0321-E44; extent: Joni Finney
+T14	ACE-Mention 1187 1286	a policy analyst at the National Center for Public Policy and Higher Education in San Jose , Calif.
+#14	ACE T14	entityID: APW20001016.1325.0321-E44; extent: a policy analyst at the National Center for Public Policy and Higher Education in San Jose , Calif.
+T15	ACE-Mention 1290 1298	Colleges
+#15	ACE T15	entityID: APW20001016.1325.0321-E2; extent: Colleges
+T16	ACE-Mention 1303 1315	universities
+#16	ACE T16	entityID: APW20001016.1325.0321-E3; extent: universities
+T17	ACE-Mention 1355 1360	their
+#17	ACE T17	entityID: APW20001016.1325.0321-E4; extent: their
+T18	ACE-Mention 1372 1375	she
+#18	ACE T18	entityID: APW20001016.1325.0321-E44; extent: she
+T19	ACE-Mention 1387 1405	These institutions
+#19	ACE T19	entityID: APW20001016.1325.0321-E4; extent: These institutions
+T20	ACE-Mention 1458 1464	Finney
+#20	ACE T20	entityID: APW20001016.1325.0321-E44; extent: Finney
+T21	ACE-Mention 1484 1488	they
+#21	ACE T21	entityID: APW20001016.1325.0321-E4; extent: they
+T22	ACE-Mention 1537 1555	Stanley Eikenberry
+#22	ACE T22	entityID: APW20001016.1325.0321-E5; extent: Stanley Eikenberry
+T23	ACE-Mention 1558 1645	president of the American Council on Education , an umbrella group for higher education
+#23	ACE T23	entityID: APW20001016.1325.0321-E5; extent: president of the American Council on Education , an umbrella group for higher education
+T24	ACE-Mention 1706 1719	most campuses
+#24	ACE T24	entityID: APW20001016.1325.0321-E9; extent: most campuses
+T25	ACE-Mention 1725 1734	personnel
+#25	ACE T25	entityID: APW20001016.1325.0321-E10; extent: personnel
+T26	ACE-Mention 1739 1749	facilities
+#26	ACE T26	entityID: APW20001016.1325.0321-E11; extent: facilities
+T27	ACE-Mention 1782 1794	institutions
+#27	ACE T27	entityID: APW20001016.1325.0321-E12; extent: institutions
+T28	ACE-Mention 1982 1990	consumer
+#28	ACE T28	entityID: APW20001016.1325.0321-E17; extent: consumer
+T29	ACE-Mention 2051 2058	college
+#29	ACE T29	entityID: APW20001016.1325.0321-E13; extent: college
+T30	ACE-Mention 2128 2135	college
+#30	ACE T30	entityID: APW20001016.1325.0321-E13; extent: college
+T31	ACE-Mention 2184 2223	College Board President Gaston Caperton
+#31	ACE T31	entityID: APW20001016.1325.0321-E15; extent: College Board President Gaston Caperton
+T32	ACE-Mention 2313 2316	you
+#32	ACE T32	entityID: APW20001016.1325.0321-E18; extent: you
+T33	ACE-Mention 2344 2351	college
+#33	ACE T33	entityID: APW20001016.1325.0321-E13; extent: college
+T34	ACE-Mention 2367 2400	the former West Virginia governor
+#34	ACE T34	entityID: APW20001016.1325.0321-E5; extent: the former West Virginia governor
+T35	ACE-Mention 2409 2426	The College Board
+#35	ACE T35	entityID: APW20001016.1325.0321-E14; extent: The College Board
+T36	ACE-Mention 2460 2677	6.4 million full-time undergraduates _ 54 percent attending four-year public institutions , 27 percent at four-year private schools , 17 percent at two-year community colleges and 1 percent at private two-year schools
+#36	ACE T36	entityID: APW20001016.1325.0321-E20; extent: 6.4 million full-time undergraduates _ 54 percent attending four-year public institutions , 27 percent at four-year private schools , 17 percent at two-year community colleges and 1 percent at private two-year schools
+T37	ACE-Mention 2681 2703	A majority of students
+#37	ACE T37	entityID: APW20001016.1325.0321-E27; extent: A majority of students
+T38	ACE-Mention 2741 2746	their
+#38	ACE T38	entityID: APW20001016.1325.0321-E27; extent: their
+T39	ACE-Mention 2775 2800	a College Board spokesman
+#39	ACE T39	entityID: APW20001016.1325.0321-E28; extent: a College Board spokesman
+T40	ACE-Mention 2814 2820	school
+#40	ACE T40	entityID: APW20001016.1325.0321-E29; extent: school
+T41	ACE-Mention 2951 2958	student
+#41	ACE T41	entityID: APW20001016.1325.0321-E30; extent: student
+T42	ACE-Mention 3010 3015	state
+#42	ACE T42	entityID: APW20001016.1325.0321-E35; extent: state
+T43	ACE-Mention 3020 3026	school
+#43	ACE T43	entityID: APW20001016.1325.0321-E29; extent: school
+T44	ACE-Mention 3165 3197	The New York-based College Board
+#44	ACE T44	entityID: APW20001016.1325.0321-E14; extent: The New York-based College Board
+T45	ACE-Mention 3201 3281	a nonprofit organization that administers the SATs and promotes higher education
+#45	ACE T45	entityID: APW20001016.1325.0321-E14; extent: a nonprofit organization that administers the SATs and promotes higher education
+T46	ACE-Mention 3285 3287	It
+#46	ACE T46	entityID: APW20001016.1325.0321-E14; extent: It
+T47	ACE-Mention 3297 3320	more than 3,000 schools
+#47	ACE T47	entityID: APW20001016.1325.0321-E31; extent: more than 3,000 schools
+T48	ACE-Mention 3333 3346	undergraduate
+#48	ACE T48	entityID: APW20001016.1325.0321-E32; extent: undergraduate
+T49	ACE-Mention 3435 3440	state
+#49	ACE T49	entityID: APW20001016.1325.0321-E35; extent: state
+T50	ACE-Mention 3445 3451	school
+#50	ACE T50	entityID: APW20001016.1325.0321-E29; extent: school
+T51	ACE-Mention 3540 3546	school
+#51	ACE T51	entityID: APW20001016.1325.0321-E29; extent: school
+T52	ACE-Mention 3606 3635	American Council on Education
+#52	ACE T52	entityID: APW20001016.1325.0321-E7; extent: American Council on Education

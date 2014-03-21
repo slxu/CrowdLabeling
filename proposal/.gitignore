@@ -1,0 +1,9 @@
+*.aux
+*.bak
+*.log
+*~
+*.dvi
+*.blg
+*.bbl
+proposal.ps
+proposal.pdf

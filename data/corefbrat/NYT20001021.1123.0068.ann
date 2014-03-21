@@ -1,0 +1,176 @@
+T0	ACE-Mention 304 308	ROME
+#0	ACE T0	entityID: NYT20001021.1123.0068-E16; extent: ROME
+T1	ACE-Mention 336 348	John Paul II
+#1	ACE T1	entityID: NYT20001021.1123.0068-E32; extent: John Paul II
+T2	ACE-Mention 388 406	a Belgian cardinal
+#2	ACE T2	entityID: NYT20001021.1123.0068-E33; extent: a Belgian cardinal
+T3	ACE-Mention 412 414	he
+#3	ACE T3	entityID: NYT20001021.1123.0068-E33; extent: he
+T4	ACE-Mention 429 452	the frail , ailing pope
+#4	ACE T4	entityID: NYT20001021.1123.0068-E32; extent: the frail , ailing pope
+T5	ACE-Mention 503 505	me
+#5	ACE T5	entityID: NYT20001021.1123.0068-E33; extent: me
+T6	ACE-Mention 509 517	the pope
+#6	ACE T6	entityID: NYT20001021.1123.0068-E32; extent: the pope
+T7	ACE-Mention 554 580	Cardinal Godfried Danneels
+#7	ACE T7	entityID: NYT20001021.1123.0068-E33; extent: Cardinal Godfried Danneels
+T8	ACE-Mention 620 627	Belgium
+#8	ACE T8	entityID: NYT20001021.1123.0068-E34; extent: Belgium
+T9	ACE-Mention 634 636	He
+#9	ACE T9	entityID: NYT20001021.1123.0068-E32; extent: He
+T10	ACE-Mention 694 695	I
+#10	ACE T10	entityID: NYT20001021.1123.0068-E33; extent: I
+T11	ACE-Mention 705 708	him
+#11	ACE T11	entityID: NYT20001021.1123.0068-E32; extent: him
+T12	ACE-Mention 745 753	Danneels
+#12	ACE T12	entityID: NYT20001021.1123.0068-E33; extent: Danneels
+T13	ACE-Mention 761 801	the first Roman Catholic Church official
+#13	ACE T13	entityID: NYT20001021.1123.0068-E37; extent: the first Roman Catholic Church official
+T14	ACE-Mention 840 851	the Vatican
+#14	ACE T14	entityID: NYT20001021.1123.0068-E2; extent: the Vatican
+T15	ACE-Mention 858 860	he
+#15	ACE T15	entityID: NYT20001021.1123.0068-E33; extent: he
+T16	ACE-Mention 864 890	the highest-ranking leader
+#16	ACE T16	entityID: NYT20001021.1123.0068-E33; extent: the highest-ranking leader
+T17	ACE-Mention 928 949	The Vatican spokesman
+#17	ACE T17	entityID: NYT20001021.1123.0068-E1; extent: The Vatican spokesman
+T18	ACE-Mention 952 973	Joaquin Navarro-Valls
+#18	ACE T18	entityID: NYT20001021.1123.0068-E1; extent: Joaquin Navarro-Valls
+T19	ACE-Mention 1044 1061	Cardinal Danneels
+#19	ACE T19	entityID: NYT20001021.1123.0068-E33; extent: Cardinal Danneels
+T20	ACE-Mention 1067 1069	we
+#20	ACE T20	entityID: NYT20001021.1123.0068-E2; extent: we
+T21	ACE-Mention 1091 1103	The cardinal
+#21	ACE T21	entityID: NYT20001021.1123.0068-E33; extent: The cardinal
+T22	ACE-Mention 1162 1165	his
+#22	ACE T22	entityID: NYT20001021.1123.0068-E33; extent: his
+T23	ACE-Mention 1218 1230	the Cardinal
+#23	ACE T23	entityID: NYT20001021.1123.0068-E33; extent: the Cardinal
+T24	ACE-Mention 1254 1263	John Paul
+#24	ACE T24	entityID: NYT20001021.1123.0068-E32; extent: John Paul
+T25	ACE-Mention 1283 1286	his
+#25	ACE T25	entityID: NYT20001021.1123.0068-E32; extent: his
+T26	ACE-Mention 1326 1328	he
+#26	ACE T26	entityID: NYT20001021.1123.0068-E32; extent: he
+T27	ACE-Mention 1344 1347	his
+#27	ACE T27	entityID: NYT20001021.1123.0068-E32; extent: his
+T28	ACE-Mention 1373 1383	the church
+#28	ACE T28	entityID: NYT20001021.1123.0068-E4; extent: the church
+T29	ACE-Mention 1395 1397	he
+#29	ACE T29	entityID: NYT20001021.1123.0068-E32; extent: he
+T30	ACE-Mention 1443 1450	bishops
+#30	ACE T30	entityID: NYT20001021.1123.0068-E5; extent: bishops
+T31	ACE-Mention 1490 1498	the pope
+#31	ACE T31	entityID: NYT20001021.1123.0068-E32; extent: the pope
+T32	ACE-Mention 1537 1540	his
+#32	ACE T32	entityID: NYT20001021.1123.0068-E32; extent: his
+T33	ACE-Mention 1574 1583	cardinals
+#33	ACE T33	entityID: NYT20001021.1123.0068-E6; extent: cardinals
+T34	ACE-Mention 1628 1641	the next pope
+#34	ACE T34	entityID: NYT20001021.1123.0068-E7; extent: the next pope
+T35	ACE-Mention 1658 1677	Bishop Karl Lehmann
+#35	ACE T35	entityID: NYT20001021.1123.0068-E8; extent: Bishop Karl Lehmann
+T36	ACE-Mention 1680 1719	leader of the German Bishops Conference
+#36	ACE T36	entityID: NYT20001021.1123.0068-E8; extent: leader of the German Bishops Conference
+T37	ACE-Mention 1760 1767	Italian
+#37	ACE T37	entityID: NYT20001021.1123.0068-E12; extent: Italian
+T38	ACE-Mention 1779 1781	he
+#38	ACE T38	entityID: NYT20001021.1123.0068-E8; extent: he
+T39	ACE-Mention 1787 1799	a questioner
+#39	ACE T39	entityID: NYT20001021.1123.0068-E13; extent: a questioner
+T40	ACE-Mention 1803 1809	German
+#40	ACE T40	entityID: NYT20001021.1123.0068-E14; extent: German
+T41	ACE-Mention 1821 1823	he
+#41	ACE T41	entityID: NYT20001021.1123.0068-E8; extent: he
+T42	ACE-Mention 1838 1846	the pope
+#42	ACE T42	entityID: NYT20001021.1123.0068-E32; extent: the pope
+T43	ACE-Mention 1876 1886	the church
+#43	ACE T43	entityID: NYT20001021.1123.0068-E4; extent: the church
+T44	ACE-Mention 1890 1892	he
+#44	ACE T44	entityID: NYT20001021.1123.0068-E32; extent: he
+T45	ACE-Mention 1898 1900	he
+#45	ACE T45	entityID: NYT20001021.1123.0068-E32; extent: he
+T46	ACE-Mention 1919 1922	his
+#46	ACE T46	entityID: NYT20001021.1123.0068-E32; extent: his
+T47	ACE-Mention 1923 1928	papal
+#47	ACE T47	entityID: NYT20001021.1123.0068-E31; extent: papal
+T48	ACE-Mention 1942 2032	The pope , whose speech is slurred and who shakes badly because of a neurological disorder
+#48	ACE T48	entityID: NYT20001021.1123.0068-E32; extent: The pope , whose speech is slurred and who shakes badly because of a neurological disorder
+T49	ACE-Mention 2062 2065	his
+#49	ACE T49	entityID: NYT20001021.1123.0068-E32; extent: his
+T50	ACE-Mention 2129 2139	the church
+#50	ACE T50	entityID: NYT20001021.1123.0068-E4; extent: the church
+T51	ACE-Mention 2189 2193	many
+#51	ACE T51	entityID: NYT20001021.1123.0068-E15; extent: many
+T52	ACE-Mention 2209 2211	he
+#52	ACE T52	entityID: NYT20001021.1123.0068-E32; extent: he
+T53	ACE-Mention 2228 2236	The pope
+#53	ACE T53	entityID: NYT20001021.1123.0068-E32; extent: The pope
+T54	ACE-Mention 2280 2283	his
+#54	ACE T54	entityID: NYT20001021.1123.0068-E32; extent: his
+T55	ACE-Mention 2325 2327	he
+#55	ACE T55	entityID: NYT20001021.1123.0068-E32; extent: he
+T56	ACE-Mention 2355 2358	his
+#56	ACE T56	entityID: NYT20001021.1123.0068-E32; extent: his
+T57	ACE-Mention 2375 2378	his
+#57	ACE T57	entityID: NYT20001021.1123.0068-E32; extent: his
+T58	ACE-Mention 2395 2397	he
+#58	ACE T58	entityID: NYT20001021.1123.0068-E32; extent: he
+T59	ACE-Mention 2403 2442	an audience of pilgrims at St. Peter 's
+#59	ACE T59	entityID: NYT20001021.1123.0068-E17; extent: an audience of pilgrims at St. Peter 's
+T60	ACE-Mention 2458 2461	God
+#60	ACE T60	entityID: NYT20001021.1123.0068-E19; extent: God
+T61	ACE-Mention 2467 2468	I
+#61	ACE T61	entityID: NYT20001021.1123.0068-E32; extent: I
+T62	ACE-Mention 2481 2484	him
+#62	ACE T62	entityID: NYT20001021.1123.0068-E19; extent: him
+T63	ACE-Mention 2508 2510	he
+#63	ACE T63	entityID: NYT20001021.1123.0068-E19; extent: he
+T64	ACE-Mention 2528 2530	me
+#64	ACE T64	entityID: NYT20001021.1123.0068-E32; extent: me
+T65	ACE-Mention 2553 2561	The pope
+#65	ACE T65	entityID: NYT20001021.1123.0068-E32; extent: The pope
+T66	ACE-Mention 2593 2604	the Vatican
+#66	ACE T66	entityID: NYT20001021.1123.0068-E2; extent: the Vatican
+T67	ACE-Mention 2610 2612	he
+#67	ACE T67	entityID: NYT20001021.1123.0068-E32; extent: he
+T68	ACE-Mention 2697 2702	papal
+#68	ACE T68	entityID: NYT20001021.1123.0068-E31; extent: papal
+T69	ACE-Mention 2741 2776	The last pope to resign voluntarily
+#69	ACE T69	entityID: NYT20001021.1123.0068-E20; extent: The last pope to resign voluntarily
+T70	ACE-Mention 2781 2792	Celestine V
+#70	ACE T70	entityID: NYT20001021.1123.0068-E20; extent: Celestine V
+T71	ACE-Mention 2829 2835	a pope
+#71	ACE T71	entityID: NYT20001021.1123.0068-E22; extent: a pope
+T72	ACE-Mention 2878 2886	the pope
+#72	ACE T72	entityID: NYT20001021.1123.0068-E22; extent: the pope
+T73	ACE-Mention 2947 2958	the Vatican
+#73	ACE T73	entityID: NYT20001021.1123.0068-E2; extent: the Vatican
+T74	ACE-Mention 2978 2984	a pope
+#74	ACE T74	entityID: NYT20001021.1123.0068-E22; extent: a pope
+T75	ACE-Mention 3040 3043	his
+#75	ACE T75	entityID: NYT20001021.1123.0068-E22; extent: his
+T76	ACE-Mention 3054 3078	The Rev. Thomas J. Reese
+#76	ACE T76	entityID: NYT20001021.1123.0068-E23; extent: The Rev. Thomas J. Reese
+T77	ACE-Mention 3081 3137	an American Jesuit who wrote a book on Vatican procedure
+#77	ACE T77	entityID: NYT20001021.1123.0068-E23; extent: an American Jesuit who wrote a book on Vatican procedure
+T78	ACE-Mention 3255 3263	the pope
+#78	ACE T78	entityID: NYT20001021.1123.0068-E32; extent: the pope
+T79	ACE-Mention 3323 3351	Some reform-minded Catholics
+#79	ACE T79	entityID: NYT20001021.1123.0068-E27; extent: Some reform-minded Catholics
+T80	ACE-Mention 3391 3401	the church
+#80	ACE T80	entityID: NYT20001021.1123.0068-E4; extent: the church
+T81	ACE-Mention 3405 3410	popes
+#81	ACE T81	entityID: NYT20001021.1123.0068-E28; extent: popes
+T82	ACE-Mention 3425 3430	their
+#82	ACE T82	entityID: NYT20001021.1123.0068-E28; extent: their
+T83	ACE-Mention 3448 3463	Traditionalists
+#83	ACE T83	entityID: NYT20001021.1123.0068-E29; extent: Traditionalists
+T84	ACE-Mention 3483 3488	papal
+#84	ACE T84	entityID: NYT20001021.1123.0068-E31; extent: papal
+T85	ACE-Mention 3572 3577	papal
+#85	ACE T85	entityID: NYT20001021.1123.0068-E31; extent: papal
+T86	ACE-Mention 3596 3605	Catholics
+#86	ACE T86	entityID: NYT20001021.1123.0068-E30; extent: Catholics
+T87	ACE-Mention 3634 3637	God
+#87	ACE T87	entityID: NYT20001021.1123.0068-E19; extent: God

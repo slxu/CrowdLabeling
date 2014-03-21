@@ -1,0 +1,126 @@
+T0	ACE-Mention 108 120	ATHENS , Ga.
+#0	ACE T0	entityID: APW20001204.2149.0765-E22; extent: ATHENS , Ga.
+T1	ACE-Mention 121 125	(AP)
+#1	ACE T1	entityID: APW20001204.2149.0765-E24; extent: (AP)
+T2	ACE-Mention 128 135	Georgia
+#2	ACE T2	entityID: APW20001204.2149.0765-E26; extent: Georgia
+T3	ACE-Mention 142 167	football coach Jim Donnan
+#3	ACE T3	entityID: APW20001204.2149.0765-E15; extent: football coach Jim Donnan
+T4	ACE-Mention 226 238	the Bulldogs
+#4	ACE T4	entityID: APW20001204.2149.0765-E26; extent: the Bulldogs
+T5	ACE-Mention 271 283	the SEC East
+#5	ACE T5	entityID: APW20001204.2149.0765-E29; extent: the SEC East
+T6	ACE-Mention 286 297	his players
+#6	ACE T6	entityID: APW20001204.2149.0765-E31; extent: his players
+T7	ACE-Mention 309 310	I
+#7	ACE T7	entityID: APW20001204.2149.0765-E32; extent: I
+T8	ACE-Mention 319 321	he
+#8	ACE T8	entityID: APW20001204.2149.0765-E15; extent: he
+T9	ACE-Mention 361 467	quarterback Cory Phillips , who was at a team meeting at which Donnan told the team he had been dismisssed
+#9	ACE T9	entityID: APW20001204.2149.0765-E32; extent: quarterback Cory Phillips , who was at a team meeting at which Donnan told the team he had been dismisssed
+T10	ACE-Mention 474 475	I
+#10	ACE T10	entityID: APW20001204.2149.0765-E32; extent: I
+T11	ACE-Mention 537 567	Athletic director Vince Dooley
+#11	ACE T11	entityID: APW20001204.2149.0765-E34; extent: Athletic director Vince Dooley
+T12	ACE-Mention 578 584	Donnan
+#12	ACE T12	entityID: APW20001204.2149.0765-E15; extent: Donnan
+T13	ACE-Mention 629 640	the players
+#13	ACE T13	entityID: APW20001204.2149.0765-E31; extent: the players
+T14	ACE-Mention 646 652	Dooley
+#14	ACE T14	entityID: APW20001204.2149.0765-E34; extent: Dooley
+T15	ACE-Mention 658 662	them
+#15	ACE T15	entityID: APW20001204.2149.0765-E31; extent: them
+T16	ACE-Mention 668 698	school president Michael Adams
+#16	ACE T16	entityID: APW20001204.2149.0765-E1; extent: school president Michael Adams
+T17	ACE-Mention 725 731	Donnan
+#17	ACE T17	entityID: APW20001204.2149.0765-E15; extent: Donnan
+T18	ACE-Mention 735 758	The athletic department
+#18	ACE T18	entityID: APW20001204.2149.0765-E4; extent: The athletic department
+T19	ACE-Mention 843 849	Dooley
+#19	ACE T19	entityID: APW20001204.2149.0765-E34; extent: Dooley
+T20	ACE-Mention 866 875	the coach
+#20	ACE T20	entityID: APW20001204.2149.0765-E15; extent: the coach
+T21	ACE-Mention 907 919	the Bulldogs
+#21	ACE T21	entityID: APW20001204.2149.0765-E26; extent: the Bulldogs
+T22	ACE-Mention 965 969	them
+#22	ACE T22	entityID: APW20001204.2149.0765-E26; extent: them
+T23	ACE-Mention 978 989	SEC 's East
+#23	ACE T23	entityID: APW20001204.2149.0765-E29; extent: SEC 's East
+T24	ACE-Mention 1006 1012	Donnan
+#24	ACE T24	entityID: APW20001204.2149.0765-E15; extent: Donnan
+T25	ACE-Mention 1044 1056	Georgia Tech
+#25	ACE T25	entityID: APW20001204.2149.0765-E5; extent: Georgia Tech
+T26	ACE-Mention 1062 1069	Georgia
+#26	ACE T26	entityID: APW20001204.2149.0765-E26; extent: Georgia
+T27	ACE-Mention 1100 1112	the Bulldogs
+#27	ACE T27	entityID: APW20001204.2149.0765-E26; extent: the Bulldogs
+T28	ACE-Mention 1195 1207	Georgia Tech
+#28	ACE T28	entityID: APW20001204.2149.0765-E5; extent: Georgia Tech
+T29	ACE-Mention 1223 1230	Georgia
+#29	ACE T29	entityID: APW20001204.2149.0765-E26; extent: Georgia
+T30	ACE-Mention 1295 1314	the No. 24 Bulldogs
+#30	ACE T30	entityID: APW20001204.2149.0765-E26; extent: the No. 24 Bulldogs
+T31	ACE-Mention 1340 1348	Virginia
+#31	ACE T31	entityID: APW20001204.2149.0765-E6; extent: Virginia
+T32	ACE-Mention 1352 1360	Phillips
+#32	ACE T32	entityID: APW20001204.2149.0765-E32; extent: Phillips
+T33	ACE-Mention 1366 1373	players
+#33	ACE T33	entityID: APW20001204.2149.0765-E31; extent: players
+T34	ACE-Mention 1380 1386	Dooley
+#34	ACE T34	entityID: APW20001204.2149.0765-E34; extent: Dooley
+T35	ACE-Mention 1390 1396	Donnan
+#35	ACE T35	entityID: APW20001204.2149.0765-E15; extent: Donnan
+T36	ACE-Mention 1409 1417	the team
+#36	ACE T36	entityID: APW20001204.2149.0765-E26; extent: the team
+T37	ACE-Mention 1447 1455	Phillips
+#37	ACE T37	entityID: APW20001204.2149.0765-E32; extent: Phillips
+T38	ACE-Mention 1463 1470	players
+#38	ACE T38	entityID: APW20001204.2149.0765-E31; extent: players
+T39	ACE-Mention 1524 1616	The 55-year-old Donnan , who came to Georgia for the 1996 season from Division I-AA Marshall
+#39	ACE T39	entityID: APW20001204.2149.0765-E15; extent: The 55-year-old Donnan , who came to Georgia for the 1996 season from Division I-AA Marshall
+T40	ACE-Mention 1681 1687	Donnan
+#40	ACE T40	entityID: APW20001204.2149.0765-E15; extent: Donnan
+T41	ACE-Mention 1739 1746	Georgia
+#41	ACE T41	entityID: APW20001204.2149.0765-E3; extent: Georgia
+T42	ACE-Mention 1750 1752	He
+#42	ACE T42	entityID: APW20001204.2149.0765-E15; extent: He
+T43	ACE-Mention 1784 1809	Georgia 's biggest rivals
+#43	ACE T43	entityID: APW20001204.2149.0765-E9; extent: Georgia 's biggest rivals
+T44	ACE-Mention 1831 1843	Georgia Tech
+#44	ACE T44	entityID: APW20001204.2149.0765-E5; extent: Georgia Tech
+T45	ACE-Mention 1846 1853	Florida
+#45	ACE T45	entityID: APW20001204.2149.0765-E10; extent: Florida
+T46	ACE-Mention 1856 1862	Auburn
+#46	ACE T46	entityID: APW20001204.2149.0765-E11; extent: Auburn
+T47	ACE-Mention 1867 1876	Tennessee
+#47	ACE T47	entityID: APW20001204.2149.0765-E12; extent: Tennessee
+T48	ACE-Mention 1893 1896	you
+#48	ACE T48	entityID: APW20001204.2149.0765-E13; extent: you
+T49	ACE-Mention 1913 1938	the University of Georgia
+#49	ACE T49	entityID: APW20001204.2149.0765-E3; extent: the University of Georgia
+T50	ACE-Mention 1947 1961	the big rivals
+#50	ACE T50	entityID: APW20001204.2149.0765-E9; extent: the big rivals
+T51	ACE-Mention 1967 1975	Phillips
+#51	ACE T51	entityID: APW20001204.2149.0765-E32; extent: Phillips
+T52	ACE-Mention 1987 1989	We
+#52	ACE T52	entityID: APW20001204.2149.0765-E15; extent: We
+T53	ACE-Mention 2022 2026	them
+#53	ACE T53	entityID: APW20001204.2149.0765-E9; extent: them
+T54	ACE-Mention 2033 2035	He
+#54	ACE T54	entityID: APW20001204.2149.0765-E15; extent: He
+T55	ACE-Mention 2085 2099	North Carolina
+#55	ACE T55	entityID: APW20001204.2149.0765-E16; extent: North Carolina
+T56	ACE-Mention 2129 2140	a candidate
+#56	ACE T56	entityID: APW20001204.2149.0765-E15; extent: a candidate
+T57	ACE-Mention 2165 2207	Oklahoma , where he was a former assistant
+#57	ACE T57	entityID: APW20001204.2149.0765-E17; extent: Oklahoma , where he was a former assistant
+T58	ACE-Mention 2215 2229	North Carolina
+#58	ACE T58	entityID: APW20001204.2149.0765-E16; extent: North Carolina
+T59	ACE-Mention 2254 2266	Carl Torbush
+#59	ACE T59	entityID: APW20001204.2149.0765-E18; extent: Carl Torbush
+T60	ACE-Mention 2298 2304	Donnan
+#60	ACE T60	entityID: APW20001204.2149.0765-E15; extent: Donnan
+T61	ACE-Mention 2308 2337	a native of Burlington , N.C.
+#61	ACE T61	entityID: APW20001204.2149.0765-E15; extent: a native of Burlington , N.C.
+T62	ACE-Mention 2354 2374	North Carolina State
+#62	ACE T62	entityID: APW20001204.2149.0765-E21; extent: North Carolina State

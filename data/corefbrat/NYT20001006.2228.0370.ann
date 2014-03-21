@@ -1,0 +1,46 @@
+T0	ACE-Mention 258 275	vice-presidential
+#0	ACE T0	entityID: NYT20001006.2228.0370-E19; extent: vice-presidential
+T1	ACE-Mention 303 324	Sen. Joseph Lieberman
+#1	ACE T1	entityID: NYT20001006.2228.0370-E20; extent: Sen. Joseph Lieberman
+T2	ACE-Mention 329 340	Dick Cheney
+#2	ACE T2	entityID: NYT20001006.2228.0370-E22; extent: Dick Cheney
+T3	ACE-Mention 356 384	at least 28.5 million people
+#3	ACE T3	entityID: NYT20001006.2228.0370-E23; extent: at least 28.5 million people
+T4	ACE-Mention 387 456	the second-smallest audience on record for a vice-presidential debate
+#4	ACE T4	entityID: NYT20001006.2228.0370-E23; extent: the second-smallest audience on record for a vice-presidential debate
+T5	ACE-Mention 472 494	Nielsen Media Research
+#5	ACE T5	entityID: NYT20001006.2228.0370-E25; extent: Nielsen Media Research
+T6	ACE-Mention 520 537	vice-presidential
+#6	ACE T6	entityID: NYT20001006.2228.0370-E19; extent: vice-presidential
+T7	ACE-Mention 585 607	Vice President Al Gore
+#7	ACE T7	entityID: NYT20001006.2228.0370-E26; extent: Vice President Al Gore
+T8	ACE-Mention 612 621	Jack Kemp
+#8	ACE T8	entityID: NYT20001006.2228.0370-E28; extent: Jack Kemp
+T9	ACE-Mention 662 681	26.6 million people
+#9	ACE T9	entityID: NYT20001006.2228.0370-E29; extent: 26.6 million people
+T10	ACE-Mention 703 720	vice-presidential
+#10	ACE T10	entityID: NYT20001006.2228.0370-E19; extent: vice-presidential
+T11	ACE-Mention 752 774	Rep. Geraldine Ferraro
+#11	ACE T11	entityID: NYT20001006.2228.0370-E30; extent: Rep. Geraldine Ferraro
+T12	ACE-Mention 779 805	Vice President George Bush
+#12	ACE T12	entityID: NYT20001006.2228.0370-E1; extent: Vice President George Bush
+T13	ACE-Mention 847 866	56.7 million people
+#13	ACE T13	entityID: NYT20001006.2228.0370-E3; extent: 56.7 million people
+T14	ACE-Mention 870 888	Nielsen executives
+#14	ACE T14	entityID: NYT20001006.2228.0370-E4; extent: Nielsen executives
+T15	ACE-Mention 925 933	audience
+#15	ACE T15	entityID: NYT20001006.2228.0370-E5; extent: audience
+T16	ACE-Mention 1076 1079	Fox
+#16	ACE T16	entityID: NYT20001006.2228.0370-E6; extent: Fox
+T17	ACE-Mention 1149 1180	Some of its affiliated stations
+#17	ACE T17	entityID: NYT20001006.2228.0370-E7; extent: Some of its affiliated stations
+T18	ACE-Mention 1226 1233	Nielsen
+#18	ACE T18	entityID: NYT20001006.2228.0370-E9; extent: Nielsen
+T19	ACE-Mention 1239 1241	it
+#19	ACE T19	entityID: NYT20001006.2228.0370-E9; extent: it
+T20	ACE-Mention 1283 1316	people who watched those showings
+#20	ACE T20	entityID: NYT20001006.2228.0370-E10; extent: people who watched those showings
+T21	ACE-Mention 1400 1430	Thursday 's estimated audience
+#21	ACE T21	entityID: NYT20001006.2228.0370-E11; extent: Thursday 's estimated audience
+T22	ACE-Mention 1440 1517	viewers who watched on ABC , CBS , NBC , MSNBC , CNN and the Fox News Channel
+#22	ACE T22	entityID: NYT20001006.2228.0370-E12; extent: viewers who watched on ABC , CBS , NBC , MSNBC , CNN and the Fox News Channel

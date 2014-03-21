@@ -1,0 +1,196 @@
+T0	ACE-Mention 307 317	WASHINGTON
+#0	ACE T0	entityID: NYT20001119.2132.0191-E21; extent: WASHINGTON
+T1	ACE-Mention 325 379	the leader of the Hezbollah in Syrian-occupied Lebanon
+#1	ACE T1	entityID: NYT20001119.2132.0191-E67; extent: the leader of the Hezbollah in Syrian-occupied Lebanon
+T2	ACE-Mention 410 432	three Israeli soldiers
+#2	ACE T2	entityID: NYT20001119.2132.0191-E80; extent: three Israeli soldiers
+T3	ACE-Mention 449 469	his Iranian sponsors
+#3	ACE T3	entityID: NYT20001119.2132.0191-E82; extent: his Iranian sponsors
+T4	ACE-Mention 480 483	him
+#4	ACE T4	entityID: NYT20001119.2132.0191-E67; extent: him
+T5	ACE-Mention 513 525	Bashar Assad
+#5	ACE T5	entityID: NYT20001119.2132.0191-E84; extent: Bashar Assad
+T6	ACE-Mention 528 554	the new president of Syria
+#6	ACE T6	entityID: NYT20001119.2132.0191-E84; extent: the new president of Syria
+T7	ACE-Mention 574 580	Israel
+#7	ACE T7	entityID: NYT20001119.2132.0191-E6; extent: Israel
+T8	ACE-Mention 615 668	Hezbollah forces in areas controlled by Syrian troops
+#8	ACE T8	entityID: NYT20001119.2132.0191-E1; extent: Hezbollah forces in areas controlled by Syrian troops
+T9	ACE-Mention 683 699	Israel 's troops
+#9	ACE T9	entityID: NYT20001119.2132.0191-E5; extent: Israel 's troops
+T10	ACE-Mention 714 738	its Lebanese buffer zone
+#10	ACE T10	entityID: NYT20001119.2132.0191-E7; extent: its Lebanese buffer zone
+T11	ACE-Mention 741 750	Hezbollah
+#11	ACE T11	entityID: NYT20001119.2132.0191-E3; extent: Hezbollah
+T12	ACE-Mention 798 804	Bashar
+#12	ACE T12	entityID: NYT20001119.2132.0191-E84; extent: Bashar
+T13	ACE-Mention 808 816	Damascus
+#13	ACE T13	entityID: NYT20001119.2132.0191-E9; extent: Damascus
+T14	ACE-Mention 820 857	Usually reliable intelligence sources
+#14	ACE T14	entityID: NYT20001119.2132.0191-E10; extent: Usually reliable intelligence sources
+T15	ACE-Mention 868 892	the inexperienced Bashar
+#15	ACE T15	entityID: NYT20001119.2132.0191-E84; extent: the inexperienced Bashar
+T16	ACE-Mention 929 943	the Arab world
+#16	ACE T16	entityID: NYT20001119.2132.0191-E11; extent: the Arab world
+T17	ACE-Mention 947 973	a militant enemy of Israel
+#17	ACE T17	entityID: NYT20001119.2132.0191-E35; extent: a militant enemy of Israel
+T18	ACE-Mention 981 984	his
+#18	ACE T18	entityID: NYT20001119.2132.0191-E84; extent: his
+T19	ACE-Mention 1049 1058	Hezbollah
+#19	ACE T19	entityID: NYT20001119.2132.0191-E3; extent: Hezbollah
+T20	ACE-Mention 1073 1089	Israeli soldiers
+#20	ACE T20	entityID: NYT20001119.2132.0191-E13; extent: Israeli soldiers
+T21	ACE-Mention 1127 1134	Lebanon
+#21	ACE T21	entityID: NYT20001119.2132.0191-E8; extent: Lebanon
+T22	ACE-Mention 1143 1168	Syrian and Israeli forces
+#22	ACE T22	entityID: NYT20001119.2132.0191-E15; extent: Syrian and Israeli forces
+T23	ACE-Mention 1193 1209	Hassan Nasrallah
+#23	ACE T23	entityID: NYT20001119.2132.0191-E16; extent: Hassan Nasrallah
+T24	ACE-Mention 1212 1242	secretary general of Hezbollah
+#24	ACE T24	entityID: NYT20001119.2132.0191-E16; extent: secretary general of Hezbollah
+T25	ACE-Mention 1266 1272	Bashar
+#25	ACE T25	entityID: NYT20001119.2132.0191-E84; extent: Bashar
+T26	ACE-Mention 1328 1334	Bashar
+#26	ACE T26	entityID: NYT20001119.2132.0191-E84; extent: Bashar
+T27	ACE-Mention 1367 1370	him
+#27	ACE T27	entityID: NYT20001119.2132.0191-E16; extent: him
+T28	ACE-Mention 1445 1465	the terrorist leader
+#28	ACE T28	entityID: NYT20001119.2132.0191-E16; extent: the terrorist leader
+T29	ACE-Mention 1504 1508	U.N.
+#29	ACE T29	entityID: NYT20001119.2132.0191-E18; extent: U.N.
+T30	ACE-Mention 1554 1560	Israel
+#30	ACE T30	entityID: NYT20001119.2132.0191-E6; extent: Israel
+T31	ACE-Mention 1585 1609	Arab and Persian leaders
+#31	ACE T31	entityID: NYT20001119.2132.0191-E19; extent: Arab and Persian leaders
+T32	ACE-Mention 1641 1676	what Israel considers its territory
+#32	ACE T32	entityID: NYT20001119.2132.0191-E7; extent: what Israel considers its territory
+T33	ACE-Mention 1713 1726	Yasser Arafat
+#33	ACE T33	entityID: NYT20001119.2132.0191-E22; extent: Yasser Arafat
+T34	ACE-Mention 1747 1750	his
+#34	ACE T34	entityID: NYT20001119.2132.0191-E22; extent: his
+T35	ACE-Mention 1779 1796	President Clinton
+#35	ACE T35	entityID: NYT20001119.2132.0191-E23; extent: President Clinton
+T36	ACE-Mention 1804 1814	Camp David
+#36	ACE T36	entityID: NYT20001119.2132.0191-E25; extent: Camp David
+T37	ACE-Mention 1827 1830	his
+#37	ACE T37	entityID: NYT20001119.2132.0191-E22; extent: his
+T38	ACE-Mention 1882 1894	Palestinians
+#38	ACE T38	entityID: NYT20001119.2132.0191-E28; extent: Palestinians
+T39	ACE-Mention 1910 1927	his gunmen-police
+#39	ACE T39	entityID: NYT20001119.2132.0191-E27; extent: his gunmen-police
+T40	ACE-Mention 1930 1933	his
+#40	ACE T40	entityID: NYT20001119.2132.0191-E22; extent: his
+T41	ACE-Mention 2059 2084	a small Palestinian state
+#41	ACE T41	entityID: NYT20001119.2132.0191-E29; extent: a small Palestinian state
+T42	ACE-Mention 2137 2146	Jerusalem
+#42	ACE T42	entityID: NYT20001119.2132.0191-E30; extent: Jerusalem
+T43	ACE-Mention 2151 2190	a state incorporating Jordan and Israel
+#43	ACE T43	entityID: NYT20001119.2132.0191-E31; extent: a state incorporating Jordan and Israel
+T44	ACE-Mention 2260 2285	a struggling dictatorship
+#44	ACE T44	entityID: NYT20001119.2132.0191-E26; extent: a struggling dictatorship
+T45	ACE-Mention 2290 2312	his militant followers
+#45	ACE T45	entityID: NYT20001119.2132.0191-E36; extent: his militant followers
+T46	ACE-Mention 2332 2340	the Jews
+#46	ACE T46	entityID: NYT20001119.2132.0191-E37; extent: the Jews
+T47	ACE-Mention 2348 2363	the Middle East
+#47	ACE T47	entityID: NYT20001119.2132.0191-E38; extent: the Middle East
+T48	ACE-Mention 2404 2409	world
+#48	ACE T48	entityID: NYT20001119.2132.0191-E39; extent: world
+T49	ACE-Mention 2430 2462	innocent victims of Israeli guns
+#49	ACE T49	entityID: NYT20001119.2132.0191-E40; extent: innocent victims of Israeli guns
+T50	ACE-Mention 2466 2485	Palestinian snipers
+#50	ACE T50	entityID: NYT20001119.2132.0191-E42; extent: Palestinian snipers
+T51	ACE-Mention 2501 2516	civilian crowds
+#51	ACE T51	entityID: NYT20001119.2132.0191-E43; extent: civilian crowds
+T52	ACE-Mention 2553 2562	innocents
+#52	ACE T52	entityID: NYT20001119.2132.0191-E45; extent: innocents
+T53	ACE-Mention 2680 2720	a boy with a slingshot rather than a gun
+#53	ACE T53	entityID: NYT20001119.2132.0191-E46; extent: a boy with a slingshot rather than a gun
+T54	ACE-Mention 2768 2796	the boy dying in a crossfire
+#54	ACE T54	entityID: NYT20001119.2132.0191-E49; extent: the boy dying in a crossfire
+T55	ACE-Mention 2864 2872	military
+#55	ACE T55	entityID: NYT20001119.2132.0191-E50; extent: military
+T56	ACE-Mention 2999 3009	Ehud Barak
+#56	ACE T56	entityID: NYT20001119.2132.0191-E51; extent: Ehud Barak
+T57	ACE-Mention 3087 3093	Israel
+#57	ACE T57	entityID: NYT20001119.2132.0191-E6; extent: Israel
+T58	ACE-Mention 3097 3134	Arab armies far stronger than his own
+#58	ACE T58	entityID: NYT20001119.2132.0191-E52; extent: Arab armies far stronger than his own
+T59	ACE-Mention 3137 3143	Arafat
+#59	ACE T59	entityID: NYT20001119.2132.0191-E22; extent: Arafat
+T60	ACE-Mention 3228 3230	he
+#60	ACE T60	entityID: NYT20001119.2132.0191-E22; extent: he
+T61	ACE-Mention 3254 3265	Middle East
+#61	ACE T61	entityID: NYT20001119.2132.0191-E38; extent: Middle East
+T62	ACE-Mention 3313 3343	Palestinian women and children
+#62	ACE T62	entityID: NYT20001119.2132.0191-E55; extent: Palestinian women and children
+T63	ACE-Mention 3374 3395	a stray Israeli shell
+#63	ACE T63	entityID: NYT20001119.2132.0191-E56; extent: a stray Israeli shell
+T64	ACE-Mention 3427 3467	Infuriated Muslims throughout the region
+#64	ACE T64	entityID: NYT20001119.2132.0191-E58; extent: Infuriated Muslims throughout the region
+T65	ACE-Mention 3489 3501	shaky sheiks
+#65	ACE T65	entityID: NYT20001119.2132.0191-E57; extent: shaky sheiks
+T66	ACE-Mention 3545 3547	we
+#66	ACE T66	entityID: NYT20001119.2132.0191-E59; extent: we
+T67	ACE-Mention 3552 3585	Arafat 's allies in the Hezbollah
+#67	ACE T67	entityID: NYT20001119.2132.0191-E60; extent: Arafat 's allies in the Hezbollah
+T68	ACE-Mention 3595 3613	Syria 's strongman
+#68	ACE T68	entityID: NYT20001119.2132.0191-E84; extent: Syria 's strongman
+T69	ACE-Mention 3632 3651	his dictator-father
+#69	ACE T69	entityID: NYT20001119.2132.0191-E61; extent: his dictator-father
+T70	ACE-Mention 3652 3657	Hafez
+#70	ACE T70	entityID: NYT20001119.2132.0191-E61; extent: Hafez
+T71	ACE-Mention 3701 3704	him
+#71	ACE T71	entityID: NYT20001119.2132.0191-E61; extent: him
+T72	ACE-Mention 3705 3714	the Golan
+#72	ACE T72	entityID: NYT20001119.2132.0191-E73; extent: the Golan
+T73	ACE-Mention 3739 3745	Arafat
+#73	ACE T73	entityID: NYT20001119.2132.0191-E22; extent: Arafat
+T74	ACE-Mention 3762 3784	Iraq 's Saddam Hussein
+#74	ACE T74	entityID: NYT20001119.2132.0191-E63; extent: Iraq 's Saddam Hussein
+T75	ACE-Mention 3798 3845	weaponry to counter Israel 's nuclear deterrent
+#75	ACE T75	entityID: NYT20001119.2132.0191-E66; extent: weaponry to counter Israel 's nuclear deterrent
+T76	ACE-Mention 3868 3887	his tanks and Scuds
+#76	ACE T76	entityID: NYT20001119.2132.0191-E65; extent: his tanks and Scuds
+T77	ACE-Mention 3896 3902	Jordan
+#77	ACE T77	entityID: NYT20001119.2132.0191-E33; extent: Jordan
+T78	ACE-Mention 3908 3929	his enemy 's homeland
+#78	ACE T78	entityID: NYT20001119.2132.0191-E6; extent: his enemy 's homeland
+T79	ACE-Mention 3959 3978	Palestinian-sparked
+#79	ACE T79	entityID: NYT20001119.2132.0191-E26; extent: Palestinian-sparked
+T80	ACE-Mention 4013 4018	Barak
+#80	ACE T80	entityID: NYT20001119.2132.0191-E51; extent: Barak
+T81	ACE-Mention 4030 4032	he
+#81	ACE T81	entityID: NYT20001119.2132.0191-E51; extent: he
+T82	ACE-Mention 4074 4076	He
+#82	ACE T82	entityID: NYT20001119.2132.0191-E51; extent: He
+T83	ACE-Mention 4120 4128	Israelis
+#83	ACE T83	entityID: NYT20001119.2132.0191-E6; extent: Israelis
+T84	ACE-Mention 4135 4138	him
+#84	ACE T84	entityID: NYT20001119.2132.0191-E51; extent: him
+T85	ACE-Mention 4160 4162	he
+#85	ACE T85	entityID: NYT20001119.2132.0191-E51; extent: he
+T86	ACE-Mention 4215 4221	Arafat
+#86	ACE T86	entityID: NYT20001119.2132.0191-E22; extent: Arafat
+T87	ACE-Mention 4243 4248	Barak
+#87	ACE T87	entityID: NYT20001119.2132.0191-E51; extent: Barak
+T88	ACE-Mention 4286 4289	him
+#88	ACE T88	entityID: NYT20001119.2132.0191-E51; extent: him
+T89	ACE-Mention 4363 4369	Arafat
+#89	ACE T89	entityID: NYT20001119.2132.0191-E22; extent: Arafat
+T90	ACE-Mention 4408 4437	the Israeli opposition leader
+#90	ACE T90	entityID: NYT20001119.2132.0191-E68; extent: the Israeli opposition leader
+T91	ACE-Mention 4438 4449	Arik Sharon
+#91	ACE T91	entityID: NYT20001119.2132.0191-E68; extent: Arik Sharon
+T92	ACE-Mention 4501 4517	the Likud leader
+#92	ACE T92	entityID: NYT20001119.2132.0191-E68; extent: the Likud leader
+T93	ACE-Mention 4550 4558	military
+#93	ACE T93	entityID: NYT20001119.2132.0191-E50; extent: military
+T94	ACE-Mention 4599 4606	America
+#94	ACE T94	entityID: NYT20001119.2132.0191-E70; extent: America
+T95	ACE-Mention 4627 4630	its
+#95	ACE T95	entityID: NYT20001119.2132.0191-E70; extent: its
+T96	ACE-Mention 4659 4665	Arafat
+#96	ACE T96	entityID: NYT20001119.2132.0191-E22; extent: Arafat
+T97	ACE-Mention 4668 4696	whoever wins the White House
+#97	ACE T97	entityID: NYT20001119.2132.0191-E71; extent: whoever wins the White House

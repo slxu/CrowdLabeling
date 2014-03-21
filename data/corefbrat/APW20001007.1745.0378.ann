@@ -1,0 +1,184 @@
+T0	ACE-Mention 120 141	BELGRADE , Yugoslavia
+#0	ACE T0	entityID: APW20001007.1745.0378-E20; extent: BELGRADE , Yugoslavia
+T1	ACE-Mention 142 146	(AP)
+#1	ACE T1	entityID: APW20001007.1745.0378-E53; extent: (AP)
+T2	ACE-Mention 149 167	Slobodan Milosevic
+#2	ACE T2	entityID: APW20001007.1745.0378-E54; extent: Slobodan Milosevic
+T3	ACE-Mention 230 267	Yugoslavia 's newly elected president
+#3	ACE T3	entityID: APW20001007.1745.0378-E55; extent: Yugoslavia 's newly elected president
+T4	ACE-Mention 272 310	the victorious pro-democracy coalition
+#4	ACE T4	entityID: APW20001007.1745.0378-E56; extent: the victorious pro-democracy coalition
+T5	ACE-Mention 314 355	The disgraced autocrat 's Socialist Party
+#5	ACE T5	entityID: APW20001007.1745.0378-E57; extent: The disgraced autocrat 's Socialist Party
+T6	ACE-Mention 360 384	its neo-communist allies
+#6	ACE T6	entityID: APW20001007.1745.0378-E58; extent: its neo-communist allies
+T7	ACE-Mention 464 468	them
+#7	ACE T7	entityID: APW20001007.1745.0378-E59; extent: them
+T8	ACE-Mention 495 535	opposition challenger Vojislav Kostunica
+#8	ACE T8	entityID: APW20001007.1745.0378-E55; extent: opposition challenger Vojislav Kostunica
+T9	ACE-Mention 574 579	Party
+#9	ACE T9	entityID: APW20001007.1745.0378-E57; extent: Party
+T10	ACE-Mention 633 660	pro-democracy demonstrators
+#10	ACE T10	entityID: APW20001007.1745.0378-E62; extent: pro-democracy demonstrators
+T11	ACE-Mention 669 687	federal parliament
+#11	ACE T11	entityID: APW20001007.1745.0378-E1; extent: federal parliament
+T12	ACE-Mention 690 719	the state television building
+#12	ACE T12	entityID: APW20001007.1745.0378-E2; extent: the state television building
+T13	ACE-Mention 724 759	other centers of Milosevic 's power
+#13	ACE T13	entityID: APW20001007.1745.0378-E3; extent: other centers of Milosevic 's power
+T14	ACE-Mention 763 864	Milosevic , who has been indicted by the international war crimes tribunal in The Hague , Netherlands
+#14	ACE T14	entityID: APW20001007.1745.0378-E54; extent: Milosevic , who has been indicted by the international war crimes tribunal in The Hague , Netherlands
+T15	ACE-Mention 880 890	Yugoslavia
+#15	ACE T15	entityID: APW20001007.1745.0378-E52; extent: Yugoslavia
+T16	ACE-Mention 933 942	Kostunica
+#16	ACE T16	entityID: APW20001007.1745.0378-E55; extent: Kostunica
+T17	ACE-Mention 972 975	him
+#17	ACE T17	entityID: APW20001007.1745.0378-E54; extent: him
+T18	ACE-Mention 983 992	Milosevic
+#18	ACE T18	entityID: APW20001007.1745.0378-E54; extent: Milosevic
+T19	ACE-Mention 1042 1051	Kostunica
+#19	ACE T19	entityID: APW20001007.1745.0378-E55; extent: Kostunica
+T20	ACE-Mention 1077 1119	proxies who still control Serbia 's police
+#20	ACE T20	entityID: APW20001007.1745.0378-E6; extent: proxies who still control Serbia 's police
+T21	ACE-Mention 1122 1132	Yugoslavia
+#21	ACE T21	entityID: APW20001007.1745.0378-E52; extent: Yugoslavia
+T22	ACE-Mention 1155 1164	the world
+#22	ACE T22	entityID: APW20001007.1745.0378-E9; extent: the world
+T23	ACE-Mention 1171 1172	I
+#23	ACE T23	entityID: APW20001007.1745.0378-E10; extent: I
+T24	ACE-Mention 1179 1181	he
+#24	ACE T24	entityID: APW20001007.1745.0378-E54; extent: he
+T25	ACE-Mention 1245 1255	the police
+#25	ACE T25	entityID: APW20001007.1745.0378-E8; extent: the police
+T26	ACE-Mention 1284 1298	Zoran Djindjic
+#26	ACE T26	entityID: APW20001007.1745.0378-E11; extent: Zoran Djindjic
+T27	ACE-Mention 1301 1329	head of the Democratic Party
+#27	ACE T27	entityID: APW20001007.1745.0378-E11; extent: head of the Democratic Party
+T28	ACE-Mention 1337 1357	The Associated Press
+#28	ACE T28	entityID: APW20001007.1745.0378-E53; extent: The Associated Press
+T29	ACE-Mention 1392 1394	he
+#29	ACE T29	entityID: APW20001007.1745.0378-E55; extent: he
+T30	ACE-Mention 1412 1438	a visibly shaken Milosevic
+#30	ACE T30	entityID: APW20001007.1745.0378-E54; extent: a visibly shaken Milosevic
+T31	ACE-Mention 1501 1510	Kostunica
+#31	ACE T31	entityID: APW20001007.1745.0378-E55; extent: Kostunica
+T32	ACE-Mention 1514 1517	his
+#32	ACE T32	entityID: APW20001007.1745.0378-E55; extent: his
+T33	ACE-Mention 1532 1533	I
+#33	ACE T33	entityID: APW20001007.1745.0378-E54; extent: I
+T34	ACE-Mention 1588 1597	my family
+#34	ACE T34	entityID: APW20001007.1745.0378-E14; extent: my family
+T35	ACE-Mention 1618 1629	my grandson
+#35	ACE T35	entityID: APW20001007.1745.0378-E15; extent: my grandson
+T36	ACE-Mention 1632 1637	Marko
+#36	ACE T36	entityID: APW20001007.1745.0378-E15; extent: Marko
+T37	ACE-Mention 1663 1671	my party
+#37	ACE T37	entityID: APW20001007.1745.0378-E17; extent: my party
+T38	ACE-Mention 1724 1726	he
+#38	ACE T38	entityID: APW20001007.1745.0378-E54; extent: he
+T39	ACE-Mention 1735 1756	Other deposed leaders
+#39	ACE T39	entityID: APW20001007.1745.0378-E18; extent: Other deposed leaders
+T40	ACE-Mention 1808 1842	countries like Chile and Indonesia
+#40	ACE T40	entityID: APW20001007.1745.0378-E19; extent: countries like Chile and Indonesia
+T41	ACE-Mention 1845 1862	the old autocrats
+#41	ACE T41	entityID: APW20001007.1745.0378-E23; extent: the old autocrats
+T42	ACE-Mention 2041 2054	local council
+#42	ACE T42	entityID: APW20001007.1745.0378-E24; extent: local council
+T43	ACE-Mention 2067 2081	the Socialists
+#43	ACE T43	entityID: APW20001007.1745.0378-E57; extent: the Socialists
+T44	ACE-Mention 2107 2236	the state legislature of Serbia , Yugoslavia 's dominant republic , where they are allied with the ultranationalist Radical Party
+#44	ACE T44	entityID: APW20001007.1745.0378-E25; extent: the state legislature of Serbia , Yugoslavia 's dominant republic , where they are allied with the ultranationalist Radical Party
+T45	ACE-Mention 2240 2263	The president of Serbia
+#45	ACE T45	entityID: APW20001007.1745.0378-E28; extent: The president of Serbia
+T46	ACE-Mention 2266 2283	Milan Milutinovic
+#46	ACE T46	entityID: APW20001007.1745.0378-E28; extent: Milan Milutinovic
+T47	ACE-Mention 2289 2324	one of Milosevic 's closest cronies
+#47	ACE T47	entityID: APW20001007.1745.0378-E28; extent: one of Milosevic 's closest cronies
+T48	ACE-Mention 2328 2330	He
+#48	ACE T48	entityID: APW20001007.1745.0378-E28; extent: He
+T49	ACE-Mention 2339 2363	an indicted war criminal
+#49	ACE T49	entityID: APW20001007.1745.0378-E28; extent: an indicted war criminal
+T50	ACE-Mention 2370 2373	his
+#50	ACE T50	entityID: APW20001007.1745.0378-E28; extent: his
+T51	ACE-Mention 2390 2399	Milosevic
+#51	ACE T51	entityID: APW20001007.1745.0378-E54; extent: Milosevic
+T52	ACE-Mention 2433 2440	Serbian
+#52	ACE T52	entityID: APW20001007.1745.0378-E7; extent: Serbian
+T53	ACE-Mention 2504 2544	the state 's 100,000-strong police force
+#53	ACE T53	entityID: APW20001007.1745.0378-E8; extent: the state 's 100,000-strong police force
+T54	ACE-Mention 2599 2620	the federal president
+#54	ACE T54	entityID: APW20001007.1745.0378-E32; extent: the federal president
+T55	ACE-Mention 2635 2644	Milosevic
+#55	ACE T55	entityID: APW20001007.1745.0378-E54; extent: Milosevic
+T56	ACE-Mention 2655 2663	the post
+#56	ACE T56	entityID: APW20001007.1745.0378-E32; extent: the post
+T57	ACE-Mention 2681 2684	his
+#57	ACE T57	entityID: APW20001007.1745.0378-E54; extent: his
+T58	ACE-Mention 2698 2709	Milutinovic
+#58	ACE T58	entityID: APW20001007.1745.0378-E28; extent: Milutinovic
+T59	ACE-Mention 2742 2744	he
+#59	ACE T59	entityID: APW20001007.1745.0378-E28; extent: he
+T60	ACE-Mention 2779 2788	Milosevic
+#60	ACE T60	entityID: APW20001007.1745.0378-E54; extent: Milosevic
+T61	ACE-Mention 2799 2813	Braca Grubacic
+#61	ACE T61	entityID: APW20001007.1745.0378-E33; extent: Braca Grubacic
+T62	ACE-Mention 2816 2844	a Belgrade political analyst
+#62	ACE T62	entityID: APW20001007.1745.0378-E33; extent: a Belgrade political analyst
+T63	ACE-Mention 2865 2874	Milosevic
+#63	ACE T63	entityID: APW20001007.1745.0378-E54; extent: Milosevic
+T64	ACE-Mention 2938 2947	Kostunica
+#64	ACE T64	entityID: APW20001007.1745.0378-E55; extent: Kostunica
+T65	ACE-Mention 2982 2991	Milosevic
+#65	ACE T65	entityID: APW20001007.1745.0378-E54; extent: Milosevic
+T66	ACE-Mention 3021 3042	His leftist coalition
+#66	ACE T66	entityID: APW20001007.1745.0378-E36; extent: His leftist coalition
+T67	ACE-Mention 3071 3093	the federal parliament
+#67	ACE T67	entityID: APW20001007.1745.0378-E37; extent: the federal parliament
+T68	ACE-Mention 3111 3175	an allied party from Montenegro , Yugoslavia 's smaller republic
+#68	ACE T68	entityID: APW20001007.1745.0378-E38; extent: an allied party from Montenegro , Yugoslavia 's smaller republic
+T69	ACE-Mention 3178 3188	his allies
+#69	ACE T69	entityID: APW20001007.1745.0378-E41; extent: his allies
+T70	ACE-Mention 3252 3261	Kostunica
+#70	ACE T70	entityID: APW20001007.1745.0378-E55; extent: Kostunica
+T71	ACE-Mention 3288 3297	Milosevic
+#71	ACE T71	entityID: APW20001007.1745.0378-E54; extent: Milosevic
+T72	ACE-Mention 3351 3354	his
+#72	ACE T72	entityID: APW20001007.1745.0378-E54; extent: his
+T73	ACE-Mention 3372 3394	his badly shaken party
+#73	ACE T73	entityID: APW20001007.1745.0378-E57; extent: his badly shaken party
+T74	ACE-Mention 3423 3428	their
+#74	ACE T74	entityID: APW20001007.1745.0378-E42; extent: their
+T75	ACE-Mention 3448 3455	members
+#75	ACE T75	entityID: APW20001007.1745.0378-E42; extent: members
+T76	ACE-Mention 3499 3522	Some opposition leaders
+#76	ACE T76	entityID: APW20001007.1745.0378-E43; extent: Some opposition leaders
+T77	ACE-Mention 3537 3546	Milosevic
+#77	ACE T77	entityID: APW20001007.1745.0378-E54; extent: Milosevic
+T78	ACE-Mention 3584 3586	he
+#78	ACE T78	entityID: APW20001007.1745.0378-E54; extent: he
+T79	ACE-Mention 3607 3627	the government media
+#79	ACE T79	entityID: APW20001007.1745.0378-E44; extent: the government media
+T80	ACE-Mention 3628 3630	he
+#80	ACE T80	entityID: APW20001007.1745.0378-E54; extent: he
+T81	ACE-Mention 3639 3642	his
+#81	ACE T81	entityID: APW20001007.1745.0378-E54; extent: his
+T82	ACE-Mention 3704 3713	Milosevic
+#82	ACE T82	entityID: APW20001007.1745.0378-E54; extent: Milosevic
+T83	ACE-Mention 3781 3787	Europe
+#83	ACE T83	entityID: APW20001007.1745.0378-E45; extent: Europe
+T84	ACE-Mention 3815 3819	Some
+#84	ACE T84	entityID: APW20001007.1745.0378-E46; extent: Some
+T85	ACE-Mention 3833 3836	him
+#85	ACE T85	entityID: APW20001007.1745.0378-E54; extent: him
+T86	ACE-Mention 3889 3958	some of the country 's most senior politicians and underworld figures
+#86	ACE T86	entityID: APW20001007.1745.0378-E47; extent: some of the country 's most senior politicians and underworld figures
+T87	ACE-Mention 3988 3997	Milosevic
+#87	ACE T87	entityID: APW20001007.1745.0378-E54; extent: Milosevic
+T88	ACE-Mention 4029 4038	The Hague
+#88	ACE T88	entityID: APW20001007.1745.0378-E4; extent: The Hague
+T89	ACE-Mention 4056 4060	here
+#89	ACE T89	entityID: APW20001007.1745.0378-E52; extent: here
+T90	ACE-Mention 4070 4073	our
+#90	ACE T90	entityID: APW20001007.1745.0378-E52; extent: our
+T91	ACE-Mention 4092 4121	opposition leader Zarko Korac
+#91	ACE T91	entityID: APW20001007.1745.0378-E49; extent: opposition leader Zarko Korac

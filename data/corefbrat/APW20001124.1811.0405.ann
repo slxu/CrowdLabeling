@@ -1,0 +1,116 @@
+T0	ACE-Mention 114 133	FRANKFURT , Germany
+#0	ACE T0	entityID: APW20001124.1811.0405-E23; extent: FRANKFURT , Germany
+T1	ACE-Mention 134 138	(AP)
+#1	ACE T1	entityID: APW20001124.1811.0405-E35; extent: (AP)
+T2	ACE-Mention 141 177	Computer giant Hewlett-Packard Corp.
+#2	ACE T2	entityID: APW20001124.1811.0405-E21; extent: Computer giant Hewlett-Packard Corp.
+T3	ACE-Mention 189 363	the first company to be snagged by a German law requiring firms to pay fees for making CD burners that are being used to illegally lift the latest hits off the World Wide Web
+#3	ACE T3	entityID: APW20001124.1811.0405-E21; extent: the first company to be snagged by a German law requiring firms to pay fees for making CD burners that are being used to illegally lift the latest hits off the World Wide Web
+T4	ACE-Mention 395 419	other European countries
+#4	ACE T4	entityID: APW20001124.1811.0405-E41; extent: other European countries
+T5	ACE-Mention 482 500	the music industry
+#5	ACE T5	entityID: APW20001124.1811.0405-E43; extent: the music industry
+T6	ACE-Mention 543 551	analysts
+#6	ACE T6	entityID: APW20001124.1811.0405-E44; extent: analysts
+T7	ACE-Mention 613 620	Germany
+#7	ACE T7	entityID: APW20001124.1811.0405-E34; extent: Germany
+T8	ACE-Mention 662 679	The manufacturers
+#8	ACE T8	entityID: APW20001124.1811.0405-E45; extent: The manufacturers
+T9	ACE-Mention 684 694	scapegoats
+#9	ACE T9	entityID: APW20001124.1811.0405-E45; extent: scapegoats
+T10	ACE-Mention 705 718	Robert Labatt
+#10	ACE T10	entityID: APW20001124.1811.0405-E1; extent: Robert Labatt
+T11	ACE-Mention 721 766	a new media analyst at research group Gartner
+#11	ACE T11	entityID: APW20001124.1811.0405-E1; extent: a new media analyst at research group Gartner
+T12	ACE-Mention 866 932	Many of Germany 's neighbors , including France , Italy and Greece
+#12	ACE T12	entityID: APW20001124.1811.0405-E5; extent: Many of Germany 's neighbors , including France , Italy and Greece
+T13	ACE-Mention 970 977	authors
+#13	ACE T13	entityID: APW20001124.1811.0405-E10; extent: authors
+T14	ACE-Mention 982 991	musicians
+#14	ACE T14	entityID: APW20001124.1811.0405-E11; extent: musicians
+T15	ACE-Mention 1003 1053	makers of equipment used to violate copyright laws
+#15	ACE T15	entityID: APW20001124.1811.0405-E33; extent: makers of equipment used to violate copyright laws
+T16	ACE-Mention 1154 1160	German
+#16	ACE T16	entityID: APW20001124.1811.0405-E34; extent: German
+T17	ACE-Mention 1174 1189	Hewlett-Packard
+#17	ACE T17	entityID: APW20001124.1811.0405-E21; extent: Hewlett-Packard
+T18	ACE-Mention 1198 1205	Germany
+#18	ACE T18	entityID: APW20001124.1811.0405-E34; extent: Germany
+T19	ACE-Mention 1406 1463	the International Federation of the Phonographic Industry
+#19	ACE T19	entityID: APW20001124.1811.0405-E12; extent: the International Federation of the Phonographic Industry
+T20	ACE-Mention 1512 1580	people creating their own CDs from downloaded tunes off the Internet
+#20	ACE T20	entityID: APW20001124.1811.0405-E13; extent: people creating their own CDs from downloaded tunes off the Internet
+T21	ACE-Mention 1648 1657	the group
+#21	ACE T21	entityID: APW20001124.1811.0405-E12; extent: the group
+T22	ACE-Mention 1774 1788	EU governments
+#22	ACE T22	entityID: APW20001124.1811.0405-E15; extent: EU governments
+T23	ACE-Mention 1832 1841	the group
+#23	ACE T23	entityID: APW20001124.1811.0405-E12; extent: the group
+T24	ACE-Mention 1890 1899	the world
+#24	ACE T24	entityID: APW20001124.1811.0405-E16; extent: the world
+T25	ACE-Mention 1931 1959	a number of record companies
+#25	ACE T25	entityID: APW20001124.1811.0405-E17; extent: a number of record companies
+T26	ACE-Mention 1981 2050	Napster Inc. , whose software allows users to easily swap music files
+#26	ACE T26	entityID: APW20001124.1811.0405-E18; extent: Napster Inc. , whose software allows users to easily swap music files
+T27	ACE-Mention 2054 2058	GEMA
+#27	ACE T27	entityID: APW20001124.1811.0405-E19; extent: GEMA
+T28	ACE-Mention 2061 2091	German 's main licensing group
+#28	ACE T28	entityID: APW20001124.1811.0405-E19; extent: German 's main licensing group
+T29	ACE-Mention 2103 2118	Hewlett-Packard
+#29	ACE T29	entityID: APW20001124.1811.0405-E21; extent: Hewlett-Packard
+T30	ACE-Mention 2122 2133	a test case
+#30	ACE T30	entityID: APW20001124.1811.0405-E21; extent: a test case
+T31	ACE-Mention 2158 2169	the company
+#31	ACE T31	entityID: APW20001124.1811.0405-E21; extent: the company
+T32	ACE-Mention 2176 2214	the German market leader in CD burners
+#32	ACE T32	entityID: APW20001124.1811.0405-E21; extent: the German market leader in CD burners
+T33	ACE-Mention 2222 2237	Hewlett-Packard
+#33	ACE T33	entityID: APW20001124.1811.0405-E21; extent: Hewlett-Packard
+T34	ACE-Mention 2245 2248	its
+#34	ACE T34	entityID: APW20001124.1811.0405-E21; extent: its
+T35	ACE-Mention 2260 2262	it
+#35	ACE T35	entityID: APW20001124.1811.0405-E21; extent: it
+T36	ACE-Mention 2330 2337	Germany
+#36	ACE T36	entityID: APW20001124.1811.0405-E34; extent: Germany
+T37	ACE-Mention 2443 2458	Hewlett-Packard
+#37	ACE T37	entityID: APW20001124.1811.0405-E21; extent: Hewlett-Packard
+T38	ACE-Mention 2600 2647	Hewlett-Packard spokeswoman Jeannette Weisschuh
+#38	ACE T38	entityID: APW20001124.1811.0405-E25; extent: Hewlett-Packard spokeswoman Jeannette Weisschuh
+T39	ACE-Mention 2687 2698	the company
+#39	ACE T39	entityID: APW20001124.1811.0405-E21; extent: the company
+T40	ACE-Mention 2711 2714	she
+#40	ACE T40	entityID: APW20001124.1811.0405-E25; extent: she
+T41	ACE-Mention 2753 2768	Hewlett-Packard
+#41	ACE T41	entityID: APW20001124.1811.0405-E21; extent: Hewlett-Packard
+T42	ACE-Mention 2795 2879	foreign online retailers who , unburdened by such fees , can sell cheaper CD burners
+#42	ACE T42	entityID: APW20001124.1811.0405-E27; extent: foreign online retailers who , unburdened by such fees , can sell cheaper CD burners
+T43	ACE-Mention 2952 2961	Weisschuh
+#43	ACE T43	entityID: APW20001124.1811.0405-E25; extent: Weisschuh
+T44	ACE-Mention 2984 3018	the consumers who have to pay more
+#44	ACE T44	entityID: APW20001124.1811.0405-E28; extent: the consumers who have to pay more
+T45	ACE-Mention 3033 3050	the manufacturers
+#45	ACE T45	entityID: APW20001124.1811.0405-E45; extent: the manufacturers
+T46	ACE-Mention 3068 3070	us
+#46	ACE T46	entityID: APW20001124.1811.0405-E45; extent: us
+T47	ACE-Mention 3104 3149	Other companies selling CD burners in Germany
+#47	ACE T47	entityID: APW20001124.1811.0405-E29; extent: Other companies selling CD burners in Germany
+T48	ACE-Mention 3238 3242	they
+#48	ACE T48	entityID: APW20001124.1811.0405-E29; extent: they
+T49	ACE-Mention 3254 3258	GEMA
+#49	ACE T49	entityID: APW20001124.1811.0405-E19; extent: GEMA
+T50	ACE-Mention 3266 3281	Hewlett-Packard
+#50	ACE T50	entityID: APW20001124.1811.0405-E21; extent: Hewlett-Packard
+T51	ACE-Mention 3349 3372	equipment manufacturers
+#51	ACE T51	entityID: APW20001124.1811.0405-E45; extent: equipment manufacturers
+T52	ACE-Mention 3482 3489	Germany
+#52	ACE T52	entityID: APW20001124.1811.0405-E34; extent: Germany
+T53	ACE-Mention 3531 3545	the government
+#53	ACE T53	entityID: APW20001124.1811.0405-E34; extent: the government
+T54	ACE-Mention 3567 3571	GEMA
+#54	ACE T54	entityID: APW20001124.1811.0405-E19; extent: GEMA
+T55	ACE-Mention 3575 3591	copyright owners
+#55	ACE T55	entityID: APW20001124.1811.0405-E30; extent: copyright owners
+T56	ACE-Mention 3600 3616	recording houses
+#56	ACE T56	entityID: APW20001124.1811.0405-E31; extent: recording houses
+T57	ACE-Mention 3621 3639	music distributors
+#57	ACE T57	entityID: APW20001124.1811.0405-E32; extent: music distributors

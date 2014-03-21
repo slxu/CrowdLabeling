@@ -1,0 +1,48 @@
+T0	ACE-Mention 107 112	PARIS
+#0	ACE T0	entityID: APW20001009.1751.0391-E8; extent: PARIS
+T1	ACE-Mention 113 117	(AP)
+#1	ACE T1	entityID: APW20001009.1751.0391-E9; extent: (AP)
+T2	ACE-Mention 120 132	Paco Rabanne
+#2	ACE T2	entityID: APW20001009.1751.0391-E10; extent: Paco Rabanne
+T3	ACE-Mention 212 214	He
+#3	ACE T3	entityID: APW20001009.1751.0391-E10; extent: He
+T4	ACE-Mention 284 296	The designer
+#4	ACE T4	entityID: APW20001009.1751.0391-E10; extent: The designer
+T5	ACE-Mention 350 352	he
+#5	ACE T5	entityID: APW20001009.1751.0391-E10; extent: he
+T6	ACE-Mention 392 395	his
+#6	ACE T6	entityID: APW20001009.1751.0391-E10; extent: his
+T7	ACE-Mention 447 455	boutique
+#7	ACE T7	entityID: APW20001009.1751.0391-E11; extent: boutique
+T8	ACE-Mention 497 507	the models
+#8	ACE T8	entityID: APW20001009.1751.0391-E12; extent: the models
+T9	ACE-Mention 638 663	Well over sixty , Rabanne
+#9	ACE T9	entityID: APW20001009.1751.0391-E10; extent: Well over sixty , Rabanne
+T10	ACE-Mention 1314 1321	Rabanne
+#10	ACE T10	entityID: APW20001009.1751.0391-E10; extent: Rabanne
+T11	ACE-Mention 1391 1400	the disco
+#11	ACE T11	entityID: APW20001009.1751.0391-E13; extent: the disco
+T12	ACE-Mention 1491 1500	ballerina
+#12	ACE T12	entityID: APW20001009.1751.0391-E5; extent: ballerina
+T13	ACE-Mention 1627 1642	Dries van Noten
+#13	ACE T13	entityID: APW20001009.1751.0391-E14; extent: Dries van Noten
+T14	ACE-Mention 1797 1803	Indian
+#14	ACE T14	entityID: APW20001009.1751.0391-E15; extent: Indian
+T15	ACE-Mention 1952 1959	flapper
+#15	ACE T15	entityID: APW20001009.1751.0391-E6; extent: flapper
+T16	ACE-Mention 2027 2039	sailor-style
+#16	ACE T16	entityID: APW20001009.1751.0391-E7; extent: sailor-style
+T17	ACE-Mention 2510 2529	Gaspard Yurkievitch
+#17	ACE T17	entityID: APW20001009.1751.0391-E16; extent: Gaspard Yurkievitch
+T18	ACE-Mention 2532 2585	a young French designer , showing in the Petit Palais
+#18	ACE T18	entityID: APW20001009.1751.0391-E16; extent: a young French designer , showing in the Petit Palais
+T19	ACE-Mention 2612 2623	some stores
+#19	ACE T19	entityID: APW20001009.1751.0391-E1; extent: some stores
+T20	ACE-Mention 2629 2632	his
+#20	ACE T20	entityID: APW20001009.1751.0391-E16; extent: his
+T21	ACE-Mention 2653 2657	some
+#21	ACE T21	entityID: APW20001009.1751.0391-E3; extent: some
+T22	ACE-Mention 3009 3020	Yurkievitch
+#22	ACE T22	entityID: APW20001009.1751.0391-E16; extent: Yurkievitch
+T23	ACE-Mention 3179 3184	harem
+#23	ACE T23	entityID: APW20001009.1751.0391-E4; extent: harem

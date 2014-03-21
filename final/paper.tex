@@ -1,0 +1,114 @@
+% 8 pages + 2 pages of refs
+
+\documentclass[11pt]{article}
+
+%\usepackage{naaclhlt2013}
+\usepackage{tabularx}
+\usepackage{acl2013}
+\usepackage{graphicx}
+\usepackage{algorithmic}
+\usepackage{times}
+\usepackage{latexsym}
+\usepackage{multirow}
+\usepackage{url}
+\usepackage{subfigure}
+\usepackage{array}
+\usepackage{sparklines}
+\usepackage{amsmath,amsfonts,amssymb,amsthm}
+
+
+
+\usepackage{paralist}
+\usepackage{color}
+%\usepackage{setspace}
+
+
+
+\renewcommand{\baselinestretch}{0.98}
+%\let\env=\texttt
+%\let\pkg=\textsf
+%\definecolor{sparkrectanglecolor}{rgb}{0.8,0.95,0.8}
+%\definecolor{sparkspikecolor}{rgb}{1,0,0}
+%\setlength{\sparkdotwidth}{1.3pt}
+%\setlength{\sparklinethickness}{.3pt}
+
+\DeclareMathOperator*{\argmax}{arg\,max}
+  %\setlength\titlebox{6.5cm}    % Expanding the titlebox
+
+\input{weld-defns-edited}
+
+\def\upcase{\expandafter\makeupcase}
+
+
+
+\newcommand{\hrone}{temporal functionality heuristic}
+\newcommand{\hrtwo}{temporal burstiness heuristic}
+\newcommand{\hrthree}{one event-mention per discourse heuristic}
+\newcommand{\hrfour}{Tense Consistency Heuristic}
+
+
+\newcommand{\temporal}{Temporal Hypotheses}
+\newcommand{\sys}{\mbox{\sc CrowdAnno}}   % afar
+\newcommand{\kylin}{\mbox{\sc Kylin}}
+\newcommand{\tr}{\mbox{\sc TextRunner}}
+\newcommand{\E}{\mbox{$\mathbf e$}}
+
+%\newcommand{\mtt}[1]{\mbox{$\tt{#1}$}}
+\newcommand{\bmtt}[1]{\mbox{$\tt{\mathbf{#1}}$}}
+
+\newcommand{\eat}[1]{}
+
+\newcommand{\Eec}{\mbox{\em extracted event candidate}}
+%\newcommand{\Eec}{Extracted Event Candidate}
+%\newcommand{\Eec}{\mbox{Extracted Event Candidate}}
+\newcommand{\eec}{\mbox{EEC}}
+\newcommand{\bag}{\mbox{EEC-set}}
+
+\newcommand{\mtt}[1]{{\it #1}}
+
+
+\title{Visualizing NLP annotations for Crowdsourcing }
+
+%\title{Distant Supervision for Information Extraction of Polymorphic Tuples}
+%\title{Distant Supervision for Information Extraction
+%                   without Relational Exlcusivity}
+
+
+\author{Hanchuan Li, Haichen Shen, Shengliang Xu and Congle Zhang\\
+ Computer Science \& Engineering \\
+ University of Washington\\
+ Seattle, WA 98195, USA \\
+ {\tt \{hanchuan,haichen,shengliang,clzhang\}@cs.washington.edu} \\}
+
+
+%\date{}
+
+
+
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+Visualizing NLP annotation is useful for the collection of training data for the statistical NLP approaches.  Existing toolkits either provide limited visual aid, or introduce comprehensive operators to realize sophisticated linguistic rules. Workers must be well trained to use them. Their audience thus can hardly be scaled to large amounts of non-expert crowd-sourced workers. In this paper, we present \sys, a visualization toolkit to allow crowd-sourced workers to annotate two general categories of NLP problems: clustering and parsing. Workers can finish the tasks with simplified operators in an interactive interface, and fix errors conveniently. User studies show our toolkit is very friendly to NLP non-experts, and allow them to produce high quality labels for several sophisticated problems. We release our source code and toolkit to spur future research.
+\end{abstract}
+
+
+\input{introduction}
+\input{system}
+\input{evaluation}
+\input{related}
+\input{concl}
+
+
+
+
+%The source code of our system, its output, and all data annotations are available at {\tt http://cs.uw.edu/homes/raphaelh/mr}.
+%
+\bibliographystyle{naaclhlt2013}
+\bibliography{general,paper}
+
+\end{document}
+
+

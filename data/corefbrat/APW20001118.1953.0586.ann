@@ -1,0 +1,98 @@
+T0	ACE-Mention 103 116	CAIRO , Egypt
+#0	ACE T0	entityID: APW20001118.1953.0586-E23; extent: CAIRO , Egypt
+T1	ACE-Mention 117 121	(AP)
+#1	ACE T1	entityID: APW20001118.1953.0586-E54; extent: (AP)
+T2	ACE-Mention 124 161	Ten of the Arab world 's first ladies
+#2	ACE T2	entityID: APW20001118.1953.0586-E55; extent: Ten of the Arab world 's first ladies
+T3	ACE-Mention 169 178	activists
+#3	ACE T3	entityID: APW20001118.1953.0586-E58; extent: activists
+T4	ACE-Mention 247 252	women
+#4	ACE T4	entityID: APW20001118.1953.0586-E2; extent: women
+T5	ACE-Mention 256 261	their
+#5	ACE T5	entityID: APW20001118.1953.0586-E55; extent: their
+T6	ACE-Mention 290 311	Queen Rania of Jordan
+#6	ACE T6	entityID: APW20001118.1953.0586-E7; extent: Queen Rania of Jordan
+T7	ACE-Mention 314 338	Egypt 's Suzanne Mubarak
+#7	ACE T7	entityID: APW20001118.1953.0586-E6; extent: Egypt 's Suzanne Mubarak
+T8	ACE-Mention 343 349	others
+#8	ACE T8	entityID: APW20001118.1953.0586-E63; extent: others
+T9	ACE-Mention 361 366	their
+#9	ACE T9	entityID: APW20001118.1953.0586-E55; extent: their
+T10	ACE-Mention 415 420	women
+#10	ACE T10	entityID: APW20001118.1953.0586-E2; extent: women
+T11	ACE-Mention 450 463	women leaders
+#11	ACE T11	entityID: APW20001118.1953.0586-E1; extent: women leaders
+T12	ACE-Mention 468 505	campaigners for equality of the sexes
+#12	ACE T12	entityID: APW20001118.1953.0586-E3; extent: campaigners for equality of the sexes
+T13	ACE-Mention 558 563	women
+#13	ACE T13	entityID: APW20001118.1953.0586-E2; extent: women
+T14	ACE-Mention 585 616	complete and effective partners
+#14	ACE T14	entityID: APW20001118.1953.0586-E5; extent: complete and effective partners
+T15	ACE-Mention 636 647	Queen Rania
+#15	ACE T15	entityID: APW20001118.1953.0586-E7; extent: Queen Rania
+T16	ACE-Mention 653 701	an audience of more than 2,000 from 19 countries
+#16	ACE T16	entityID: APW20001118.1953.0586-E8; extent: an audience of more than 2,000 from 19 countries
+T17	ACE-Mention 705 708	She
+#17	ACE T17	entityID: APW20001118.1953.0586-E7; extent: She
+T18	ACE-Mention 791 796	women
+#18	ACE T18	entityID: APW20001118.1953.0586-E2; extent: women
+T19	ACE-Mention 803 810	Mubarak
+#19	ACE T19	entityID: APW20001118.1953.0586-E6; extent: Mubarak
+T20	ACE-Mention 813 853	wife of Egyptian President Hosni Mubarak
+#20	ACE T20	entityID: APW20001118.1953.0586-E6; extent: wife of Egyptian President Hosni Mubarak
+T21	ACE-Mention 858 890	one of the conference organizers
+#21	ACE T21	entityID: APW20001118.1953.0586-E6; extent: one of the conference organizers
+T22	ACE-Mention 898 902	they
+#22	ACE T22	entityID: APW20001118.1953.0586-E55; extent: they
+T23	ACE-Mention 969 983	Arab countries
+#23	ACE T23	entityID: APW20001118.1953.0586-E14; extent: Arab countries
+T24	ACE-Mention 1071 1081	Arab women
+#24	ACE T24	entityID: APW20001118.1953.0586-E2; extent: Arab women
+T25	ACE-Mention 1099 1104	women
+#25	ACE T25	entityID: APW20001118.1953.0586-E2; extent: women
+T26	ACE-Mention 1118 1145	countries in the Arab world
+#26	ACE T26	entityID: APW20001118.1953.0586-E14; extent: countries in the Arab world
+T27	ACE-Mention 1158 1233	women in some parts of the Persian Gulf , such as conservative Saudi Arabia
+#27	ACE T27	entityID: APW20001118.1953.0586-E16; extent: women in some parts of the Persian Gulf , such as conservative Saudi Arabia
+T28	ACE-Mention 1311 1329	their counterparts
+#28	ACE T28	entityID: APW20001118.1953.0586-E20; extent: their counterparts
+T29	ACE-Mention 1333 1394	more liberal countries , including Jordan , Egypt and Lebanon
+#29	ACE T29	entityID: APW20001118.1953.0586-E21; extent: more liberal countries , including Jordan , Egypt and Lebanon
+T30	ACE-Mention 1551 1561	Arab women
+#30	ACE T30	entityID: APW20001118.1953.0586-E2; extent: Arab women
+T31	ACE-Mention 1571 1581	Many women
+#31	ACE T31	entityID: APW20001118.1953.0586-E25; extent: Many women
+T32	ACE-Mention 1678 1683	Egypt
+#32	ACE T32	entityID: APW20001118.1953.0586-E53; extent: Egypt
+T33	ACE-Mention 1724 1729	women
+#33	ACE T33	entityID: APW20001118.1953.0586-E26; extent: women
+T34	ACE-Mention 1758 1762	them
+#34	ACE T34	entityID: APW20001118.1953.0586-E26; extent: them
+T35	ACE-Mention 1800 1806	abroad
+#35	ACE T35	entityID: APW20001118.1953.0586-E51; extent: abroad
+T36	ACE-Mention 1815 1829	their husbands
+#36	ACE T36	entityID: APW20001118.1953.0586-E27; extent: their husbands
+T37	ACE-Mention 1846 1866	Many of the speakers
+#37	ACE T37	entityID: APW20001118.1953.0586-E28; extent: Many of the speakers
+T38	ACE-Mention 1961 1965	Arab
+#38	ACE T38	entityID: APW20001118.1953.0586-E57; extent: Arab
+T39	ACE-Mention 2003 2009	Others
+#39	ACE T39	entityID: APW20001118.1953.0586-E30; extent: Others
+T40	ACE-Mention 2088 2098	Arab women
+#40	ACE T40	entityID: APW20001118.1953.0586-E2; extent: Arab women
+T41	ACE-Mention 2138 2152	Some attendees
+#41	ACE T41	entityID: APW20001118.1953.0586-E31; extent: Some attendees
+T42	ACE-Mention 2230 2240	Haifa Ezzi
+#42	ACE T42	entityID: APW20001118.1953.0586-E32; extent: Haifa Ezzi
+T43	ACE-Mention 2243 2291	a Saudi researcher interested in women 's issues
+#43	ACE T43	entityID: APW20001118.1953.0586-E32; extent: a Saudi researcher interested in women 's issues
+T44	ACE-Mention 2363 2375	Saudi Arabia
+#44	ACE T44	entityID: APW20001118.1953.0586-E34; extent: Saudi Arabia
+T45	ACE-Mention 2378 2383	Qatar
+#45	ACE T45	entityID: APW20001118.1953.0586-E36; extent: Qatar
+T46	ACE-Mention 2388 2395	Algeria
+#46	ACE T46	entityID: APW20001118.1953.0586-E37; extent: Algeria
+T47	ACE-Mention 2401 2473	the only Arab League countries that did not send delegates to the summit
+#47	ACE T47	entityID: APW20001118.1953.0586-E38; extent: the only Arab League countries that did not send delegates to the summit
+T48	ACE-Mention 2505 2638	the first ladies of Bahrain , Comoros , Egypt , Jordan , Kuwait , Lebanon , Morocco , the Palestinian territories , Sudan and Tunisia
+#48	ACE T48	entityID: APW20001118.1953.0586-E41; extent: the first ladies of Bahrain , Comoros , Egypt , Jordan , Kuwait , Lebanon , Morocco , the Palestinian territories , Sudan and Tunisia

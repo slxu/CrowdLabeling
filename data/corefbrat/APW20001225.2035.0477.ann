@@ -1,0 +1,190 @@
+T0	ACE-Mention 107 117	WASHINGTON
+#0	ACE T0	entityID: APW20001225.2035.0477-E19; extent: WASHINGTON
+T1	ACE-Mention 118 122	(AP)
+#1	ACE T1	entityID: APW20001225.2035.0477-E54; extent: (AP)
+T2	ACE-Mention 148 162	Duane Roelands
+#2	ACE T2	entityID: APW20001225.2035.0477-E55; extent: Duane Roelands
+T3	ACE-Mention 219 229	co-workers
+#3	ACE T3	entityID: APW20001225.2035.0477-E56; extent: co-workers
+T4	ACE-Mention 234 241	friends
+#4	ACE T4	entityID: APW20001225.2035.0477-E57; extent: friends
+T5	ACE-Mention 270 279	Microsoft
+#5	ACE T5	entityID: APW20001225.2035.0477-E58; extent: Microsoft
+T6	ACE-Mention 290 292	he
+#6	ACE T6	entityID: APW20001225.2035.0477-E55; extent: he
+T7	ACE-Mention 325 333	Roelands
+#7	ACE T7	entityID: APW20001225.2035.0477-E55; extent: Roelands
+T8	ACE-Mention 360 370	His office
+#8	ACE T8	entityID: APW20001225.2035.0477-E59; extent: His office
+T9	ACE-Mention 373 380	clients
+#9	ACE T9	entityID: APW20001225.2035.0477-E60; extent: clients
+T10	ACE-Mention 385 414	nearly everyone else he knows
+#10	ACE T10	entityID: APW20001225.2035.0477-E61; extent: nearly everyone else he knows
+T11	ACE-Mention 419 433	America Online
+#11	ACE T11	entityID: APW20001225.2035.0477-E34; extent: America Online
+T12	ACE-Mention 463 465	he
+#12	ACE T12	entityID: APW20001225.2035.0477-E55; extent: he
+T13	ACE-Mention 505 506	I
+#13	ACE T13	entityID: APW20001225.2035.0477-E55; extent: I
+T14	ACE-Mention 516 517	I
+#14	ACE T14	entityID: APW20001225.2035.0477-E55; extent: I
+T15	ACE-Mention 533 541	Roelands
+#15	ACE T15	entityID: APW20001225.2035.0477-E55; extent: Roelands
+T16	ACE-Mention 544 559	a Web developer
+#16	ACE T16	entityID: APW20001225.2035.0477-E55; extent: a Web developer
+T17	ACE-Mention 562 565	who
+#17	ACE T17	entityID: APW20001225.2035.0477-E55; extent: who
+T18	ACE-Mention 668 669	I
+#18	ACE T18	entityID: APW20001225.2035.0477-E55; extent: I
+T19	ACE-Mention 695 696	I
+#19	ACE T19	entityID: APW20001225.2035.0477-E55; extent: I
+T20	ACE-Mention 744 813	instant messaging rivals like Microsoft , AT&AMP ; T and ExciteAtHome
+#20	ACE T20	entityID: APW20001225.2035.0477-E1; extent: instant messaging rivals like Microsoft , AT&AMP ; T and ExciteAtHome
+T21	ACE-Mention 823 834	their users
+#21	ACE T21	entityID: APW20001225.2035.0477-E4; extent: their users
+T22	ACE-Mention 872 883	anyone else
+#22	ACE T22	entityID: APW20001225.2035.0477-E5; extent: anyone else
+T23	ACE-Mention 913 917	they
+#23	ACE T23	entityID: APW20001225.2035.0477-E5; extent: they
+T24	ACE-Mention 970 983	The companies
+#24	ACE T24	entityID: APW20001225.2035.0477-E1; extent: The companies
+T25	ACE-Mention 997 1034	the Federal Communications Commission
+#25	ACE T25	entityID: APW20001225.2035.0477-E6; extent: the Federal Communications Commission
+T26	ACE-Mention 1046 1049	AOL
+#26	ACE T26	entityID: APW20001225.2035.0477-E34; extent: AOL
+T27	ACE-Mention 1058 1061	its
+#27	ACE T27	entityID: APW20001225.2035.0477-E34; extent: its
+T28	ACE-Mention 1103 1114	competitors
+#28	ACE T28	entityID: APW20001225.2035.0477-E7; extent: competitors
+T29	ACE-Mention 1133 1136	its
+#29	ACE T29	entityID: APW20001225.2035.0477-E34; extent: its
+T30	ACE-Mention 1149 1160	Time Warner
+#30	ACE T30	entityID: APW20001225.2035.0477-E8; extent: Time Warner
+T31	ACE-Mention 1173 1183	the agency
+#31	ACE T31	entityID: APW20001225.2035.0477-E6; extent: the agency
+T32	ACE-Mention 1229 1252	The commission 's staff
+#32	ACE T32	entityID: APW20001225.2035.0477-E9; extent: The commission 's staff
+T33	ACE-Mention 1274 1277	AOL
+#33	ACE T33	entityID: APW20001225.2035.0477-E34; extent: AOL
+T34	ACE-Mention 1298 1301	its
+#34	ACE T34	entityID: APW20001225.2035.0477-E34; extent: its
+T35	ACE-Mention 1319 1346	at least one other provider
+#35	ACE T35	entityID: APW20001225.2035.0477-E10; extent: at least one other provider
+T36	ACE-Mention 1438 1464	Time Warner 's cable lines
+#36	ACE T36	entityID: APW20001225.2035.0477-E11; extent: Time Warner 's cable lines
+T37	ACE-Mention 1472 1482	the agency
+#37	ACE T37	entityID: APW20001225.2035.0477-E6; extent: the agency
+T38	ACE-Mention 1523 1527	They
+#38	ACE T38	entityID: APW20001225.2035.0477-E6; extent: They
+T39	ACE-Mention 1682 1691	consumers
+#39	ACE T39	entityID: APW20001225.2035.0477-E12; extent: consumers
+T40	ACE-Mention 1756 1760	They
+#40	ACE T40	entityID: APW20001225.2035.0477-E12; extent: They
+T41	ACE-Mention 1793 1799	others
+#41	ACE T41	entityID: APW20001225.2035.0477-E13; extent: others
+T42	ACE-Mention 1811 1815	them
+#42	ACE T42	entityID: APW20001225.2035.0477-E12; extent: them
+T43	ACE-Mention 1904 1917	the recipient
+#43	ACE T43	entityID: APW20001225.2035.0477-E14; extent: the recipient
+T44	ACE-Mention 1945 1951	People
+#44	ACE T44	entityID: APW20001225.2035.0477-E12; extent: People
+T45	ACE-Mention 1973 1994	international friends
+#45	ACE T45	entityID: APW20001225.2035.0477-E15; extent: international friends
+T46	ACE-Mention 2064 2109	those who have hearing or speech disabilities
+#46	ACE T46	entityID: APW20001225.2035.0477-E16; extent: those who have hearing or speech disabilities
+T47	ACE-Mention 2136 2142	people
+#47	ACE T47	entityID: APW20001225.2035.0477-E12; extent: people
+T48	ACE-Mention 2172 2178	others
+#48	ACE T48	entityID: APW20001225.2035.0477-E13; extent: others
+T49	ACE-Mention 2255 2269	Jonathan Sacks
+#49	ACE T49	entityID: APW20001225.2035.0477-E18; extent: Jonathan Sacks
+T50	ACE-Mention 2272 2382	a vice president at AOL , which runs the two leading messaging services _ ICQ and AIM _ with 140 million users
+#50	ACE T50	entityID: APW20001225.2035.0477-E18; extent: a vice president at AOL , which runs the two leading messaging services _ ICQ and AIM _ with 140 million users
+T51	ACE-Mention 2408 2411	you
+#51	ACE T51	entityID: APW20001225.2035.0477-E23; extent: you
+T52	ACE-Mention 2428 2436	somebody
+#52	ACE T52	entityID: APW20001225.2035.0477-E24; extent: somebody
+T53	ACE-Mention 2458 2461	You
+#53	ACE T53	entityID: APW20001225.2035.0477-E23; extent: You
+T54	ACE-Mention 2499 2503	them
+#54	ACE T54	entityID: APW20001225.2035.0477-E24; extent: them
+T55	ACE-Mention 2524 2527	you
+#55	ACE T55	entityID: APW20001225.2035.0477-E23; extent: you
+T56	ACE-Mention 2534 2544	AOL rivals
+#56	ACE T56	entityID: APW20001225.2035.0477-E1; extent: AOL rivals
+T57	ACE-Mention 2651 2685	People who use different providers
+#57	ACE T57	entityID: APW20001225.2035.0477-E25; extent: People who use different providers
+T58	ACE-Mention 2731 2735	They
+#58	ACE T58	entityID: APW20001225.2035.0477-E1; extent: They
+T59	ACE-Mention 2754 2761	the FCC
+#59	ACE T59	entityID: APW20001225.2035.0477-E6; extent: the FCC
+T60	ACE-Mention 2810 2820	the agency
+#60	ACE T60	entityID: APW20001225.2035.0477-E6; extent: the agency
+T61	ACE-Mention 2828 2831	its
+#61	ACE T61	entityID: APW20001225.2035.0477-E6; extent: its
+T62	ACE-Mention 2932 2943	one company
+#62	ACE T62	entityID: APW20001225.2035.0477-E27; extent: one company
+T63	ACE-Mention 2969 2980	Jon Englund
+#63	ACE T63	entityID: APW20001225.2035.0477-E28; extent: Jon Englund
+T64	ACE-Mention 2983 3036	vice president of government affairs for ExciteAtHome
+#64	ACE T64	entityID: APW20001225.2035.0477-E28; extent: vice president of government affairs for ExciteAtHome
+T65	ACE-Mention 3074 3087	Internet uses
+#65	ACE T65	entityID: APW20001225.2035.0477-E31; extent: Internet uses
+T66	ACE-Mention 3137 3140	AOL
+#66	ACE T66	entityID: APW20001225.2035.0477-E34; extent: AOL
+T67	ACE-Mention 3150 3152	it
+#67	ACE T67	entityID: APW20001225.2035.0477-E34; extent: it
+T68	ACE-Mention 3220 3228	consumer
+#68	ACE T68	entityID: APW20001225.2035.0477-E32; extent: consumer
+T69	ACE-Mention 3365 3382	Company officials
+#69	ACE T69	entityID: APW20001225.2035.0477-E33; extent: Company officials
+T70	ACE-Mention 3398 3401	AOL
+#70	ACE T70	entityID: APW20001225.2035.0477-E34; extent: AOL
+T71	ACE-Mention 3434 3445	competitors
+#71	ACE T71	entityID: APW20001225.2035.0477-E35; extent: competitors
+T72	ACE-Mention 3449 3463	AOL executives
+#72	ACE T72	entityID: APW20001225.2035.0477-E37; extent: AOL executives
+T73	ACE-Mention 3488 3500	Media Metrix
+#73	ACE T73	entityID: APW20001225.2035.0477-E38; extent: Media Metrix
+T74	ACE-Mention 3551 3558	Yahoo !
+#74	ACE T74	entityID: APW20001225.2035.0477-E39; extent: Yahoo !
+T75	ACE-Mention 3564 3573	Microsoft
+#75	ACE T75	entityID: APW20001225.2035.0477-E58; extent: Microsoft
+T76	ACE-Mention 3601 3618	the United States
+#76	ACE T76	entityID: APW20001225.2035.0477-E30; extent: the United States
+T77	ACE-Mention 3664 3711	anyone , even those who do n't subscribe to AOL
+#77	ACE T77	entityID: APW20001225.2035.0477-E41; extent: anyone , even those who do n't subscribe to AOL
+T78	ACE-Mention 3725 3729	Some
+#78	ACE T78	entityID: APW20001225.2035.0477-E43; extent: Some
+T79	ACE-Mention 3762 3795	two instant messaging competitors
+#79	ACE T79	entityID: APW20001225.2035.0477-E44; extent: two instant messaging competitors
+T80	ACE-Mention 3798 3803	iCAST
+#80	ACE T80	entityID: APW20001225.2035.0477-E46; extent: iCAST
+T81	ACE-Mention 3808 3820	Tribal Voice
+#81	ACE T81	entityID: APW20001225.2035.0477-E47; extent: Tribal Voice
+T82	ACE-Mention 3840 3843	AOL
+#82	ACE T82	entityID: APW20001225.2035.0477-E34; extent: AOL
+T83	ACE-Mention 3920 3923	AOL
+#83	ACE T83	entityID: APW20001225.2035.0477-E34; extent: AOL
+T84	ACE-Mention 3934 3937	its
+#84	ACE T84	entityID: APW20001225.2035.0477-E34; extent: its
+T85	ACE-Mention 3950 3958	customer
+#85	ACE T85	entityID: APW20001225.2035.0477-E48; extent: customer
+T86	ACE-Mention 4025 4031	Rivals
+#86	ACE T86	entityID: APW20001225.2035.0477-E1; extent: Rivals
+T87	ACE-Mention 4232 4241	consumers
+#87	ACE T87	entityID: APW20001225.2035.0477-E17; extent: consumers
+T88	ACE-Mention 4315 4325	Brian Park
+#88	ACE T88	entityID: APW20001225.2035.0477-E21; extent: Brian Park
+T89	ACE-Mention 4328 4354	senior product for Yahoo !
+#89	ACE T89	entityID: APW20001225.2035.0477-E21; extent: senior product for Yahoo !
+T90	ACE-Mention 4386 4389	You
+#90	ACE T90	entityID: APW20001225.2035.0477-E51; extent: You
+T91	ACE-Mention 4447 4453	nobody
+#91	ACE T91	entityID: APW20001225.2035.0477-E52; extent: nobody
+T92	ACE-Mention 4525 4529	Park
+#92	ACE T92	entityID: APW20001225.2035.0477-E21; extent: Park
+T93	ACE-Mention 4555 4569	America Online
+#93	ACE T93	entityID: APW20001225.2035.0477-E34; extent: America Online
+T94	ACE-Mention 4607 4676	IMUnified , coalition formed by AT&AMP ; T , ExciteAtHome , Microsoft
+#94	ACE T94	entityID: APW20001225.2035.0477-E53; extent: IMUnified , coalition formed by AT&AMP ; T , ExciteAtHome , Microsoft

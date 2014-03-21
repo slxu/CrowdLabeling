@@ -1,0 +1,112 @@
+T0	ACE-Mention 256 274	The New York Times
+#0	ACE T0	entityID: NYT20001116.0145.0061-E19; extent: The New York Times
+T1	ACE-Mention 321 361	The last U.S. president to visit Vietnam
+#1	ACE T1	entityID: NYT20001116.0145.0061-E34; extent: The last U.S. president to visit Vietnam
+T2	ACE-Mention 366 537	Richard Nixon , who traveled to the South Vietnamese capital of Saigon in 1969 , at the height of a war that eventually took 58,000 American and 3 million Vietnamese lives
+#2	ACE T2	entityID: NYT20001116.0145.0061-E34; extent: Richard Nixon , who traveled to the South Vietnamese capital of Saigon in 1969 , at the height of a war that eventually took 58,000 American and 3 million Vietnamese lives
+T3	ACE-Mention 552 564	Bill Clinton
+#3	ACE T3	entityID: NYT20001116.0145.0061-E41; extent: Bill Clinton
+T4	ACE-Mention 592 597	Hanoi
+#4	ACE T4	entityID: NYT20001116.0145.0061-E42; extent: Hanoi
+T5	ACE-Mention 602 644	Ho Chi Minh City , as Saigon is now called
+#5	ACE T5	entityID: NYT20001116.0145.0061-E37; extent: Ho Chi Minh City , as Saigon is now called
+T6	ACE-Mention 648 655	Clinton
+#6	ACE T6	entityID: NYT20001116.0145.0061-E41; extent: Clinton
+T7	ACE-Mention 697 714	the two countries
+#7	ACE T7	entityID: NYT20001116.0145.0061-E1; extent: the two countries
+T8	ACE-Mention 815 820	Hanoi
+#8	ACE T8	entityID: NYT20001116.0145.0061-E8; extent: Hanoi
+T9	ACE-Mention 945 955	its people
+#9	ACE T9	entityID: NYT20001116.0145.0061-E8; extent: its people
+T10	ACE-Mention 959 966	Clinton
+#10	ACE T10	entityID: NYT20001116.0145.0061-E41; extent: Clinton
+T11	ACE-Mention 1059 1083	Americans lost in action
+#11	ACE T11	entityID: NYT20001116.0145.0061-E2; extent: Americans lost in action
+T12	ACE-Mention 1103 1145	land mines still buried in Vietnamese soil
+#12	ACE T12	entityID: NYT20001116.0145.0061-E3; extent: land mines still buried in Vietnamese soil
+T13	ACE-Mention 1153 1155	he
+#13	ACE T13	entityID: NYT20001116.0145.0061-E41; extent: he
+T14	ACE-Mention 1172 1175	his
+#14	ACE T14	entityID: NYT20001116.0145.0061-E41; extent: his
+T15	ACE-Mention 1265 1272	Vietnam
+#15	ACE T15	entityID: NYT20001116.0145.0061-E8; extent: Vietnam
+T16	ACE-Mention 1304 1333	Most of its 79 million people
+#16	ACE T16	entityID: NYT20001116.0145.0061-E5; extent: Most of its 79 million people
+T17	ACE-Mention 1375 1393	younger Vietnamese
+#17	ACE T17	entityID: NYT20001116.0145.0061-E6; extent: younger Vietnamese
+T18	ACE-Mention 1433 1441	American
+#18	ACE T18	entityID: NYT20001116.0145.0061-E39; extent: American
+T19	ACE-Mention 1484 1503	the Communist Party
+#19	ACE T19	entityID: NYT20001116.0145.0061-E7; extent: the Communist Party
+T20	ACE-Mention 1532 1542	government
+#20	ACE T20	entityID: NYT20001116.0145.0061-E8; extent: government
+T21	ACE-Mention 1579 1598	ordinary Vietnamese
+#21	ACE T21	entityID: NYT20001116.0145.0061-E9; extent: ordinary Vietnamese
+T22	ACE-Mention 1661 1731	anyone who speaks out for more accountable government or wider freedom
+#22	ACE T22	entityID: NYT20001116.0145.0061-E10; extent: anyone who speaks out for more accountable government or wider freedom
+T23	ACE-Mention 1758 1763	Hanoi
+#23	ACE T23	entityID: NYT20001116.0145.0061-E8; extent: Hanoi
+T24	ACE-Mention 1782 1794	open critics
+#24	ACE T24	entityID: NYT20001116.0145.0061-E12; extent: open critics
+T25	ACE-Mention 1807 1826	religious believers
+#25	ACE T25	entityID: NYT20001116.0145.0061-E13; extent: religious believers
+T26	ACE-Mention 1836 1846	newspapers
+#26	ACE T26	entityID: NYT20001116.0145.0061-E14; extent: newspapers
+T27	ACE-Mention 1905 1907	It
+#27	ACE T27	entityID: NYT20001116.0145.0061-E8; extent: It
+T28	ACE-Mention 2009 2011	it
+#28	ACE T28	entityID: NYT20001116.0145.0061-E8; extent: it
+T29	ACE-Mention 2186 2199	North Vietnam
+#29	ACE T29	entityID: NYT20001116.0145.0061-E15; extent: North Vietnam
+T30	ACE-Mention 2239 2266	the more freewheeling South
+#30	ACE T30	entityID: NYT20001116.0145.0061-E16; extent: the more freewheeling South
+T31	ACE-Mention 2269 2291	the country 's leaders
+#31	ACE T31	entityID: NYT20001116.0145.0061-E17; extent: the country 's leaders
+T32	ACE-Mention 2348 2356	Southern
+#32	ACE T32	entityID: NYT20001116.0145.0061-E16; extent: Southern
+T33	ACE-Mention 2415 2422	Vietnam
+#33	ACE T33	entityID: NYT20001116.0145.0061-E8; extent: Vietnam
+T34	ACE-Mention 2474 2506	the country 's political leaders
+#34	ACE T34	entityID: NYT20001116.0145.0061-E20; extent: the country 's political leaders
+T35	ACE-Mention 2567 2584	Foreign investors
+#35	ACE T35	entityID: NYT20001116.0145.0061-E21; extent: Foreign investors
+T36	ACE-Mention 2617 2624	Vietnam
+#36	ACE T36	entityID: NYT20001116.0145.0061-E8; extent: Vietnam
+T37	ACE-Mention 2664 2669	their
+#37	ACE T37	entityID: NYT20001116.0145.0061-E21; extent: their
+T38	ACE-Mention 2685 2690	China
+#38	ACE T38	entityID: NYT20001116.0145.0061-E22; extent: China
+T39	ACE-Mention 2695 2724	other Southeast Asian nations
+#39	ACE T39	entityID: NYT20001116.0145.0061-E23; extent: other Southeast Asian nations
+T40	ACE-Mention 2733 2740	Clinton
+#40	ACE T40	entityID: NYT20001116.0145.0061-E41; extent: Clinton
+T41	ACE-Mention 2750 2778	university students in Hanoi
+#41	ACE T41	entityID: NYT20001116.0145.0061-E25; extent: university students in Hanoi
+T42	ACE-Mention 2789 2791	he
+#42	ACE T42	entityID: NYT20001116.0145.0061-E41; extent: he
+T43	ACE-Mention 2833 2838	human
+#43	ACE T43	entityID: NYT20001116.0145.0061-E33; extent: human
+T44	ACE-Mention 2898 2900	he
+#44	ACE T44	entityID: NYT20001116.0145.0061-E41; extent: he
+T45	ACE-Mention 2912 2915	his
+#45	ACE T45	entityID: NYT20001116.0145.0061-E41; extent: his
+T46	ACE-Mention 2929 2934	China
+#46	ACE T46	entityID: NYT20001116.0145.0061-E22; extent: China
+T47	ACE-Mention 2938 2940	He
+#47	ACE T47	entityID: NYT20001116.0145.0061-E41; extent: He
+T48	ACE-Mention 2977 2980	his
+#48	ACE T48	entityID: NYT20001116.0145.0061-E41; extent: his
+T49	ACE-Mention 2998 3036	government and Communist Party leaders
+#49	ACE T49	entityID: NYT20001116.0145.0061-E26; extent: government and Communist Party leaders
+T50	ACE-Mention 3088 3147	Vietnamese-Americans who want to return home to do business
+#50	ACE T50	entityID: NYT20001116.0145.0061-E29; extent: Vietnamese-Americans who want to return home to do business
+T51	ACE-Mention 3179 3182	his
+#51	ACE T51	entityID: NYT20001116.0145.0061-E41; extent: his
+T52	ACE-Mention 3193 3195	He
+#52	ACE T52	entityID: NYT20001116.0145.0061-E41; extent: He
+T53	ACE-Mention 3239 3255	Sen. John McCain
+#53	ACE T53	entityID: NYT20001116.0145.0061-E30; extent: Sen. John McCain
+T54	ACE-Mention 3260 3266	others
+#54	ACE T54	entityID: NYT20001116.0145.0061-E32; extent: others
+T55	ACE-Mention 3329 3334	human
+#55	ACE T55	entityID: NYT20001116.0145.0061-E33; extent: human

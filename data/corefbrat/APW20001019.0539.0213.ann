@@ -1,0 +1,116 @@
+T0	ACE-Mention 112 129	SEPANG , Malaysia
+#0	ACE T0	entityID: APW20001019.0539.0213-E12; extent: SEPANG , Malaysia
+T1	ACE-Mention 130 134	(AP)
+#1	ACE T1	entityID: APW20001019.0539.0213-E15; extent: (AP)
+T2	ACE-Mention 137 155	Michael Schumacher
+#2	ACE T2	entityID: APW20001019.0539.0213-E16; extent: Michael Schumacher
+T3	ACE-Mention 177 184	Ferrari
+#3	ACE T3	entityID: APW20001019.0539.0213-E18; extent: Ferrari
+T4	ACE-Mention 272 278	Suzuka
+#4	ACE T4	entityID: APW20001019.0539.0213-E8; extent: Suzuka
+T5	ACE-Mention 284 294	Schumacher
+#5	ACE T5	entityID: APW20001019.0539.0213-E16; extent: Schumacher
+T6	ACE-Mention 397 398	I
+#6	ACE T6	entityID: APW20001019.0539.0213-E16; extent: I
+T7	ACE-Mention 548 550	we
+#7	ACE T7	entityID: APW20001019.0539.0213-E18; extent: we
+T8	ACE-Mention 566 569	our
+#8	ACE T8	entityID: APW20001019.0539.0213-E18; extent: our
+T9	ACE-Mention 614 624	Schumacher
+#9	ACE T9	entityID: APW20001019.0539.0213-E16; extent: Schumacher
+T10	ACE-Mention 627 688	the German star who won titles in 1994 and 1995 with Benetton
+#10	ACE T10	entityID: APW20001019.0539.0213-E16; extent: the German star who won titles in 1994 and 1995 with Benetton
+T11	ACE-Mention 785 837	two-time defending champion Mika Hakkinen of McLaren
+#11	ACE T11	entityID: APW20001019.0539.0213-E22; extent: two-time defending champion Mika Hakkinen of McLaren
+T12	ACE-Mention 853 855	we
+#12	ACE T12	entityID: APW20001019.0539.0213-E18; extent: we
+T13	ACE-Mention 905 907	we
+#13	ACE T13	entityID: APW20001019.0539.0213-E18; extent: we
+T14	ACE-Mention 922 938	the constructors
+#14	ACE T14	entityID: APW20001019.0539.0213-E11; extent: the constructors
+T15	ACE-Mention 959 969	Schumacher
+#15	ACE T15	entityID: APW20001019.0539.0213-E16; extent: Schumacher
+T16	ACE-Mention 990 993	our
+#16	ACE T16	entityID: APW20001019.0539.0213-E18; extent: our
+T17	ACE-Mention 1003 1005	We
+#17	ACE T17	entityID: APW20001019.0539.0213-E18; extent: We
+T18	ACE-Mention 1054 1057	our
+#18	ACE T18	entityID: APW20001019.0539.0213-E18; extent: our
+T19	ACE-Mention 1070 1077	Ferrari
+#19	ACE T19	entityID: APW20001019.0539.0213-E18; extent: Ferrari
+T20	ACE-Mention 1084 1091	McLaren
+#20	ACE T20	entityID: APW20001019.0539.0213-E2; extent: McLaren
+T21	ACE-Mention 1108 1116	Hakkinen
+#21	ACE T21	entityID: APW20001019.0539.0213-E22; extent: Hakkinen
+T22	ACE-Mention 1121 1153	McLaren teammate David Coulthard
+#22	ACE T22	entityID: APW20001019.0539.0213-E1; extent: McLaren teammate David Coulthard
+T23	ACE-Mention 1207 1214	Ferrari
+#23	ACE T23	entityID: APW20001019.0539.0213-E18; extent: Ferrari
+T24	ACE-Mention 1227 1243	the constructors
+#24	ACE T24	entityID: APW20001019.0539.0213-E11; extent: the constructors
+T25	ACE-Mention 1268 1278	Schumacher
+#25	ACE T25	entityID: APW20001019.0539.0213-E16; extent: Schumacher
+T26	ACE-Mention 1283 1310	teammate Rubens Barrichello
+#26	ACE T26	entityID: APW20001019.0539.0213-E4; extent: teammate Rubens Barrichello
+T27	ACE-Mention 1347 1356	a McLaren
+#27	ACE T27	entityID: APW20001019.0539.0213-E6; extent: a McLaren
+T28	ACE-Mention 1381 1388	Ferrari
+#28	ACE T28	entityID: APW20001019.0539.0213-E18; extent: Ferrari
+T29	ACE-Mention 1399 1414	the constructor
+#29	ACE T29	entityID: APW20001019.0539.0213-E11; extent: the constructor
+T30	ACE-Mention 1471 1485	Jody Scheckter
+#30	ACE T30	entityID: APW20001019.0539.0213-E7; extent: Jody Scheckter
+T31	ACE-Mention 1492 1499	Ferrari
+#31	ACE T31	entityID: APW20001019.0539.0213-E18; extent: Ferrari
+T32	ACE-Mention 1551 1558	Ferrari
+#32	ACE T32	entityID: APW20001019.0539.0213-E18; extent: Ferrari
+T33	ACE-Mention 1617 1627	Schumacher
+#33	ACE T33	entityID: APW20001019.0539.0213-E16; extent: Schumacher
+T34	ACE-Mention 1648 1650	we
+#34	ACE T34	entityID: APW20001019.0539.0213-E18; extent: we
+T35	ACE-Mention 1688 1690	we
+#35	ACE T35	entityID: APW20001019.0539.0213-E18; extent: we
+T36	ACE-Mention 1737 1747	Schumacher
+#36	ACE T36	entityID: APW20001019.0539.0213-E16; extent: Schumacher
+T37	ACE-Mention 1810 1821	Alain Prost
+#37	ACE T37	entityID: APW20001019.0539.0213-E17; extent: Alain Prost
+T38	ACE-Mention 1852 1853	I
+#38	ACE T38	entityID: APW20001019.0539.0213-E16; extent: I
+T39	ACE-Mention 1872 1873	I
+#39	ACE T39	entityID: APW20001019.0539.0213-E16; extent: I
+T40	ACE-Mention 1898 1899	I
+#40	ACE T40	entityID: APW20001019.0539.0213-E16; extent: I
+T41	ACE-Mention 1916 1917	I
+#41	ACE T41	entityID: APW20001019.0539.0213-E16; extent: I
+T42	ACE-Mention 1937 1944	Ferrari
+#42	ACE T42	entityID: APW20001019.0539.0213-E18; extent: Ferrari
+T43	ACE-Mention 1950 1960	Schumacher
+#43	ACE T43	entityID: APW20001019.0539.0213-E16; extent: Schumacher
+T44	ACE-Mention 1972 1973	I
+#44	ACE T44	entityID: APW20001019.0539.0213-E16; extent: I
+T45	ACE-Mention 2018 2020	we
+#45	ACE T45	entityID: APW20001019.0539.0213-E18; extent: we
+T46	ACE-Mention 2028 2034	Suzuka
+#46	ACE T46	entityID: APW20001019.0539.0213-E8; extent: Suzuka
+T47	ACE-Mention 2042 2043	I
+#47	ACE T47	entityID: APW20001019.0539.0213-E16; extent: I
+T48	ACE-Mention 2052 2054	we
+#48	ACE T48	entityID: APW20001019.0539.0213-E18; extent: we
+T49	ACE-Mention 2096 2106	Schumacher
+#49	ACE T49	entityID: APW20001019.0539.0213-E16; extent: Schumacher
+T50	ACE-Mention 2127 2143	the Italian team
+#50	ACE T50	entityID: APW20001019.0539.0213-E18; extent: the Italian team
+T51	ACE-Mention 2211 2212	I
+#51	ACE T51	entityID: APW20001019.0539.0213-E16; extent: I
+T52	ACE-Mention 2237 2247	Schumacher
+#52	ACE T52	entityID: APW20001019.0539.0213-E16; extent: Schumacher
+T53	ACE-Mention 2259 2260	I
+#53	ACE T53	entityID: APW20001019.0539.0213-E16; extent: I
+T54	ACE-Mention 2399 2410	the drivers
+#54	ACE T54	entityID: APW20001019.0539.0213-E10; extent: the drivers
+T55	ACE-Mention 2486 2487	I
+#55	ACE T55	entityID: APW20001019.0539.0213-E16; extent: I
+T56	ACE-Mention 2520 2530	Schumacher
+#56	ACE T56	entityID: APW20001019.0539.0213-E16; extent: Schumacher
+T57	ACE-Mention 2542 2543	I
+#57	ACE T57	entityID: APW20001019.0539.0213-E16; extent: I

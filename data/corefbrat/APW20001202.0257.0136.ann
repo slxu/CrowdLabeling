@@ -1,0 +1,116 @@
+T0	ACE-Mention 105 111	DENVER
+#0	ACE T0	entityID: APW20001202.0257.0136-E22; extent: DENVER
+T1	ACE-Mention 112 116	(AP)
+#1	ACE T1	entityID: APW20001202.0257.0136-E37; extent: (AP)
+T2	ACE-Mention 119 143	State and Army officials
+#2	ACE T2	entityID: APW20001202.0257.0136-E38; extent: State and Army officials
+T3	ACE-Mention 179 317	six `` bomblets , '' at least half containing deadly sarin nerve gas , that were found in a scrap metal heap at the Rocky Mountain Arsenal
+#3	ACE T3	entityID: APW20001202.0257.0136-E41; extent: six `` bomblets , '' at least half containing deadly sarin nerve gas , that were found in a scrap metal heap at the Rocky Mountain Arsenal
+T4	ACE-Mention 340 353	the canisters
+#4	ACE T4	entityID: APW20001202.0257.0136-E41; extent: the canisters
+T5	ACE-Mention 369 475	a vapor-tight building that would have to be constructed at the 27-square-mile arsenal northeast of Denver
+#5	ACE T5	entityID: APW20001202.0257.0136-E45; extent: a vapor-tight building that would have to be constructed at the 27-square-mile arsenal northeast of Denver
+T6	ACE-Mention 479 491	The bomblets
+#6	ACE T6	entityID: APW20001202.0257.0136-E41; extent: The bomblets
+T7	ACE-Mention 540 552	the building
+#7	ACE T7	entityID: APW20001202.0257.0136-E45; extent: the building
+T8	ACE-Mention 578 602	a small explosive charge
+#8	ACE T8	entityID: APW20001202.0257.0136-E46; extent: a small explosive charge
+T9	ACE-Mention 606 619	The nerve gas
+#9	ACE T9	entityID: APW20001202.0257.0136-E7; extent: The nerve gas
+T10	ACE-Mention 676 678	We
+#10	ACE T10	entityID: APW20001202.0257.0136-E1; extent: We
+T11	ACE-Mention 743 757	these bomblets
+#11	ACE T11	entityID: APW20001202.0257.0136-E41; extent: these bomblets
+T12	ACE-Mention 820 835	Gov. Bill Owens
+#12	ACE T12	entityID: APW20001202.0257.0136-E2; extent: Gov. Bill Owens
+T13	ACE-Mention 851 853	He
+#13	ACE T13	entityID: APW20001202.0257.0136-E2; extent: He
+T14	ACE-Mention 905 946	The first of the grapefruit-size bomblets
+#14	ACE T14	entityID: APW20001202.0257.0136-E4; extent: The first of the grapefruit-size bomblets
+T15	ACE-Mention 960 1023	workers removing industrial waste from a scrap pile on Oct. 16.
+#15	ACE T15	entityID: APW20001202.0257.0136-E5; extent: workers removing industrial waste from a scrap pile on Oct. 16.
+T16	ACE-Mention 1033 1060	three of the M-139 bomblets
+#16	ACE T16	entityID: APW20001202.0257.0136-E6; extent: three of the M-139 bomblets
+T17	ACE-Mention 1092 1097	sarin
+#17	ACE T17	entityID: APW20001202.0257.0136-E7; extent: sarin
+T18	ACE-Mention 1100 1177	the same chemical used in a Tokyo subway attack in 1995 that killed 12 people
+#18	ACE T18	entityID: APW20001202.0257.0136-E7; extent: the same chemical used in a Tokyo subway attack in 1995 that killed 12 people
+T19	ACE-Mention 1181 1192	The arsenal
+#19	ACE T19	entityID: APW20001202.0257.0136-E11; extent: The arsenal
+T20	ACE-Mention 1217 1234	a wildlife refuge
+#20	ACE T20	entityID: APW20001202.0257.0136-E11; extent: a wildlife refuge
+T21	ACE-Mention 1263 1268	sarin
+#21	ACE T21	entityID: APW20001202.0257.0136-E12; extent: sarin
+T22	ACE-Mention 1286 1291	there
+#22	ACE T22	entityID: APW20001202.0257.0136-E11; extent: there
+T23	ACE-Mention 1295 1307	The bomblets
+#23	ACE T23	entityID: APW20001202.0257.0136-E41; extent: The bomblets
+T24	ACE-Mention 1339 1369	a battlefield tactical missile
+#24	ACE T24	entityID: APW20001202.0257.0136-E13; extent: a battlefield tactical missile
+T25	ACE-Mention 1373 1388	clusters of 368
+#25	ACE T25	entityID: APW20001202.0257.0136-E15; extent: clusters of 368
+T26	ACE-Mention 1392 1404	Each bomblet
+#26	ACE T26	entityID: APW20001202.0257.0136-E35; extent: Each bomblet
+T27	ACE-Mention 1411 1430	1.3 pounds of sarin
+#27	ACE T27	entityID: APW20001202.0257.0136-E36; extent: 1.3 pounds of sarin
+T28	ACE-Mention 1450 1474	everyone within 900 feet
+#28	ACE T28	entityID: APW20001202.0257.0136-E17; extent: everyone within 900 feet
+T29	ACE-Mention 1478 1483	Owens
+#29	ACE T29	entityID: APW20001202.0257.0136-E2; extent: Owens
+T30	ACE-Mention 1489 1523	at least one of the bomblets found
+#30	ACE T30	entityID: APW20001202.0257.0136-E18; extent: at least one of the bomblets found
+T31	ACE-Mention 1560 1562	it
+#31	ACE T31	entityID: APW20001202.0257.0136-E18; extent: it
+T32	ACE-Mention 1582 1584	He
+#32	ACE T32	entityID: APW20001202.0257.0136-E2; extent: He
+T33	ACE-Mention 1590 1598	the Army
+#33	ACE T33	entityID: APW20001202.0257.0136-E19; extent: the Army
+T34	ACE-Mention 1604 1607	him
+#34	ACE T34	entityID: APW20001202.0257.0136-E2; extent: him
+T35	ACE-Mention 1608 1635	all the production bomblets
+#35	ACE T35	entityID: APW20001202.0257.0136-E20; extent: all the production bomblets
+T36	ACE-Mention 1662 1671	The state
+#36	ACE T36	entityID: APW20001202.0257.0136-E21; extent: The state
+T37	ACE-Mention 1676 1684	the Army
+#37	ACE T37	entityID: APW20001202.0257.0136-E19; extent: the Army
+T38	ACE-Mention 1725 1737	the bomblets
+#38	ACE T38	entityID: APW20001202.0257.0136-E41; extent: the bomblets
+T39	ACE-Mention 1741 1746	Owens
+#39	ACE T39	entityID: APW20001202.0257.0136-E2; extent: Owens
+T40	ACE-Mention 1761 1792	Defense Secretary William Cohen
+#40	ACE T40	entityID: APW20001202.0257.0136-E23; extent: Defense Secretary William Cohen
+T41	ACE-Mention 1830 1842	the governor
+#41	ACE T41	entityID: APW20001202.0257.0136-E2; extent: the governor
+T42	ACE-Mention 1847 1863	Gen. John Coburn
+#42	ACE T42	entityID: APW20001202.0257.0136-E25; extent: Gen. John Coburn
+T43	ACE-Mention 1866 1904	commander of the Army Material Command
+#43	ACE T43	entityID: APW20001202.0257.0136-E25; extent: commander of the Army Material Command
+T44	ACE-Mention 1908 1913	Owens
+#44	ACE T44	entityID: APW20001202.0257.0136-E2; extent: Owens
+T45	ACE-Mention 1919 1957	state health and environmental experts
+#45	ACE T45	entityID: APW20001202.0257.0136-E29; extent: state health and environmental experts
+T46	ACE-Mention 1974 1988	Army officials
+#46	ACE T46	entityID: APW20001202.0257.0136-E30; extent: Army officials
+T47	ACE-Mention 2030 2032	He
+#47	ACE T47	entityID: APW20001202.0257.0136-E2; extent: He
+T48	ACE-Mention 2038 2046	the Army
+#48	ACE T48	entityID: APW20001202.0257.0136-E19; extent: the Army
+T49	ACE-Mention 2081 2119	the area where the bomblets were found
+#49	ACE T49	entityID: APW20001202.0257.0136-E31; extent: the area where the bomblets were found
+T50	ACE-Mention 2123 2146	Residents living nearby
+#50	ACE T50	entityID: APW20001202.0257.0136-E32; extent: Residents living nearby
+T51	ACE-Mention 2171 2179	the Army
+#51	ACE T51	entityID: APW20001202.0257.0136-E19; extent: the Army
+T52	ACE-Mention 2221 2226	there
+#52	ACE T52	entityID: APW20001202.0257.0136-E11; extent: there
+T53	ACE-Mention 2233 2234	I
+#53	ACE T53	entityID: APW20001202.0257.0136-E33; extent: I
+T54	ACE-Mention 2244 2249	their
+#54	ACE T54	entityID: APW20001202.0257.0136-E19; extent: their
+T55	ACE-Mention 2255 2259	they
+#55	ACE T55	entityID: APW20001202.0257.0136-E19; extent: they
+T56	ACE-Mention 2285 2289	they
+#56	ACE T56	entityID: APW20001202.0257.0136-E19; extent: they
+T57	ACE-Mention 2371 2423	Jeff Kanost , who has lived near the site since 1978
+#57	ACE T57	entityID: APW20001202.0257.0136-E33; extent: Jeff Kanost , who has lived near the site since 1978

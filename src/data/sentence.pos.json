@@ -1,0 +1,479 @@
+{
+  "tag": "ROOT",
+  "children":[
+    {
+      "tag": "S",
+      "children":[
+        {
+          "tag": "NP",
+          "children":[
+            {
+              "tag": "NP",
+              "children":[
+                {
+                  "tag": "DT",
+                  "children":[
+                    {
+                      "name": "The",
+                      "children":[
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "NN",
+                  "children":[
+                    {
+                      "name": "outbreak",
+                      "children":[
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag":"PP",
+              "children":[
+                {
+                  "tag": "IN",
+                  "children":[
+                    {
+                      "name": "of",
+                      "children":[
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "NP",
+                  "children":[
+                    {
+                      "tag": "NP",
+                      "children":[
+                        {
+                          "tag": "DT",
+                          "children":[
+                            {
+                              "name": "the",
+                              "children":[
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "JJ",
+                          "children":[
+                            {
+                              "name": "Liberal",
+                              "children":[
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "NN",
+                          "children":[
+                            {
+                              "name": "Revolution",
+                              "children":[
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "PP",
+                      "children":[
+                        {
+                          "tag": "IN",
+                          "children":[
+                            {
+                              "name": "of",
+                              "children":[
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "NP",
+                          "children":[
+                            {
+                              "tag": "NP",
+                              "children":[
+                                {
+                                  "tag": "CD",
+                                  "children":[
+                                    {
+                                      "name": "1820",
+                                      "children":[
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "PP",
+                              "children":[
+                                {
+                                  "tag": "IN",
+                                  "children":[
+                                    {
+                                      "name": "in",
+                                      "children":[
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "NP",
+                                  "children":[
+                                    {
+                                      "tag": "NNP",
+                                      "children":[
+                                        {
+                                          "name": "Lisbon",
+                                          "children":[
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "VP",
+          "children":[
+            {
+              "tag": "VBN",
+              "children":[
+                {
+                  "name": "compelled",
+                  "children":[
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "S",
+              "children":[
+                {
+                  "tag": "NP",
+                  "children":[
+                    {
+                      "tag": "NNP",
+                      "children":[
+                        {
+                          "name": "Pedro",
+                          "children":[
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "NP",
+                  "children":[
+                    {
+                      "tag": "NP",
+                      "children":[
+                        {
+                          "tag": "PRP",
+                          "children":[
+                            {
+                              "name": "I",
+                              "children":[
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "POS",
+                          "children":[
+                            {
+                              "name": "'s",
+                              "children":[
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "NN",
+                      "children":[
+                        {
+                          "name": "father",
+                          "children":[
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "S",
+                      "children":[
+                        {
+                          "tag": "VP",
+                          "children":[
+                            {
+                              "tag": "TO",
+                              "children":[
+                                {
+                                  "name": "to",
+                                  "children":[
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "VP",
+                              "children":[
+                                {
+                                  "tag": "VB",
+                                  "children":[
+                                    {
+                                      "name": "return",
+                                      "children":[
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "PP",
+                                  "children":[
+                                    {
+                                      "tag": "TO",
+                                      "children":[
+                                        {
+                                          "name": "to",
+                                          "children":[
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "NP",
+                                      "children":[
+                                        {
+                                          "tag": "NNP",
+                                          "children":[
+                                            {
+                                              "name": "Portugal",
+                                              "children":[
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "PP",
+              "children":[
+                {
+                  "tag": "IN",
+                  "children":[
+                    {
+                      "name": "in",
+                      "children":[
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "NP",
+                  "children":[
+                    {
+                      "tag": "NNP",
+                      "children":[
+                        {
+                          "name": "April",
+                          "children":[
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag":"CD",
+                      "children":[
+                        {
+                          "name": "1821",
+                          "children":[
+
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": ",",
+              "children":[
+                {
+                  "name": ",",
+                  "children":[
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "S",
+              "children":[
+                {
+                  "tag": "VP",
+                  "children":[
+                    {
+                      "tag": "VBG",
+                      "children":[
+                        {
+                          "name": "leaving",
+                          "children":[
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "S",
+                      "children":[
+                        {
+                          "tag": "NP",
+                          "children":[
+                            {
+                              "tag": "PRP",
+                              "children":[
+                                {
+                                  "name": "him",
+                                  "children":[
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "VP",
+                          "children":[
+                            {
+                              "tag": "TO",
+                              "children":[
+                                {
+                                  "name": "to",
+                                  "children":[
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "VP",
+                              "children":[
+                                {
+                                  "tag": "VB",
+                                  "children":[
+                                    {
+                                      "name": "rule",
+                                      "children":[
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "NP",
+                                  "children":[
+                                    {
+                                      "tag": "NP",
+                                      "children":[
+                                        {
+                                          "tag": "NNP",
+                                          "children":[
+                                            {
+                                              "name": "Brazil",
+                                              "children":[
+
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "PP",
+                                      "children":[
+                                        {
+                                          "tag": "IN",
+                                          "children":[
+                                            {
+                                              "name":"as",
+                                              "children":[
+
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "NP",
+                                          "children":[
+                                            {
+                                              "tag": "NN",
+                                              "children":[
+                                                {
+                                                  "name": "regent",
+                                                  "children":[
+
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": ".",
+          "children":[
+          ]
+        }
+      ]
+    }
+  ]
+}

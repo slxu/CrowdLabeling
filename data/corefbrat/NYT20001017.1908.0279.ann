@@ -1,0 +1,80 @@
+T0	ACE-Mention 308 335	A federal judge in Delaware
+#0	ACE T0	entityID: NYT20001017.1908.0279-E17; extent: A federal judge in Delaware
+T1	ACE-Mention 387 398	one company
+#1	ACE T1	entityID: NYT20001017.1908.0279-E15; extent: one company
+T2	ACE-Mention 450 477	85 other large corporations
+#2	ACE T2	entityID: NYT20001017.1908.0279-E25; extent: 85 other large corporations
+T3	ACE-Mention 559 621	U.S. District Court Judge Murray Schwartz in Wilmington , Del.
+#3	ACE T3	entityID: NYT20001017.1908.0279-E17; extent: U.S. District Court Judge Murray Schwartz in Wilmington , Del.
+T4	ACE-Mention 635 648	Camelot Music
+#4	ACE T4	entityID: NYT20001017.1908.0279-E15; extent: Camelot Music
+T5	ACE-Mention 684 686	it
+#5	ACE T5	entityID: NYT20001017.1908.0279-E15; extent: it
+T6	ACE-Mention 722 741	its 1,430 employees
+#6	ACE T6	entityID: NYT20001017.1908.0279-E30; extent: its 1,430 employees
+T7	ACE-Mention 766 779	Camelot Music
+#7	ACE T7	entityID: NYT20001017.1908.0279-E15; extent: Camelot Music
+T8	ACE-Mention 792 874	Trans World Entertainment , which bought the company last year for $ 451.9 million
+#8	ACE T8	entityID: NYT20001017.1908.0279-E31; extent: Trans World Entertainment , which bought the company last year for $ 451.9 million
+T9	ACE-Mention 904 977	many of the other 85 companies , which the judge did not identify by name
+#9	ACE T9	entityID: NYT20001017.1908.0279-E32; extent: many of the other 85 companies , which the judge did not identify by name
+T10	ACE-Mention 988 991	his
+#10	ACE T10	entityID: NYT20001017.1908.0279-E17; extent: his
+T11	ACE-Mention 1010 1162	every company organized in Delaware , whose corporate-governance laws have made it a major center for large companies to have their nominal headquarters
+#11	ACE T11	entityID: NYT20001017.1908.0279-E1; extent: every company organized in Delaware , whose corporate-governance laws have made it a major center for large companies to have their nominal headquarters
+T12	ACE-Mention 1166 1189	American Electric Power
+#12	ACE T12	entityID: NYT20001017.1908.0279-E5; extent: American Electric Power
+T13	ACE-Mention 1192 1230	an electric utility in Columbus , Ohio
+#13	ACE T13	entityID: NYT20001017.1908.0279-E5; extent: an electric utility in Columbus , Ohio
+T14	ACE-Mention 1319 1333	Pat D. Hemlepp
+#14	ACE T14	entityID: NYT20001017.1908.0279-E9; extent: Pat D. Hemlepp
+T15	ACE-Mention 1336 1363	a spokesman for the company
+#15	ACE T15	entityID: NYT20001017.1908.0279-E9; extent: a spokesman for the company
+T16	ACE-Mention 1416 1423	Camelot
+#16	ACE T16	entityID: NYT20001017.1908.0279-E15; extent: Camelot
+T17	ACE-Mention 1453 1471	the Hartford Group
+#17	ACE T17	entityID: NYT20001017.1908.0279-E11; extent: the Hartford Group
+T18	ACE-Mention 1493 1510	its 1,430 workers
+#18	ACE T18	entityID: NYT20001017.1908.0279-E30; extent: its 1,430 workers
+T19	ACE-Mention 1514 1525	The company
+#19	ACE T19	entityID: NYT20001017.1908.0279-E15; extent: The company
+T20	ACE-Mention 1674 1677	its
+#20	ACE T20	entityID: NYT20001017.1908.0279-E15; extent: its
+T21	ACE-Mention 1707 1718	the company
+#21	ACE T21	entityID: NYT20001017.1908.0279-E15; extent: the company
+T22	ACE-Mention 1799 1801	it
+#22	ACE T22	entityID: NYT20001017.1908.0279-E15; extent: it
+T23	ACE-Mention 1823 1831	Schwartz
+#23	ACE T23	entityID: NYT20001017.1908.0279-E17; extent: Schwartz
+T24	ACE-Mention 1995 2006	the company
+#24	ACE T24	entityID: NYT20001017.1908.0279-E15; extent: the company
+T25	ACE-Mention 2049 2051	He
+#25	ACE T25	entityID: NYT20001017.1908.0279-E17; extent: He
+T26	ACE-Mention 2245 2254	The judge
+#26	ACE T26	entityID: NYT20001017.1908.0279-E17; extent: The judge
+T27	ACE-Mention 2345 2373	the Internal Revenue Service
+#27	ACE T27	entityID: NYT20001017.1908.0279-E12; extent: the Internal Revenue Service
+T28	ACE-Mention 2446 2459	John Sullivan
+#28	ACE T28	entityID: NYT20001017.1908.0279-E13; extent: John Sullivan
+T29	ACE-Mention 2462 2514	Trans World Entertainment 's chief financial officer
+#29	ACE T29	entityID: NYT20001017.1908.0279-E13; extent: Trans World Entertainment 's chief financial officer
+T30	ACE-Mention 2563 2574	the company
+#30	ACE T30	entityID: NYT20001017.1908.0279-E15; extent: the company
+T31	ACE-Mention 2613 2614	I
+#31	ACE T31	entityID: NYT20001017.1908.0279-E13; extent: I
+T32	ACE-Mention 2647 2655	Sullivan
+#32	ACE T32	entityID: NYT20001017.1908.0279-E13; extent: Sullivan
+T33	ACE-Mention 2675 2677	he
+#33	ACE T33	entityID: NYT20001017.1908.0279-E13; extent: he
+T34	ACE-Mention 2687 2698	the company
+#34	ACE T34	entityID: NYT20001017.1908.0279-E15; extent: the company
+T35	ACE-Mention 2732 2745	Camelot Music
+#35	ACE T35	entityID: NYT20001017.1908.0279-E15; extent: Camelot Music
+T36	ACE-Mention 2750 2773	American Electric Power
+#36	ACE T36	entityID: NYT20001017.1908.0279-E5; extent: American Electric Power
+T37	ACE-Mention 2852 2869	Winn-Dixie Stores
+#37	ACE T37	entityID: NYT20001017.1908.0279-E18; extent: Winn-Dixie Stores
+T38	ACE-Mention 2872 2895	a big supermarket chain
+#38	ACE T38	entityID: NYT20001017.1908.0279-E18; extent: a big supermarket chain
+T39	ACE-Mention 2903 2920	a tax court judge
+#39	ACE T39	entityID: NYT20001017.1908.0279-E21; extent: a tax court judge

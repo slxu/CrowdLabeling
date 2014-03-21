@@ -1,0 +1,112 @@
+T0	ACE-Mention 265 279	Walter Shenson
+#0	ACE T0	entityID: NYT20001103.2226.0443-E7; extent: Walter Shenson
+T1	ACE-Mention 282 357	the producer of the Beatles ' films `` A Hard Day 's Night '' and `` Help !
+#1	ACE T1	entityID: NYT20001103.2226.0443-E7; extent: the producer of the Beatles ' films `` A Hard Day 's Night '' and `` Help !
+T2	ACE-Mention 383 406	Woodland Hills , Calif.
+#2	ACE T2	entityID: NYT20001103.2226.0443-E29; extent: Woodland Hills , Calif.
+T3	ACE-Mention 407 409	He
+#3	ACE T3	entityID: NYT20001103.2226.0443-E7; extent: He
+T4	ACE-Mention 420 459	Shenson , who was born in San Francisco
+#4	ACE T4	entityID: NYT20001103.2226.0443-E7; extent: Shenson , who was born in San Francisco
+T5	ACE-Mention 477 483	London
+#5	ACE T5	entityID: NYT20001103.2226.0443-E2; extent: London
+T6	ACE-Mention 487 569	a film producer _ most notably of `` The Mouse That Roared , '' with Peter Sellers
+#6	ACE T6	entityID: NYT20001103.2226.0443-E7; extent: a film producer _ most notably of `` The Mouse That Roared , '' with Peter Sellers
+T7	ACE-Mention 577 579	he
+#7	ACE T7	entityID: NYT20001103.2226.0443-E7; extent: he
+T8	ACE-Mention 598 612	United Artists
+#8	ACE T8	entityID: NYT20001103.2226.0443-E4; extent: United Artists
+T9	ACE-Mention 655 666	the Beatles
+#9	ACE T9	entityID: NYT20001103.2226.0443-E28; extent: the Beatles
+T10	ACE-Mention 670 680	The studio
+#10	ACE T10	entityID: NYT20001103.2226.0443-E4; extent: The studio
+T11	ACE-Mention 732 743	the Beatles
+#11	ACE T11	entityID: NYT20001103.2226.0443-E28; extent: the Beatles
+T12	ACE-Mention 748 751	EMI
+#12	ACE T12	entityID: NYT20001103.2226.0443-E5; extent: EMI
+T13	ACE-Mention 795 806	the Beatles
+#13	ACE T13	entityID: NYT20001103.2226.0443-E28; extent: the Beatles
+T14	ACE-Mention 823 840	the United States
+#14	ACE T14	entityID: NYT20001103.2226.0443-E6; extent: the United States
+T15	ACE-Mention 843 852	the group
+#15	ACE T15	entityID: NYT20001103.2226.0443-E28; extent: the group
+T16	ACE-Mention 870 877	Britain
+#16	ACE T16	entityID: NYT20001103.2226.0443-E8; extent: Britain
+T17	ACE-Mention 899 913	United Artists
+#17	ACE T17	entityID: NYT20001103.2226.0443-E4; extent: United Artists
+T18	ACE-Mention 1010 1012	He
+#18	ACE T18	entityID: NYT20001103.2226.0443-E7; extent: He
+T19	ACE-Mention 1019 1033	Richard Lester
+#19	ACE T19	entityID: NYT20001103.2226.0443-E9; extent: Richard Lester
+T20	ACE-Mention 1036 1053	a fellow American
+#20	ACE T20	entityID: NYT20001103.2226.0443-E9; extent: a fellow American
+T21	ACE-Mention 1090 1104	Paul McCartney
+#21	ACE T21	entityID: NYT20001103.2226.0443-E11; extent: Paul McCartney
+T22	ACE-Mention 1107 1109	he
+#22	ACE T22	entityID: NYT20001103.2226.0443-E7; extent: he
+T23	ACE-Mention 1120 1150	the Liverpool-based playwright
+#23	ACE T23	entityID: NYT20001103.2226.0443-E12; extent: the Liverpool-based playwright
+T24	ACE-Mention 1151 1160	Alun Owen
+#24	ACE T24	entityID: NYT20001103.2226.0443-E12; extent: Alun Owen
+T25	ACE-Mention 1245 1252	Shenson
+#25	ACE T25	entityID: NYT20001103.2226.0443-E7; extent: Shenson
+T26	ACE-Mention 1275 1286	the Beatles
+#26	ACE T26	entityID: NYT20001103.2226.0443-E28; extent: the Beatles
+T27	ACE-Mention 1318 1337	the band 's manager
+#27	ACE T27	entityID: NYT20001103.2226.0443-E15; extent: the band 's manager
+T28	ACE-Mention 1340 1353	Brian Epstein
+#28	ACE T28	entityID: NYT20001103.2226.0443-E15; extent: Brian Epstein
+T29	ACE-Mention 1394 1408	United Artists
+#29	ACE T29	entityID: NYT20001103.2226.0443-E4; extent: United Artists
+T30	ACE-Mention 1422 1433	the Beatles
+#30	ACE T30	entityID: NYT20001103.2226.0443-E28; extent: the Beatles
+T31	ACE-Mention 1474 1481	Shenson
+#31	ACE T31	entityID: NYT20001103.2226.0443-E7; extent: Shenson
+T32	ACE-Mention 1490 1495	their
+#32	ACE T32	entityID: NYT20001103.2226.0443-E28; extent: their
+T33	ACE-Mention 1539 1549	the studio
+#33	ACE T33	entityID: NYT20001103.2226.0443-E4; extent: the studio
+T34	ACE-Mention 1594 1597	him
+#34	ACE T34	entityID: NYT20001103.2226.0443-E7; extent: him
+T35	ACE-Mention 1662 1669	Shenson
+#35	ACE T35	entityID: NYT20001103.2226.0443-E7; extent: Shenson
+T36	ACE-Mention 1675 1685	the studio
+#36	ACE T36	entityID: NYT20001103.2226.0443-E4; extent: the studio
+T37	ACE-Mention 1700 1702	it
+#37	ACE T37	entityID: NYT20001103.2226.0443-E4; extent: it
+T38	ACE-Mention 1866 1873	Shenson
+#38	ACE T38	entityID: NYT20001103.2226.0443-E7; extent: Shenson
+T39	ACE-Mention 1911 1913	he
+#39	ACE T39	entityID: NYT20001103.2226.0443-E7; extent: he
+T40	ACE-Mention 1946 1954	his wife
+#40	ACE T40	entityID: NYT20001103.2226.0443-E17; extent: his wife
+T41	ACE-Mention 1961 1964	him
+#41	ACE T41	entityID: NYT20001103.2226.0443-E7; extent: him
+T42	ACE-Mention 1973 1984	the Beatles
+#42	ACE T42	entityID: NYT20001103.2226.0443-E28; extent: the Beatles
+T43	ACE-Mention 1999 2000	I
+#43	ACE T43	entityID: NYT20001103.2226.0443-E7; extent: I
+T44	ACE-Mention 2016 2020	they
+#44	ACE T44	entityID: NYT20001103.2226.0443-E28; extent: they
+T45	ACE-Mention 2034 2036	he
+#45	ACE T45	entityID: NYT20001103.2226.0443-E7; extent: he
+T46	ACE-Mention 2054 2057	you
+#46	ACE T46	entityID: NYT20001103.2226.0443-E18; extent: you
+T47	ACE-Mention 2070 2074	your
+#47	ACE T47	entityID: NYT20001103.2226.0443-E18; extent: your
+T48	ACE-Mention 2084 2088	them
+#48	ACE T48	entityID: NYT20001103.2226.0443-E28; extent: them
+T49	ACE-Mention 2095 2103	His wife
+#49	ACE T49	entityID: NYT20001103.2226.0443-E17; extent: His wife
+T50	ACE-Mention 2106 2115	Geraldine
+#50	ACE T50	entityID: NYT20001103.2226.0443-E17; extent: Geraldine
+T51	ACE-Mention 2136 2138	He
+#51	ACE T51	entityID: NYT20001103.2226.0443-E7; extent: He
+T52	ACE-Mention 2154 2184	two sons , Richard and Douglas
+#52	ACE T52	entityID: NYT20001103.2226.0443-E20; extent: two sons , Richard and Douglas
+T53	ACE-Mention 2187 2195	a sister
+#53	ACE T53	entityID: NYT20001103.2226.0443-E23; extent: a sister
+T54	ACE-Mention 2198 2225	Irma Levin of San Francisco
+#54	ACE T54	entityID: NYT20001103.2226.0443-E23; extent: Irma Levin of San Francisco
+T55	ACE-Mention 2232 2250	four grandchildren
+#55	ACE T55	entityID: NYT20001103.2226.0443-E25; extent: four grandchildren

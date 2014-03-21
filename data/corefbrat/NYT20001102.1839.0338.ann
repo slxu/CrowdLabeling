@@ -1,0 +1,146 @@
+T0	ACE-Mention 309 322	Arthur Levitt
+#0	ACE T0	entityID: NYT20001102.1839.0338-E17; extent: Arthur Levitt
+T1	ACE-Mention 325 395	the longest-serving chairman of the Securities and Exchange Commission
+#1	ACE T1	entityID: NYT20001102.1839.0338-E17; extent: the longest-serving chairman of the Securities and Exchange Commission
+T2	ACE-Mention 416 418	He
+#2	ACE T2	entityID: NYT20001102.1839.0338-E17; extent: He
+T3	ACE-Mention 448 468	individual investors
+#3	ACE T3	entityID: NYT20001102.1839.0338-E37; extent: individual investors
+T4	ACE-Mention 493 495	he
+#4	ACE T4	entityID: NYT20001102.1839.0338-E17; extent: he
+T5	ACE-Mention 542 548	Levitt
+#5	ACE T5	entityID: NYT20001102.1839.0338-E17; extent: Levitt
+T6	ACE-Mention 600 603	his
+#6	ACE T6	entityID: NYT20001102.1839.0338-E17; extent: his
+T7	ACE-Mention 662 705	an SEC chairman named by the next president
+#7	ACE T7	entityID: NYT20001102.1839.0338-E38; extent: an SEC chairman named by the next president
+T8	ACE-Mention 708 710	he
+#8	ACE T8	entityID: NYT20001102.1839.0338-E17; extent: he
+T9	ACE-Mention 734 782	supposedly independent directors of mutual funds
+#9	ACE T9	entityID: NYT20001102.1839.0338-E41; extent: supposedly independent directors of mutual funds
+T10	ACE-Mention 812 821	the funds
+#10	ACE T10	entityID: NYT20001102.1839.0338-E42; extent: the funds
+T11	ACE-Mention 833 837	they
+#11	ACE T11	entityID: NYT20001102.1839.0338-E42; extent: they
+T12	ACE-Mention 860 886	corporate audit committees
+#12	ACE T12	entityID: NYT20001102.1839.0338-E43; extent: corporate audit committees
+T13	ACE-Mention 909 911	He
+#13	ACE T13	entityID: NYT20001102.1839.0338-E17; extent: He
+T14	ACE-Mention 927 930	SEC
+#14	ACE T14	entityID: NYT20001102.1839.0338-E36; extent: SEC
+T15	ACE-Mention 941 950	companies
+#15	ACE T15	entityID: NYT20001102.1839.0338-E1; extent: companies
+T16	ACE-Mention 990 1004	top executives
+#16	ACE T16	entityID: NYT20001102.1839.0338-E2; extent: top executives
+T17	ACE-Mention 1021 1032	shareholder
+#17	ACE T17	entityID: NYT20001102.1839.0338-E3; extent: shareholder
+T18	ACE-Mention 1062 1068	Levitt
+#18	ACE T18	entityID: NYT20001102.1839.0338-E17; extent: Levitt
+T19	ACE-Mention 1087 1107	the options industry
+#19	ACE T19	entityID: NYT20001102.1839.0338-E4; extent: the options industry
+T20	ACE-Mention 1152 1165	its customers
+#20	ACE T20	entityID: NYT20001102.1839.0338-E5; extent: its customers
+T21	ACE-Mention 1245 1259	The commission
+#21	ACE T21	entityID: NYT20001102.1839.0338-E36; extent: The commission
+T22	ACE-Mention 1262 1268	Levitt
+#22	ACE T22	entityID: NYT20001102.1839.0338-E17; extent: Levitt
+T23	ACE-Mention 1310 1328	Fordham University
+#23	ACE T23	entityID: NYT20001102.1839.0338-E6; extent: Fordham University
+T24	ACE-Mention 1357 1368	the markets
+#24	ACE T24	entityID: NYT20001102.1839.0338-E7; extent: the markets
+T25	ACE-Mention 1405 1408	his
+#25	ACE T25	entityID: NYT20001102.1839.0338-E17; extent: his
+T26	ACE-Mention 1448 1463	Compaq Computer
+#26	ACE T26	entityID: NYT20001102.1839.0338-E8; extent: Compaq Computer
+T27	ACE-Mention 1478 1484	Compaq
+#27	ACE T27	entityID: NYT20001102.1839.0338-E8; extent: Compaq
+T28	ACE-Mention 1640 1646	Compaq
+#28	ACE T28	entityID: NYT20001102.1839.0338-E8; extent: Compaq
+T29	ACE-Mention 1694 1715	The options exchanges
+#29	ACE T29	entityID: NYT20001102.1839.0338-E9; extent: The options exchanges
+T30	ACE-Mention 1815 1824	Investors
+#30	ACE T30	entityID: NYT20001102.1839.0338-E10; extent: Investors
+T31	ACE-Mention 1877 1883	Levitt
+#31	ACE T31	entityID: NYT20001102.1839.0338-E17; extent: Levitt
+T32	ACE-Mention 1895 1907	The industry
+#32	ACE T32	entityID: NYT20001102.1839.0338-E4; extent: The industry
+T33	ACE-Mention 1938 1944	itself
+#33	ACE T33	entityID: NYT20001102.1839.0338-E4; extent: itself
+T34	ACE-Mention 1981 2000	the options markets
+#34	ACE T34	entityID: NYT20001102.1839.0338-E7; extent: the options markets
+T35	ACE-Mention 2024 2037	The exchanges
+#35	ACE T35	entityID: NYT20001102.1839.0338-E9; extent: The exchanges
+T36	ACE-Mention 2191 2226	brokers who send in customer orders
+#36	ACE T36	entityID: NYT20001102.1839.0338-E11; extent: brokers who send in customer orders
+T37	ACE-Mention 2280 2289	customers
+#37	ACE T37	entityID: NYT20001102.1839.0338-E12; extent: customers
+T38	ACE-Mention 2415 2424	customers
+#38	ACE T38	entityID: NYT20001102.1839.0338-E12; extent: customers
+T39	ACE-Mention 2554 2566	Edward Joyce
+#39	ACE T39	entityID: NYT20001102.1839.0338-E14; extent: Edward Joyce
+T40	ACE-Mention 2569 2620	the president of the Chicago Board Options Exchange
+#40	ACE T40	entityID: NYT20001102.1839.0338-E14; extent: the president of the Chicago Board Options Exchange
+T41	ACE-Mention 2628 2640	the industry
+#41	ACE T41	entityID: NYT20001102.1839.0338-E4; extent: the industry
+T42	ACE-Mention 2692 2694	He
+#42	ACE T42	entityID: NYT20001102.1839.0338-E14; extent: He
+T43	ACE-Mention 2727 2733	Levitt
+#43	ACE T43	entityID: NYT20001102.1839.0338-E17; extent: Levitt
+T44	ACE-Mention 2745 2757	SEC chairman
+#44	ACE T44	entityID: NYT20001102.1839.0338-E17; extent: SEC chairman
+T45	ACE-Mention 2781 2798	the Nasdaq market
+#45	ACE T45	entityID: NYT20001102.1839.0338-E18; extent: the Nasdaq market
+T46	ACE-Mention 2821 2846	the municipal bond market
+#46	ACE T46	entityID: NYT20001102.1839.0338-E20; extent: the municipal bond market
+T47	ACE-Mention 2887 2896	corporate
+#47	ACE T47	entityID: NYT20001102.1839.0338-E44; extent: corporate
+T48	ACE-Mention 2915 2917	He
+#48	ACE T48	entityID: NYT20001102.1839.0338-E17; extent: He
+T49	ACE-Mention 2957 2970	Joel Seligman
+#49	ACE T49	entityID: NYT20001102.1839.0338-E22; extent: Joel Seligman
+T50	ACE-Mention 2973 3021	the dean of the Washington University law school
+#50	ACE T50	entityID: NYT20001102.1839.0338-E22; extent: the dean of the Washington University law school
+T51	ACE-Mention 3026 3056	author of a history of the SEC
+#51	ACE T51	entityID: NYT20001102.1839.0338-E22; extent: author of a history of the SEC
+T52	ACE-Mention 3066 3072	Nasdaq
+#52	ACE T52	entityID: NYT20001102.1839.0338-E18; extent: Nasdaq
+T53	ACE-Mention 3092 3094	he
+#53	ACE T53	entityID: NYT20001102.1839.0338-E17; extent: he
+T54	ACE-Mention 3154 3162	investor
+#54	ACE T54	entityID: NYT20001102.1839.0338-E26; extent: investor
+T55	ACE-Mention 3196 3199	his
+#55	ACE T55	entityID: NYT20001102.1839.0338-E17; extent: his
+T56	ACE-Mention 3212 3219	the SEC
+#56	ACE T56	entityID: NYT20001102.1839.0338-E36; extent: the SEC
+T57	ACE-Mention 3297 3305	auditors
+#57	ACE T57	entityID: NYT20001102.1839.0338-E27; extent: auditors
+T58	ACE-Mention 3322 3341	their audit clients
+#58	ACE T58	entityID: NYT20001102.1839.0338-E28; extent: their audit clients
+T59	ACE-Mention 3394 3403	a new SEC
+#59	ACE T59	entityID: NYT20001102.1839.0338-E29; extent: a new SEC
+T60	ACE-Mention 3418 3424	Levitt
+#60	ACE T60	entityID: NYT20001102.1839.0338-E17; extent: Levitt
+T61	ACE-Mention 3429 3444	the current SEC
+#61	ACE T61	entityID: NYT20001102.1839.0338-E36; extent: the current SEC
+T62	ACE-Mention 3504 3511	the SEC
+#62	ACE T62	entityID: NYT20001102.1839.0338-E36; extent: the SEC
+T63	ACE-Mention 3540 3548	auditors
+#63	ACE T63	entityID: NYT20001102.1839.0338-E27; extent: auditors
+T64	ACE-Mention 3590 3597	clients
+#64	ACE T64	entityID: NYT20001102.1839.0338-E28; extent: clients
+T65	ACE-Mention 3606 3619	Ronald Reagan
+#65	ACE T65	entityID: NYT20001102.1839.0338-E30; extent: Ronald Reagan
+T66	ACE-Mention 3692 3698	Levitt
+#66	ACE T66	entityID: NYT20001102.1839.0338-E17; extent: Levitt
+T67	ACE-Mention 3741 3742	I
+#67	ACE T67	entityID: NYT20001102.1839.0338-E17; extent: I
+T68	ACE-Mention 3767 3769	he
+#68	ACE T68	entityID: NYT20001102.1839.0338-E17; extent: he
+T69	ACE-Mention 3810 3823	my successors
+#69	ACE T69	entityID: NYT20001102.1839.0338-E31; extent: my successors
+T70	ACE-Mention 3828 3844	their successors
+#70	ACE T70	entityID: NYT20001102.1839.0338-E31; extent: their successors
+T71	ACE-Mention 3892 3915	the individual investor
+#71	ACE T71	entityID: NYT20001102.1839.0338-E37; extent: the individual investor
+T72	ACE-Mention 3951 3962	our markets
+#72	ACE T72	entityID: NYT20001102.1839.0338-E34; extent: our markets

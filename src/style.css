@@ -1,0 +1,184 @@
+body {
+  background-color: #eee;
+}
+
+h1 {
+  margin-left: 10px;
+}
+
+div.changeDisplayActive {
+  margin-right:10px;
+  display:inline-block;
+  vertical-align:bottom; height:36px; font-size:24px;
+  color:#000;
+  padding-left:3px;
+  padding-right:3px;
+  background-color:#eee;
+  cursor:default
+}
+
+div.changeDisplayDeactive {
+  margin-right:10px;
+  display:inline-block;
+  vertical-align:bottom;
+  height:36px;
+  padding-left:3px;
+  padding-right:3px;
+  font-size:24px;
+  cursor:pointer
+}
+
+div#component {
+  width: 37%;
+  height: 100%;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+div#componentTree {
+  width: 37%;
+  height: 100%;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+div#display {
+}
+
+div#input {
+  overflow: auto;
+}
+
+div#inputTree {
+  overflow: auto;
+}
+
+div#chart {
+  position: relative;
+  width: 60%;
+  overflow: auto;
+  float: right;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border-width: 1px;
+  border-style:solid
+}
+
+div#chartTree {
+  position: relative;
+  width: 60%;
+  overflow: auto;
+  float: right;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border-width: 1px;
+  border-style:solid
+}
+
+span.tolabel {
+  display: inline;
+  padding: 1px 1px 1px;
+  color: #ffffff;
+  text-align: center;
+  white-space: wrap;
+  vertical-align: baseline;
+  border-radius: .25em;
+  background-color: #888;
+}
+
+kbd.custom {
+  padding: 1px 4px 1px;
+  font-size: 90%;
+  color: #fff;
+  background-color: #333;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .25);
+}
+
+select#docselect {
+  width: 60%;
+  margin-right: 2%;
+}
+
+select#docselectTree {
+  width: 60%;
+  margin-right: 2%;
+}
+
+button {
+  width: 17%;
+  margin-right: 2%
+}
+
+.link {
+  fill: none;
+  stroke: #000;
+  stroke-width: 5px;
+  opacity: .5;
+}
+
+.link:hover {
+  stroke: red;
+}
+
+.templink {
+  fill: none;
+  stroke: red;
+  stroke-width: 5px;
+}
+
+.treeNode {
+  cursor: pointer;
+}
+
+.treeNode circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.treeNode text {
+  font: 16px sans-serif;
+}
+
+.treeLink {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1.5px;
+}
+
+.selectedTreeLink {
+  fill: none;
+  stroke: #222;
+  stroke-width: 1.5px;
+}
+
+.treeSentence {
+  margin-bottom:10px;
+  border-bottom:#eee solid 1px;
+  cursor:pointer;
+  vertical-align:middle;
+}
+
+.treeSentence:hover {
+  margin-bottom:10px;
+  border-bottom:#eee solid 1px;
+  cursor:pointer;
+  vertical-align:middle;
+  background: #EEEEEE;
+}
+
+.treeSentenceSelected {
+  margin-bottom:10px;
+  border-bottom:#eee solid 1px;
+  cursor:pointer;
+  vertical-align:middle;
+  background: #CCC;
+}
+
+line {
+    stroke: black;
+    stroke-width: 1px;
+}

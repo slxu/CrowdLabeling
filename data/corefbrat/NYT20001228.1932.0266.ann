@@ -1,0 +1,122 @@
+T0	ACE-Mention 319 324	MIAMI
+#0	ACE T0	entityID: NYT20001228.1932.0266-E20; extent: MIAMI
+T1	ACE-Mention 367 381	his opposition
+#1	ACE T1	entityID: NYT20001228.1932.0266-E2; extent: his opposition
+T2	ACE-Mention 386 413	the international community
+#2	ACE T2	entityID: NYT20001228.1932.0266-E31; extent: the international community
+T3	ACE-Mention 416 440	Haiti 's president-elect
+#3	ACE T3	entityID: NYT20001228.1932.0266-E30; extent: Haiti 's president-elect
+T4	ACE-Mention 443 465	Jean-Bertrand Aristide
+#4	ACE T4	entityID: NYT20001228.1932.0266-E30; extent: Jean-Bertrand Aristide
+T5	ACE-Mention 480 497	President Clinton
+#5	ACE T5	entityID: NYT20001228.1932.0266-E16; extent: President Clinton
+T6	ACE-Mention 503 505	he
+#6	ACE T6	entityID: NYT20001228.1932.0266-E30; extent: he
+T7	ACE-Mention 612 618	Senate
+#7	ACE T7	entityID: NYT20001228.1932.0266-E36; extent: Senate
+T8	ACE-Mention 684 691	Clinton
+#8	ACE T8	entityID: NYT20001228.1932.0266-E16; extent: Clinton
+T9	ACE-Mention 724 739	the White House
+#9	ACE T9	entityID: NYT20001228.1932.0266-E19; extent: the White House
+T10	ACE-Mention 754 762	Aristide
+#10	ACE T10	entityID: NYT20001228.1932.0266-E30; extent: Aristide
+T11	ACE-Mention 773 775	he
+#11	ACE T11	entityID: NYT20001228.1932.0266-E30; extent: he
+T12	ACE-Mention 790 808	opposition members
+#12	ACE T12	entityID: NYT20001228.1932.0266-E1; extent: opposition members
+T13	ACE-Mention 812 826	his government
+#13	ACE T13	entityID: NYT20001228.1932.0266-E21; extent: his government
+T14	ACE-Mention 842 846	them
+#14	ACE T14	entityID: NYT20001228.1932.0266-E1; extent: them
+T15	ACE-Mention 863 883	an electoral council
+#15	ACE T15	entityID: NYT20001228.1932.0266-E3; extent: an electoral council
+T16	ACE-Mention 892 927	the Organization of American States
+#16	ACE T16	entityID: NYT20001228.1932.0266-E4; extent: the Organization of American States
+T17	ACE-Mention 940 945	human
+#17	ACE T17	entityID: NYT20001228.1932.0266-E27; extent: human
+T18	ACE-Mention 966 1027	Opposition groups , which had boycotted the November election
+#18	ACE T18	entityID: NYT20001228.1932.0266-E5; extent: Opposition groups , which had boycotted the November election
+T19	ACE-Mention 1055 1076	a parallel government
+#19	ACE T19	entityID: NYT20001228.1932.0266-E6; extent: a parallel government
+T20	ACE-Mention 1086 1094	Aristide
+#20	ACE T20	entityID: NYT20001228.1932.0266-E30; extent: Aristide
+T21	ACE-Mention 1101 1104	his
+#21	ACE T21	entityID: NYT20001228.1932.0266-E30; extent: his
+T22	ACE-Mention 1198 1233	the current American administration
+#22	ACE T22	entityID: NYT20001228.1932.0266-E19; extent: the current American administration
+T23	ACE-Mention 1261 1273	the next one
+#23	ACE T23	entityID: NYT20001228.1932.0266-E8; extent: the next one
+T24	ACE-Mention 1285 1312	the Haitian president-elect
+#24	ACE T24	entityID: NYT20001228.1932.0266-E30; extent: the Haitian president-elect
+T25	ACE-Mention 1372 1432	an American delegation led by a special envoy , Anthony Lake
+#25	ACE T25	entityID: NYT20001228.1932.0266-E10; extent: an American delegation led by a special envoy , Anthony Lake
+T26	ACE-Mention 1439 1440	I
+#26	ACE T26	entityID: NYT20001228.1932.0266-E30; extent: I
+T27	ACE-Mention 1449 1451	my
+#27	ACE T27	entityID: NYT20001228.1932.0266-E30; extent: my
+T28	ACE-Mention 1495 1503	Aristide
+#28	ACE T28	entityID: NYT20001228.1932.0266-E30; extent: Aristide
+T29	ACE-Mention 1586 1641	our two nations where democracy and peace will flourish
+#29	ACE T29	entityID: NYT20001228.1932.0266-E13; extent: our two nations where democracy and peace will flourish
+T30	ACE-Mention 1666 1668	it
+#30	ACE T30	entityID: NYT20001228.1932.0266-E19; extent: it
+T31	ACE-Mention 1674 1687	20,000 troops
+#31	ACE T31	entityID: NYT20001228.1932.0266-E15; extent: 20,000 troops
+T32	ACE-Mention 1699 1707	Aristide
+#32	ACE T32	entityID: NYT20001228.1932.0266-E30; extent: Aristide
+T33	ACE-Mention 1723 1725	he
+#33	ACE T33	entityID: NYT20001228.1932.0266-E30; extent: he
+T34	ACE-Mention 1750 1776	the Clinton administration
+#34	ACE T34	entityID: NYT20001228.1932.0266-E19; extent: the Clinton administration
+T35	ACE-Mention 1812 1817	Haiti
+#35	ACE T35	entityID: NYT20001228.1932.0266-E9; extent: Haiti
+T36	ACE-Mention 1839 1856	the United States
+#36	ACE T36	entityID: NYT20001228.1932.0266-E7; extent: the United States
+T37	ACE-Mention 2038 2078	a senior Clinton administration official
+#37	ACE T37	entityID: NYT20001228.1932.0266-E18; extent: a senior Clinton administration official
+T38	ACE-Mention 2101 2115	the opposition
+#38	ACE T38	entityID: NYT20001228.1932.0266-E2; extent: the opposition
+T39	ACE-Mention 2120 2142	the new administration
+#39	ACE T39	entityID: NYT20001228.1932.0266-E21; extent: the new administration
+T40	ACE-Mention 2158 2162	they
+#40	ACE T40	entityID: NYT20001228.1932.0266-E21; extent: they
+T41	ACE-Mention 2184 2185	I
+#41	ACE T41	entityID: NYT20001228.1932.0266-E18; extent: I
+T42	ACE-Mention 2191 2195	they
+#42	ACE T42	entityID: NYT20001228.1932.0266-E21; extent: they
+T43	ACE-Mention 2209 2210	I
+#43	ACE T43	entityID: NYT20001228.1932.0266-E18; extent: I
+T44	ACE-Mention 2247 2278	Another administration official
+#44	ACE T44	entityID: NYT20001228.1932.0266-E22; extent: Another administration official
+T45	ACE-Mention 2340 2349	all sides
+#45	ACE T45	entityID: NYT20001228.1932.0266-E13; extent: all sides
+T46	ACE-Mention 2376 2381	Haiti
+#46	ACE T46	entityID: NYT20001228.1932.0266-E9; extent: Haiti
+T47	ACE-Mention 2499 2500	I
+#47	ACE T47	entityID: NYT20001228.1932.0266-E18; extent: I
+T48	ACE-Mention 2507 2515	Aristide
+#48	ACE T48	entityID: NYT20001228.1932.0266-E30; extent: Aristide
+T49	ACE-Mention 2525 2527	he
+#49	ACE T49	entityID: NYT20001228.1932.0266-E30; extent: he
+T50	ACE-Mention 2536 2562	a skeptical administration
+#50	ACE T50	entityID: NYT20001228.1932.0266-E8; extent: a skeptical administration
+T51	ACE-Mention 2575 2585	Washington
+#51	ACE T51	entityID: NYT20001228.1932.0266-E23; extent: Washington
+T52	ACE-Mention 2674 2686	the official
+#52	ACE T52	entityID: NYT20001228.1932.0266-E22; extent: the official
+T53	ACE-Mention 2701 2703	he
+#53	ACE T53	entityID: NYT20001228.1932.0266-E30; extent: he
+T54	ACE-Mention 2807 2824	the United States
+#54	ACE T54	entityID: NYT20001228.1932.0266-E7; extent: the United States
+T55	ACE-Mention 2866 2877	legislative
+#55	ACE T55	entityID: NYT20001228.1932.0266-E28; extent: legislative
+T56	ACE-Mention 2905 2911	Senate
+#56	ACE T56	entityID: NYT20001228.1932.0266-E36; extent: Senate
+T57	ACE-Mention 2934 2973	candidates of Aristide 's Lavalas party
+#57	ACE T57	entityID: NYT20001228.1932.0266-E24; extent: candidates of Aristide 's Lavalas party
+T58	ACE-Mention 3026 3053	the international community
+#58	ACE T58	entityID: NYT20001228.1932.0266-E31; extent: the international community
+T59	ACE-Mention 3073 3095	the Lavalas candidates
+#59	ACE T59	entityID: NYT20001228.1932.0266-E24; extent: the Lavalas candidates
+T60	ACE-Mention 3130 3144	the candidates
+#60	ACE T60	entityID: NYT20001228.1932.0266-E24; extent: the candidates

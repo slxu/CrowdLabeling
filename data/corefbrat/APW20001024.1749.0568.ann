@@ -1,0 +1,182 @@
+T0	ACE-Mention 113 130	PALESTINE , Texas
+#0	ACE T0	entityID: APW20001024.1749.0568-E21; extent: PALESTINE , Texas
+T1	ACE-Mention 131 135	(AP)
+#1	ACE T1	entityID: APW20001024.1749.0568-E55; extent: (AP)
+T2	ACE-Mention 143 158	the Republicans
+#2	ACE T2	entityID: APW20001024.1749.0568-E16; extent: the Republicans
+T3	ACE-Mention 194 210	the state Senate
+#3	ACE T3	entityID: APW20001024.1749.0568-E1; extent: the state Senate
+T4	ACE-Mention 224 235	the chamber
+#4	ACE T4	entityID: APW20001024.1749.0568-E1; extent: the chamber
+T5	ACE-Mention 268 278	East Texas
+#5	ACE T5	entityID: APW20001024.1749.0568-E59; extent: East Texas
+T6	ACE-Mention 282 305	Republican Todd Staples
+#6	ACE T6	entityID: APW20001024.1749.0568-E60; extent: Republican Todd Staples
+T7	ACE-Mention 308 341	a three-term state representative
+#7	ACE T7	entityID: APW20001024.1749.0568-E60; extent: a three-term state representative
+T8	ACE-Mention 350 380	Democratic lawyer David Fisher
+#8	ACE T8	entityID: APW20001024.1749.0568-E63; extent: Democratic lawyer David Fisher
+T9	ACE-Mention 419 425	Senate
+#9	ACE T9	entityID: APW20001024.1749.0568-E1; extent: Senate
+T10	ACE-Mention 494 506	an incumbent
+#10	ACE T10	entityID: APW20001024.1749.0568-E2; extent: an incumbent
+T11	ACE-Mention 526 537	which party
+#11	ACE T11	entityID: APW20001024.1749.0568-E3; extent: which party
+T12	ACE-Mention 547 563	the Texas Senate
+#12	ACE T12	entityID: APW20001024.1749.0568-E1; extent: the Texas Senate
+T13	ACE-Mention 606 616	the Senate
+#13	ACE T13	entityID: APW20001024.1749.0568-E1; extent: the Senate
+T14	ACE-Mention 629 668	congressional and legislative districts
+#14	ACE T14	entityID: APW20001024.1749.0568-E4; extent: congressional and legislative districts
+T15	ACE-Mention 685 713	the next lieutenant governor
+#15	ACE T15	entityID: APW20001024.1749.0568-E5; extent: the next lieutenant governor
+T16	ACE-Mention 717 736	Gov. George W. Bush
+#16	ACE T16	entityID: APW20001024.1749.0568-E6; extent: Gov. George W. Bush
+T17	ACE-Mention 748 757	president
+#17	ACE T17	entityID: APW20001024.1749.0568-E8; extent: president
+T18	ACE-Mention 778 797	Lt. Gov. Rick Perry
+#18	ACE T18	entityID: APW20001024.1749.0568-E9; extent: Lt. Gov. Rick Perry
+T19	ACE-Mention 833 845	state Senate
+#19	ACE T19	entityID: APW20001024.1749.0568-E1; extent: state Senate
+T20	ACE-Mention 873 882	Bob Stein
+#20	ACE T20	entityID: APW20001024.1749.0568-E11; extent: Bob Stein
+T21	ACE-Mention 885 945	professor of political science at Rice University in Houston
+#21	ACE T21	entityID: APW20001024.1749.0568-E11; extent: professor of political science at Rice University in Houston
+T22	ACE-Mention 982 1002	the Democratic Party
+#22	ACE T22	entityID: APW20001024.1749.0568-E15; extent: the Democratic Party
+T23	ACE-Mention 1019 1039	the Republican Party
+#23	ACE T23	entityID: APW20001024.1749.0568-E16; extent: the Republican Party
+T24	ACE-Mention 1043 1061	the state of Texas
+#24	ACE T24	entityID: APW20001024.1749.0568-E54; extent: the state of Texas
+T25	ACE-Mention 1068 1075	The GOP
+#25	ACE T25	entityID: APW20001024.1749.0568-E16; extent: The GOP
+T26	ACE-Mention 1096 1106	the Senate
+#26	ACE T26	entityID: APW20001024.1749.0568-E1; extent: the Senate
+T27	ACE-Mention 1124 1135	Republicans
+#27	ACE T27	entityID: APW20001024.1749.0568-E16; extent: Republicans
+T28	ACE-Mention 1136 1141	their
+#28	ACE T28	entityID: APW20001024.1749.0568-E16; extent: their
+T29	ACE-Mention 1160 1186	either legislative chamber
+#29	ACE T29	entityID: APW20001024.1749.0568-E18; extent: either legislative chamber
+T30	ACE-Mention 1203 1207	They
+#30	ACE T30	entityID: APW20001024.1749.0568-E16; extent: They
+T31	ACE-Mention 1266 1275	the state
+#31	ACE T31	entityID: APW20001024.1749.0568-E54; extent: the state
+T32	ACE-Mention 1283 1296	one incumbent
+#32	ACE T32	entityID: APW20001024.1749.0568-E19; extent: one incumbent
+T33	ACE-Mention 1299 1309	a Democrat
+#33	ACE T33	entityID: APW20001024.1749.0568-E19; extent: a Democrat
+T34	ACE-Mention 1346 1355	Democrats
+#34	ACE T34	entityID: APW20001024.1749.0568-E15; extent: Democrats
+T35	ACE-Mention 1372 1387	the Texas House
+#35	ACE T35	entityID: APW20001024.1749.0568-E20; extent: the Texas House
+T36	ACE-Mention 1406 1411	their
+#36	ACE T36	entityID: APW20001024.1749.0568-E15; extent: their
+T37	ACE-Mention 1461 1465	They
+#37	ACE T37	entityID: APW20001024.1749.0568-E15; extent: They
+T38	ACE-Mention 1529 1541	an incumbent
+#38	ACE T38	entityID: APW20001024.1749.0568-E22; extent: an incumbent
+T39	ACE-Mention 1559 1593	The heavily wooded Senate district
+#39	ACE T39	entityID: APW20001024.1749.0568-E23; extent: The heavily wooded Senate district
+T40	ACE-Mention 1609 1614	Tyler
+#40	ACE T40	entityID: APW20001024.1749.0568-E24; extent: Tyler
+T41	ACE-Mention 1627 1634	Houston
+#41	ACE T41	entityID: APW20001024.1749.0568-E14; extent: Houston
+T42	ACE-Mention 1705 1724	the main industries
+#42	ACE T42	entityID: APW20001024.1749.0568-E25; extent: the main industries
+T43	ACE-Mention 1728 1740	The district
+#43	ACE T43	entityID: APW20001024.1749.0568-E23; extent: The district
+T44	ACE-Mention 1749 1855	home to Jasper , where a black man was dragged to his death from a pickup truck by three white men in 1998
+#44	ACE T44	entityID: APW20001024.1749.0568-E23; extent: home to Jasper , where a black man was dragged to his death from a pickup truck by three white men in 1998
+T45	ACE-Mention 1863 1869	Senate
+#45	ACE T45	entityID: APW20001024.1749.0568-E1; extent: Senate
+T46	ACE-Mention 1878 1913	the traditionally Democratic region
+#46	ACE T46	entityID: APW20001024.1749.0568-E31; extent: the traditionally Democratic region
+T47	ACE-Mention 1934 2037	Republican Sen. Drew Nixon , who decided , with the encouragement of the GOP , not to seek another term
+#47	ACE T47	entityID: APW20001024.1749.0568-E32; extent: Republican Sen. Drew Nixon , who decided , with the encouragement of the GOP , not to seek another term
+T48	ACE-Mention 2051 2056	Nixon
+#48	ACE T48	entityID: APW20001024.1749.0568-E32; extent: Nixon
+T49	ACE-Mention 2088 2092	jail
+#49	ACE T49	entityID: APW20001024.1749.0568-E34; extent: jail
+T50	ACE-Mention 2112 2148	a policewoman posing as a prostitute
+#50	ACE T50	entityID: APW20001024.1749.0568-E35; extent: a policewoman posing as a prostitute
+T51	ACE-Mention 2152 2154	He
+#51	ACE T51	entityID: APW20001024.1749.0568-E32; extent: He
+T52	ACE-Mention 2159 2162	his
+#52	ACE T52	entityID: APW20001024.1749.0568-E32; extent: his
+T53	ACE-Mention 2209 2219	a lawmaker
+#53	ACE T53	entityID: APW20001024.1749.0568-E32; extent: a lawmaker
+T54	ACE-Mention 2255 2260	Nixon
+#54	ACE T54	entityID: APW20001024.1749.0568-E32; extent: Nixon
+T55	ACE-Mention 2327 2350	State Senate candidates
+#55	ACE T55	entityID: APW20001024.1749.0568-E38; extent: State Senate candidates
+T56	ACE-Mention 2388 2393	Stein
+#56	ACE T56	entityID: APW20001024.1749.0568-E11; extent: Stein
+T57	ACE-Mention 2406 2413	Staples
+#57	ACE T57	entityID: APW20001024.1749.0568-E60; extent: Staples
+T58	ACE-Mention 2419 2421	he
+#58	ACE T58	entityID: APW20001024.1749.0568-E60; extent: he
+T59	ACE-Mention 2457 2477	Of 1,944 donors , 19
+#59	ACE T59	entityID: APW20001024.1749.0568-E40; extent: Of 1,944 donors , 19
+T60	ACE-Mention 2495 2500	Texas
+#60	ACE T60	entityID: APW20001024.1749.0568-E54; extent: Texas
+T61	ACE-Mention 2504 2517	More than 835
+#61	ACE T61	entityID: APW20001024.1749.0568-E41; extent: More than 835
+T62	ACE-Mention 2535 2547	the district
+#62	ACE T62	entityID: APW20001024.1749.0568-E23; extent: the district
+T63	ACE-Mention 2555 2561	Fisher
+#63	ACE T63	entityID: APW20001024.1749.0568-E63; extent: Fisher
+T64	ACE-Mention 2567 2569	he
+#64	ACE T64	entityID: APW20001024.1749.0568-E63; extent: he
+T65	ACE-Mention 2604 2657	Of 1,400 contributors to his campaign , fewer than 20
+#65	ACE T65	entityID: APW20001024.1749.0568-E43; extent: Of 1,400 contributors to his campaign , fewer than 20
+T66	ACE-Mention 2674 2679	Texas
+#66	ACE T66	entityID: APW20001024.1749.0568-E54; extent: Texas
+T67	ACE-Mention 2686 2690	they
+#67	ACE T67	entityID: APW20001024.1749.0568-E43; extent: they
+T68	ACE-Mention 2748 2750	he
+#68	ACE T68	entityID: APW20001024.1749.0568-E63; extent: he
+T69	ACE-Mention 2759 2795	About 40 percent of the contributors
+#69	ACE T69	entityID: APW20001024.1749.0568-E17; extent: About 40 percent of the contributors
+T70	ACE-Mention 2804 2816	the district
+#70	ACE T70	entityID: APW20001024.1749.0568-E23; extent: the district
+T71	ACE-Mention 2820 2835	Both candidates
+#71	ACE T71	entityID: APW20001024.1749.0568-E44; extent: Both candidates
+T72	ACE-Mention 2859 2875	prison employees
+#72	ACE T72	entityID: APW20001024.1749.0568-E45; extent: prison employees
+T73	ACE-Mention 2917 2925	teachers
+#73	ACE T73	entityID: APW20001024.1749.0568-E47; extent: teachers
+T74	ACE-Mention 2978 2988	East Texas
+#74	ACE T74	entityID: APW20001024.1749.0568-E59; extent: East Texas
+T75	ACE-Mention 2992 3049	Fisher , who is 37 and is making his first try for office
+#75	ACE T75	entityID: APW20001024.1749.0568-E63; extent: Fisher , who is 37 and is making his first try for office
+T76	ACE-Mention 3060 3066	school
+#76	ACE T76	entityID: APW20001024.1749.0568-E48; extent: school
+T77	ACE-Mention 3079 3103	Staples , who is also 37
+#77	ACE T77	entityID: APW20001024.1749.0568-E60; extent: Staples , who is also 37
+T78	ACE-Mention 3111 3113	he
+#78	ACE T78	entityID: APW20001024.1749.0568-E60; extent: he
+T79	ACE-Mention 3175 3227	about 9,000 residents of a recreational vehicle park
+#79	ACE T79	entityID: APW20001024.1749.0568-E49; extent: about 9,000 residents of a recreational vehicle park
+T80	ACE-Mention 3248 3253	Their
+#80	ACE T80	entityID: APW20001024.1749.0568-E49; extent: Their
+T81	ACE-Mention 3292 3323	other residents of the district
+#81	ACE T81	entityID: APW20001024.1749.0568-E52; extent: other residents of the district
+T82	ACE-Mention 3340 3344	them
+#82	ACE T82	entityID: APW20001024.1749.0568-E49; extent: them
+T83	ACE-Mention 3385 3400	a federal judge
+#83	ACE T83	entityID: APW20001024.1749.0568-E53; extent: a federal judge
+T84	ACE-Mention 3430 3443	the RV owners
+#84	ACE T84	entityID: APW20001024.1749.0568-E49; extent: the RV owners
+T85	ACE-Mention 3455 3462	Staples
+#85	ACE T85	entityID: APW20001024.1749.0568-E60; extent: Staples
+T86	ACE-Mention 3475 3481	Fisher
+#86	ACE T86	entityID: APW20001024.1749.0568-E63; extent: Fisher
+T87	ACE-Mention 3521 3534	the RV owners
+#87	ACE T87	entityID: APW20001024.1749.0568-E49; extent: the RV owners
+T88	ACE-Mention 3562 3568	Fisher
+#88	ACE T88	entityID: APW20001024.1749.0568-E63; extent: Fisher
+T89	ACE-Mention 3599 3606	Staples
+#89	ACE T89	entityID: APW20001024.1749.0568-E60; extent: Staples
+T90	ACE-Mention 3646 3652	Fisher
+#90	ACE T90	entityID: APW20001024.1749.0568-E63; extent: Fisher

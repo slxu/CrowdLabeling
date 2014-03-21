@@ -1,0 +1,138 @@
+\newcommand{\comment}[1]{} 
+\newcommand{\NOTE}[1]{\marginpar{\em {#1}}}
+\newcommand{\bug}
+    {\mbox{\rule{2mm}{2mm}}}
+\newcommand{\Bug}[1]
+    {\bug \footnote{BUG: {#1}}}
+\newcommand{\QED}{\mbox{$\Box$}}
+\newcommand{\ddt}{\mbox{$\frac{d}{dt}\,$}}  %* no strut
+
+\newcommand{\etal}{\mbox{\it et al.}}
+\newcommand{\etc}{\mbox{\it etc.}}
+\newcommand{\eg}{\mbox{\it e.g.}}
+\newcommand{\ie}{\mbox{\it i.e.}}
+\newcommand{\cf}{\mbox{\it cf.}}
+\newcommand{\Eg}{\mbox{\it E.g.}}
+\newcommand{\Ie}{\mbox{\it I.e.}}
+\newcommand{\?}{\mbox{?}}
+
+
+
+
+\newcommand{\DEFN}{\mbox{$\stackrel{\mbox{\tiny def}}{=}$}}
+
+\newcommand{\TT}[1]{\mbox{\tt #1}}
+%\newcommand{\bi}{\begin{itemize}}
+%\newcommand{\ei}{\end{itemize}}
+\newcommand{\bi}{\begin{list}{$\bullet$}{
+    \setlength{\leftmargin}{1.5 em}
+    \setlength{\itemsep}{0 pt}
+    \setlength{\topsep}{3 pt}
+    \setlength{\parsep}{3 pt}
+    \setlength{\partopsep}{0 pt}
+    \setlength{\labelwidth}{1 em}
+    \setlength{\labelsep}{0.5 em}
+    \setlength{\parskip}{0cm}  }}
+\newcommand{\ei}{\end{list}}
+
+\newcommand{\BE}{\begin{enumerate}}
+\newcommand{\EE}{\end{enumerate}}
+
+%\newtheorem{defnctr}{Definition}
+%\newtheorem{theorem}{Theorem}
+%\newtheorem{lemma}[theorem]{Lemma}
+%\newtheorem{corollary}[theorem]{Corollary}        
+%\newtheorem{conjecture}[theorem]{Conjecture}
+%\newtheorem{propos}[theorem]{Proposition}
+%\newcommand{\proof}
+%	{\vspace{-8pt}
+%	 {\bf Proof:}}
+
+
+
+\newcommand{\tuple}[1]
+        {\mbox{$\langle{#1}\rangle$}}
+\newcommand{\set}[1]
+        {\mbox{$\{{#1}\}$}}
+\newcommand{\size}[1]{\mbox{$\mid\!#1\!\mid$}}
+
+
+
+\newcommand{\PROOF}[1]{\mbox{\noindent \proofbegin {#1} \proofend}}
+\newcommand{\proofbegin}{\mbox{\bf Proof: \ }}
+\newcommand{\proofend}{\Math{\Box}}
+\newcommand{\st}{\mbox{ such that }}
+\newcommand{\wht}{\mbox{ we have that }}
+\newcommand{\entails}{\mbox{$\models$}}
+\newcommand{\yields}{\mbox{$\models$}}
+\newcommand{\dgets}{\mbox{$\leftarrow$}}
+
+%\renewcommand{\baselinestretch}{0.985}
+
+
+
+
+\newcommand{\initab}{                           % set up tab stops
+\begin{tabbing}
+XXX \= XXXX \= \kill
+}
+\newcommand{\begpub}{
+\begin{quotation}
+\noindent
+}
+\newcommand{\nextpub}{
+
+\vspace{2mm}
+\noindent
+}
+\newcommand{\finpub}{
+\end{quotation}
+}
+
+
+
+\hyphenation{non-de-ter-mi-nis-tic-al-ly non-de-ter-mi-nis-tic
+exis-ten-tial-ly quan-tified se-lec-tion exis-ting in-stan-tiated
+uni-vers-al-ly es-tab-lish in-con-sis-tent}
+
+
+% \newcommand{\ncd}{\mbox{$\neq$}}
+% \newcommand{\cd}{\mbox{$=$}}
+% \newcommand{\fabian}{\mbox{\sc fabian}}
+% \newcommand{\occam}{\mbox{\sc occam}}
+% \newcommand{\sadl}{\mbox{\sc sadl}}
+% \newcommand{\socrates}{\mbox{\sc socrates}}
+% \newcommand{\uwl}{\mbox{\sc uwl}}
+% \newcommand{\spa}{\mbox{\sc spa}}
+% \newcommand{\scr}{\mbox{\sc scr}}
+% \newcommand{\strips}{\mbox{\sc strips}}
+% \newcommand{\snlp}{\mbox{\sc snlp}}
+% \newcommand{\cbur}{\mbox{\sc C-buridan}}
+% \newcommand{\buridan}{\mbox{\sc buridan}}
+% \newcommand{\xii}{\mbox{\sc xii}}
+% \newcommand{\zeno}{\mbox{\sc zeno}}
+% \newcommand{\adl}{\mbox{\sc adl}}
+% \newcommand{\kr}{\mbox{\tt /kr94}}
+% \newcommand{\ucpop}{\mbox{\sc ucpop}}
+% 
+% \newcommand{\cause}{{\tt cause}}
+% \newcommand{\observe}{{\tt observe}}
+% \newcommand{\satisfy}{{\tt satisfy}}
+% \newcommand{\handsoff}{{\tt hands-off}}
+% \newcommand{\findout}{{\tt find-out}}
+% 
+% \newcommand{\CAUS}{\mbox{C}}
+% \newcommand{\OBS}{\mbox{O}}
+% \newcommand{\PAT}{\mbox{\sf E}}
+% \newcommand{\fact}{\mbox{$\varphi$}}
+% \newcommand{\LIT}{\mbox{\sf p}}
+% \newcommand{\lit}{\mbox{\LIT}}
+% \newcommand{\litp}{\mbox{\LIT$^\prime$}}
+% \newcommand{\rel}{\mbox{REL}}
+% \newcommand{\change}[3]{\mbox{$\Delta(#1,{\tt #2}\rightarrow {\tt #3})$}}   
+% 
+% \newcommand{\true}{{\tt T}}
+% \newcommand{\false}{{\tt F}}
+% \newcommand{\unknown}{{\tt U}}
+% 
+% 

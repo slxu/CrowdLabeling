@@ -1,0 +1,70 @@
+T0	ACE-Mention 109 127	HELSINKI , Finland
+#0	ACE T0	entityID: APW20001205.2150.0791-E13; extent: HELSINKI , Finland
+T1	ACE-Mention 128 132	(AP)
+#1	ACE T1	entityID: APW20001205.2150.0791-E15; extent: (AP)
+T2	ACE-Mention 135 140	Nokia
+#2	ACE T2	entityID: APW20001205.2150.0791-E1; extent: Nokia
+T3	ACE-Mention 187 198	the company
+#3	ACE T3	entityID: APW20001205.2150.0791-E1; extent: the company
+T4	ACE-Mention 208 211	its
+#4	ACE T4	entityID: APW20001205.2150.0791-E1; extent: its
+T5	ACE-Mention 281 284	its
+#5	ACE T5	entityID: APW20001205.2150.0791-E1; extent: its
+T6	ACE-Mention 403 405	we
+#6	ACE T6	entityID: APW20001205.2150.0791-E9; extent: we
+T7	ACE-Mention 535 548	almost anyone
+#7	ACE T7	entityID: APW20001205.2150.0791-E18; extent: almost anyone
+T8	ACE-Mention 563 571	anywhere
+#8	ACE T8	entityID: APW20001205.2150.0791-E10; extent: anywhere
+T9	ACE-Mention 577 614	Nokia 's Chief Executive Jorma Ollila
+#9	ACE T9	entityID: APW20001205.2150.0791-E19; extent: Nokia 's Chief Executive Jorma Ollila
+T10	ACE-Mention 620 639	investors in London
+#10	ACE T10	entityID: APW20001205.2150.0791-E21; extent: investors in London
+T11	ACE-Mention 643 648	Nokia
+#11	ACE T11	entityID: APW20001205.2150.0791-E1; extent: Nokia
+T12	ACE-Mention 709 721	the industry
+#12	ACE T12	entityID: APW20001205.2150.0791-E23; extent: the industry
+T13	ACE-Mention 735 767	technology and telecommunication
+#13	ACE T13	entityID: APW20001205.2150.0791-E23; extent: technology and telecommunication
+T14	ACE-Mention 825 830	Nokia
+#14	ACE T14	entityID: APW20001205.2150.0791-E1; extent: Nokia
+T15	ACE-Mention 896 923	the New York Stock Exchange
+#15	ACE T15	entityID: APW20001205.2150.0791-E25; extent: the New York Stock Exchange
+T16	ACE-Mention 927 932	Nokia
+#16	ACE T16	entityID: APW20001205.2150.0791-E1; extent: Nokia
+T17	ACE-Mention 935 974	the world 's biggest mobile phone maker
+#17	ACE T17	entityID: APW20001205.2150.0791-E1; extent: the world 's biggest mobile phone maker
+T18	ACE-Mention 1010 1012	it
+#18	ACE T18	entityID: APW20001205.2150.0791-E1; extent: it
+T19	ACE-Mention 1082 1084	It
+#19	ACE T19	entityID: APW20001205.2150.0791-E1; extent: It
+T20	ACE-Mention 1141 1152	The company
+#20	ACE T20	entityID: APW20001205.2150.0791-E1; extent: The company
+T21	ACE-Mention 1224 1227	its
+#21	ACE T21	entityID: APW20001205.2150.0791-E1; extent: its
+T22	ACE-Mention 1284 1299	its competitors
+#22	ACE T22	entityID: APW20001205.2150.0791-E12; extent: its competitors
+T23	ACE-Mention 1303 1308	Nokia
+#23	ACE T23	entityID: APW20001205.2150.0791-E1; extent: Nokia
+T24	ACE-Mention 1333 1361	mobile phone users worldwide
+#24	ACE T24	entityID: APW20001205.2150.0791-E3; extent: mobile phone users worldwide
+T25	ACE-Mention 1448 1450	it
+#25	ACE T25	entityID: APW20001205.2150.0791-E1; extent: it
+T26	ACE-Mention 1489 1500	the company
+#26	ACE T26	entityID: APW20001205.2150.0791-E1; extent: the company
+T27	ACE-Mention 1552 1559	Redmond
+#27	ACE T27	entityID: APW20001205.2150.0791-E4; extent: Redmond
+T28	ACE-Mention 1562 1598	Washington-based AT&AMP ; T Wireless
+#28	ACE T28	entityID: APW20001205.2150.0791-E4; extent: Washington-based AT&AMP ; T Wireless
+T29	ACE-Mention 1610 1613	its
+#29	ACE T29	entityID: APW20001205.2150.0791-E1; extent: its
+T30	ACE-Mention 1625 1642	the United States
+#30	ACE T30	entityID: APW20001205.2150.0791-E6; extent: the United States
+T31	ACE-Mention 1698 1703	Nokia
+#31	ACE T31	entityID: APW20001205.2150.0791-E1; extent: Nokia
+T32	ACE-Mention 1709 1711	it
+#32	ACE T32	entityID: APW20001205.2150.0791-E1; extent: it
+T33	ACE-Mention 1749 1774	the Finland-based company
+#33	ACE T33	entityID: APW20001205.2150.0791-E1; extent: the Finland-based company
+T34	ACE-Mention 1791 1796	Nokia
+#34	ACE T34	entityID: APW20001205.2150.0791-E1; extent: Nokia

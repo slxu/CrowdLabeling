@@ -1,0 +1,112 @@
+T0	ACE-Mention 335 345	WASHINGTON
+#0	ACE T0	entityID: NYT20001012.1539.0165-E16; extent: WASHINGTON
+T1	ACE-Mention 348 432	Advocates for more frequent disclosure of what mutual funds hold in their portfolios
+#1	ACE T1	entityID: NYT20001012.1539.0165-E26; extent: Advocates for more frequent disclosure of what mutual funds hold in their portfolios
+T2	ACE-Mention 446 495	a top Securities and Exchange Commission official
+#2	ACE T2	entityID: NYT20001012.1539.0165-E27; extent: a top Securities and Exchange Commission official
+T3	ACE-Mention 529 562	a fund shareholder advocacy group
+#3	ACE T3	entityID: NYT20001012.1539.0165-E29; extent: a fund shareholder advocacy group
+T4	ACE-Mention 566 581	Donald Phillips
+#4	ACE T4	entityID: NYT20001012.1539.0165-E31; extent: Donald Phillips
+T5	ACE-Mention 584 647	chief executive of Morningstar Inc. , which tracks mutual funds
+#5	ACE T5	entityID: NYT20001012.1539.0165-E31; extent: chief executive of Morningstar Inc. , which tracks mutual funds
+T6	ACE-Mention 660 673	Arthur Levitt
+#6	ACE T6	entityID: NYT20001012.1539.0165-E34; extent: Arthur Levitt
+T7	ACE-Mention 676 699	the chairman of the SEC
+#7	ACE T7	entityID: NYT20001012.1539.0165-E34; extent: the chairman of the SEC
+T8	ACE-Mention 731 743	stockholders
+#8	ACE T8	entityID: NYT20001012.1539.0165-E37; extent: stockholders
+T9	ACE-Mention 748 772	mutual fund shareholders
+#9	ACE T9	entityID: NYT20001012.1539.0165-E38; extent: mutual fund shareholders
+T10	ACE-Mention 779 781	He
+#10	ACE T10	entityID: NYT20001012.1539.0165-E34; extent: He
+T11	ACE-Mention 800 802	he
+#11	ACE T11	entityID: NYT20001012.1539.0165-E34; extent: he
+T12	ACE-Mention 832 840	Phillips
+#12	ACE T12	entityID: NYT20001012.1539.0165-E31; extent: Phillips
+T13	ACE-Mention 886 888	he
+#13	ACE T13	entityID: NYT20001012.1539.0165-E34; extent: he
+T14	ACE-Mention 950 956	Levitt
+#14	ACE T14	entityID: NYT20001012.1539.0165-E34; extent: Levitt
+T15	ACE-Mention 961 968	the SEC
+#15	ACE T15	entityID: NYT20001012.1539.0165-E28; extent: the SEC
+T16	ACE-Mention 983 992	companies
+#16	ACE T16	entityID: NYT20001012.1539.0165-E1; extent: companies
+T17	ACE-Mention 1029 1039	the public
+#17	ACE T17	entityID: NYT20001012.1539.0165-E2; extent: the public
+T18	ACE-Mention 1062 1066	they
+#18	ACE T18	entityID: NYT20001012.1539.0165-E1; extent: they
+T19	ACE-Mention 1072 1080	analysts
+#19	ACE T19	entityID: NYT20001012.1539.0165-E3; extent: analysts
+T20	ACE-Mention 1085 1108	institutional investors
+#20	ACE T20	entityID: NYT20001012.1539.0165-E4; extent: institutional investors
+T21	ACE-Mention 1192 1200	Phillips
+#21	ACE T21	entityID: NYT20001012.1539.0165-E31; extent: Phillips
+T22	ACE-Mention 1211 1218	the SEC
+#22	ACE T22	entityID: NYT20001012.1539.0165-E28; extent: the SEC
+T23	ACE-Mention 1252 1289	the $ 7 trillion mutual fund industry
+#23	ACE T23	entityID: NYT20001012.1539.0165-E5; extent: the $ 7 trillion mutual fund industry
+T24	ACE-Mention 1299 1306	the SEC
+#24	ACE T24	entityID: NYT20001012.1539.0165-E28; extent: the SEC
+T25	ACE-Mention 1320 1332	the industry
+#25	ACE T25	entityID: NYT20001012.1539.0165-E5; extent: the industry
+T26	ACE-Mention 1477 1484	the SEC
+#26	ACE T26	entityID: NYT20001012.1539.0165-E28; extent: the SEC
+T27	ACE-Mention 1501 1509	Phillips
+#27	ACE T27	entityID: NYT20001012.1539.0165-E31; extent: Phillips
+T28	ACE-Mention 1597 1609	Paul F. Roye
+#28	ACE T28	entityID: NYT20001012.1539.0165-E6; extent: Paul F. Roye
+T29	ACE-Mention 1612 1672	the director of the SEC 's division of investment management
+#29	ACE T29	entityID: NYT20001012.1539.0165-E6; extent: the director of the SEC 's division of investment management
+T30	ACE-Mention 1680 1682	he
+#30	ACE T30	entityID: NYT20001012.1539.0165-E6; extent: he
+T31	ACE-Mention 1730 1738	his boss
+#31	ACE T31	entityID: NYT20001012.1539.0165-E9; extent: his boss
+T32	ACE-Mention 1754 1766	The chairman
+#32	ACE T32	entityID: NYT20001012.1539.0165-E34; extent: The chairman
+T33	ACE-Mention 1794 1803	investors
+#33	ACE T33	entityID: NYT20001012.1539.0165-E10; extent: investors
+T34	ACE-Mention 1809 1811	he
+#34	ACE T34	entityID: NYT20001012.1539.0165-E6; extent: he
+T35	ACE-Mention 1873 1886	all investors
+#35	ACE T35	entityID: NYT20001012.1539.0165-E10; extent: all investors
+T36	ACE-Mention 1960 2007	a group of investors that want more information
+#36	ACE T36	entityID: NYT20001012.1539.0165-E11; extent: a group of investors that want more information
+T37	ACE-Mention 2028 2092	a group of investors who say they are inundated with information
+#37	ACE T37	entityID: NYT20001012.1539.0165-E12; extent: a group of investors who say they are inundated with information
+T38	ACE-Mention 2098 2102	Roye
+#38	ACE T38	entityID: NYT20001012.1539.0165-E6; extent: Roye
+T39	ACE-Mention 2111 2115	Roye
+#39	ACE T39	entityID: NYT20001012.1539.0165-E6; extent: Roye
+T40	ACE-Mention 2166 2174	Fidelity
+#40	ACE T40	entityID: NYT20001012.1539.0165-E13; extent: Fidelity
+T41	ACE-Mention 2318 2326	Fidelity
+#41	ACE T41	entityID: NYT20001012.1539.0165-E13; extent: Fidelity
+T42	ACE-Mention 2648 2652	Roye
+#42	ACE T42	entityID: NYT20001012.1539.0165-E6; extent: Roye
+T43	ACE-Mention 2668 2680	his division
+#43	ACE T43	entityID: NYT20001012.1539.0165-E8; extent: his division
+T44	ACE-Mention 2856 2864	European
+#44	ACE T44	entityID: NYT20001012.1539.0165-E14; extent: European
+T45	ACE-Mention 2937 2943	Europe
+#45	ACE T45	entityID: NYT20001012.1539.0165-E14; extent: Europe
+T46	ACE-Mention 3070 3084	Fund Democracy
+#46	ACE T46	entityID: NYT20001012.1539.0165-E17; extent: Fund Democracy
+T47	ACE-Mention 3087 3200	a fund shareholder advocacy group founded by Mercer Bullard , a former lawyer for the SEC 's enforcement division
+#47	ACE T47	entityID: NYT20001012.1539.0165-E17; extent: a fund shareholder advocacy group founded by Mercer Bullard , a former lawyer for the SEC 's enforcement division
+T48	ACE-Mention 3204 3212	Phillips
+#48	ACE T48	entityID: NYT20001012.1539.0165-E31; extent: Phillips
+T49	ACE-Mention 3217 3234	Harold R. Evensky
+#49	ACE T49	entityID: NYT20001012.1539.0165-E22; extent: Harold R. Evensky
+T50	ACE-Mention 3237 3256	a financial planner
+#50	ACE T50	entityID: NYT20001012.1539.0165-E22; extent: a financial planner
+T51	ACE-Mention 3281 3288	the SEC
+#51	ACE T51	entityID: NYT20001012.1539.0165-E28; extent: the SEC
+T52	ACE-Mention 3351 3354	You
+#52	ACE T52	entityID: NYT20001012.1539.0165-E24; extent: You
+T53	ACE-Mention 3399 3406	Evensky
+#53	ACE T53	entityID: NYT20001012.1539.0165-E22; extent: Evensky
+T54	ACE-Mention 3422 3425	you
+#54	ACE T54	entityID: NYT20001012.1539.0165-E24; extent: you
+T55	ACE-Mention 3434 3447	a corporation
+#55	ACE T55	entityID: NYT20001012.1539.0165-E25; extent: a corporation

@@ -1,0 +1,18 @@
+\section{Toolkit Overview}
+In this section, we first introduce the design decisions and the overview of the toolkits. Then we present the user interface and the major functions.
+
+The toolkit is designed and implemented as a web application, since it is easiest for crowd workers to visit.
+
+The users of our visualization toolkit include {\em annotation gatherers} and {\em crowd-source workers}. In general, annotation gatherers use our toolkit to collect training data from crowd-source workers for their NLP systems. It is reasonable to assume they are NLP experts and well-trained programmers. We believe annotation gatherers know their NLP problems better than anyone else, so we leave them to implement the visualization of the NLP task by implementing a static page. They should embed the APIs of our toolkits in their html so they can pass on the objects to cluster or parse. We keep the task-visualization transparent to maximize the flexibility of our toolkit. Figure~\ref{fig:workflow} shows the workflow of our toolkit.
+
+\begin{figure}
+\centering
+\includegraphics[width=3.1in]{figs/workflow.png}
+\caption{Workflow of the toolkit: annotation gatherers generate the html pages to display the task; our toolkit take the html pages as the input and visualize the interactions; crowd-sourced workers see the integrated interface and generate the outputs. }
+\label{fig:workflow}
+\end{figure}
+
+Figure 
+
+
+

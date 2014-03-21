@@ -1,0 +1,226 @@
+T0	ACE-Mention 313 314	I
+#0	ACE T0	entityID: NYT20001011.2209.0444-E1; extent: I
+T1	ACE-Mention 323 324	I
+#1	ACE T1	entityID: NYT20001011.2209.0444-E1; extent: I
+T2	ACE-Mention 329 341	a big nobody
+#2	ACE T2	entityID: NYT20001011.2209.0444-E27; extent: a big nobody
+T3	ACE-Mention 353 371	Mark David Chapman
+#3	ACE T3	entityID: NYT20001011.2209.0444-E1; extent: Mark David Chapman
+T4	ACE-Mention 377 408	the New York State Parole Board
+#4	ACE T4	entityID: NYT20001011.2209.0444-E5; extent: the New York State Parole Board
+T5	ACE-Mention 432 455	the Attica state prison
+#5	ACE T5	entityID: NYT20001011.2209.0444-E31; extent: the Attica state prison
+T6	ACE-Mention 471 474	his
+#6	ACE T6	entityID: NYT20001011.2209.0444-E1; extent: his
+T7	ACE-Mention 494 663	the board , which , citing his ongoing desire for notoriety , denied Chapman 's first bid for parole since he pleaded guilty to the Dec. 8 , 1980 , murder of John Lennon
+#7	ACE T7	entityID: NYT20001011.2209.0444-E5; extent: the board , which , citing his ongoing desire for notoriety , denied Chapman 's first bid for parole since he pleaded guilty to the Dec. 8 , 1980 , murder of John Lennon
+T8	ACE-Mention 731 738	Chapman
+#8	ACE T8	entityID: NYT20001011.2209.0444-E1; extent: Chapman
+T9	ACE-Mention 760 762	he
+#9	ACE T9	entityID: NYT20001011.2209.0444-E1; extent: he
+T10	ACE-Mention 797 800	his
+#10	ACE T10	entityID: NYT20001011.2209.0444-E1; extent: his
+T11	ACE-Mention 819 821	he
+#11	ACE T11	entityID: NYT20001011.2209.0444-E1; extent: he
+T12	ACE-Mention 837 839	he
+#12	ACE T12	entityID: NYT20001011.2209.0444-E1; extent: he
+T13	ACE-Mention 861 867	a farm
+#13	ACE T13	entityID: NYT20001011.2209.0444-E6; extent: a farm
+T14	ACE-Mention 879 887	churches
+#14	ACE T14	entityID: NYT20001011.2209.0444-E7; extent: churches
+T15	ACE-Mention 909 967	his wife , who flies from Hawaii twice a year to visit him
+#15	ACE T15	entityID: NYT20001011.2209.0444-E8; extent: his wife , who flies from Hawaii twice a year to visit him
+T16	ACE-Mention 970 972	he
+#16	ACE T16	entityID: NYT20001011.2209.0444-E1; extent: he
+T17	ACE-Mention 1015 1030	Lennon 's widow
+#17	ACE T17	entityID: NYT20001011.2209.0444-E10; extent: Lennon 's widow
+T18	ACE-Mention 1033 1041	Yoko Ono
+#18	ACE T18	entityID: NYT20001011.2209.0444-E10; extent: Yoko Ono
+T19	ACE-Mention 1044 1056	Chapman , 45
+#19	ACE T19	entityID: NYT20001011.2209.0444-E1; extent: Chapman , 45
+T20	ACE-Mention 1075 1077	he
+#20	ACE T20	entityID: NYT20001011.2209.0444-E1; extent: he
+T21	ACE-Mention 1096 1099	her
+#21	ACE T21	entityID: NYT20001011.2209.0444-E10; extent: her
+T22	ACE-Mention 1122 1124	he
+#22	ACE T22	entityID: NYT20001011.2209.0444-E1; extent: he
+T23	ACE-Mention 1179 1187	Newsweek
+#23	ACE T23	entityID: NYT20001011.2209.0444-E12; extent: Newsweek
+T24	ACE-Mention 1205 1208	she
+#24	ACE T24	entityID: NYT20001011.2209.0444-E10; extent: she
+T25	ACE-Mention 1214 1217	she
+#25	ACE T25	entityID: NYT20001011.2209.0444-E10; extent: she
+T26	ACE-Mention 1263 1274	her husband
+#26	ACE T26	entityID: NYT20001011.2209.0444-E2; extent: her husband
+T27	ACE-Mention 1290 1291	I
+#27	ACE T27	entityID: NYT20001011.2209.0444-E1; extent: I
+T28	ACE-Mention 1334 1345	John Lennon
+#28	ACE T28	entityID: NYT20001011.2209.0444-E2; extent: John Lennon
+T29	ACE-Mention 1350 1358	a person
+#29	ACE T29	entityID: NYT20001011.2209.0444-E2; extent: a person
+T30	ACE-Mention 1364 1366	he
+#30	ACE T30	entityID: NYT20001011.2209.0444-E1; extent: he
+T31	ACE-Mention 1375 1382	Chapman
+#31	ACE T31	entityID: NYT20001011.2209.0444-E1; extent: Chapman
+T32	ACE-Mention 1388 1397	the board
+#32	ACE T32	entityID: NYT20001011.2209.0444-E5; extent: the board
+T33	ACE-Mention 1431 1433	he
+#33	ACE T33	entityID: NYT20001011.2209.0444-E1; extent: he
+T34	ACE-Mention 1472 1474	he
+#34	ACE T34	entityID: NYT20001011.2209.0444-E1; extent: he
+T35	ACE-Mention 1485 1488	You
+#35	ACE T35	entityID: NYT20001011.2209.0444-E5; extent: You
+T36	ACE-Mention 1530 1537	Chapman
+#36	ACE T36	entityID: NYT20001011.2209.0444-E1; extent: Chapman
+T37	ACE-Mention 1576 1578	he
+#37	ACE T37	entityID: NYT20001011.2209.0444-E1; extent: he
+T38	ACE-Mention 1598 1622	a parole board spokesman
+#38	ACE T38	entityID: NYT20001011.2209.0444-E13; extent: a parole board spokesman
+T39	ACE-Mention 1631 1634	Ono
+#39	ACE T39	entityID: NYT20001011.2209.0444-E10; extent: Ono
+T40	ACE-Mention 1723 1823	Chapman , who has been criticized for seeming to revel in televised appearances after his conviction
+#40	ACE T40	entityID: NYT20001011.2209.0444-E1; extent: Chapman , who has been criticized for seeming to revel in televised appearances after his conviction
+T41	ACE-Mention 1928 1931	his
+#41	ACE T41	entityID: NYT20001011.2209.0444-E1; extent: his
+T42	ACE-Mention 1948 1950	he
+#42	ACE T42	entityID: NYT20001011.2209.0444-E1; extent: he
+T43	ACE-Mention 1961 1965	They
+#43	ACE T43	entityID: NYT20001011.2209.0444-E14; extent: They
+T44	ACE-Mention 1982 1984	me
+#44	ACE T44	entityID: NYT20001011.2209.0444-E1; extent: me
+T45	ACE-Mention 2028 2029	I
+#45	ACE T45	entityID: NYT20001011.2209.0444-E1; extent: I
+T46	ACE-Mention 2072 2074	he
+#46	ACE T46	entityID: NYT20001011.2209.0444-E1; extent: he
+T47	ACE-Mention 2098 2101	his
+#47	ACE T47	entityID: NYT20001011.2209.0444-E1; extent: his
+T48	ACE-Mention 2123 2197	Chapman , who is being held in protective custody apart from other inmates
+#48	ACE T48	entityID: NYT20001011.2209.0444-E1; extent: Chapman , who is being held in protective custody apart from other inmates
+T49	ACE-Mention 2205 2207	he
+#49	ACE T49	entityID: NYT20001011.2209.0444-E1; extent: he
+T50	ACE-Mention 2222 2225	God
+#50	ACE T50	entityID: NYT20001011.2209.0444-E16; extent: God
+T51	ACE-Mention 2261 2274	Daniel 's den
+#51	ACE T51	entityID: NYT20001011.2209.0444-E18; extent: Daniel 's den
+T52	ACE-Mention 2296 2297	I
+#52	ACE T52	entityID: NYT20001011.2209.0444-E1; extent: I
+T53	ACE-Mention 2304 2306	he
+#53	ACE T53	entityID: NYT20001011.2209.0444-E16; extent: he
+T54	ACE-Mention 2327 2329	me
+#54	ACE T54	entityID: NYT20001011.2209.0444-E1; extent: me
+T55	ACE-Mention 2333 2335	he
+#55	ACE T55	entityID: NYT20001011.2209.0444-E16; extent: he
+T56	ACE-Mention 2353 2354	I
+#56	ACE T56	entityID: NYT20001011.2209.0444-E1; extent: I
+T57	ACE-Mention 2386 2389	him
+#57	ACE T57	entityID: NYT20001011.2209.0444-E16; extent: him
+T58	ACE-Mention 2396 2403	Chapman
+#58	ACE T58	entityID: NYT20001011.2209.0444-E1; extent: Chapman
+T59	ACE-Mention 2470 2473	his
+#59	ACE T59	entityID: NYT20001011.2209.0444-E1; extent: his
+T60	ACE-Mention 2533 2536	him
+#60	ACE T60	entityID: NYT20001011.2209.0444-E1; extent: him
+T61	ACE-Mention 2542 2568	a security guard in Hawaii
+#61	ACE T61	entityID: NYT20001011.2209.0444-E1; extent: a security guard in Hawaii
+T62	ACE-Mention 2586 2589	him
+#62	ACE T62	entityID: NYT20001011.2209.0444-E1; extent: him
+T63	ACE-Mention 2597 2600	his
+#63	ACE T63	entityID: NYT20001011.2209.0444-E1; extent: his
+T64	ACE-Mention 2625 2634	the board
+#64	ACE T64	entityID: NYT20001011.2209.0444-E5; extent: the board
+T65	ACE-Mention 2707 2709	it
+#65	ACE T65	entityID: NYT20001011.2209.0444-E5; extent: it
+T66	ACE-Mention 2720 2724	Your
+#66	ACE T66	entityID: NYT20001011.2209.0444-E1; extent: Your
+T67	ACE-Mention 2779 2783	your
+#67	ACE T67	entityID: NYT20001011.2209.0444-E1; extent: your
+T68	ACE-Mention 2818 2822	your
+#68	ACE T68	entityID: NYT20001011.2209.0444-E1; extent: your
+T69	ACE-Mention 2840 2850	this panel
+#69	ACE T69	entityID: NYT20001011.2209.0444-E5; extent: this panel
+T70	ACE-Mention 2857 2861	your
+#70	ACE T70	entityID: NYT20001011.2209.0444-E1; extent: your
+T71	ACE-Mention 2896 2900	your
+#71	ACE T71	entityID: NYT20001011.2209.0444-E1; extent: your
+T72	ACE-Mention 2928 2930	he
+#72	ACE T72	entityID: NYT20001011.2209.0444-E1; extent: he
+T73	ACE-Mention 2967 2969	he
+#73	ACE T73	entityID: NYT20001011.2209.0444-E1; extent: he
+T74	ACE-Mention 2989 2996	Chapman
+#74	ACE T74	entityID: NYT20001011.2209.0444-E1; extent: Chapman
+T75	ACE-Mention 3028 3043	People magazine
+#75	ACE T75	entityID: NYT20001011.2209.0444-E20; extent: People magazine
+T76	ACE-Mention 3056 3058	he
+#76	ACE T76	entityID: NYT20001011.2209.0444-E1; extent: he
+T77	ACE-Mention 3119 3121	He
+#77	ACE T77	entityID: NYT20001011.2209.0444-E1; extent: He
+T78	ACE-Mention 3152 3167	Barbara Walters
+#78	ACE T78	entityID: NYT20001011.2209.0444-E21; extent: Barbara Walters
+T79	ACE-Mention 3172 3182	Larry King
+#79	ACE T79	entityID: NYT20001011.2209.0444-E22; extent: Larry King
+T80	ACE-Mention 3201 3204	him
+#80	ACE T80	entityID: NYT20001011.2209.0444-E1; extent: him
+T81	ACE-Mention 3254 3256	he
+#81	ACE T81	entityID: NYT20001011.2209.0444-E1; extent: he
+T82	ACE-Mention 3267 3268	I
+#82	ACE T82	entityID: NYT20001011.2209.0444-E1; extent: I
+T83	ACE-Mention 3371 3378	Chapman
+#83	ACE T83	entityID: NYT20001011.2209.0444-E1; extent: Chapman
+T84	ACE-Mention 3431 3441	Jack Jones
+#84	ACE T84	entityID: NYT20001011.2209.0444-E23; extent: Jack Jones
+T85	ACE-Mention 3444 3606	a Rochester journalist who wrote the 1992 book `` Let Me Take You Down : Inside the Mind of Mark David Chapman , the Man Who Killed John Lennon '' ( Villard Books
+#85	ACE T85	entityID: NYT20001011.2209.0444-E23; extent: a Rochester journalist who wrote the 1992 book `` Let Me Take You Down : Inside the Mind of Mark David Chapman , the Man Who Killed John Lennon '' ( Villard Books
+T86	ACE-Mention 3612 3650	Jones , reached by telephone Wednesday
+#86	ACE T86	entityID: NYT20001011.2209.0444-E23; extent: Jones , reached by telephone Wednesday
+T87	ACE-Mention 3687 3694	Chapman
+#87	ACE T87	entityID: NYT20001011.2209.0444-E1; extent: Chapman
+T88	ACE-Mention 3704 3707	him
+#88	ACE T88	entityID: NYT20001011.2209.0444-E23; extent: him
+T89	ACE-Mention 3732 3734	he
+#89	ACE T89	entityID: NYT20001011.2209.0444-E1; extent: he
+T90	ACE-Mention 3762 3768	prison
+#90	ACE T90	entityID: NYT20001011.2209.0444-E31; extent: prison
+T91	ACE-Mention 3809 3811	he
+#91	ACE T91	entityID: NYT20001011.2209.0444-E1; extent: he
+T92	ACE-Mention 3830 3834	they
+#92	ACE T92	entityID: NYT20001011.2209.0444-E5; extent: they
+T93	ACE-Mention 3858 3862	they
+#93	ACE T93	entityID: NYT20001011.2209.0444-E5; extent: they
+T94	ACE-Mention 3878 3907	Jones , who spoke to him then
+#94	ACE T94	entityID: NYT20001011.2209.0444-E23; extent: Jones , who spoke to him then
+T95	ACE-Mention 3989 3996	Chapman
+#95	ACE T95	entityID: NYT20001011.2209.0444-E1; extent: Chapman
+T96	ACE-Mention 4037 4040	God
+#96	ACE T96	entityID: NYT20001011.2209.0444-E16; extent: God
+T97	ACE-Mention 4043 4045	he
+#97	ACE T97	entityID: NYT20001011.2209.0444-E1; extent: he
+T98	ACE-Mention 4178 4184	London
+#98	ACE T98	entityID: NYT20001011.2209.0444-E26; extent: London
+T99	ACE-Mention 4187 4194	Chapman
+#99	ACE T99	entityID: NYT20001011.2209.0444-E1; extent: Chapman
+T100	ACE-Mention 4234 4240	Lennon
+#100	ACE T100	entityID: NYT20001011.2209.0444-E2; extent: Lennon
+T101	ACE-Mention 4245 4254	a liberal
+#101	ACE T101	entityID: NYT20001011.2209.0444-E2; extent: a liberal
+T102	ACE-Mention 4277 4280	him
+#102	ACE T102	entityID: NYT20001011.2209.0444-E1; extent: him
+T103	ACE-Mention 4320 4330	the inmate
+#103	ACE T103	entityID: NYT20001011.2209.0444-E1; extent: the inmate
+T104	ACE-Mention 4397 4399	he
+#104	ACE T104	entityID: NYT20001011.2209.0444-E1; extent: he
+T105	ACE-Mention 4444 4447	his
+#105	ACE T105	entityID: NYT20001011.2209.0444-E1; extent: his
+T106	ACE-Mention 4461 4463	He
+#106	ACE T106	entityID: NYT20001011.2209.0444-E23; extent: He
+T107	ACE-Mention 4470 4472	me
+#107	ACE T107	entityID: NYT20001011.2209.0444-E1; extent: me
+T108	ACE-Mention 4484 4485	I
+#108	ACE T108	entityID: NYT20001011.2209.0444-E1; extent: I
+T109	ACE-Mention 4492 4503	John Lennon
+#109	ACE T109	entityID: NYT20001011.2209.0444-E2; extent: John Lennon
+T110	ACE-Mention 4518 4525	Chapman
+#110	ACE T110	entityID: NYT20001011.2209.0444-E1; extent: Chapman
+T111	ACE-Mention 4541 4542	I
+#111	ACE T111	entityID: NYT20001011.2209.0444-E1; extent: I
+T112	ACE-Mention 4579 4580	I
+#112	ACE T112	entityID: NYT20001011.2209.0444-E1; extent: I

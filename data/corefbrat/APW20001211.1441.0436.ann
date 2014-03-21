@@ -1,0 +1,110 @@
+T0	ACE-Mention 111 121	WASHINGTON
+#0	ACE T0	entityID: APW20001211.1441.0436-E18; extent: WASHINGTON
+T1	ACE-Mention 122 126	(AP)
+#1	ACE T1	entityID: APW20001211.1441.0436-E21; extent: (AP)
+T2	ACE-Mention 129 146	The Supreme Court
+#2	ACE T2	entityID: APW20001211.1441.0436-E22; extent: The Supreme Court
+T3	ACE-Mention 151 169	a flight attendant
+#3	ACE T3	entityID: APW20001211.1441.0436-E2; extent: a flight attendant
+T4	ACE-Mention 174 192	Northwest Airlines
+#4	ACE T4	entityID: APW20001211.1441.0436-E24; extent: Northwest Airlines
+T5	ACE-Mention 196 199	her
+#5	ACE T5	entityID: APW20001211.1441.0436-E2; extent: her
+T6	ACE-Mention 211 214	she
+#6	ACE T6	entityID: APW20001211.1441.0436-E2; extent: she
+T7	ACE-Mention 264 268	Asia
+#7	ACE T7	entityID: APW20001211.1441.0436-E25; extent: Asia
+T8	ACE-Mention 272 281	The court
+#8	ACE T8	entityID: APW20001211.1441.0436-E22; extent: The court
+T9	ACE-Mention 324 333	Northwest
+#9	ACE T9	entityID: APW20001211.1441.0436-E24; extent: Northwest
+T10	ACE-Mention 419 439	the airline industry
+#10	ACE T10	entityID: APW20001211.1441.0436-E26; extent: the airline industry
+T11	ACE-Mention 471 505	Chief Justice William H. Rehnquist
+#11	ACE T11	entityID: APW20001211.1441.0436-E27; extent: Chief Justice William H. Rehnquist
+T12	ACE-Mention 510 518	Justices
+#12	ACE T12	entityID: APW20001211.1441.0436-E19; extent: Justices
+T13	ACE-Mention 519 539	Sandra Day O 'Connor
+#13	ACE T13	entityID: APW20001211.1441.0436-E31; extent: Sandra Day O 'Connor
+T14	ACE-Mention 544 559	Clarence Thomas
+#14	ACE T14	entityID: APW20001211.1441.0436-E20; extent: Clarence Thomas
+T15	ACE-Mention 575 584	the three
+#15	ACE T15	entityID: APW20001211.1441.0436-E30; extent: the three
+T16	ACE-Mention 587 596	O 'Connor
+#16	ACE T16	entityID: APW20001211.1441.0436-E31; extent: O 'Connor
+T17	ACE-Mention 662 684	federal appeals courts
+#17	ACE T17	entityID: APW20001211.1441.0436-E32; extent: federal appeals courts
+T18	ACE-Mention 711 738	the nation 's highest court
+#18	ACE T18	entityID: APW20001211.1441.0436-E22; extent: the nation 's highest court
+T19	ACE-Mention 764 887	Julie Duncan of Seattle , who said she suffered lung problems and chronic infections apparently related to secondhand smoke
+#19	ACE T19	entityID: APW20001211.1441.0436-E2; extent: Julie Duncan of Seattle , who said she suffered lung problems and chronic infections apparently related to secondhand smoke
+T20	ACE-Mention 891 900	Northwest
+#20	ACE T20	entityID: APW20001211.1441.0436-E24; extent: Northwest
+T21	ACE-Mention 1049 1054	Japan
+#21	ACE T21	entityID: APW20001211.1441.0436-E4; extent: Japan
+T22	ACE-Mention 1077 1088	The airline
+#22	ACE T22	entityID: APW20001211.1441.0436-E24; extent: The airline
+T23	ACE-Mention 1094 1096	it
+#23	ACE T23	entityID: APW20001211.1441.0436-E24; extent: it
+T24	ACE-Mention 1120 1160	other airlines that let passengers smoke
+#24	ACE T24	entityID: APW20001211.1441.0436-E5; extent: other airlines that let passengers smoke
+T25	ACE-Mention 1164 1170	Duncan
+#25	ACE T25	entityID: APW20001211.1441.0436-E2; extent: Duncan
+T26	ACE-Mention 1224 1233	Northwest
+#26	ACE T26	entityID: APW20001211.1441.0436-E24; extent: Northwest
+T27	ACE-Mention 1243 1246	its
+#27	ACE T27	entityID: APW20001211.1441.0436-E24; extent: its
+T28	ACE-Mention 1258 1268	Washington
+#28	ACE T28	entityID: APW20001211.1441.0436-E7; extent: Washington
+T29	ACE-Mention 1269 1274	state
+#29	ACE T29	entityID: APW20001211.1441.0436-E8; extent: state
+T30	ACE-Mention 1380 1385	state
+#30	ACE T30	entityID: APW20001211.1441.0436-E8; extent: state
+T31	ACE-Mention 1406 1413	airline
+#31	ACE T31	entityID: APW20001211.1441.0436-E9; extent: airline
+T32	ACE-Mention 1444 1459	A federal judge
+#32	ACE T32	entityID: APW20001211.1441.0436-E10; extent: A federal judge
+T33	ACE-Mention 1505 1511	Duncan
+#33	ACE T33	entityID: APW20001211.1441.0436-E2; extent: Duncan
+T34	ACE-Mention 1557 1562	state
+#34	ACE T34	entityID: APW20001211.1441.0436-E8; extent: state
+T35	ACE-Mention 1605 1614	Northwest
+#35	ACE T35	entityID: APW20001211.1441.0436-E24; extent: Northwest
+T36	ACE-Mention 1618 1621	its
+#36	ACE T36	entityID: APW20001211.1441.0436-E24; extent: its
+T37	ACE-Mention 1622 1635	trans-Pacific
+#37	ACE T37	entityID: APW20001211.1441.0436-E11; extent: trans-Pacific
+T38	ACE-Mention 1651 1688	the 9th U.S. Circuit Court of Appeals
+#38	ACE T38	entityID: APW20001211.1441.0436-E12; extent: the 9th U.S. Circuit Court of Appeals
+T39	ACE-Mention 1700 1706	Duncan
+#39	ACE T39	entityID: APW20001211.1441.0436-E2; extent: Duncan
+T40	ACE-Mention 1800 1810	an airline
+#40	ACE T40	entityID: APW20001211.1441.0436-E9; extent: an airline
+T41	ACE-Mention 1813 1822	the court
+#41	ACE T41	entityID: APW20001211.1441.0436-E12; extent: the court
+T42	ACE-Mention 1831 1840	The court
+#42	ACE T42	entityID: APW20001211.1441.0436-E12; extent: The court
+T43	ACE-Mention 1923 1933	an airline
+#43	ACE T43	entityID: APW20001211.1441.0436-E9; extent: an airline
+T44	ACE-Mention 2033 2053	Northwest 's lawyers
+#44	ACE T44	entityID: APW20001211.1441.0436-E14; extent: Northwest 's lawyers
+T45	ACE-Mention 2059 2067	airlines
+#45	ACE T45	entityID: APW20001211.1441.0436-E9; extent: airlines
+T46	ACE-Mention 2097 2102	their
+#46	ACE T46	entityID: APW20001211.1441.0436-E9; extent: their
+T47	ACE-Mention 2140 2154	various states
+#47	ACE T47	entityID: APW20001211.1441.0436-E15; extent: various states
+T48	ACE-Mention 2158 2175	Duncan 's lawyers
+#48	ACE T48	entityID: APW20001211.1441.0436-E16; extent: Duncan 's lawyers
+T49	ACE-Mention 2230 2238	airlines
+#49	ACE T49	entityID: APW20001211.1441.0436-E9; extent: airlines
+T50	ACE-Mention 2282 2300	Northwest Airlines
+#50	ACE T50	entityID: APW20001211.1441.0436-E24; extent: Northwest Airlines
+T51	ACE-Mention 2304 2310	Duncan
+#51	ACE T51	entityID: APW20001211.1441.0436-E2; extent: Duncan
+T52	ACE-Mention 2348 2361	appeals court
+#52	ACE T52	entityID: APW20001211.1441.0436-E12; extent: appeals court
+T53	ACE-Mention 2372 2378	Duncan
+#53	ACE T53	entityID: APW20001211.1441.0436-E2; extent: Duncan
+T54	ACE-Mention 2382 2400	Northwest Airlines
+#54	ACE T54	entityID: APW20001211.1441.0436-E24; extent: Northwest Airlines

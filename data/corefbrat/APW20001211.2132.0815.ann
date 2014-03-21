@@ -1,0 +1,134 @@
+T0	ACE-Mention 107 113	BOSTON
+#0	ACE T0	entityID: APW20001211.2132.0815-E21; extent: BOSTON
+T1	ACE-Mention 114 118	(AP)
+#1	ACE T1	entityID: APW20001211.2132.0815-E32; extent: (AP)
+T2	ACE-Mention 121 140	Major League Soccer
+#2	ACE T2	entityID: APW20001211.2132.0815-E33; extent: Major League Soccer
+T3	ACE-Mention 163 174	its players
+#3	ACE T3	entityID: APW20001211.2132.0815-E19; extent: its players
+T4	ACE-Mention 190 196	a jury
+#4	ACE T4	entityID: APW20001211.2132.0815-E35; extent: a jury
+T5	ACE-Mention 210 220	the league
+#5	ACE T5	entityID: APW20001211.2132.0815-E33; extent: the league
+T6	ACE-Mention 229 274	a monopoly with the power to depress salaries
+#6	ACE T6	entityID: APW20001211.2132.0815-E36; extent: a monopoly with the power to depress salaries
+T7	ACE-Mention 322 335	federal court
+#7	ACE T7	entityID: APW20001211.2132.0815-E37; extent: federal court
+T8	ACE-Mention 349 359	MLS owners
+#8	ACE T8	entityID: APW20001211.2132.0815-E39; extent: MLS owners
+T9	ACE-Mention 375 401	the U.S. Soccer Federation
+#9	ACE T9	entityID: APW20001211.2132.0815-E40; extent: the U.S. Soccer Federation
+T10	ACE-Mention 431 456	Division I soccer players
+#10	ACE T10	entityID: APW20001211.2132.0815-E41; extent: Division I soccer players
+T11	ACE-Mention 500 508	the jury
+#11	ACE T11	entityID: APW20001211.2132.0815-E35; extent: the jury
+T12	ACE-Mention 555 561	Europe
+#12	ACE T12	entityID: APW20001211.2132.0815-E42; extent: Europe
+T13	ACE-Mention 567 580	Latin America
+#13	ACE T13	entityID: APW20001211.2132.0815-E1; extent: Latin America
+T14	ACE-Mention 590 635	minor and indoor leagues in the United States
+#14	ACE T14	entityID: APW20001211.2132.0815-E2; extent: minor and indoor leagues in the United States
+T15	ACE-Mention 642 644	We
+#15	ACE T15	entityID: APW20001211.2132.0815-E33; extent: We
+T16	ACE-Mention 665 676	the players
+#16	ACE T16	entityID: APW20001211.2132.0815-E19; extent: the players
+T17	ACE-Mention 712 716	they
+#17	ACE T17	entityID: APW20001211.2132.0815-E19; extent: they
+T18	ACE-Mention 750 765	Michael Cardozo
+#18	ACE T18	entityID: APW20001211.2132.0815-E4; extent: Michael Cardozo
+T19	ACE-Mention 768 787	an attorney for MLS
+#19	ACE T19	entityID: APW20001211.2132.0815-E4; extent: an attorney for MLS
+T20	ACE-Mention 791 802	The players
+#20	ACE T20	entityID: APW20001211.2132.0815-E19; extent: The players
+T21	ACE-Mention 829 853	attorney Jeffrey Kessler
+#21	ACE T21	entityID: APW20001211.2132.0815-E6; extent: attorney Jeffrey Kessler
+T22	ACE-Mention 862 868	Jurors
+#22	ACE T22	entityID: APW20001211.2132.0815-E35; extent: Jurors
+T23	ACE-Mention 874 894	The Associated Press
+#23	ACE T23	entityID: APW20001211.2132.0815-E32; extent: The Associated Press
+T24	ACE-Mention 900 904	they
+#24	ACE T24	entityID: APW20001211.2132.0815-E35; extent: they
+T25	ACE-Mention 940 1102	former deputy commissioner Sunil Gulati , who compiled a chart noting that MLS players had come from and gone to professional leagues in dozens of other countries
+#25	ACE T25	entityID: APW20001211.2132.0815-E8; extent: former deputy commissioner Sunil Gulati , who compiled a chart noting that MLS players had come from and gone to professional leagues in dozens of other countries
+T26	ACE-Mention 1110 1121	the players
+#26	ACE T26	entityID: APW20001211.2132.0815-E19; extent: the players
+T27	ACE-Mention 1134 1164	only 20 percent of MLS players
+#27	ACE T27	entityID: APW20001211.2132.0815-E13; extent: only 20 percent of MLS players
+T28	ACE-Mention 1194 1200	Others
+#28	ACE T28	entityID: APW20001211.2132.0815-E15; extent: Others
+T29	ACE-Mention 1293 1308	foreign players
+#29	ACE T29	entityID: APW20001211.2132.0815-E16; extent: foreign players
+T30	ACE-Mention 1319 1321	we
+#30	ACE T30	entityID: APW20001211.2132.0815-E19; extent: we
+T31	ACE-Mention 1382 1396	Garth Lagerway
+#31	ACE T31	entityID: APW20001211.2132.0815-E17; extent: Garth Lagerway
+T32	ACE-Mention 1399 1426	the Miami Fusion goalkeeper
+#32	ACE T32	entityID: APW20001211.2132.0815-E17; extent: the Miami Fusion goalkeeper
+T33	ACE-Mention 1431 1452	player representative
+#33	ACE T33	entityID: APW20001211.2132.0815-E17; extent: player representative
+T34	ACE-Mention 1498 1509	this league
+#34	ACE T34	entityID: APW20001211.2132.0815-E33; extent: this league
+T35	ACE-Mention 1513 1523	the league
+#35	ACE T35	entityID: APW20001211.2132.0815-E33; extent: the league
+T36	ACE-Mention 1532 1534	us
+#36	ACE T36	entityID: APW20001211.2132.0815-E19; extent: us
+T37	ACE-Mention 1540 1542	we
+#37	ACE T37	entityID: APW20001211.2132.0815-E19; extent: we
+T38	ACE-Mention 1571 1579	the jury
+#38	ACE T38	entityID: APW20001211.2132.0815-E35; extent: the jury
+T39	ACE-Mention 1591 1601	the owners
+#39	ACE T39	entityID: APW20001211.2132.0815-E39; extent: the owners
+T40	ACE-Mention 1658 1670	this country
+#40	ACE T40	entityID: APW20001211.2132.0815-E3; extent: this country
+T41	ACE-Mention 1673 1675	it
+#41	ACE T41	entityID: APW20001211.2132.0815-E35; extent: it
+T42	ACE-Mention 1745 1756	the players
+#42	ACE T42	entityID: APW20001211.2132.0815-E19; extent: the players
+T43	ACE-Mention 1813 1837	other Division I leagues
+#43	ACE T43	entityID: APW20001211.2132.0815-E22; extent: other Division I leagues
+T44	ACE-Mention 1882 1896	soccer leagues
+#44	ACE T44	entityID: APW20001211.2132.0815-E23; extent: soccer leagues
+T45	ACE-Mention 1901 1908	players
+#45	ACE T45	entityID: APW20001211.2132.0815-E24; extent: players
+T46	ACE-Mention 1912 1924	this country
+#46	ACE T46	entityID: APW20001211.2132.0815-E3; extent: this country
+T47	ACE-Mention 1938 1946	the jury
+#47	ACE T47	entityID: APW20001211.2132.0815-E35; extent: the jury
+T48	ACE-Mention 1958 1979	two topflight leagues
+#48	ACE T48	entityID: APW20001211.2132.0815-E25; extent: two topflight leagues
+T49	ACE-Mention 2011 2019	American
+#49	ACE T49	entityID: APW20001211.2132.0815-E3; extent: American
+T50	ACE-Mention 2055 2058	our
+#50	ACE T50	entityID: APW20001211.2132.0815-E35; extent: our
+T51	ACE-Mention 2075 2092	these two leagues
+#51	ACE T51	entityID: APW20001211.2132.0815-E25; extent: these two leagues
+T52	ACE-Mention 2113 2117	both
+#52	ACE T52	entityID: APW20001211.2132.0815-E25; extent: both
+T53	ACE-Mention 2141 2156	juror Tina Hart
+#53	ACE T53	entityID: APW20001211.2132.0815-E27; extent: juror Tina Hart
+T54	ACE-Mention 2162 2168	the AP
+#54	ACE T54	entityID: APW20001211.2132.0815-E32; extent: the AP
+T55	ACE-Mention 2215 2225	MLS owners
+#55	ACE T55	entityID: APW20001211.2132.0815-E39; extent: MLS owners
+T56	ACE-Mention 2239 2243	they
+#56	ACE T56	entityID: APW20001211.2132.0815-E39; extent: they
+T57	ACE-Mention 2328 2332	them
+#57	ACE T57	entityID: APW20001211.2132.0815-E39; extent: them
+T58	ACE-Mention 2397 2423	other players in the class
+#58	ACE T58	entityID: APW20001211.2132.0815-E29; extent: other players in the class
+T59	ACE-Mention 2542 2549	players
+#59	ACE T59	entityID: APW20001211.2132.0815-E19; extent: players
+T60	ACE-Mention 2600 2610	the league
+#60	ACE T60	entityID: APW20001211.2132.0815-E33; extent: the league
+T61	ACE-Mention 2649 2689	every new sports league formed since MLS
+#61	ACE T61	entityID: APW20001211.2132.0815-E31; extent: every new sports league formed since MLS
+T62	ACE-Mention 2771 2778	Kessler
+#62	ACE T62	entityID: APW20001211.2132.0815-E6; extent: Kessler
+T63	ACE-Mention 2818 2827	this jury
+#63	ACE T63	entityID: APW20001211.2132.0815-E35; extent: this jury
+T64	ACE-Mention 2882 2906	the players in that case
+#64	ACE T64	entityID: APW20001211.2132.0815-E19; extent: the players in that case
+T65	ACE-Mention 2918 2928	The league
+#65	ACE T65	entityID: APW20001211.2132.0815-E33; extent: The league
+T66	ACE-Mention 2945 2953	the jury
+#66	ACE T66	entityID: APW20001211.2132.0815-E35; extent: the jury
