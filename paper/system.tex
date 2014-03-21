@@ -85,25 +85,9 @@ Our tool does not allow user explicitly add a link between two nodes. Instead th
 
 \subsection{Tree Construction}
 
-We use syntactic parsing as the running example to show how our
-toolkit can build a parsed tree. Figure~\ref{fig:interface_tree.png}
-shows the general user interface. The left side is a list of sentences
-from which parsing trees are to be built. The right side is the
-tree editing area. Three main operations are provided for this task,
-i.e. sub-trees grouping by drawing a line over a set of subtrees, node
-deletion by drawing a line over the path linking the node to its
-parent, and sub-tree collapsing and expansion by clicking on a
-sub-tree root. The operations are simple while enough for any tree
-building tasks. Figure~\ref{fig:interface2.png} shows how the
-trees before and after editing in the interaction area for sentence
-{\em ``There is no asbestos in our products now."}. Initially, workers
-see a ``flat" tree with sentence tokens as the leaf nodes. They can
-merge nodes, insert and delete branch nodes with some intuitive
-operators. Note that a valid tree should not change the order of the
-leaf nodes. We propose an innovative {\em line-intersect} operator to
-guarantee the validity. To our best knowledge, we are the first to
-propose this visualization operator on tree structures. We would
-introduce them in Section 5.
+The tree annotation task is to construct or edit a tree hierarchy from
+a sentence. This task is very common in many sentence based NLP
+problems such as POS tagging.
 
 \begin{figure*}
 \centering
@@ -113,6 +97,96 @@ the sentence {``There is no asbestos in our products now."}}
 \label{fig:interface_tree.png}
 \end{figure*}
 
+
+\paragraph{\textsc{Interface}\\} The tree annotation task interface
+consists of two parts.  We use syntactic parsing as the running
+example to show how our toolkit can build a parsed tree.
+Figure~\ref{fig:interface_tree.png} shows the general user interface. 
+
+The left part is the sentence input data list. Our tool supports
+multiple sentence annotation in the same time. Users can select from a
+list of sentence files at the bottom of the left panel. The sentence
+files are in plain text format. Each sentence file is simply a list of
+sentences, each of which is a line. The words are separated by white
+space characters. The sentence list in a given input file will be
+shown on the \textit{Input} section. To the right of each sentence,
+there is a small \textit{download} sign, on which a click triggers a
+download of the current tree built for that sentence.
+
+
+The right part is the tree editing/construction area. A given input
+sentence will be splitted into word nodes vertically. The reason that
+we organize the sentence word nodes in this way instead of
+horizontally is that each word now always occuppies the same unit
+height. It's more space consistent visually and also more efficient in
+space usage. Our tool provides three operations for manipulating the
+tree construction task.
+
+
+\paragraph{\textsc{Node addition (grouping)}\\}
+
+Our tool provides a simple {\em line-intersect} operation to group an
+existing set of sub-trees as in Figure~\ref{fig:new_node.png}. A new
+node which serves as the root of all grouped sub-trees is added as a
+result. To the best of our knowledge, we are the first to propose this
+visualization operation on tree structures. 
+
+\begin{figure}
+\centering
+\includegraphics[width=1.4in]{figs/new_node_before.png}
+\includegraphics[width=1.4in]{figs/new_node_result.png}
+\caption{Add a new node to group a set of sub-trees by selecting a set
+of paths.}
+\label{fig:new_node.png}
+\end{figure}
+
+
+\paragraph{\textsc{Node deletion (ungrouping)}\\}
+
+As the couter-operation of node addition, our tool also provides a
+node deletion operation also by line intersect. If a single line is
+cut, our tool considers it as a node deletion. The node at the child
+side of the cut line will be deleted unless the node is a leaf node.
+Figure~\ref{fig:node_deletion.png} gives the illustration.
+
+\begin{figure}
+\centering
+\includegraphics[width=1.4in]{figs/node_deletion_before.png}
+\includegraphics[width=1.4in]{figs/node_deletion_after.png}
+\caption{Delete a node by selecting a single path.}
+\label{fig:node_deletion.png}
+\end{figure}
+
+
+
+\paragraph{\textsc{Node folding}\\}
+
+The above two tree editing operations are enough for building arbitray
+trees in most NLP tasks. In addition to them, our tool also provides a
+node folding operation. It is a change of view operation rather than
+an editing operation. Given any non-leaf node, a click on the node
+will folds the whole sub tree and represented by a colored leaf node
+with the all the words in the sub-tree displayed.
+Figure~\ref{fig:folding.png}  gives an illustration.
+
+\begin{figure}
+\centering
+\includegraphics[width=1.4in]{figs/collapse_after.png}
+\includegraphics[width=1.4in]{figs/collapse_before.png}
+\caption{Fold a node by clicking on the node.}
+\label{fig:folding.png}
+\end{figure}
+
+
+Since we are targeting sentence based tree builiding tasks, the tree
+layout is designed that the node order  is always kept as the input
+order, which is the sentence order, after any of the operations. 
+
+Figure~\ref{fig:interface2.png} shows how the trees before and after
+editing in the interaction area for sentence {\em ``There is no
+asbestos in our products now."}. Initially, workers see a ``flat" tree
+with sentence tokens as the leaf nodes. They can merge nodes, insert
+and delete branch nodes through the aforementioned operations. 
 
 
 \begin{figure}
