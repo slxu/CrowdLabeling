@@ -7,7 +7,7 @@
 We design, inplenemted and evaluated two visualizationt tool for crowdsorsing NLP annotations.
 
 The clustering tool fucused on direct dragging functing on the cluster graph to enable fast and direct annotation process.
-\\The tree building tool fcused on direct cutting and merging functio on the tree graph to enable fast and accurate tree building process.
+//The tree building tool fcused on direct cutting and merging functio on the tree graph to enable fast and accurate tree building process.
 
 System Brainstorming
 - All group members work on this together.
