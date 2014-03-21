@@ -686,8 +686,8 @@
 
       return sentenceTree;
     };
-    sentenceTree.toJson = function(){
-      return JSON.stringify(treeRoot, function(key, value){
+    sentenceTree.toJson = function(currentRoot){
+      return JSON.stringify(currentRoot, function(key, value){
         var result=undefined;
         if (value && (typeof value === 'object') && (!(value instanceof Array))){
           result={"children":value.children,"name":value.name};

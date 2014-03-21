@@ -170,6 +170,14 @@ button {
   background: #EEEEEE;
 }
 
+.treeSentenceSelected {
+  margin-bottom:10px;
+  border-bottom:#eee solid 1px;
+  cursor:pointer;
+  vertical-align:middle;
+  background: #CCC;
+}
+
 line {
     stroke: black;
     stroke-width: 1px;
