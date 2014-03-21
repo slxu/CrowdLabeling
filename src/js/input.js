@@ -99,10 +99,25 @@ function splitSentenceToJson(s) {
 
 function download(sentenceIdx) {
   if (sentences && sentences[sentenceIdx] && sentences[sentenceIdx].result) {
-    var pom = document.createElement('a');
-    pom.setAttribute('href', 'data:text/json;charset=utf-8,' + encodeURIComponent(sentenceTree.toJson(sentences[sentenceIdx].result)));
-    pom.setAttribute('download', "sentence#"+sentenceIdx+".json");
-    pom.click();
+    var filename = "sentence#"+sentenceIdx+".json";
+    var isFirefox = typeof InstallTrigger !== 'undefined';   // Firefox 1.0+
+    if (!isFirefox) {
+      var content = encodeURIComponent(sentenceTree.toJson(sentences[sentenceIdx].result));
+      var pom = document.createElement('a');
+      pom.setAttribute('href', 'data:text/json;charset=utf-8,' + content);
+      pom.setAttribute('download', filename);
+      pom.click();
+      document.body.removeChild(pom) 
+    } else{
+      var content = sentenceTree.toJson(sentences[sentenceIdx].result);
+      var a = window.document.createElement('a');
+      a.href = window.URL.createObjectURL(new Blob([content], {type: 'text/json'}));
+      a.download = filename;
+
+      document.body.appendChild(a)
+      a.click();
+      document.body.removeChild(a)
+    }
   }
 }
 
