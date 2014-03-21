@@ -49,12 +49,11 @@ var currentSelectedSentence;
 
 function initializeTreeSVG(redo) {
   var height = document.getElementById("chartTree").clientHeight-30;
-  var width = document.getElementById("chartTree").clientWidth-50;
+  var width = document.getElementById("chartTree").clientWidth-30;
 
   if (!initialized) {
     initialized=true;
-    sentenceTree = sentenceTree().size([height,
-        width]).textSize(16).textMargin(10).displayContainer("#chartTree").margin({top:20,
+    sentenceTree = sentenceTree().size([height, width]).textSize(16).textMargin(20).displayContainer("#chartTree").margin({top:20,
           bottom:0, left:20,right:0}).animationDuration(750).show();
   }
   if (redo) {
