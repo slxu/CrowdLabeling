@@ -4,9 +4,9 @@
 ## Project Name
 ## A Visualized Toolkit for Crowdsourcing NLP Annotations
 ## Development Process
-We design, inplenemted and evaluated two visualizationt tool for crowdsorsing NLP annotations.
+We design, implemented and evaluated two visualization tool for crowdsourcing NLP annotations.
 
-The clustering tool fucused on direct dragging functing on the cluster graph to enable fast and direct annotation process.The tree building tool fcused on direct cutting and merging functio on the tree graph to enable fast and accurate tree building process.
+The clustering tool focused on direct dragging function on the cluster graph to enable fast and direct annotation process. The tree building tool focused on direct cutting and merging function on the tree graph to enable fast and accurate tree building process.
 
 System Brainstorming
 - All group members work on this together.
@@ -22,3 +22,4 @@ System Graphic & Visualization Implementation:
 System Layout Adjustment & User Evaluation Study:
 - Major Responsibility: Hanchuan Li
 - Minor Responsibility: Congle Zhang, Haichen Shen, Shehgliang Xu.
+
