@@ -1,0 +1,208 @@
+T0	ACE-Mention 108 124	SANTIAGO , Chile
+#0	ACE T0	entityID: APW20001205.1847.0645-E6; extent: SANTIAGO , Chile
+T1	ACE-Mention 125 129	(AP)
+#1	ACE T1	entityID: APW20001205.1847.0645-E47; extent: (AP)
+T2	ACE-Mention 132 150	A court of appeals
+#2	ACE T2	entityID: APW20001205.1847.0645-E48; extent: A court of appeals
+T3	ACE-Mention 172 193	Gen. Augusto Pinochet
+#3	ACE T3	entityID: APW20001205.1847.0645-E1; extent: Gen. Augusto Pinochet
+T4	ACE-Mention 216 218	it
+#4	ACE T4	entityID: APW20001205.1847.0645-E48; extent: it
+T5	ACE-Mention 227 234	a judge
+#5	ACE T5	entityID: APW20001205.1847.0645-E2; extent: a judge
+T6	ACE-Mention 264 283	the former dictator
+#6	ACE T6	entityID: APW20001205.1847.0645-E1; extent: the former dictator
+T7	ACE-Mention 334 362	angry supporters of Pinochet
+#7	ACE T7	entityID: APW20001205.1847.0645-E3; extent: angry supporters of Pinochet
+T8	ACE-Mention 375 380	their
+#8	ACE T8	entityID: APW20001205.1847.0645-E3; extent: their
+T9	ACE-Mention 398 450	Judge Juan Guzman , who issued the indictment Friday
+#9	ACE T9	entityID: APW20001205.1847.0645-E4; extent: Judge Juan Guzman , who issued the indictment Friday
+T10	ACE-Mention 478 504	The court of appeals panel
+#10	ACE T10	entityID: APW20001205.1847.0645-E7; extent: The court of appeals panel
+T11	ACE-Mention 526 532	Guzman
+#11	ACE T11	entityID: APW20001205.1847.0645-E4; extent: Guzman
+T12	ACE-Mention 555 557	it
+#12	ACE T12	entityID: APW20001205.1847.0645-E7; extent: it
+T13	ACE-Mention 594 597	his
+#13	ACE T13	entityID: APW20001205.1847.0645-E4; extent: his
+T14	ACE-Mention 612 635	the 85-year-old general
+#14	ACE T14	entityID: APW20001205.1847.0645-E1; extent: the 85-year-old general
+T15	ACE-Mention 639 645	Guzman
+#15	ACE T15	entityID: APW20001205.1847.0645-E4; extent: Guzman
+T16	ACE-Mention 656 659	his
+#16	ACE T16	entityID: APW20001205.1847.0645-E4; extent: his
+T17	ACE-Mention 715 724	The court
+#17	ACE T17	entityID: APW20001205.1847.0645-E48; extent: The court
+T18	ACE-Mention 786 807	lawyers on both sides
+#18	ACE T18	entityID: APW20001205.1847.0645-E8; extent: lawyers on both sides
+T19	ACE-Mention 811 826	The court panel
+#19	ACE T19	entityID: APW20001205.1847.0645-E7; extent: The court panel
+T20	ACE-Mention 903 911	Pinochet
+#20	ACE T20	entityID: APW20001205.1847.0645-E1; extent: Pinochet
+T21	ACE-Mention 922 928	abroad
+#21	ACE T21	entityID: APW20001205.1847.0645-E10; extent: abroad
+T22	ACE-Mention 932 940	Pinochet
+#22	ACE T22	entityID: APW20001205.1847.0645-E1; extent: Pinochet
+T23	ACE-Mention 967 1006	his country house southwest of Santiago
+#23	ACE T23	entityID: APW20001205.1847.0645-E11; extent: his country house southwest of Santiago
+T24	ACE-Mention 1037 1073	Pinochet 's supporters and opponents
+#24	ACE T24	entityID: APW20001205.1847.0645-E13; extent: Pinochet 's supporters and opponents
+T25	ACE-Mention 1082 1100	the court building
+#25	ACE T25	entityID: APW20001205.1847.0645-E14; extent: the court building
+T26	ACE-Mention 1133 1139	Police
+#26	ACE T26	entityID: APW20001205.1847.0645-E15; extent: Police
+T27	ACE-Mention 1150 1154	them
+#27	ACE T27	entityID: APW20001205.1847.0645-E13; extent: them
+T28	ACE-Mention 1158 1164	Guzman
+#28	ACE T28	entityID: APW20001205.1847.0645-E4; extent: Guzman
+T29	ACE-Mention 1174 1182	Pinochet
+#29	ACE T29	entityID: APW20001205.1847.0645-E1; extent: Pinochet
+T30	ACE-Mention 1193 1196	him
+#30	ACE T30	entityID: APW20001205.1847.0645-E1; extent: him
+T31	ACE-Mention 1228 1251	the `` Caravan of Death
+#31	ACE T31	entityID: APW20001205.1847.0645-E26; extent: the `` Caravan of Death
+T32	ACE-Mention 1257 1396	a military party that killed 73 political prisoners shortly after the 1973 coup in which Pinochet ousted Marxist President Salvador Allende
+#32	ACE T32	entityID: APW20001205.1847.0645-E26; extent: a military party that killed 73 political prisoners shortly after the 1973 coup in which Pinochet ousted Marxist President Salvador Allende
+T33	ACE-Mention 1400 1408	Pinochet
+#33	ACE T33	entityID: APW20001205.1847.0645-E1; extent: Pinochet
+T34	ACE-Mention 1439 1477	55 victims whose bodies were recovered
+#34	ACE T34	entityID: APW20001205.1847.0645-E18; extent: 55 victims whose bodies were recovered
+T35	ACE-Mention 1497 1526	18 who remain unaccounted for
+#35	ACE T35	entityID: APW20001205.1847.0645-E19; extent: 18 who remain unaccounted for
+T36	ACE-Mention 1530 1560	Right-wing members of congress
+#36	ACE T36	entityID: APW20001205.1847.0645-E20; extent: Right-wing members of congress
+T37	ACE-Mention 1563 1578	defense lawyers
+#37	ACE T37	entityID: APW20001205.1847.0645-E22; extent: defense lawyers
+T38	ACE-Mention 1581 1602	retired army generals
+#38	ACE T38	entityID: APW20001205.1847.0645-E23; extent: retired army generals
+T39	ACE-Mention 1607 1632	other backers of Pinochet
+#39	ACE T39	entityID: APW20001205.1847.0645-E25; extent: other backers of Pinochet
+T40	ACE-Mention 1638 1644	Guzman
+#40	ACE T40	entityID: APW20001205.1847.0645-E4; extent: Guzman
+T41	ACE-Mention 1677 1679	he
+#41	ACE T41	entityID: APW20001205.1847.0645-E4; extent: he
+T42	ACE-Mention 1741 1749	Pinochet
+#42	ACE T42	entityID: APW20001205.1847.0645-E1; extent: Pinochet
+T43	ACE-Mention 1763 1781	Ambrosio Rodriguez
+#43	ACE T43	entityID: APW20001205.1847.0645-E27; extent: Ambrosio Rodriguez
+T44	ACE-Mention 1784 1822	a key member of Pinochet 's legal team
+#44	ACE T44	entityID: APW20001205.1847.0645-E27; extent: a key member of Pinochet 's legal team
+T45	ACE-Mention 1849 1855	Guzman
+#45	ACE T45	entityID: APW20001205.1847.0645-E4; extent: Guzman
+T46	ACE-Mention 1875 1892	the Supreme Court
+#46	ACE T46	entityID: APW20001205.1847.0645-E30; extent: the Supreme Court
+T47	ACE-Mention 1896 1902	Guzman
+#47	ACE T47	entityID: APW20001205.1847.0645-E4; extent: Guzman
+T48	ACE-Mention 1937 1947	the courts
+#48	ACE T48	entityID: APW20001205.1847.0645-E31; extent: the courts
+T49	ACE-Mention 1953 1992	an association of retired army generals
+#49	ACE T49	entityID: APW20001205.1847.0645-E32; extent: an association of retired army generals
+T50	ACE-Mention 2005 2058	right-wing Congressmen Ivan Moreira and Cristian Leay
+#50	ACE T50	entityID: APW20001205.1847.0645-E20; extent: right-wing Congressmen Ivan Moreira and Cristian Leay
+T51	ACE-Mention 2064 2070	Guzman
+#51	ACE T51	entityID: APW20001205.1847.0645-E4; extent: Guzman
+T52	ACE-Mention 2151 2157	Guzman
+#52	ACE T52	entityID: APW20001205.1847.0645-E4; extent: Guzman
+T53	ACE-Mention 2166 2175	the court
+#53	ACE T53	entityID: APW20001205.1847.0645-E48; extent: the court
+T54	ACE-Mention 2185 2188	his
+#54	ACE T54	entityID: APW20001205.1847.0645-E4; extent: his
+T55	ACE-Mention 2211 2219	Pinochet
+#55	ACE T55	entityID: APW20001205.1847.0645-E1; extent: Pinochet
+T56	ACE-Mention 2274 2286	the military
+#56	ACE T56	entityID: APW20001205.1847.0645-E44; extent: the military
+T57	ACE-Mention 2309 2318	the court
+#57	ACE T57	entityID: APW20001205.1847.0645-E48; extent: the court
+T58	ACE-Mention 2329 2338	the judge
+#58	ACE T58	entityID: APW20001205.1847.0645-E4; extent: the judge
+T59	ACE-Mention 2397 2403	Guzman
+#59	ACE T59	entityID: APW20001205.1847.0645-E4; extent: Guzman
+T60	ACE-Mention 2412 2414	he
+#60	ACE T60	entityID: APW20001205.1847.0645-E4; extent: he
+T61	ACE-Mention 2424 2432	Pinochet
+#61	ACE T61	entityID: APW20001205.1847.0645-E1; extent: Pinochet
+T62	ACE-Mention 2452 2455	him
+#62	ACE T62	entityID: APW20001205.1847.0645-E1; extent: him
+T63	ACE-Mention 2483 2492	The judge
+#63	ACE T63	entityID: APW20001205.1847.0645-E4; extent: The judge
+T64	ACE-Mention 2512 2520	Pinochet
+#64	ACE T64	entityID: APW20001205.1847.0645-E1; extent: Pinochet
+T65	ACE-Mention 2565 2568	him
+#65	ACE T65	entityID: APW20001205.1847.0645-E1; extent: him
+T66	ACE-Mention 2575 2577	he
+#66	ACE T66	entityID: APW20001205.1847.0645-E1; extent: he
+T67	ACE-Mention 2604 2610	London
+#67	ACE T67	entityID: APW20001205.1847.0645-E34; extent: London
+T68	ACE-Mention 2631 2637	Guzman
+#68	ACE T68	entityID: APW20001205.1847.0645-E4; extent: Guzman
+T69	ACE-Mention 2722 2741	Pinochet 's defense
+#69	ACE T69	entityID: APW20001205.1847.0645-E29; extent: Pinochet 's defense
+T70	ACE-Mention 2767 2778	The defense
+#70	ACE T70	entityID: APW20001205.1847.0645-E29; extent: The defense
+T71	ACE-Mention 2799 2805	Guzman
+#71	ACE T71	entityID: APW20001205.1847.0645-E4; extent: Guzman
+T72	ACE-Mention 2815 2823	Pinochet
+#72	ACE T72	entityID: APW20001205.1847.0645-E1; extent: Pinochet
+T73	ACE-Mention 2883 2885	he
+#73	ACE T73	entityID: APW20001205.1847.0645-E4; extent: he
+T74	ACE-Mention 2898 2906	Pinochet
+#74	ACE T74	entityID: APW20001205.1847.0645-E1; extent: Pinochet
+T75	ACE-Mention 2931 2934	his
+#75	ACE T75	entityID: APW20001205.1847.0645-E1; extent: his
+T76	ACE-Mention 2961 2970	The judge
+#76	ACE T76	entityID: APW20001205.1847.0645-E4; extent: The judge
+T77	ACE-Mention 2993 2995	he
+#77	ACE T77	entityID: APW20001205.1847.0645-E4; extent: he
+T78	ACE-Mention 3033 3034	I
+#78	ACE T78	entityID: APW20001205.1847.0645-E4; extent: I
+T79	ACE-Mention 3060 3070	our courts
+#79	ACE T79	entityID: APW20001205.1847.0645-E35; extent: our courts
+T80	ACE-Mention 3074 3075	I
+#80	ACE T80	entityID: APW20001205.1847.0645-E4; extent: I
+T81	ACE-Mention 3082 3083	I
+#81	ACE T81	entityID: APW20001205.1847.0645-E4; extent: I
+T82	ACE-Mention 3125 3127	he
+#82	ACE T82	entityID: APW20001205.1847.0645-E4; extent: he
+T83	ACE-Mention 3133 3165	Associated Press Television News
+#83	ACE T83	entityID: APW20001205.1847.0645-E45; extent: Associated Press Television News
+T84	ACE-Mention 3169 3243	The Supreme Court _ which has the authority to remove Guzman from the case
+#84	ACE T84	entityID: APW20001205.1847.0645-E30; extent: The Supreme Court _ which has the authority to remove Guzman from the case
+T85	ACE-Mention 3261 3267	Guzman
+#85	ACE T85	entityID: APW20001205.1847.0645-E4; extent: Guzman
+T86	ACE-Mention 3283 3285	he
+#86	ACE T86	entityID: APW20001205.1847.0645-E4; extent: he
+T87	ACE-Mention 3314 3331	Clara Szczaranski
+#87	ACE T87	entityID: APW20001205.1847.0645-E36; extent: Clara Szczaranski
+T88	ACE-Mention 3334 3440	a state prosecutor who was a plaintiff against Pinochet when he was stripped of his congressional immunity
+#88	ACE T88	entityID: APW20001205.1847.0645-E36; extent: a state prosecutor who was a plaintiff against Pinochet when he was stripped of his congressional immunity
+T89	ACE-Mention 3444 3455	Szczaranski
+#89	ACE T89	entityID: APW20001205.1847.0645-E36; extent: Szczaranski
+T90	ACE-Mention 3479 3510	Pinochet supporters in Congress
+#90	ACE T90	entityID: APW20001205.1847.0645-E40; extent: Pinochet supporters in Congress
+T91	ACE-Mention 3595 3612	the Supreme Court
+#91	ACE T91	entityID: APW20001205.1847.0645-E30; extent: the Supreme Court
+T92	ACE-Mention 3621 3631	both sides
+#92	ACE T92	entityID: APW20001205.1847.0645-E9; extent: both sides
+T93	ACE-Mention 3642 3646	they
+#93	ACE T93	entityID: APW20001205.1847.0645-E9; extent: they
+T94	ACE-Mention 3680 3689	Rodriguez
+#94	ACE T94	entityID: APW20001205.1847.0645-E27; extent: Rodriguez
+T95	ACE-Mention 3692 3710	Pinochet 's lawyer
+#95	ACE T95	entityID: APW20001205.1847.0645-E27; extent: Pinochet 's lawyer
+T96	ACE-Mention 3748 3750	us
+#96	ACE T96	entityID: APW20001205.1847.0645-E29; extent: us
+T97	ACE-Mention 3778 3781	our
+#97	ACE T97	entityID: APW20001205.1847.0645-E29; extent: our
+T98	ACE-Mention 3790 3795	court
+#98	ACE T98	entityID: APW20001205.1847.0645-E52; extent: court
+T99	ACE-Mention 3811 3813	He
+#99	ACE T99	entityID: APW20001205.1847.0645-E27; extent: He
+T100	ACE-Mention 3829 3840	the defense
+#100	ACE T100	entityID: APW20001205.1847.0645-E29; extent: the defense
+T101	ACE-Mention 3853 3856	its
+#101	ACE T101	entityID: APW20001205.1847.0645-E29; extent: its
+T102	ACE-Mention 3923 3929	Guzman
+#102	ACE T102	entityID: APW20001205.1847.0645-E4; extent: Guzman
+T103	ACE-Mention 3933 3971	Anti-Pinochet attorney Alfonso Insunza
+#103	ACE T103	entityID: APW20001205.1847.0645-E38; extent: Anti-Pinochet attorney Alfonso Insunza

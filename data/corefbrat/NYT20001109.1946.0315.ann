@@ -1,0 +1,264 @@
+T0	ACE-Mention 304 314	WASHINGTON
+#0	ACE T0	entityID: NYT20001109.1946.0315-E9; extent: WASHINGTON
+T1	ACE-Mention 317 328	Ralph Nader
+#1	ACE T1	entityID: NYT20001109.1946.0315-E6; extent: Ralph Nader
+T2	ACE-Mention 366 369	his
+#2	ACE T2	entityID: NYT20001109.1946.0315-E6; extent: his
+T3	ACE-Mention 370 381	Green Party
+#3	ACE T3	entityID: NYT20001109.1946.0315-E2; extent: Green Party
+T4	ACE-Mention 382 394	presidential
+#4	ACE T4	entityID: NYT20001109.1946.0315-E61; extent: presidential
+T5	ACE-Mention 410 455	some visitors to the chat room on Nader2000 .
+#5	ACE T5	entityID: NYT20001109.1946.0315-E62; extent: some visitors to the chat room on Nader2000 .
+T6	ACE-Mention 463 468	Nader
+#6	ACE T6	entityID: NYT20001109.1946.0315-E6; extent: Nader
+T7	ACE-Mention 555 559	them
+#7	ACE T7	entityID: NYT20001109.1946.0315-E62; extent: them
+T8	ACE-Mention 628 652	a writer named `` wreckz
+#8	ACE T8	entityID: NYT20001109.1946.0315-E3; extent: a writer named `` wreckz
+T9	ACE-Mention 661 662	I
+#9	ACE T9	entityID: NYT20001109.1946.0315-E3; extent: I
+T10	ACE-Mention 676 677	I
+#10	ACE T10	entityID: NYT20001109.1946.0315-E3; extent: I
+T11	ACE-Mention 698 705	America
+#11	ACE T11	entityID: NYT20001109.1946.0315-E64; extent: America
+T12	ACE-Mention 709 710	I
+#12	ACE T12	entityID: NYT20001109.1946.0315-E3; extent: I
+T13	ACE-Mention 724 735	Ralph Nader
+#13	ACE T13	entityID: NYT20001109.1946.0315-E6; extent: Ralph Nader
+T14	ACE-Mention 784 871	a man more concerned with vindictive politics than the future of our country and planet
+#14	ACE T14	entityID: NYT20001109.1946.0315-E6; extent: a man more concerned with vindictive politics than the future of our country and planet
+T15	ACE-Mention 875 876	I
+#15	ACE T15	entityID: NYT20001109.1946.0315-E3; extent: I
+T16	ACE-Mention 890 917	a member of the Green Party
+#16	ACE T16	entityID: NYT20001109.1946.0315-E1; extent: a member of the Green Party
+T17	ACE-Mention 931 932	I
+#17	ACE T17	entityID: NYT20001109.1946.0315-E3; extent: I
+T18	ACE-Mention 936 999	a member of the green movement _ a movement without Ralph Nader
+#18	ACE T18	entityID: NYT20001109.1946.0315-E3; extent: a member of the green movement _ a movement without Ralph Nader
+T19	ACE-Mention 1059 1063	Noni
+#19	ACE T19	entityID: NYT20001109.1946.0315-E5; extent: Noni
+T20	ACE-Mention 1072 1073	I
+#20	ACE T20	entityID: NYT20001109.1946.0315-E5; extent: I
+T21	ACE-Mention 1096 1107	Ralph Nader
+#21	ACE T21	entityID: NYT20001109.1946.0315-E6; extent: Ralph Nader
+T22	ACE-Mention 1118 1120	he
+#22	ACE T22	entityID: NYT20001109.1946.0315-E6; extent: he
+T23	ACE-Mention 1164 1165	I
+#23	ACE T23	entityID: NYT20001109.1946.0315-E5; extent: I
+T24	ACE-Mention 1181 1184	him
+#24	ACE T24	entityID: NYT20001109.1946.0315-E6; extent: him
+T25	ACE-Mention 1205 1206	I
+#25	ACE T25	entityID: NYT20001109.1946.0315-E5; extent: I
+T26	ACE-Mention 1214 1216	my
+#26	ACE T26	entityID: NYT20001109.1946.0315-E5; extent: my
+T27	ACE-Mention 1228 1233	Nader
+#27	ACE T27	entityID: NYT20001109.1946.0315-E6; extent: Nader
+T28	ACE-Mention 1236 1239	you
+#28	ACE T28	entityID: NYT20001109.1946.0315-E6; extent: you
+T29	ACE-Mention 1244 1264	a well-intending man
+#29	ACE T29	entityID: NYT20001109.1946.0315-E6; extent: a well-intending man
+T30	ACE-Mention 1269 1270	I
+#30	ACE T30	entityID: NYT20001109.1946.0315-E5; extent: I
+T31	ACE-Mention 1290 1294	your
+#31	ACE T31	entityID: NYT20001109.1946.0315-E6; extent: your
+T32	ACE-Mention 1333 1348	the White House
+#32	ACE T32	entityID: NYT20001109.1946.0315-E8; extent: the White House
+T33	ACE-Mention 1363 1372	our Party
+#33	ACE T33	entityID: NYT20001109.1946.0315-E2; extent: our Party
+T34	ACE-Mention 1377 1380	our
+#34	ACE T34	entityID: NYT20001109.1946.0315-E2; extent: our
+T35	ACE-Mention 1413 1416	our
+#35	ACE T35	entityID: NYT20001109.1946.0315-E2; extent: our
+T36	ACE-Mention 1427 1430	You
+#36	ACE T36	entityID: NYT20001109.1946.0315-E6; extent: You
+T37	ACE-Mention 1460 1462	we
+#37	ACE T37	entityID: NYT20001109.1946.0315-E10; extent: we
+T38	ACE-Mention 1505 1507	we
+#38	ACE T38	entityID: NYT20001109.1946.0315-E10; extent: we
+T39	ACE-Mention 1566 1571	Nader
+#39	ACE T39	entityID: NYT20001109.1946.0315-E6; extent: Nader
+T40	ACE-Mention 1585 1604	Gov. George W. Bush
+#40	ACE T40	entityID: NYT20001109.1946.0315-E11; extent: Gov. George W. Bush
+T41	ACE-Mention 1629 1651	Vice President Al Gore
+#41	ACE T41	entityID: NYT20001109.1946.0315-E13; extent: Vice President Al Gore
+T42	ACE-Mention 1658 1719	Florida , where Gore trailed Bush by only a few hundred votes
+#42	ACE T42	entityID: NYT20001109.1946.0315-E15; extent: Florida , where Gore trailed Bush by only a few hundred votes
+T43	ACE-Mention 1761 1766	Nader
+#43	ACE T43	entityID: NYT20001109.1946.0315-E6; extent: Nader
+T44	ACE-Mention 1800 1809	the state
+#44	ACE T44	entityID: NYT20001109.1946.0315-E15; extent: the state
+T45	ACE-Mention 1816 1831	the White House
+#45	ACE T45	entityID: NYT20001109.1946.0315-E8; extent: the White House
+T46	ACE-Mention 1837 1907	Gore , the most likely major-party alternative for Nader 's supporters
+#46	ACE T46	entityID: NYT20001109.1946.0315-E13; extent: Gore , the most likely major-party alternative for Nader 's supporters
+T47	ACE-Mention 1911 1920	John Ruth
+#47	ACE T47	entityID: NYT20001109.1946.0315-E18; extent: John Ruth
+T48	ACE-Mention 1987 1989	he
+#48	ACE T48	entityID: NYT20001109.1946.0315-E18; extent: he
+T49	ACE-Mention 2000 2005	Nader
+#49	ACE T49	entityID: NYT20001109.1946.0315-E6; extent: Nader
+T50	ACE-Mention 2014 2016	he
+#50	ACE T50	entityID: NYT20001109.1946.0315-E18; extent: he
+T51	ACE-Mention 2025 2029	they
+#51	ACE T51	entityID: NYT20001109.1946.0315-E19; extent: they
+T52	ACE-Mention 2066 2068	he
+#52	ACE T52	entityID: NYT20001109.1946.0315-E18; extent: he
+T53	ACE-Mention 2097 2101	Gore
+#53	ACE T53	entityID: NYT20001109.1946.0315-E13; extent: Gore
+T54	ACE-Mention 2117 2120	you
+#54	ACE T54	entityID: NYT20001109.1946.0315-E6; extent: you
+T55	ACE-Mention 2140 2175	an environmental clone of G.W. Bush
+#55	ACE T55	entityID: NYT20001109.1946.0315-E13; extent: an environmental clone of G.W. Bush
+T56	ACE-Mention 2190 2194	your
+#56	ACE T56	entityID: NYT20001109.1946.0315-E6; extent: your
+T57	ACE-Mention 2238 2240	we
+#57	ACE T57	entityID: NYT20001109.1946.0315-E21; extent: we
+T58	ACE-Mention 2263 2267	Bush
+#58	ACE T58	entityID: NYT20001109.1946.0315-E11; extent: Bush
+T59	ACE-Mention 2321 2324	you
+#59	ACE T59	entityID: NYT20001109.1946.0315-E6; extent: you
+T60	ACE-Mention 2327 2332	Ralph
+#60	ACE T60	entityID: NYT20001109.1946.0315-E6; extent: Ralph
+T61	ACE-Mention 2359 2365	Oregon
+#61	ACE T61	entityID: NYT20001109.1946.0315-E23; extent: Oregon
+T62	ACE-Mention 2368 2427	a state that was still too close to call Thursday afternoon
+#62	ACE T62	entityID: NYT20001109.1946.0315-E23; extent: a state that was still too close to call Thursday afternoon
+T63	ACE-Mention 2430 2435	Nader
+#63	ACE T63	entityID: NYT20001109.1946.0315-E6; extent: Nader
+T64	ACE-Mention 2486 2503	some Nader voters
+#64	ACE T64	entityID: NYT20001109.1946.0315-E25; extent: some Nader voters
+T65	ACE-Mention 2536 2589	Julie Quastler , 28 , who voted for Nader in Portland
+#65	ACE T65	entityID: NYT20001109.1946.0315-E26; extent: Julie Quastler , 28 , who voted for Nader in Portland
+T66	ACE-Mention 2615 2618	she
+#66	ACE T66	entityID: NYT20001109.1946.0315-E26; extent: she
+T67	ACE-Mention 2676 2680	Bush
+#67	ACE T67	entityID: NYT20001109.1946.0315-E11; extent: Bush
+T68	ACE-Mention 2745 2748	she
+#68	ACE T68	entityID: NYT20001109.1946.0315-E26; extent: she
+T69	ACE-Mention 2764 2769	Nader
+#69	ACE T69	entityID: NYT20001109.1946.0315-E6; extent: Nader
+T70	ACE-Mention 2788 2803	the two parties
+#70	ACE T70	entityID: NYT20001109.1946.0315-E30; extent: the two parties
+T71	ACE-Mention 2827 2828	I
+#71	ACE T71	entityID: NYT20001109.1946.0315-E26; extent: I
+T72	ACE-Mention 2864 2868	Bush
+#72	ACE T72	entityID: NYT20001109.1946.0315-E11; extent: Bush
+T73	ACE-Mention 2893 2906	our president
+#73	ACE T73	entityID: NYT20001109.1946.0315-E11; extent: our president
+T74	ACE-Mention 2911 2916	Nader
+#74	ACE T74	entityID: NYT20001109.1946.0315-E6; extent: Nader
+T75	ACE-Mention 2929 2932	his
+#75	ACE T75	entityID: NYT20001109.1946.0315-E6; extent: his
+T76	ACE-Mention 3064 3079	the Green Party
+#76	ACE T76	entityID: NYT20001109.1946.0315-E2; extent: the Green Party
+T77	ACE-Mention 3145 3153	Quastler
+#77	ACE T77	entityID: NYT20001109.1946.0315-E26; extent: Quastler
+T78	ACE-Mention 3156 3201	the development director for a nonprofit cafe
+#78	ACE T78	entityID: NYT20001109.1946.0315-E26; extent: the development director for a nonprofit cafe
+T79	ACE-Mention 3209 3212	she
+#79	ACE T79	entityID: NYT20001109.1946.0315-E26; extent: she
+T80	ACE-Mention 3239 3242	her
+#80	ACE T80	entityID: NYT20001109.1946.0315-E26; extent: her
+T81	ACE-Mention 3254 3255	I
+#81	ACE T81	entityID: NYT20001109.1946.0315-E26; extent: I
+T82	ACE-Mention 3266 3271	Nader
+#82	ACE T82	entityID: NYT20001109.1946.0315-E6; extent: Nader
+T83	ACE-Mention 3280 3282	he
+#83	ACE T83	entityID: NYT20001109.1946.0315-E6; extent: he
+T84	ACE-Mention 3305 3307	my
+#84	ACE T84	entityID: NYT20001109.1946.0315-E26; extent: my
+T85	ACE-Mention 3320 3323	she
+#85	ACE T85	entityID: NYT20001109.1946.0315-E26; extent: she
+T86	ACE-Mention 3394 3501	Nader supporters Thursday who felt the Green Party had sent a bracing wake-up call to the two major parties
+#86	ACE T86	entityID: NYT20001109.1946.0315-E32; extent: Nader supporters Thursday who felt the Green Party had sent a bracing wake-up call to the two major parties
+T87	ACE-Mention 3538 3543	Nader
+#87	ACE T87	entityID: NYT20001109.1946.0315-E6; extent: Nader
+T88	ACE-Mention 3645 3647	We
+#88	ACE T88	entityID: NYT20001109.1946.0315-E33; extent: We
+T89	ACE-Mention 3679 3681	we
+#89	ACE T89	entityID: NYT20001109.1946.0315-E33; extent: we
+T90	ACE-Mention 3716 3718	us
+#90	ACE T90	entityID: NYT20001109.1946.0315-E33; extent: us
+T91	ACE-Mention 3719 3727	villains
+#91	ACE T91	entityID: NYT20001109.1946.0315-E34; extent: villains
+T92	ACE-Mention 3780 3787	Florida
+#92	ACE T92	entityID: NYT20001109.1946.0315-E15; extent: Florida
+T93	ACE-Mention 3791 3804	Dorothy Byrne
+#93	ACE T93	entityID: NYT20001109.1946.0315-E35; extent: Dorothy Byrne
+T94	ACE-Mention 3807 3854	a state coordinator for the Florida Green Party
+#94	ACE T94	entityID: NYT20001109.1946.0315-E35; extent: a state coordinator for the Florida Green Party
+T95	ACE-Mention 3862 3865	she
+#95	ACE T95	entityID: NYT20001109.1946.0315-E35; extent: she
+T96	ACE-Mention 3925 3934	Democrats
+#96	ACE T96	entityID: NYT20001109.1946.0315-E39; extent: Democrats
+T97	ACE-Mention 3984 3997	a Nader voter
+#97	ACE T97	entityID: NYT20001109.1946.0315-E40; extent: a Nader voter
+T98	ACE-Mention 4004 4005	I
+#98	ACE T98	entityID: NYT20001109.1946.0315-E35; extent: I
+T99	ACE-Mention 4028 4038	the Greens
+#99	ACE T99	entityID: NYT20001109.1946.0315-E2; extent: the Greens
+T100	ACE-Mention 4051 4055	Bush
+#100	ACE T100	entityID: NYT20001109.1946.0315-E11; extent: Bush
+T101	ACE-Mention 4059 4063	Gore
+#101	ACE T101	entityID: NYT20001109.1946.0315-E13; extent: Gore
+T102	ACE-Mention 4070 4079	president
+#102	ACE T102	entityID: NYT20001109.1946.0315-E41; extent: president
+T103	ACE-Mention 4085 4088	she
+#103	ACE T103	entityID: NYT20001109.1946.0315-E35; extent: she
+T104	ACE-Mention 4103 4107	Gore
+#104	ACE T104	entityID: NYT20001109.1946.0315-E13; extent: Gore
+T105	ACE-Mention 4150 4155	women
+#105	ACE T105	entityID: NYT20001109.1946.0315-E42; extent: women
+T106	ACE-Mention 4186 4189	his
+#106	ACE T106	entityID: NYT20001109.1946.0315-E13; extent: his
+T107	ACE-Mention 4230 4231	I
+#107	ACE T107	entityID: NYT20001109.1946.0315-E35; extent: I
+T108	ACE-Mention 4247 4251	Bush
+#108	ACE T108	entityID: NYT20001109.1946.0315-E11; extent: Bush
+T109	ACE-Mention 4275 4288	Barbara Lange
+#109	ACE T109	entityID: NYT20001109.1946.0315-E43; extent: Barbara Lange
+T110	ACE-Mention 4291 4359	the Everglades chairwoman for the Florida chapter of the Sierra Club
+#110	ACE T110	entityID: NYT20001109.1946.0315-E43; extent: the Everglades chairwoman for the Florida chapter of the Sierra Club
+T111	ACE-Mention 4367 4370	she
+#111	ACE T111	entityID: NYT20001109.1946.0315-E43; extent: she
+T112	ACE-Mention 4375 4398	other environmentalists
+#112	ACE T112	entityID: NYT20001109.1946.0315-E49; extent: other environmentalists
+T113	ACE-Mention 4409 4414	Nader
+#113	ACE T113	entityID: NYT20001109.1946.0315-E6; extent: Nader
+T114	ACE-Mention 4423 4427	Gore
+#114	ACE T114	entityID: NYT20001109.1946.0315-E13; extent: Gore
+T115	ACE-Mention 4477 4517	a commercial airport near the Everglades
+#115	ACE T115	entityID: NYT20001109.1946.0315-E50; extent: a commercial airport near the Everglades
+T116	ACE-Mention 4524 4525	I
+#116	ACE T116	entityID: NYT20001109.1946.0315-E43; extent: I
+T117	ACE-Mention 4532 4534	my
+#117	ACE T117	entityID: NYT20001109.1946.0315-E43; extent: my
+T118	ACE-Mention 4551 4554	she
+#118	ACE T118	entityID: NYT20001109.1946.0315-E43; extent: she
+T119	ACE-Mention 4570 4571	I
+#119	ACE T119	entityID: NYT20001109.1946.0315-E43; extent: I
+T120	ACE-Mention 4596 4611	Patricia Newell
+#120	ACE T120	entityID: NYT20001109.1946.0315-E52; extent: Patricia Newell
+T121	ACE-Mention 4614 4680	an organizer for Nader at the University of Florida in Gainesville
+#121	ACE T121	entityID: NYT20001109.1946.0315-E52; extent: an organizer for Nader at the University of Florida in Gainesville
+T122	ACE-Mention 4693 4698	Nader
+#122	ACE T122	entityID: NYT20001109.1946.0315-E6; extent: Nader
+T123	ACE-Mention 4726 4733	Florida
+#123	ACE T123	entityID: NYT20001109.1946.0315-E15; extent: Florida
+T124	ACE-Mention 4739 4753	his supporters
+#124	ACE T124	entityID: NYT20001109.1946.0315-E56; extent: his supporters
+T125	ACE-Mention 4775 4778	she
+#125	ACE T125	entityID: NYT20001109.1946.0315-E52; extent: she
+T126	ACE-Mention 4812 4825	the Democrats
+#126	ACE T126	entityID: NYT20001109.1946.0315-E57; extent: the Democrats
+T127	ACE-Mention 4832 4870	Anyone who voted with Nader on Tuesday
+#127	ACE T127	entityID: NYT20001109.1946.0315-E58; extent: Anyone who voted with Nader on Tuesday
+T128	ACE-Mention 4889 4893	they
+#128	ACE T128	entityID: NYT20001109.1946.0315-E58; extent: they
+T129	ACE-Mention 4910 4913	she
+#129	ACE T129	entityID: NYT20001109.1946.0315-E52; extent: she
+T130	ACE-Mention 4961 4965	they
+#130	ACE T130	entityID: NYT20001109.1946.0315-E58; extent: they
+T131	ACE-Mention 5001 5038	the candidate that they felt was best
+#131	ACE T131	entityID: NYT20001109.1946.0315-E6; extent: the candidate that they felt was best

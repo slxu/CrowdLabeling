@@ -1,0 +1,88 @@
+T0	ACE-Mention 109 129	COPENHAGEN , Denmark
+#0	ACE T0	entityID: APW20001113.1815.0535-E13; extent: COPENHAGEN , Denmark
+T1	ACE-Mention 130 134	(AP)
+#1	ACE T1	entityID: APW20001113.1815.0535-E29; extent: (AP)
+T2	ACE-Mention 137 152	A Danish couple
+#2	ACE T2	entityID: APW20001113.1815.0535-E30; extent: A Danish couple
+T3	ACE-Mention 216 220	U.S.
+#3	ACE T3	entityID: APW20001113.1815.0535-E32; extent: U.S.
+T4	ACE-Mention 221 233	presidential
+#4	ACE T4	entityID: APW20001113.1815.0535-E33; extent: presidential
+T5	ACE-Mention 256 261	their
+#5	ACE T5	entityID: APW20001113.1815.0535-E30; extent: their
+T6	ACE-Mention 270 330	Brian Kain , a 33-year-old accountant and sailing enthusiast
+#6	ACE T6	entityID: APW20001113.1815.0535-E34; extent: Brian Kain , a 33-year-old accountant and sailing enthusiast
+T7	ACE-Mention 441 443	he
+#7	ACE T7	entityID: APW20001113.1815.0535-E34; extent: he
+T8	ACE-Mention 461 503	a company based in the state of Washington
+#8	ACE T8	entityID: APW20001113.1815.0535-E37; extent: a company based in the state of Washington
+T9	ACE-Mention 507 509	He
+#9	ACE T9	entityID: APW20001113.1815.0535-E34; extent: He
+T10	ACE-Mention 617 633	his wife , Helle
+#10	ACE T10	entityID: APW20001113.1815.0535-E2; extent: his wife , Helle
+T11	ACE-Mention 690 729	Steven H. Forrester of Bellevue , Wash.
+#11	ACE T11	entityID: APW20001113.1815.0535-E4; extent: Steven H. Forrester of Bellevue , Wash.
+T12	ACE-Mention 763 765	me
+#12	ACE T12	entityID: APW20001113.1815.0535-E34; extent: me
+T13	ACE-Mention 812 816	Kain
+#13	ACE T13	entityID: APW20001113.1815.0535-E34; extent: Kain
+T14	ACE-Mention 820 829	The Kains
+#14	ACE T14	entityID: APW20001113.1815.0535-E30; extent: The Kains
+T15	ACE-Mention 974 978	They
+#15	ACE T15	entityID: APW20001113.1815.0535-E30; extent: They
+T16	ACE-Mention 989 1019	the U.S. Embassy in Copenhagen
+#16	ACE T16	entityID: APW20001113.1815.0535-E6; extent: the U.S. Embassy in Copenhagen
+T17	ACE-Mention 1081 1113	Embassy spokeswoman Lela Margiou
+#17	ACE T17	entityID: APW20001113.1815.0535-E7; extent: Embassy spokeswoman Lela Margiou
+T18	ACE-Mention 1119 1123	they
+#18	ACE T18	entityID: APW20001113.1815.0535-E6; extent: they
+T19	ACE-Mention 1238 1245	Margiou
+#19	ACE T19	entityID: APW20001113.1815.0535-E7; extent: Margiou
+T20	ACE-Mention 1337 1353	Washington State
+#20	ACE T20	entityID: APW20001113.1815.0535-E1; extent: Washington State
+T21	ACE-Mention 1379 1383	Kain
+#21	ACE T21	entityID: APW20001113.1815.0535-E34; extent: Kain
+T22	ACE-Mention 1434 1462	Tides End Ltd. of Washington
+#22	ACE T22	entityID: APW20001113.1815.0535-E10; extent: Tides End Ltd. of Washington
+T23	ACE-Mention 1513 1524	Shaw Island
+#23	ACE T23	entityID: APW20001113.1815.0535-E11; extent: Shaw Island
+T24	ACE-Mention 1551 1556	Kains
+#24	ACE T24	entityID: APW20001113.1815.0535-E30; extent: Kains
+T25	ACE-Mention 1567 1618	Odense , 105 miles west of the capital , Copenhagen
+#25	ACE T25	entityID: APW20001113.1815.0535-E12; extent: Odense , 105 miles west of the capital , Copenhagen
+T26	ACE-Mention 1622 1645	The Fyens Stiftstidende
+#26	ACE T26	entityID: APW20001113.1815.0535-E14; extent: The Fyens Stiftstidende
+T27	ACE-Mention 1648 1672	the main local newspaper
+#27	ACE T27	entityID: APW20001113.1815.0535-E14; extent: the main local newspaper
+T28	ACE-Mention 1680 1682	it
+#28	ACE T28	entityID: APW20001113.1815.0535-E14; extent: it
+T29	ACE-Mention 1693 1702	Forrester
+#29	ACE T29	entityID: APW20001113.1815.0535-E4; extent: Forrester
+T30	ACE-Mention 1715 1718	his
+#30	ACE T30	entityID: APW20001113.1815.0535-E4; extent: his
+T31	ACE-Mention 1740 1747	Denmark
+#31	ACE T31	entityID: APW20001113.1815.0535-E28; extent: Denmark
+T32	ACE-Mention 1752 1754	he
+#32	ACE T32	entityID: APW20001113.1815.0535-E4; extent: he
+T33	ACE-Mention 1811 1875	Shaw Island , 50 miles from where his wife mailed it in Bellevue
+#33	ACE T33	entityID: APW20001113.1815.0535-E11; extent: Shaw Island , 50 miles from where his wife mailed it in Bellevue
+T34	ACE-Mention 1879 1888	Forrester
+#34	ACE T34	entityID: APW20001113.1815.0535-E4; extent: Forrester
+T35	ACE-Mention 1894 1907	the newspaper
+#35	ACE T35	entityID: APW20001113.1815.0535-E14; extent: the newspaper
+T36	ACE-Mention 1908 1910	he
+#36	ACE T36	entityID: APW20001113.1815.0535-E4; extent: he
+T37	ACE-Mention 1967 1968	I
+#37	ACE T37	entityID: APW20001113.1815.0535-E4; extent: I
+T38	ACE-Mention 1987 1989	he
+#38	ACE T38	entityID: APW20001113.1815.0535-E4; extent: he
+T39	ACE-Mention 2018 2022	U.S.
+#39	ACE T39	entityID: APW20001113.1815.0535-E32; extent: U.S.
+T40	ACE-Mention 2023 2035	presidential
+#40	ACE T40	entityID: APW20001113.1815.0535-E33; extent: presidential
+T41	ACE-Mention 2049 2093	Republican nominee Texas Gov. George W. Bush
+#41	ACE T41	entityID: APW20001113.1815.0535-E18; extent: Republican nominee Texas Gov. George W. Bush
+T42	ACE-Mention 2098 2131	Democratic Vice President Al Gore
+#42	ACE T42	entityID: APW20001113.1815.0535-E23; extent: Democratic Vice President Al Gore
+T43	ACE-Mention 2163 2183	the state of Florida
+#43	ACE T43	entityID: APW20001113.1815.0535-E26; extent: the state of Florida

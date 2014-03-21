@@ -1,0 +1,74 @@
+T0	ACE-Mention 107 121	WARREN , Mich.
+#0	ACE T0	entityID: APW20001012.1742.0694-E19; extent: WARREN , Mich.
+T1	ACE-Mention 122 126	(AP)
+#1	ACE T1	entityID: APW20001012.1742.0694-E25; extent: (AP)
+T2	ACE-Mention 129 179	A drug suspect being booked at police headquarters
+#2	ACE T2	entityID: APW20001012.1742.0694-E26; extent: A drug suspect being booked at police headquarters
+T3	ACE-Mention 185 204	a veteran detective
+#3	ACE T3	entityID: APW20001012.1742.0694-E7; extent: a veteran detective
+T4	ACE-Mention 230 237	the gun
+#4	ACE T4	entityID: APW20001012.1742.0694-E30; extent: the gun
+T5	ACE-Mention 241 248	himself
+#5	ACE T5	entityID: APW20001012.1742.0694-E26; extent: himself
+T6	ACE-Mention 252 269	Ljeka Juncaj , 29
+#6	ACE T6	entityID: APW20001012.1742.0694-E26; extent: Ljeka Juncaj , 29
+T7	ACE-Mention 279 284	a gun
+#7	ACE T7	entityID: APW20001012.1742.0694-E30; extent: a gun
+T8	ACE-Mention 292 295	his
+#8	ACE T8	entityID: APW20001012.1742.0694-E26; extent: his
+T9	ACE-Mention 327 356	Detective Christopher Wouters
+#9	ACE T9	entityID: APW20001012.1742.0694-E7; extent: Detective Christopher Wouters
+T10	ACE-Mention 377 400	Police Chief James Vohs
+#10	ACE T10	entityID: APW20001012.1742.0694-E32; extent: Police Chief James Vohs
+T11	ACE-Mention 418 465	Juncaj , arrested as part of an undercover bust
+#11	ACE T11	entityID: APW20001012.1742.0694-E26; extent: Juncaj , arrested as part of an undercover bust
+T12	ACE-Mention 478 485	himself
+#12	ACE T12	entityID: APW20001012.1742.0694-E26; extent: himself
+T13	ACE-Mention 501 509	Both men
+#13	ACE T13	entityID: APW20001012.1742.0694-E1; extent: Both men
+T14	ACE-Mention 524 534	a hospital
+#14	ACE T14	entityID: APW20001012.1742.0694-E2; extent: a hospital
+T15	ACE-Mention 538 544	Juncaj
+#15	ACE T15	entityID: APW20001012.1742.0694-E26; extent: Juncaj
+T16	ACE-Mention 627 631	Vohs
+#16	ACE T16	entityID: APW20001012.1742.0694-E32; extent: Vohs
+T17	ACE-Mention 637 651	other officers
+#17	ACE T17	entityID: APW20001012.1742.0694-E3; extent: other officers
+T18	ACE-Mention 680 682	he
+#18	ACE T18	entityID: APW20001012.1742.0694-E32; extent: he
+T19	ACE-Mention 732 738	Juncaj
+#19	ACE T19	entityID: APW20001012.1742.0694-E26; extent: Juncaj
+T20	ACE-Mention 743 751	a weapon
+#20	ACE T20	entityID: APW20001012.1742.0694-E4; extent: a weapon
+T21	ACE-Mention 768 776	officers
+#21	ACE T21	entityID: APW20001012.1742.0694-E5; extent: officers
+T22	ACE-Mention 784 793	a suspect
+#22	ACE T22	entityID: APW20001012.1742.0694-E6; extent: a suspect
+T23	ACE-Mention 862 874	Wouters , 42
+#23	ACE T23	entityID: APW20001012.1742.0694-E7; extent: Wouters , 42
+T24	ACE-Mention 881 898	a 19-year veteran
+#24	ACE T24	entityID: APW20001012.1742.0694-E7; extent: a 19-year veteran
+T25	ACE-Mention 905 907	he
+#25	ACE T25	entityID: APW20001012.1742.0694-E7; extent: he
+T26	ACE-Mention 912 920	his wife
+#26	ACE T26	entityID: APW20001012.1742.0694-E8; extent: his wife
+T27	ACE-Mention 925 945	three young children
+#27	ACE T27	entityID: APW20001012.1742.0694-E9; extent: three young children
+T28	ACE-Mention 962 964	us
+#28	ACE T28	entityID: APW20001012.1742.0694-E23; extent: us
+T29	ACE-Mention 991 1058	Sgt. Kevin Sommers , who had known Wouters since they were children
+#29	ACE T29	entityID: APW20001012.1742.0694-E10; extent: Sgt. Kevin Sommers , who had known Wouters since they were children
+T30	ACE-Mention 1065 1068	You
+#30	ACE T30	entityID: APW20001012.1742.0694-E14; extent: You
+T31	ACE-Mention 1087 1099	a better guy
+#31	ACE T31	entityID: APW20001012.1742.0694-E15; extent: a better guy
+T32	ACE-Mention 1102 1117	a better friend
+#32	ACE T32	entityID: APW20001012.1742.0694-E16; extent: a better friend
+T33	ACE-Mention 1120 1136	a better officer
+#33	ACE T33	entityID: APW20001012.1742.0694-E17; extent: a better officer
+T34	ACE-Mention 1181 1191	an officer
+#34	ACE T34	entityID: APW20001012.1742.0694-E18; extent: an officer
+T35	ACE-Mention 1231 1237	Warren
+#35	ACE T35	entityID: APW20001012.1742.0694-E19; extent: Warren
+T36	ACE-Mention 1240 1274	a large blue-collar Detroit suburb
+#36	ACE T36	entityID: APW20001012.1742.0694-E19; extent: a large blue-collar Detroit suburb

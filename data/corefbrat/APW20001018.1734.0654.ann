@@ -1,0 +1,148 @@
+T0	ACE-Mention 101 114	WAUSAU , Wis.
+#0	ACE T0	entityID: APW20001018.1734.0654-E15; extent: WAUSAU , Wis.
+T1	ACE-Mention 115 119	(AP)
+#1	ACE T1	entityID: APW20001018.1734.0654-E24; extent: (AP)
+T2	ACE-Mention 122 177	Democratic vice presidential candidate Joseph Lieberman
+#2	ACE T2	entityID: APW20001018.1734.0654-E25; extent: Democratic vice presidential candidate Joseph Lieberman
+T3	ACE-Mention 201 204	him
+#3	ACE T3	entityID: APW20001018.1734.0654-E25; extent: him
+T4	ACE-Mention 209 216	Al Gore
+#4	ACE T4	entityID: APW20001018.1734.0654-E10; extent: Al Gore
+T5	ACE-Mention 310 313	God
+#5	ACE T5	entityID: APW20001018.1734.0654-E29; extent: God
+T6	ACE-Mention 319 328	Lieberman
+#6	ACE T6	entityID: APW20001018.1734.0654-E25; extent: Lieberman
+T7	ACE-Mention 334 350	about 500 people
+#7	ACE T7	entityID: APW20001018.1734.0654-E30; extent: about 500 people
+T8	ACE-Mention 354 371	Bluegill Bay Park
+#8	ACE T8	entityID: APW20001018.1734.0654-E31; extent: Bluegill Bay Park
+T9	ACE-Mention 375 384	Lieberman
+#9	ACE T9	entityID: APW20001018.1734.0654-E25; extent: Lieberman
+T10	ACE-Mention 406 431	Texas Gov. George W. Bush
+#10	ACE T10	entityID: APW20001018.1734.0654-E32; extent: Texas Gov. George W. Bush
+T11	ACE-Mention 461 464	his
+#11	ACE T11	entityID: APW20001018.1734.0654-E25; extent: his
+T12	ACE-Mention 474 497	this battleground state
+#12	ACE T12	entityID: APW20001018.1734.0654-E23; extent: this battleground state
+T13	ACE-Mention 512 516	Gore
+#13	ACE T13	entityID: APW20001018.1734.0654-E10; extent: Gore
+T14	ACE-Mention 521 536	Republican Bush
+#14	ACE T14	entityID: APW20001018.1734.0654-E32; extent: Republican Bush
+T15	ACE-Mention 548 553	their
+#15	ACE T15	entityID: APW20001018.1734.0654-E3; extent: their
+T16	ACE-Mention 610 628	Little Rock , Ark.
+#16	ACE T16	entityID: APW20001018.1734.0654-E4; extent: Little Rock , Ark.
+T17	ACE-Mention 631 640	Lieberman
+#17	ACE T17	entityID: APW20001018.1734.0654-E25; extent: Lieberman
+T18	ACE-Mention 646 653	Houston
+#18	ACE T18	entityID: APW20001018.1734.0654-E6; extent: Houston
+T19	ACE-Mention 681 688	America
+#19	ACE T19	entityID: APW20001018.1734.0654-E7; extent: America
+T20	ACE-Mention 698 703	Texas
+#20	ACE T20	entityID: APW20001018.1734.0654-E1; extent: Texas
+T21	ACE-Mention 745 769	any state in the country
+#21	ACE T21	entityID: APW20001018.1734.0654-E9; extent: any state in the country
+T22	ACE-Mention 813 815	he
+#22	ACE T22	entityID: APW20001018.1734.0654-E25; extent: he
+T23	ACE-Mention 827 828	I
+#23	ACE T23	entityID: APW20001018.1734.0654-E25; extent: I
+T24	ACE-Mention 834 847	Governor Bush
+#24	ACE T24	entityID: APW20001018.1734.0654-E32; extent: Governor Bush
+T25	ACE-Mention 872 879	America
+#25	ACE T25	entityID: APW20001018.1734.0654-E7; extent: America
+T26	ACE-Mention 885 887	he
+#26	ACE T26	entityID: APW20001018.1734.0654-E32; extent: he
+T27	ACE-Mention 900 905	Texas
+#27	ACE T27	entityID: APW20001018.1734.0654-E1; extent: Texas
+T28	ACE-Mention 928 937	Wisconsin
+#28	ACE T28	entityID: APW20001018.1734.0654-E23; extent: Wisconsin
+T29	ACE-Mention 942 945	its
+#29	ACE T29	entityID: APW20001018.1734.0654-E23; extent: its
+T30	ACE-Mention 991 1010	Vice President Gore
+#30	ACE T30	entityID: APW20001018.1734.0654-E10; extent: Vice President Gore
+T31	ACE-Mention 1046 1049	his
+#31	ACE T31	entityID: APW20001018.1734.0654-E10; extent: his
+T32	ACE-Mention 1102 1110	Arkansas
+#32	ACE T32	entityID: APW20001018.1734.0654-E5; extent: Arkansas
+T33	ACE-Mention 1113 1122	Lieberman
+#33	ACE T33	entityID: APW20001018.1734.0654-E25; extent: Lieberman
+T34	ACE-Mention 1133 1153	about 700 supporters
+#34	ACE T34	entityID: APW20001018.1734.0654-E11; extent: about 700 supporters
+T35	ACE-Mention 1159 1161	he
+#35	ACE T35	entityID: APW20001018.1734.0654-E25; extent: he
+T36	ACE-Mention 1166 1170	Gore
+#36	ACE T36	entityID: APW20001018.1734.0654-E10; extent: Gore
+T37	ACE-Mention 1185 1196	the country
+#37	ACE T37	entityID: APW20001018.1734.0654-E7; extent: the country
+T38	ACE-Mention 1223 1227	Bush
+#38	ACE T38	entityID: APW20001018.1734.0654-E32; extent: Bush
+T39	ACE-Mention 1241 1252	the country
+#39	ACE T39	entityID: APW20001018.1734.0654-E7; extent: the country
+T40	ACE-Mention 1292 1294	He
+#40	ACE T40	entityID: APW20001018.1734.0654-E25; extent: He
+T41	ACE-Mention 1363 1367	Gore
+#41	ACE T41	entityID: APW20001018.1734.0654-E10; extent: Gore
+T42	ACE-Mention 1372 1389	President Clinton
+#42	ACE T42	entityID: APW20001018.1734.0654-E12; extent: President Clinton
+T43	ACE-Mention 1477 1479	He
+#43	ACE T43	entityID: APW20001018.1734.0654-E25; extent: He
+T44	ACE-Mention 1521 1523	We
+#44	ACE T44	entityID: APW20001018.1734.0654-E14; extent: We
+T45	ACE-Mention 1546 1548	We
+#45	ACE T45	entityID: APW20001018.1734.0654-E14; extent: We
+T46	ACE-Mention 1587 1596	Lieberman
+#46	ACE T46	entityID: APW20001018.1734.0654-E25; extent: Lieberman
+T47	ACE-Mention 1599 1684	an observant Jew who has argued for a greater role for religious faith in public life
+#47	ACE T47	entityID: APW20001018.1734.0654-E25; extent: an observant Jew who has argued for a greater role for religious faith in public life
+T48	ACE-Mention 1698 1701	his
+#48	ACE T48	entityID: APW20001018.1734.0654-E25; extent: his
+T49	ACE-Mention 1783 1786	our
+#49	ACE T49	entityID: APW20001018.1734.0654-E7; extent: our
+T50	ACE-Mention 1865 1867	us
+#50	ACE T50	entityID: APW20001018.1734.0654-E7; extent: us
+T51	ACE-Mention 1871 1880	Americans
+#51	ACE T51	entityID: APW20001018.1734.0654-E7; extent: Americans
+T52	ACE-Mention 1903 1905	we
+#52	ACE T52	entityID: APW20001018.1734.0654-E7; extent: we
+T53	ACE-Mention 1944 1959	a single person
+#53	ACE T53	entityID: APW20001018.1734.0654-E16; extent: a single person
+T54	ACE-Mention 1963 1965	We
+#54	ACE T54	entityID: APW20001018.1734.0654-E7; extent: We
+T55	ACE-Mention 2031 2033	he
+#55	ACE T55	entityID: APW20001018.1734.0654-E25; extent: he
+T56	ACE-Mention 2042 2051	Lieberman
+#56	ACE T56	entityID: APW20001018.1734.0654-E25; extent: Lieberman
+T57	ACE-Mention 2074 2083	Baltimore
+#57	ACE T57	entityID: APW20001018.1734.0654-E17; extent: Baltimore
+T58	ACE-Mention 2111 2127	Democratic Party
+#58	ACE T58	entityID: APW20001018.1734.0654-E27; extent: Democratic Party
+T59	ACE-Mention 2153 2161	New York
+#59	ACE T59	entityID: APW20001018.1734.0654-E18; extent: New York
+T60	ACE-Mention 2262 2295	the League of Conservation Voters
+#60	ACE T60	entityID: APW20001018.1734.0654-E19; extent: the League of Conservation Voters
+T61	ACE-Mention 2299 2301	He
+#61	ACE T61	entityID: APW20001018.1734.0654-E25; extent: He
+T62	ACE-Mention 2398 2399	I
+#62	ACE T62	entityID: APW20001018.1734.0654-E25; extent: I
+T63	ACE-Mention 2470 2471	I
+#63	ACE T63	entityID: APW20001018.1734.0654-E25; extent: I
+T64	ACE-Mention 2491 2510	the American people
+#64	ACE T64	entityID: APW20001018.1734.0654-E7; extent: the American people
+T65	ACE-Mention 2536 2537	I
+#65	ACE T65	entityID: APW20001018.1734.0654-E25; extent: I
+T66	ACE-Mention 2552 2567	a lot of people
+#66	ACE T66	entityID: APW20001018.1734.0654-E21; extent: a lot of people
+T67	ACE-Mention 2599 2603	They
+#67	ACE T67	entityID: APW20001018.1734.0654-E21; extent: They
+T68	ACE-Mention 2623 2627	they
+#68	ACE T68	entityID: APW20001018.1734.0654-E21; extent: they
+T69	ACE-Mention 2665 2666	I
+#69	ACE T69	entityID: APW20001018.1734.0654-E25; extent: I
+T70	ACE-Mention 2705 2708	who
+#70	ACE T70	entityID: APW20001018.1734.0654-E22; extent: who
+T71	ACE-Mention 2734 2741	America
+#71	ACE T71	entityID: APW20001018.1734.0654-E7; extent: America
+T72	ACE-Mention 2758 2765	Al Gore
+#72	ACE T72	entityID: APW20001018.1734.0654-E10; extent: Al Gore
+T73	ACE-Mention 2774 2783	Lieberman
+#73	ACE T73	entityID: APW20001018.1734.0654-E25; extent: Lieberman

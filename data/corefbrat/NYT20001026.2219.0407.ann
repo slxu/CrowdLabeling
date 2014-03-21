@@ -1,0 +1,54 @@
+T0	ACE-Mention 415 418	you
+#0	ACE T0	entityID: NYT20001026.2219.0407-E16; extent: you
+T1	ACE-Mention 553 574	nobody you recognized
+#1	ACE T1	entityID: NYT20001026.2219.0407-E17; extent: nobody you recognized
+T2	ACE-Mention 689 692	USA
+#2	ACE T2	entityID: NYT20001026.2219.0407-E18; extent: USA
+T3	ACE-Mention 1011 1023	Katie Wright
+#3	ACE T3	entityID: NYT20001026.2219.0407-E19; extent: Katie Wright
+T4	ACE-Mention 1030 1035	Sarah
+#4	ACE T4	entityID: NYT20001026.2219.0407-E19; extent: Sarah
+T5	ACE-Mention 1038 1207	a British art student studying in San Francisco , where she happens to live next door to a serial killer ( Jeff Fahey ) who dons outlandish costumes to stalk his victims
+#5	ACE T5	entityID: NYT20001026.2219.0407-E19; extent: a British art student studying in San Francisco , where she happens to live next door to a serial killer ( Jeff Fahey ) who dons outlandish costumes to stalk his victims
+T6	ACE-Mention 1251 1256	Sarah
+#6	ACE T6	entityID: NYT20001026.2219.0407-E19; extent: Sarah
+T7	ACE-Mention 1264 1276	the audience
+#7	ACE T7	entityID: NYT20001026.2219.0407-E1; extent: the audience
+T8	ACE-Mention 1279 1299	this troubled fellow
+#8	ACE T8	entityID: NYT20001026.2219.0407-E2; extent: this troubled fellow
+T9	ACE-Mention 1307 1380	just your run-of-the-mill sexually frustrated , split-personality slasher
+#9	ACE T9	entityID: NYT20001026.2219.0407-E2; extent: just your run-of-the-mill sexually frustrated , split-personality slasher
+T10	ACE-Mention 1385 1474	some kind of evil spirit who has , perhaps unwittingly , infiltrated his neighbor 's mind
+#10	ACE T10	entityID: NYT20001026.2219.0407-E2; extent: some kind of evil spirit who has , perhaps unwittingly , infiltrated his neighbor 's mind
+T11	ACE-Mention 1487 1511	a panicky fortune teller
+#11	ACE T11	entityID: NYT20001026.2219.0407-E5; extent: a panicky fortune teller
+T12	ACE-Mention 1516 1569	a kindly ( if vaguely lecherous ) sculpture professor
+#12	ACE T12	entityID: NYT20001026.2219.0407-E6; extent: a kindly ( if vaguely lecherous ) sculpture professor
+T13	ACE-Mention 1591 1604	the professor
+#13	ACE T13	entityID: NYT20001026.2219.0407-E6; extent: the professor
+T14	ACE-Mention 1692 1696	they
+#14	ACE T14	entityID: NYT20001026.2219.0407-E7; extent: they
+T15	ACE-Mention 1720 1940	poor Sarah , who must also fend off the advances of an aggressive classmate , struggle with the demands of her art and , in her modest contribution to the film 's doomy atmosphere , light candles in a dim , spooky church
+#15	ACE T15	entityID: NYT20001026.2219.0407-E19; extent: poor Sarah , who must also fend off the advances of an aggressive classmate , struggle with the demands of her art and , in her modest contribution to the film 's doomy atmosphere , light candles in a dim , spooky church
+T16	ACE-Mention 1956 1968	her neighbor
+#16	ACE T16	entityID: NYT20001026.2219.0407-E2; extent: her neighbor
+T17	ACE-Mention 1976 1978	he
+#17	ACE T17	entityID: NYT20001026.2219.0407-E2; extent: he
+T18	ACE-Mention 2011 2014	his
+#18	ACE T18	entityID: NYT20001026.2219.0407-E2; extent: his
+T19	ACE-Mention 2041 2210	some kind of 19th-century German baron , complete with fake beard , walking stick and kid gloves _ the kind of get-up women in San Francisco apparently find irresistible
+#19	ACE T19	entityID: NYT20001026.2219.0407-E10; extent: some kind of 19th-century German baron , complete with fake beard , walking stick and kid gloves _ the kind of get-up women in San Francisco apparently find irresistible
+T20	ACE-Mention 2306 2309	you
+#20	ACE T20	entityID: NYT20001026.2219.0407-E13; extent: you
+T21	ACE-Mention 2364 2367	you
+#21	ACE T21	entityID: NYT20001026.2219.0407-E13; extent: you
+T22	ACE-Mention 2389 2399	the killer
+#22	ACE T22	entityID: NYT20001026.2219.0407-E2; extent: the killer
+T23	ACE-Mention 2428 2434	Wright
+#23	ACE T23	entityID: NYT20001026.2219.0407-E19; extent: Wright
+T24	ACE-Mention 2517 2530	her character
+#24	ACE T24	entityID: NYT20001026.2219.0407-E19; extent: her character
+T25	ACE-Mention 2654 2660	parent
+#25	ACE T25	entityID: NYT20001026.2219.0407-E14; extent: parent
+T26	ACE-Mention 2664 2678	adult guardian
+#26	ACE T26	entityID: NYT20001026.2219.0407-E15; extent: adult guardian

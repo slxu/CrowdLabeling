@@ -1,0 +1,146 @@
+T0	ACE-Mention 107 121	AUSTIN , Texas
+#0	ACE T0	entityID: APW20001209.0634.0301-E22; extent: AUSTIN , Texas
+T1	ACE-Mention 122 126	(AP)
+#1	ACE T1	entityID: APW20001209.0634.0301-E55; extent: (AP)
+T2	ACE-Mention 129 148	Gov. George W. Bush
+#2	ACE T2	entityID: APW20001209.0634.0301-E3; extent: Gov. George W. Bush
+T3	ACE-Mention 182 205	his central Texas ranch
+#3	ACE T3	entityID: APW20001209.0634.0301-E58; extent: his central Texas ranch
+T4	ACE-Mention 223 228	court
+#4	ACE T4	entityID: APW20001209.0634.0301-E37; extent: court
+T5	ACE-Mention 259 271	presidential
+#5	ACE T5	entityID: APW20001209.0634.0301-E60; extent: presidential
+T6	ACE-Mention 287 301	Texas governor
+#6	ACE T6	entityID: APW20001209.0634.0301-E3; extent: Texas governor
+T7	ACE-Mention 306 324	Republican nominee
+#7	ACE T7	entityID: APW20001209.0634.0301-E3; extent: Republican nominee
+T8	ACE-Mention 393 414	Florida Supreme Court
+#8	ACE T8	entityID: APW20001209.0634.0301-E37; extent: Florida Supreme Court
+T9	ACE-Mention 499 523	The dispirited Bush camp
+#9	ACE T9	entityID: APW20001209.0634.0301-E2; extent: The dispirited Bush camp
+T10	ACE-Mention 563 584	the streets of Austin
+#10	ACE T10	entityID: APW20001209.0634.0301-E4; extent: the streets of Austin
+T11	ACE-Mention 611 615	Bush
+#11	ACE T11	entityID: APW20001209.0634.0301-E3; extent: Bush
+T12	ACE-Mention 620 628	his wife
+#12	ACE T12	entityID: APW20001209.0634.0301-E5; extent: his wife
+T13	ACE-Mention 631 636	Laura
+#13	ACE T13	entityID: APW20001209.0634.0301-E5; extent: Laura
+T14	ACE-Mention 668 791	the isolated 1,600-acre ranch about a two-hour drive north of here , where he has spent much of his time since the election
+#14	ACE T14	entityID: APW20001209.0634.0301-E58; extent: the isolated 1,600-acre ranch about a two-hour drive north of here , where he has spent much of his time since the election
+T15	ACE-Mention 882 886	Bush
+#15	ACE T15	entityID: APW20001209.0634.0301-E3; extent: Bush
+T16	ACE-Mention 897 924	the ranch near Waco , Texas
+#16	ACE T16	entityID: APW20001209.0634.0301-E58; extent: the ranch near Waco , Texas
+T17	ACE-Mention 955 964	reporters
+#17	ACE T17	entityID: APW20001209.0634.0301-E52; extent: reporters
+T18	ACE-Mention 1002 1020	prominent visitors
+#18	ACE T18	entityID: APW20001209.0634.0301-E8; extent: prominent visitors
+T19	ACE-Mention 1024 1058	would-be members of a Bush Cabinet
+#19	ACE T19	entityID: APW20001209.0634.0301-E9; extent: would-be members of a Bush Cabinet
+T20	ACE-Mention 1065 1067	We
+#20	ACE T20	entityID: APW20001209.0634.0301-E2; extent: We
+T21	ACE-Mention 1097 1124	Bush spokesman Dan Bartlett
+#21	ACE T21	entityID: APW20001209.0634.0301-E11; extent: Bush spokesman Dan Bartlett
+T22	ACE-Mention 1161 1170	everybody
+#22	ACE T22	entityID: APW20001209.0634.0301-E13; extent: everybody
+T23	ACE-Mention 1194 1215	Juleanna Glover Weiss
+#23	ACE T23	entityID: APW20001209.0634.0301-E14; extent: Juleanna Glover Weiss
+T24	ACE-Mention 1218 1290	a spokeswoman in the Bush-Cheney transition headquarters in McLean , Va.
+#24	ACE T24	entityID: APW20001209.0634.0301-E14; extent: a spokeswoman in the Bush-Cheney transition headquarters in McLean , Va.
+T25	ACE-Mention 1368 1382	Bush officials
+#25	ACE T25	entityID: APW20001209.0634.0301-E20; extent: Bush officials
+T26	ACE-Mention 1402 1407	their
+#26	ACE T26	entityID: APW20001209.0634.0301-E20; extent: their
+T27	ACE-Mention 1442 1461	state Supreme Court
+#27	ACE T27	entityID: APW20001209.0634.0301-E37; extent: state Supreme Court
+T28	ACE-Mention 1478 1494	Democrat Al Gore
+#28	ACE T28	entityID: APW20001209.0634.0301-E21; extent: Democrat Al Gore
+T29	ACE-Mention 1498 1509	Republicans
+#29	ACE T29	entityID: APW20001209.0634.0301-E24; extent: Republicans
+T30	ACE-Mention 1543 1548	court
+#30	ACE T30	entityID: APW20001209.0634.0301-E25; extent: court
+T31	ACE-Mention 1590 1594	Bush
+#31	ACE T31	entityID: APW20001209.0634.0301-E3; extent: Bush
+T32	ACE-Mention 1607 1635	Seminole and Martin counties
+#32	ACE T32	entityID: APW20001209.0634.0301-E26; extent: Seminole and Martin counties
+T33	ACE-Mention 1702 1721	state Supreme Court
+#33	ACE T33	entityID: APW20001209.0634.0301-E37; extent: state Supreme Court
+T34	ACE-Mention 1749 1753	Bush
+#34	ACE T34	entityID: APW20001209.0634.0301-E3; extent: Bush
+T35	ACE-Mention 1789 1797	Seminole
+#35	ACE T35	entityID: APW20001209.0634.0301-E27; extent: Seminole
+T36	ACE-Mention 1802 1808	Martin
+#36	ACE T36	entityID: APW20001209.0634.0301-E28; extent: Martin
+T37	ACE-Mention 1824 1826	he
+#37	ACE T37	entityID: APW20001209.0634.0301-E3; extent: he
+T38	ACE-Mention 1865 1883	James A. Baker III
+#38	ACE T38	entityID: APW20001209.0634.0301-E29; extent: James A. Baker III
+T39	ACE-Mention 1886 1916	the head of Bush 's legal team
+#39	ACE T39	entityID: APW20001209.0634.0301-E29; extent: the head of Bush 's legal team
+T40	ACE-Mention 1921 1948	a former secretary of state
+#40	ACE T40	entityID: APW20001209.0634.0301-E29; extent: a former secretary of state
+T41	ACE-Mention 1960 1962	he
+#41	ACE T41	entityID: APW20001209.0634.0301-E29; extent: he
+T42	ACE-Mention 1974 1987	Governor Bush
+#42	ACE T42	entityID: APW20001209.0634.0301-E3; extent: Governor Bush
+T43	ACE-Mention 2081 2083	he
+#43	ACE T43	entityID: APW20001209.0634.0301-E3; extent: he
+T44	ACE-Mention 2112 2114	he
+#44	ACE T44	entityID: APW20001209.0634.0301-E3; extent: he
+T45	ACE-Mention 2173 2177	Bush
+#45	ACE T45	entityID: APW20001209.0634.0301-E3; extent: Bush
+T46	ACE-Mention 2202 2225	the governor 's mansion
+#46	ACE T46	entityID: APW20001209.0634.0301-E32; extent: the governor 's mansion
+T47	ACE-Mention 2230 2239	his staff
+#47	ACE T47	entityID: APW20001209.0634.0301-E34; extent: his staff
+T48	ACE-Mention 2244 2269	his Secret Service detail
+#48	ACE T48	entityID: APW20001209.0634.0301-E35; extent: his Secret Service detail
+T49	ACE-Mention 2304 2309	court
+#49	ACE T49	entityID: APW20001209.0634.0301-E37; extent: court
+T50	ACE-Mention 2320 2324	Bush
+#50	ACE T50	entityID: APW20001209.0634.0301-E3; extent: Bush
+T51	ACE-Mention 2352 2354	he
+#51	ACE T51	entityID: APW20001209.0634.0301-E3; extent: he
+T52	ACE-Mention 2423 2434	his lawyers
+#52	ACE T52	entityID: APW20001209.0634.0301-E31; extent: his lawyers
+T53	ACE-Mention 2440 2462	the Florida high court
+#53	ACE T53	entityID: APW20001209.0634.0301-E37; extent: the Florida high court
+T54	ACE-Mention 2482 2485	him
+#54	ACE T54	entityID: APW20001209.0634.0301-E3; extent: him
+T55	ACE-Mention 2492 2494	We
+#55	ACE T55	entityID: APW20001209.0634.0301-E2; extent: We
+T56	ACE-Mention 2548 2574	the ( U.S. ) Supreme Court
+#56	ACE T56	entityID: APW20001209.0634.0301-E38; extent: the ( U.S. ) Supreme Court
+T57	ACE-Mention 2580 2582	he
+#57	ACE T57	entityID: APW20001209.0634.0301-E3; extent: he
+T58	ACE-Mention 2588 2597	reporters
+#58	ACE T58	entityID: APW20001209.0634.0301-E39; extent: reporters
+T59	ACE-Mention 2615 2637	the trailing candidate
+#59	ACE T59	entityID: APW20001209.0634.0301-E3; extent: the trailing candidate
+T60	ACE-Mention 2697 2707	the courts
+#60	ACE T60	entityID: APW20001209.0634.0301-E40; extent: the courts
+T61	ACE-Mention 2710 2714	Bush
+#61	ACE T61	entityID: APW20001209.0634.0301-E3; extent: Bush
+T62	ACE-Mention 2725 2739	Each candidate
+#62	ACE T62	entityID: APW20001209.0634.0301-E41; extent: Each candidate
+T63	ACE-Mention 2805 2816	the country
+#63	ACE T63	entityID: APW20001209.0634.0301-E42; extent: the country
+T64	ACE-Mention 2860 2882	pro-Gore demonstrators
+#64	ACE T64	entityID: APW20001209.0634.0301-E43; extent: pro-Gore demonstrators
+T65	ACE-Mention 2911 2934	the governor 's mansion
+#65	ACE T65	entityID: APW20001209.0634.0301-E32; extent: the governor 's mansion
+T66	ACE-Mention 2938 2942	They
+#66	ACE T66	entityID: APW20001209.0634.0301-E43; extent: They
+T67	ACE-Mention 2964 3011	supporters of Bush and running mate Dick Cheney
+#67	ACE T67	entityID: APW20001209.0634.0301-E45; extent: supporters of Bush and running mate Dick Cheney
+T68	ACE-Mention 3015 3018	Car
+#68	ACE T68	entityID: APW20001209.0634.0301-E48; extent: Car
+T69	ACE-Mention 3045 3068	competing demonstrators
+#69	ACE T69	entityID: APW20001209.0634.0301-E49; extent: competing demonstrators
+T70	ACE-Mention 3080 3091	one another
+#70	ACE T70	entityID: APW20001209.0634.0301-E50; extent: one another
+T71	ACE-Mention 3120 3137	the demonstrators
+#71	ACE T71	entityID: APW20001209.0634.0301-E49; extent: the demonstrators
+T72	ACE-Mention 3155 3166	the mansion
+#72	ACE T72	entityID: APW20001209.0634.0301-E32; extent: the mansion

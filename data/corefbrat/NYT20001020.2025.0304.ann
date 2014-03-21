@@ -1,0 +1,122 @@
+T0	ACE-Mention 383 392	investors
+#0	ACE T0	entityID: NYT20001020.2025.0304-E21; extent: investors
+T1	ACE-Mention 425 440	the Middle East
+#1	ACE T1	entityID: NYT20001020.2025.0304-E40; extent: the Middle East
+T2	ACE-Mention 487 493	Israel
+#2	ACE T2	entityID: NYT20001020.2025.0304-E1; extent: Israel
+T3	ACE-Mention 516 521	Egypt
+#3	ACE T3	entityID: NYT20001020.2025.0304-E41; extent: Egypt
+T4	ACE-Mention 565 641	most American investors , many of whom buy their stocks through mutual funds
+#4	ACE T4	entityID: NYT20001020.2025.0304-E42; extent: most American investors , many of whom buy their stocks through mutual funds
+T5	ACE-Mention 703 716	few investors
+#5	ACE T5	entityID: NYT20001020.2025.0304-E45; extent: few investors
+T6	ACE-Mention 738 767	many Middle Eastern companies
+#6	ACE T6	entityID: NYT20001020.2025.0304-E46; extent: many Middle Eastern companies
+T7	ACE-Mention 862 872	the region
+#7	ACE T7	entityID: NYT20001020.2025.0304-E40; extent: the region
+T8	ACE-Mention 1289 1306	a Palestinian mob
+#8	ACE T8	entityID: NYT20001020.2025.0304-E48; extent: a Palestinian mob
+T9	ACE-Mention 1314 1334	two Israeli soldiers
+#9	ACE T9	entityID: NYT20001020.2025.0304-E50; extent: two Israeli soldiers
+T10	ACE-Mention 1337 1343	Israel
+#10	ACE T10	entityID: NYT20001020.2025.0304-E1; extent: Israel
+T11	ACE-Mention 1360 1366	rocket
+#11	ACE T11	entityID: NYT20001020.2025.0304-E3; extent: rocket
+T12	ACE-Mention 1379 1389	terrorists
+#12	ACE T12	entityID: NYT20001020.2025.0304-E4; extent: terrorists
+T13	ACE-Mention 1405 1437	a United States warship in Yemen
+#13	ACE T13	entityID: NYT20001020.2025.0304-E5; extent: a United States warship in Yemen
+T14	ACE-Mention 1453 1484	Israeli and Palestinian leaders
+#14	ACE T14	entityID: NYT20001020.2025.0304-E8; extent: Israeli and Palestinian leaders
+T15	ACE-Mention 1538 1551	the West Bank
+#15	ACE T15	entityID: NYT20001020.2025.0304-E10; extent: the West Bank
+T16	ACE-Mention 1556 1570	the Gaza Strip
+#16	ACE T16	entityID: NYT20001020.2025.0304-E9; extent: the Gaza Strip
+T17	ACE-Mention 1581 1599	American investors
+#17	ACE T17	entityID: NYT20001020.2025.0304-E11; extent: American investors
+T18	ACE-Mention 1669 1690	Middle East companies
+#18	ACE T18	entityID: NYT20001020.2025.0304-E12; extent: Middle East companies
+T19	ACE-Mention 1701 1795	Grace Pineda , who manages the $ 132 million Developing Capital Markets fund for Merrill Lynch
+#19	ACE T19	entityID: NYT20001020.2025.0304-E13; extent: Grace Pineda , who manages the $ 132 million Developing Capital Markets fund for Merrill Lynch
+T20	ACE-Mention 1844 1850	Israel
+#20	ACE T20	entityID: NYT20001020.2025.0304-E1; extent: Israel
+T21	ACE-Mention 1876 1881	Egypt
+#21	ACE T21	entityID: NYT20001020.2025.0304-E41; extent: Egypt
+T22	ACE-Mention 1942 1957	the Middle East
+#22	ACE T22	entityID: NYT20001020.2025.0304-E40; extent: the Middle East
+T23	ACE-Mention 2052 2069	the United States
+#23	ACE T23	entityID: NYT20001020.2025.0304-E6; extent: the United States
+T24	ACE-Mention 2180 2191	Lipper Inc.
+#24	ACE T24	entityID: NYT20001020.2025.0304-E15; extent: Lipper Inc.
+T25	ACE-Mention 2320 2344	Middle Eastern companies
+#25	ACE T25	entityID: NYT20001020.2025.0304-E12; extent: Middle Eastern companies
+T26	ACE-Mention 2366 2376	the region
+#26	ACE T26	entityID: NYT20001020.2025.0304-E40; extent: the region
+T27	ACE-Mention 2613 2637	Middle Eastern companies
+#27	ACE T27	entityID: NYT20001020.2025.0304-E12; extent: Middle Eastern companies
+T28	ACE-Mention 2688 2692	them
+#28	ACE T28	entityID: NYT20001020.2025.0304-E12; extent: them
+T29	ACE-Mention 2700 2708	analysts
+#29	ACE T29	entityID: NYT20001020.2025.0304-E16; extent: analysts
+T30	ACE-Mention 2713 2726	fund managers
+#30	ACE T30	entityID: NYT20001020.2025.0304-E17; extent: fund managers
+T31	ACE-Mention 2768 2778	the region
+#31	ACE T31	entityID: NYT20001020.2025.0304-E40; extent: the region
+T32	ACE-Mention 2884 2899	the Middle East
+#32	ACE T32	entityID: NYT20001020.2025.0304-E40; extent: the Middle East
+T33	ACE-Mention 2974 2991	the United States
+#33	ACE T33	entityID: NYT20001020.2025.0304-E6; extent: the United States
+T34	ACE-Mention 3002 3013	Mark Madden
+#34	ACE T34	entityID: NYT20001020.2025.0304-E18; extent: Mark Madden
+T35	ACE-Mention 3016 3074	manager of the $ 250 million Pioneer Emerging Markets fund
+#35	ACE T35	entityID: NYT20001020.2025.0304-E18; extent: manager of the $ 250 million Pioneer Emerging Markets fund
+T36	ACE-Mention 3081 3087	Madden
+#36	ACE T36	entityID: NYT20001020.2025.0304-E18; extent: Madden
+T37	ACE-Mention 3106 3112	Mexico
+#37	ACE T37	entityID: NYT20001020.2025.0304-E20; extent: Mexico
+T38	ACE-Mention 3115 3121	Brazil
+#38	ACE T38	entityID: NYT20001020.2025.0304-E22; extent: Brazil
+T39	ACE-Mention 3126 3131	Korea
+#39	ACE T39	entityID: NYT20001020.2025.0304-E23; extent: Korea
+T40	ACE-Mention 3154 3157	his
+#40	ACE T40	entityID: NYT20001020.2025.0304-E18; extent: his
+T41	ACE-Mention 3174 3180	Israel
+#41	ACE T41	entityID: NYT20001020.2025.0304-E1; extent: Israel
+T42	ACE-Mention 3211 3216	Egypt
+#42	ACE T42	entityID: NYT20001020.2025.0304-E41; extent: Egypt
+T43	ACE-Mention 3254 3269	the Middle East
+#43	ACE T43	entityID: NYT20001020.2025.0304-E40; extent: the Middle East
+T44	ACE-Mention 3272 3280	analysts
+#44	ACE T44	entityID: NYT20001020.2025.0304-E16; extent: analysts
+T45	ACE-Mention 3285 3298	fund managers
+#45	ACE T45	entityID: NYT20001020.2025.0304-E17; extent: fund managers
+T46	ACE-Mention 3326 3339	United States
+#46	ACE T46	entityID: NYT20001020.2025.0304-E6; extent: United States
+T47	ACE-Mention 3382 3391	the world
+#47	ACE T47	entityID: NYT20001020.2025.0304-E24; extent: the world
+T48	ACE-Mention 3439 3454	the Middle East
+#48	ACE T48	entityID: NYT20001020.2025.0304-E40; extent: the Middle East
+T49	ACE-Mention 3493 3509	overseas traders
+#49	ACE T49	entityID: NYT20001020.2025.0304-E26; extent: overseas traders
+T50	ACE-Mention 3528 3532	they
+#50	ACE T50	entityID: NYT20001020.2025.0304-E26; extent: they
+T51	ACE-Mention 3611 3623	Howard Klein
+#51	ACE T51	entityID: NYT20001020.2025.0304-E27; extent: Howard Klein
+T52	ACE-Mention 3626 3717	an institutional broker specializing in emerging markets at SG Cowen Securities in New York
+#52	ACE T52	entityID: NYT20001020.2025.0304-E27; extent: an institutional broker specializing in emerging markets at SG Cowen Securities in New York
+T53	ACE-Mention 3721 3738	Traders in Israel
+#53	ACE T53	entityID: NYT20001020.2025.0304-E31; extent: Traders in Israel
+T54	ACE-Mention 3758 3763	their
+#54	ACE T54	entityID: NYT20001020.2025.0304-E31; extent: their
+T55	ACE-Mention 3786 3799	Their country
+#55	ACE T55	entityID: NYT20001020.2025.0304-E1; extent: Their country
+T56	ACE-Mention 3808 4001	home to global technology , telecommunications and pharmaceutical companies , which depend on economic currents in the United States and Europe much more than on developments in the Middle East
+#56	ACE T56	entityID: NYT20001020.2025.0304-E1; extent: home to global technology , telecommunications and pharmaceutical companies , which depend on economic currents in the United States and Europe much more than on developments in the Middle East
+T57	ACE-Mention 4015 4037	many Israeli companies
+#57	ACE T57	entityID: NYT20001020.2025.0304-E39; extent: many Israeli companies
+T58	ACE-Mention 4141 4156	the Middle East
+#58	ACE T58	entityID: NYT20001020.2025.0304-E40; extent: the Middle East
+T59	ACE-Mention 4253 4328	Israeli companies , 16 traded on the Tel Aviv exchange and 19 on the Nasdaq
+#59	ACE T59	entityID: NYT20001020.2025.0304-E34; extent: Israeli companies , 16 traded on the Tel Aviv exchange and 19 on the Nasdaq
+T60	ACE-Mention 4420 4433	its investors
+#60	ACE T60	entityID: NYT20001020.2025.0304-E37; extent: its investors

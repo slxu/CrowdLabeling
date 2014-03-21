@@ -1,0 +1,80 @@
+T0	ACE-Mention 244 254	David Cone
+#0	ACE T0	entityID: NYT20001211.2158.0448-E9; extent: David Cone
+T1	ACE-Mention 267 275	the Mets
+#1	ACE T1	entityID: NYT20001211.2158.0448-E23; extent: the Mets
+T2	ACE-Mention 288 293	their
+#2	ACE T2	entityID: NYT20001211.2158.0448-E23; extent: their
+T3	ACE-Mention 332 337	their
+#3	ACE T3	entityID: NYT20001211.2158.0448-E23; extent: their
+T4	ACE-Mention 358 361	him
+#4	ACE T4	entityID: NYT20001211.2158.0448-E9; extent: him
+T5	ACE-Mention 364 366	he
+#5	ACE T5	entityID: NYT20001211.2158.0448-E9; extent: he
+T6	ACE-Mention 416 465	a late-inning reliever for the Kansas City Royals
+#6	ACE T6	entityID: NYT20001211.2158.0448-E1; extent: a late-inning reliever for the Kansas City Royals
+T7	ACE-Mention 469 473	Cone
+#7	ACE T7	entityID: NYT20001211.2158.0448-E9; extent: Cone
+T8	ACE-Mention 476 507	the former Yankees right-hander
+#8	ACE T8	entityID: NYT20001211.2158.0448-E9; extent: the former Yankees right-hander
+T9	ACE-Mention 554 586	his former teammate George Brett
+#9	ACE T9	entityID: NYT20001211.2158.0448-E4; extent: his former teammate George Brett
+T10	ACE-Mention 589 653	currently vice president for baseball operations with the Royals
+#10	ACE T10	entityID: NYT20001211.2158.0448-E4; extent: currently vice president for baseball operations with the Royals
+T11	ACE-Mention 657 659	He
+#11	ACE T11	entityID: NYT20001211.2158.0448-E4; extent: He
+T12	ACE-Mention 666 670	Cone
+#12	ACE T12	entityID: NYT20001211.2158.0448-E9; extent: Cone
+T13	ACE-Mention 674 676	he
+#13	ACE T13	entityID: NYT20001211.2158.0448-E9; extent: he
+T14	ACE-Mention 706 717	a setup man
+#14	ACE T14	entityID: NYT20001211.2158.0448-E7; extent: a setup man
+T15	ACE-Mention 721 729	a closer
+#15	ACE T15	entityID: NYT20001211.2158.0448-E8; extent: a closer
+T16	ACE-Mention 734 745	Kansas City
+#16	ACE T16	entityID: NYT20001211.2158.0448-E2; extent: Kansas City
+T17	ACE-Mention 774 778	Cone
+#17	ACE T17	entityID: NYT20001211.2158.0448-E9; extent: Cone
+T18	ACE-Mention 797 799	me
+#18	ACE T18	entityID: NYT20001211.2158.0448-E9; extent: me
+T19	ACE-Mention 812 813	I
+#19	ACE T19	entityID: NYT20001211.2158.0448-E9; extent: I
+T20	ACE-Mention 853 854	I
+#20	ACE T20	entityID: NYT20001211.2158.0448-E9; extent: I
+T21	ACE-Mention 864 873	a starter
+#21	ACE T21	entityID: NYT20001211.2158.0448-E9; extent: a starter
+T22	ACE-Mention 880 884	Cone
+#22	ACE T22	entityID: NYT20001211.2158.0448-E9; extent: Cone
+T23	ACE-Mention 887 907	a Kansas City native
+#23	ACE T23	entityID: NYT20001211.2158.0448-E9; extent: a Kansas City native
+T24	ACE-Mention 935 945	the Royals
+#24	ACE T24	entityID: NYT20001211.2158.0448-E2; extent: the Royals
+T25	ACE-Mention 961 971	the majors
+#25	ACE T25	entityID: NYT20001211.2158.0448-E11; extent: the majors
+T26	ACE-Mention 977 985	the team
+#26	ACE T26	entityID: NYT20001211.2158.0448-E2; extent: the team
+T27	ACE-Mention 989 997	The Mets
+#27	ACE T27	entityID: NYT20001211.2158.0448-E23; extent: The Mets
+T28	ACE-Mention 1022 1026	Cone
+#28	ACE T28	entityID: NYT20001211.2158.0448-E9; extent: Cone
+T29	ACE-Mention 1043 1047	they
+#29	ACE T29	entityID: NYT20001211.2158.0448-E23; extent: they
+T30	ACE-Mention 1055 1067	the pitchers
+#30	ACE T30	entityID: NYT20001211.2158.0448-E12; extent: the pitchers
+T31	ACE-Mention 1068 1080	Kevin Appier
+#31	ACE T31	entityID: NYT20001211.2158.0448-E14; extent: Kevin Appier
+T32	ACE-Mention 1085 1099	Steve Trachsel
+#32	ACE T32	entityID: NYT20001211.2158.0448-E15; extent: Steve Trachsel
+T33	ACE-Mention 1116 1117	I
+#33	ACE T33	entityID: NYT20001211.2158.0448-E9; extent: I
+T34	ACE-Mention 1123 1124	I
+#34	ACE T34	entityID: NYT20001211.2158.0448-E9; extent: I
+T35	ACE-Mention 1159 1163	them
+#35	ACE T35	entityID: NYT20001211.2158.0448-E23; extent: them
+T36	ACE-Mention 1187 1273	Cone , who believes his options will become clearer after the winter meetings are over
+#36	ACE T36	entityID: NYT20001211.2158.0448-E9; extent: Cone , who believes his options will become clearer after the winter meetings are over
+T37	ACE-Mention 1277 1295	The Boston Red Sox
+#37	ACE T37	entityID: NYT20001211.2158.0448-E16; extent: The Boston Red Sox
+T38	ACE-Mention 1300 1317	Baltimore Orioles
+#38	ACE T38	entityID: NYT20001211.2158.0448-E17; extent: Baltimore Orioles
+T39	ACE-Mention 1328 1371	the other teams expressing interest in Cone
+#39	ACE T39	entityID: NYT20001211.2158.0448-E18; extent: the other teams expressing interest in Cone

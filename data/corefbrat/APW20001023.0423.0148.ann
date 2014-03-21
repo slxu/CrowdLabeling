@@ -1,0 +1,154 @@
+T0	ACE-Mention 106 127	VILLAHERMOSA , Mexico
+#0	ACE T0	entityID: APW20001023.0423.0148-E20; extent: VILLAHERMOSA , Mexico
+T1	ACE-Mention 128 132	(AP)
+#1	ACE T1	entityID: APW20001023.0423.0148-E43; extent: (AP)
+T2	ACE-Mention 163 195	Mexico 's embattled ruling party
+#2	ACE T2	entityID: APW20001023.0423.0148-E44; extent: Mexico 's embattled ruling party
+T3	ACE-Mention 198 212	Manuel Andrade
+#3	ACE T3	entityID: APW20001023.0423.0148-E23; extent: Manuel Andrade
+T4	ACE-Mention 236 306	the winner of the disputed governor 's race for oil-rich Tabasco state
+#4	ACE T4	entityID: APW20001023.0423.0148-E23; extent: the winner of the disputed governor 's race for oil-rich Tabasco state
+T5	ACE-Mention 310 363	Members of the opposition Democratic Revolution Party
+#5	ACE T5	entityID: APW20001023.0423.0148-E49; extent: Members of the opposition Democratic Revolution Party
+T6	ACE-Mention 410 414	they
+#6	ACE T6	entityID: APW20001023.0423.0148-E49; extent: they
+T7	ACE-Mention 551 558	Andrade
+#7	ACE T7	entityID: APW20001023.0423.0148-E23; extent: Andrade
+T8	ACE-Mention 605 636	opposition candidate Raul Ojeda
+#8	ACE T8	entityID: APW20001023.0423.0148-E24; extent: opposition candidate Raul Ojeda
+T9	ACE-Mention 640 658	Election officials
+#9	ACE T9	entityID: APW20001023.0423.0148-E53; extent: Election officials
+T10	ACE-Mention 702 710	a winner
+#10	ACE T10	entityID: APW20001023.0423.0148-E1; extent: a winner
+T11	ACE-Mention 717 721	they
+#11	ACE T11	entityID: APW20001023.0423.0148-E53; extent: they
+T12	ACE-Mention 814 832	election officials
+#12	ACE T12	entityID: APW20001023.0423.0148-E2; extent: election officials
+T13	ACE-Mention 848 855	Andrade
+#13	ACE T13	entityID: APW20001023.0423.0148-E23; extent: Andrade
+T14	ACE-Mention 918 985	the Democratic Revolution and National Action Party representatives
+#14	ACE T14	entityID: APW20001023.0423.0148-E3; extent: the Democratic Revolution and National Action Party representatives
+T15	ACE-Mention 996 1001	their
+#15	ACE T15	entityID: APW20001023.0423.0148-E3; extent: their
+T16	ACE-Mention 1011 1032	the electoral council
+#16	ACE T16	entityID: APW20001023.0423.0148-E6; extent: the electoral council
+T17	ACE-Mention 1077 1122	Democratic Revolution 's Lorena Villavicencio
+#17	ACE T17	entityID: APW20001023.0423.0148-E7; extent: Democratic Revolution 's Lorena Villavicencio
+T18	ACE-Mention 1128 1131	she
+#18	ACE T18	entityID: APW20001023.0423.0148-E7; extent: she
+T19	ACE-Mention 1170 1204	the ruling party 's representative
+#19	ACE T19	entityID: APW20001023.0423.0148-E8; extent: the ruling party 's representative
+T20	ACE-Mention 1207 1221	Carlos Jimenez
+#20	ACE T20	entityID: APW20001023.0423.0148-E8; extent: Carlos Jimenez
+T21	ACE-Mention 1234 1236	We
+#21	ACE T21	entityID: APW20001023.0423.0148-E44; extent: We
+T22	ACE-Mention 1260 1262	we
+#22	ACE T22	entityID: APW20001023.0423.0148-E44; extent: we
+T23	ACE-Mention 1329 1469	Mexico 's ruling Institutional Revolutionary Party , or PRI , which recently lost its first presidential election since its creation in 1929
+#23	ACE T23	entityID: APW20001023.0423.0148-E44; extent: Mexico 's ruling Institutional Revolutionary Party , or PRI , which recently lost its first presidential election since its creation in 1929
+T24	ACE-Mention 1473 1513	The National Action Party 's Vicente Fox
+#24	ACE T24	entityID: APW20001023.0423.0148-E10; extent: The National Action Party 's Vicente Fox
+T25	ACE-Mention 1534 1543	president
+#25	ACE T25	entityID: APW20001023.0423.0148-E10; extent: president
+T26	ACE-Mention 1556 1563	Tabasco
+#26	ACE T26	entityID: APW20001023.0423.0148-E13; extent: Tabasco
+T27	ACE-Mention 1602 1609	the PRI
+#27	ACE T27	entityID: APW20001023.0423.0148-E44; extent: the PRI
+T28	ACE-Mention 1652 1722	The party , which never admitted losing any statewide race before 1989
+#28	ACE T28	entityID: APW20001023.0423.0148-E44; extent: The party , which never admitted losing any statewide race before 1989
+T29	ACE-Mention 1797 1816	neighboring Chiapas
+#29	ACE T29	entityID: APW20001023.0423.0148-E14; extent: neighboring Chiapas
+T30	ACE-Mention 1874 1957	the PRI , which has been dominated by the nation 's president since the early 1930s
+#30	ACE T30	entityID: APW20001023.0423.0148-E44; extent: the PRI , which has been dominated by the nation 's president since the early 1930s
+T31	ACE-Mention 1961 1990	A favorite for the leadership
+#31	ACE T31	entityID: APW20001023.0423.0148-E16; extent: A favorite for the leadership
+T32	ACE-Mention 1994 2109	outgoing Tabasco Gov. Roberto Madrazo , who has tried to use the election here as a demonstration of his popularity
+#32	ACE T32	entityID: APW20001023.0423.0148-E16; extent: outgoing Tabasco Gov. Roberto Madrazo , who has tried to use the election here as a demonstration of his popularity
+T33	ACE-Mention 2117 2132	observer groups
+#33	ACE T33	entityID: APW20001023.0423.0148-E21; extent: observer groups
+T34	ACE-Mention 2137 2155	opposition parties
+#34	ACE T34	entityID: APW20001023.0423.0148-E22; extent: opposition parties
+T35	ACE-Mention 2173 2180	Tabasco
+#35	ACE T35	entityID: APW20001023.0423.0148-E13; extent: Tabasco
+T36	ACE-Mention 2267 2280	PRI-dominated
+#36	ACE T36	entityID: APW20001023.0423.0148-E44; extent: PRI-dominated
+T37	ACE-Mention 2294 2300	Mexico
+#37	ACE T37	entityID: APW20001023.0423.0148-E42; extent: Mexico
+T38	ACE-Mention 2326 2333	Madrazo
+#38	ACE T38	entityID: APW20001023.0423.0148-E16; extent: Madrazo
+T39	ACE-Mention 2337 2344	Madrazo
+#39	ACE T39	entityID: APW20001023.0423.0148-E16; extent: Madrazo
+T40	ACE-Mention 2376 2383	Andrade
+#40	ACE T40	entityID: APW20001023.0423.0148-E23; extent: Andrade
+T41	ACE-Mention 2387 2402	the true winner
+#41	ACE T41	entityID: APW20001023.0423.0148-E23; extent: the true winner
+T42	ACE-Mention 2418 2434	the ruling party
+#42	ACE T42	entityID: APW20001023.0423.0148-E44; extent: the ruling party
+T43	ACE-Mention 2460 2463	his
+#43	ACE T43	entityID: APW20001023.0423.0148-E23; extent: his
+T44	ACE-Mention 2496 2501	Ojeda
+#44	ACE T44	entityID: APW20001023.0423.0148-E24; extent: Ojeda
+T45	ACE-Mention 2507 2510	Fox
+#45	ACE T45	entityID: APW20001023.0423.0148-E10; extent: Fox
+T46	ACE-Mention 2528 2531	him
+#46	ACE T46	entityID: APW20001023.0423.0148-E24; extent: him
+T47	ACE-Mention 2535 2545	the victor
+#47	ACE T47	entityID: APW20001023.0423.0148-E24; extent: the victor
+T48	ACE-Mention 2552 2554	We
+#48	ACE T48	entityID: APW20001023.0423.0148-E25; extent: We
+T49	ACE-Mention 2563 2574	Vicente Fox
+#49	ACE T49	entityID: APW20001023.0423.0148-E10; extent: Vicente Fox
+T50	ACE-Mention 2590 2593	his
+#50	ACE T50	entityID: APW20001023.0423.0148-E10; extent: his
+T51	ACE-Mention 2628 2646	the entire country
+#51	ACE T51	entityID: APW20001023.0423.0148-E42; extent: the entire country
+T52	ACE-Mention 2652 2654	he
+#52	ACE T52	entityID: APW20001023.0423.0148-E24; extent: he
+T53	ACE-Mention 2660 2676	a cheering crowd
+#53	ACE T53	entityID: APW20001023.0423.0148-E26; extent: a cheering crowd
+T54	ACE-Mention 2714 2736	one electoral official
+#54	ACE T54	entityID: APW20001023.0423.0148-E27; extent: one electoral official
+T55	ACE-Mention 2739 2751	Joaquin Diaz
+#55	ACE T55	entityID: APW20001023.0423.0148-E27; extent: Joaquin Diaz
+T56	ACE-Mention 2759 2761	he
+#56	ACE T56	entityID: APW20001023.0423.0148-E27; extent: he
+T57	ACE-Mention 2807 2830	other election advisers
+#57	ACE T57	entityID: APW20001023.0423.0148-E29; extent: other election advisers
+T58	ACE-Mention 2852 2853	I
+#58	ACE T58	entityID: APW20001023.0423.0148-E27; extent: I
+T59	ACE-Mention 2877 2878	I
+#59	ACE T59	entityID: APW20001023.0423.0148-E27; extent: I
+T60	ACE-Mention 2899 2900	I
+#60	ACE T60	entityID: APW20001023.0423.0148-E27; extent: I
+T61	ACE-Mention 2906 2930	the rest of the advisers
+#61	ACE T61	entityID: APW20001023.0423.0148-E30; extent: the rest of the advisers
+T62	ACE-Mention 2992 2994	he
+#62	ACE T62	entityID: APW20001023.0423.0148-E27; extent: he
+T63	ACE-Mention 3014 3016	he
+#63	ACE T63	entityID: APW20001023.0423.0148-E27; extent: he
+T64	ACE-Mention 3025 3051	federal election officials
+#64	ACE T64	entityID: APW20001023.0423.0148-E32; extent: federal election officials
+T65	ACE-Mention 3070 3085	Floricel Medina
+#65	ACE T65	entityID: APW20001023.0423.0148-E33; extent: Floricel Medina
+T66	ACE-Mention 3088 3123	local director for the ruling party
+#66	ACE T66	entityID: APW20001023.0423.0148-E33; extent: local director for the ruling party
+T67	ACE-Mention 3131 3135	Diaz
+#67	ACE T67	entityID: APW20001023.0423.0148-E27; extent: Diaz
+T68	ACE-Mention 3194 3204	the people
+#68	ACE T68	entityID: APW20001023.0423.0148-E35; extent: the people
+T69	ACE-Mention 3239 3243	Diaz
+#69	ACE T69	entityID: APW20001023.0423.0148-E27; extent: Diaz
+T70	ACE-Mention 3252 3299	the president of Tabasco 's electoral institute
+#70	ACE T70	entityID: APW20001023.0423.0148-E36; extent: the president of Tabasco 's electoral institute
+T71	ACE-Mention 3312 3319	the PRI
+#71	ACE T71	entityID: APW20001023.0423.0148-E44; extent: the PRI
+T72	ACE-Mention 3335 3353	election officials
+#72	ACE T72	entityID: APW20001023.0423.0148-E38; extent: election officials
+T73	ACE-Mention 3404 3411	Andrade
+#73	ACE T73	entityID: APW20001023.0423.0148-E23; extent: Andrade
+T74	ACE-Mention 3415 3433	Election officials
+#74	ACE T74	entityID: APW20001023.0423.0148-E39; extent: Election officials
+T75	ACE-Mention 3466 3470	they
+#75	ACE T75	entityID: APW20001023.0423.0148-E39; extent: they
+T76	ACE-Mention 3525 3550	spokesman Marco Dominguez
+#76	ACE T76	entityID: APW20001023.0423.0148-E40; extent: spokesman Marco Dominguez

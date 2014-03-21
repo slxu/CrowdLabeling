@@ -1,0 +1,100 @@
+T0	ACE-Mention 309 315	BOSTON
+#0	ACE T0	entityID: NYT20001216.1450.0120-E27; extent: BOSTON
+T1	ACE-Mention 318 347	Michael McNamara 's ambulance
+#1	ACE T1	entityID: NYT20001216.1450.0120-E47; extent: Michael McNamara 's ambulance
+T2	ACE-Mention 364 450	an 89-year-old woman with cancer , abdominal pain , possibly a broken hip after a fall
+#2	ACE T2	entityID: NYT20001216.1450.0120-E49; extent: an 89-year-old woman with cancer , abdominal pain , possibly a broken hip after a fall
+T3	ACE-Mention 465 507	McNamara , an emergency medical technician
+#3	ACE T3	entityID: NYT20001216.1450.0120-E48; extent: McNamara , an emergency medical technician
+T4	ACE-Mention 534 564	Massachusetts General Hospital
+#4	ACE T4	entityID: NYT20001216.1450.0120-E1; extent: Massachusetts General Hospital
+T5	ACE-Mention 570 598	the doctors who care for her
+#5	ACE T5	entityID: NYT20001216.1450.0120-E52; extent: the doctors who care for her
+T6	ACE-Mention 608 610	he
+#6	ACE T6	entityID: NYT20001216.1450.0120-E48; extent: he
+T7	ACE-Mention 623 626	her
+#7	ACE T7	entityID: NYT20001216.1450.0120-E49; extent: her
+T8	ACE-Mention 629 641	the hospital
+#8	ACE T8	entityID: NYT20001216.1450.0120-E1; extent: the hospital
+T9	ACE-Mention 659 669	ambulances
+#9	ACE T9	entityID: NYT20001216.1450.0120-E9; extent: ambulances
+T10	ACE-Mention 687 689	He
+#10	ACE T10	entityID: NYT20001216.1450.0120-E48; extent: He
+T11	ACE-Mention 699 721	several other patients
+#11	ACE T11	entityID: NYT20001216.1450.0120-E54; extent: several other patients
+T12	ACE-Mention 754 756	he
+#12	ACE T12	entityID: NYT20001216.1450.0120-E48; extent: he
+T13	ACE-Mention 826 897	Massachusetts General , considered one of the country 's best hospitals
+#13	ACE T13	entityID: NYT20001216.1450.0120-E1; extent: Massachusetts General , considered one of the country 's best hospitals
+T14	ACE-Mention 977 1011	two of the city 's emergency rooms
+#14	ACE T14	entityID: NYT20001216.1450.0120-E4; extent: two of the city 's emergency rooms
+T15	ACE-Mention 1021 1031	ambulances
+#15	ACE T15	entityID: NYT20001216.1450.0120-E9; extent: ambulances
+T16	ACE-Mention 1098 1109	most cities
+#16	ACE T16	entityID: NYT20001216.1450.0120-E6; extent: most cities
+T17	ACE-Mention 1114 1124	a hospital
+#17	ACE T17	entityID: NYT20001216.1450.0120-E7; extent: a hospital
+T18	ACE-Mention 1175 1190	ambulance crews
+#18	ACE T18	entityID: NYT20001216.1450.0120-E8; extent: ambulance crews
+T19	ACE-Mention 1220 1275	cities from Boston to San Francisco , Phoenix to Denver
+#19	ACE T19	entityID: NYT20001216.1450.0120-E10; extent: cities from Boston to San Francisco , Phoenix to Denver
+T20	ACE-Mention 1317 1350	doctors , paramedics and patients
+#20	ACE T20	entityID: NYT20001216.1450.0120-E14; extent: doctors , paramedics and patients
+T21	ACE-Mention 1358 1362	some
+#21	ACE T21	entityID: NYT20001216.1450.0120-E15; extent: some
+T22	ACE-Mention 1388 1395	patient
+#22	ACE T22	entityID: NYT20001216.1450.0120-E16; extent: patient
+T23	ACE-Mention 1452 1462	ambulances
+#23	ACE T23	entityID: NYT20001216.1450.0120-E9; extent: ambulances
+T24	ACE-Mention 1482 1496	emergency-room
+#24	ACE T24	entityID: NYT20001216.1450.0120-E17; extent: emergency-room
+T25	ACE-Mention 1558 1597	Virtually every major metropolitan area
+#25	ACE T25	entityID: NYT20001216.1450.0120-E18; extent: Virtually every major metropolitan area
+T26	ACE-Mention 1604 1620	many rural areas
+#26	ACE T26	entityID: NYT20001216.1450.0120-E19; extent: many rural areas
+T27	ACE-Mention 1664 1757	Dr. Arthur Kellermann , chairman of emergency medicine at Emory University School of Medicine
+#27	ACE T27	entityID: NYT20001216.1450.0120-E20; extent: Dr. Arthur Kellermann , chairman of emergency medicine at Emory University School of Medicine
+T28	ACE-Mention 1764 1768	They
+#28	ACE T28	entityID: NYT20001216.1450.0120-E23; extent: They
+T29	ACE-Mention 1780 1807	eight or 10 or 12 hospitals
+#29	ACE T29	entityID: NYT20001216.1450.0120-E24; extent: eight or 10 or 12 hospitals
+T30	ACE-Mention 1811 1831	a major urban market
+#30	ACE T30	entityID: NYT20001216.1450.0120-E25; extent: a major urban market
+T31	ACE-Mention 1880 1884	they
+#31	ACE T31	entityID: NYT20001216.1450.0120-E24; extent: they
+T32	ACE-Mention 1893 1902	inpatient
+#32	ACE T32	entityID: NYT20001216.1450.0120-E26; extent: inpatient
+T33	ACE-Mention 1950 1960	Kellermann
+#33	ACE T33	entityID: NYT20001216.1450.0120-E20; extent: Kellermann
+T34	ACE-Mention 1965 1988	other emergency doctors
+#34	ACE T34	entityID: NYT20001216.1450.0120-E28; extent: other emergency doctors
+T35	ACE-Mention 2024 2054	the emergency rooms themselves
+#35	ACE T35	entityID: NYT20001216.1450.0120-E17; extent: the emergency rooms themselves
+T36	ACE-Mention 2145 2188	more than 60 emergency department directors
+#36	ACE T36	entityID: NYT20001216.1450.0120-E30; extent: more than 60 emergency department directors
+T37	ACE-Mention 2192 2241	the Massachusetts College of Emergency Physicians
+#37	ACE T37	entityID: NYT20001216.1450.0120-E32; extent: the Massachusetts College of Emergency Physicians
+T38	ACE-Mention 2253 2281	more than 80 percent of them
+#38	ACE T38	entityID: NYT20001216.1450.0120-E33; extent: more than 80 percent of them
+T39	ACE-Mention 2308 2318	ambulances
+#39	ACE T39	entityID: NYT20001216.1450.0120-E9; extent: ambulances
+T40	ACE-Mention 2323 2339	about 38 percent
+#40	ACE T40	entityID: NYT20001216.1450.0120-E34; extent: about 38 percent
+T41	ACE-Mention 2345 2349	they
+#41	ACE T41	entityID: NYT20001216.1450.0120-E34; extent: they
+T42	ACE-Mention 2413 2417	some
+#42	ACE T42	entityID: NYT20001216.1450.0120-E35; extent: some
+T43	ACE-Mention 2467 2471	them
+#43	ACE T43	entityID: NYT20001216.1450.0120-E35; extent: them
+T44	ACE-Mention 2472 2684	Dr. Dennis S. O 'Leary , president of the Joint Commission on Accreditation of Healthcare Organizations , an agency that certifies hospital quality , who has said the system would `` muddle through '' the problem
+#44	ACE T44	entityID: NYT20001216.1450.0120-E36; extent: Dr. Dennis S. O 'Leary , president of the Joint Commission on Accreditation of Healthcare Organizations , an agency that certifies hospital quality , who has said the system would `` muddle through '' the problem
+T45	ACE-Mention 2715 2723	O 'Leary
+#45	ACE T45	entityID: NYT20001216.1450.0120-E36; extent: O 'Leary
+T46	ACE-Mention 2915 2993	Dr. Alan Woodward , chief of emergency services at Emerson Hospital in Concord
+#46	ACE T46	entityID: NYT20001216.1450.0120-E42; extent: Dr. Alan Woodward , chief of emergency services at Emerson Hospital in Concord
+T47	ACE-Mention 3034 3039	lives
+#47	ACE T47	entityID: NYT20001216.1450.0120-E46; extent: lives
+T48	ACE-Mention 3056 3058	He
+#48	ACE T48	entityID: NYT20001216.1450.0120-E42; extent: He
+T49	ACE-Mention 3064 3072	O 'Leary
+#49	ACE T49	entityID: NYT20001216.1450.0120-E36; extent: O 'Leary

@@ -1,0 +1,130 @@
+T0	ACE-Mention 512 523	Jeff Zucker
+#0	ACE T0	entityID: NYT20001214.1824.0331-E2; extent: Jeff Zucker
+T1	ACE-Mention 526 587	the longtime executive producer of NBC 's `` Today '' program
+#1	ACE T1	entityID: NYT20001214.1824.0331-E2; extent: the longtime executive producer of NBC 's `` Today '' program
+T2	ACE-Mention 614 689	the new president of NBC 's entertainment division , replacing Garth Ancier
+#2	ACE T2	entityID: NYT20001214.1824.0331-E2; extent: the new president of NBC 's entertainment division , replacing Garth Ancier
+T3	ACE-Mention 692 706	NBC executives
+#3	ACE T3	entityID: NYT20001214.1824.0331-E9; extent: NBC executives
+T4	ACE-Mention 753 770	two NBC divisions
+#4	ACE T4	entityID: NYT20001214.1824.0331-E5; extent: two NBC divisions
+T5	ACE-Mention 781 792	the network
+#5	ACE T5	entityID: NYT20001214.1824.0331-E27; extent: the network
+T6	ACE-Mention 804 905	Zucker at `` Today , '' where he has led the program to its most dominant ratings position in decades
+#6	ACE T6	entityID: NYT20001214.1824.0331-E2; extent: Zucker at `` Today , '' where he has led the program to its most dominant ratings position in decades
+T7	ACE-Mention 923 981	the entertainment division , where Zucker has never worked
+#7	ACE T7	entityID: NYT20001214.1824.0331-E1; extent: the entertainment division , where Zucker has never worked
+T8	ACE-Mention 985 991	Zucker
+#8	ACE T8	entityID: NYT20001214.1824.0331-E2; extent: Zucker
+T9	ACE-Mention 1018 1081	Today , '' where he has served as executive producer since 1994
+#9	ACE T9	entityID: NYT20001214.1824.0331-E7; extent: Today , '' where he has served as executive producer since 1994
+T10	ACE-Mention 1110 1113	him
+#10	ACE T10	entityID: NYT20001214.1824.0331-E2; extent: him
+T11	ACE-Mention 1136 1147	the network
+#11	ACE T11	entityID: NYT20001214.1824.0331-E27; extent: the network
+T12	ACE-Mention 1154 1156	he
+#12	ACE T12	entityID: NYT20001214.1824.0331-E2; extent: he
+T13	ACE-Mention 1182 1185	his
+#13	ACE T13	entityID: NYT20001214.1824.0331-E2; extent: his
+T14	ACE-Mention 1212 1217	Today
+#14	ACE T14	entityID: NYT20001214.1824.0331-E7; extent: Today
+T15	ACE-Mention 1243 1249	Zucker
+#15	ACE T15	entityID: NYT20001214.1824.0331-E2; extent: Zucker
+T16	ACE-Mention 1303 1308	Today
+#16	ACE T16	entityID: NYT20001214.1824.0331-E7; extent: Today
+T17	ACE-Mention 1415 1417	he
+#17	ACE T17	entityID: NYT20001214.1824.0331-E2; extent: he
+T18	ACE-Mention 1454 1459	Today
+#18	ACE T18	entityID: NYT20001214.1824.0331-E7; extent: Today
+T19	ACE-Mention 1480 1497	the news division
+#19	ACE T19	entityID: NYT20001214.1824.0331-E11; extent: the news division
+T20	ACE-Mention 1542 1548	Zucker
+#20	ACE T20	entityID: NYT20001214.1824.0331-E2; extent: Zucker
+T21	ACE-Mention 1564 1581	NBC Entertainment
+#21	ACE T21	entityID: NYT20001214.1824.0331-E1; extent: NBC Entertainment
+T22	ACE-Mention 1609 1612	NBC
+#22	ACE T22	entityID: NYT20001214.1824.0331-E27; extent: NBC
+T23	ACE-Mention 1623 1680	an executive they regard as one of the best in television
+#23	ACE T23	entityID: NYT20001214.1824.0331-E2; extent: an executive they regard as one of the best in television
+T24	ACE-Mention 1711 1717	Ancier
+#24	ACE T24	entityID: NYT20001214.1824.0331-E4; extent: Ancier
+T25	ACE-Mention 1735 1752	NBC Entertainment
+#25	ACE T25	entityID: NYT20001214.1824.0331-E1; extent: NBC Entertainment
+T26	ACE-Mention 1777 1780	His
+#26	ACE T26	entityID: NYT20001214.1824.0331-E4; extent: His
+T27	ACE-Mention 1848 1851	NBC
+#27	ACE T27	entityID: NYT20001214.1824.0331-E27; extent: NBC
+T28	ACE-Mention 1937 1940	NBC
+#28	ACE T28	entityID: NYT20001214.1824.0331-E27; extent: NBC
+T29	ACE-Mention 1967 1970	its
+#29	ACE T29	entityID: NYT20001214.1824.0331-E27; extent: its
+T30	ACE-Mention 2169 2175	Ancier
+#30	ACE T30	entityID: NYT20001214.1824.0331-E4; extent: Ancier
+T31	ACE-Mention 2188 2191	NBC
+#31	ACE T31	entityID: NYT20001214.1824.0331-E27; extent: NBC
+T32	ACE-Mention 2233 2244	the network
+#32	ACE T32	entityID: NYT20001214.1824.0331-E27; extent: the network
+T33	ACE-Mention 2252 2258	Ancier
+#33	ACE T33	entityID: NYT20001214.1824.0331-E4; extent: Ancier
+T34	ACE-Mention 2314 2323	Hollywood
+#34	ACE T34	entityID: NYT20001214.1824.0331-E15; extent: Hollywood
+T35	ACE-Mention 2420 2423	NBC
+#35	ACE T35	entityID: NYT20001214.1824.0331-E27; extent: NBC
+T36	ACE-Mention 2530 2541	the network
+#36	ACE T36	entityID: NYT20001214.1824.0331-E27; extent: the network
+T37	ACE-Mention 2548 2562	NBC executives
+#37	ACE T37	entityID: NYT20001214.1824.0331-E9; extent: NBC executives
+T38	ACE-Mention 2614 2625	the network
+#38	ACE T38	entityID: NYT20001214.1824.0331-E27; extent: the network
+T39	ACE-Mention 2664 2667	NBC
+#39	ACE T39	entityID: NYT20001214.1824.0331-E27; extent: NBC
+T40	ACE-Mention 2863 2866	NBC
+#40	ACE T40	entityID: NYT20001214.1824.0331-E27; extent: NBC
+T41	ACE-Mention 2894 2897	NBC
+#41	ACE T41	entityID: NYT20001214.1824.0331-E27; extent: NBC
+T42	ACE-Mention 3022 3028	Ancier
+#42	ACE T42	entityID: NYT20001214.1824.0331-E4; extent: Ancier
+T43	ACE-Mention 3117 3120	NBC
+#43	ACE T43	entityID: NYT20001214.1824.0331-E27; extent: NBC
+T44	ACE-Mention 3130 3133	its
+#44	ACE T44	entityID: NYT20001214.1824.0331-E27; extent: its
+T45	ACE-Mention 3175 3257	several other senior NBC executives , including the network president , Bob Wright
+#45	ACE T45	entityID: NYT20001214.1824.0331-E16; extent: several other senior NBC executives , including the network president , Bob Wright
+T46	ACE-Mention 3296 3302	Ancier
+#46	ACE T46	entityID: NYT20001214.1824.0331-E4; extent: Ancier
+T47	ACE-Mention 3335 3341	Ancier
+#47	ACE T47	entityID: NYT20001214.1824.0331-E4; extent: Ancier
+T48	ACE-Mention 3385 3391	Wright
+#48	ACE T48	entityID: NYT20001214.1824.0331-E17; extent: Wright
+T49	ACE-Mention 3408 3430	CBS , with `` Survivor
+#49	ACE T49	entityID: NYT20001214.1824.0331-E19; extent: CBS , with `` Survivor
+T50	ACE-Mention 3440 3483	ABC , with `` Who Wants To Be A Millionaire
+#50	ACE T50	entityID: NYT20001214.1824.0331-E20; extent: ABC , with `` Who Wants To Be A Millionaire
+T51	ACE-Mention 3496 3510	their networks
+#51	ACE T51	entityID: NYT20001214.1824.0331-E21; extent: their networks
+T52	ACE-Mention 3553 3559	Wright
+#52	ACE T52	entityID: NYT20001214.1824.0331-E17; extent: Wright
+T53	ACE-Mention 3575 3592	NBC Entertainment
+#53	ACE T53	entityID: NYT20001214.1824.0331-E1; extent: NBC Entertainment
+T54	ACE-Mention 3597 3666	the only network that had not picked up programs in the reality genre
+#54	ACE T54	entityID: NYT20001214.1824.0331-E1; extent: the only network that had not picked up programs in the reality genre
+T55	ACE-Mention 3670 3676	Ancier
+#55	ACE T55	entityID: NYT20001214.1824.0331-E4; extent: Ancier
+T56	ACE-Mention 3689 3692	NBC
+#56	ACE T56	entityID: NYT20001214.1824.0331-E27; extent: NBC
+T57	ACE-Mention 3732 3734	He
+#57	ACE T57	entityID: NYT20001214.1824.0331-E4; extent: He
+T58	ACE-Mention 3760 3777	NBC Entertainment
+#58	ACE T58	entityID: NYT20001214.1824.0331-E1; extent: NBC Entertainment
+T59	ACE-Mention 3793 3796	Fox
+#59	ACE T59	entityID: NYT20001214.1824.0331-E22; extent: Fox
+T60	ACE-Mention 3833 3845	that network
+#60	ACE T60	entityID: NYT20001214.1824.0331-E22; extent: that network
+T61	ACE-Mention 3891 3905	the WB Network
+#61	ACE T61	entityID: NYT20001214.1824.0331-E23; extent: the WB Network
+T62	ACE-Mention 3916 3928	that network
+#62	ACE T62	entityID: NYT20001214.1824.0331-E23; extent: that network
+T63	ACE-Mention 3939 3945	itself
+#63	ACE T63	entityID: NYT20001214.1824.0331-E23; extent: itself
+T64	ACE-Mention 3949 3988	a strong competitor for young audiences
+#64	ACE T64	entityID: NYT20001214.1824.0331-E23; extent: a strong competitor for young audiences

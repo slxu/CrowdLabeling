@@ -1,0 +1,160 @@
+T0	ACE-Mention 106 129	AMSTERDAM , Netherlands
+#0	ACE T0	entityID: APW20001110.1844.0453-E27; extent: AMSTERDAM , Netherlands
+T1	ACE-Mention 130 134	(AP)
+#1	ACE T1	entityID: APW20001110.1844.0453-E68; extent: (AP)
+T2	ACE-Mention 137 160	A Palestinian terrorist
+#2	ACE T2	entityID: APW20001110.1844.0453-E1; extent: A Palestinian terrorist
+T3	ACE-Mention 167 170	his
+#3	ACE T3	entityID: APW20001110.1844.0453-E1; extent: his
+T4	ACE-Mention 204 252	two Libyans accused of bombing Pan Am Flight 103
+#4	ACE T4	entityID: APW20001110.1844.0453-E3; extent: two Libyans accused of bombing Pan Am Flight 103
+T5	ACE-Mention 266 269	his
+#5	ACE T5	entityID: APW20001110.1844.0453-E1; extent: his
+T6	ACE-Mention 294 300	Israel
+#6	ACE T6	entityID: APW20001110.1844.0453-E5; extent: Israel
+T7	ACE-Mention 317 410	Mohammed Abu Talb , whose appearance at the special Scottish court had been delayed for weeks
+#7	ACE T7	entityID: APW20001110.1844.0453-E1; extent: Mohammed Abu Talb , whose appearance at the special Scottish court had been delayed for weeks
+T8	ACE-Mention 446 448	He
+#8	ACE T8	entityID: APW20001110.1844.0453-E1; extent: He
+T9	ACE-Mention 486 500	the defendants
+#9	ACE T9	entityID: APW20001110.1844.0453-E3; extent: the defendants
+T10	ACE-Mention 514 523	his group
+#10	ACE T10	entityID: APW20001110.1844.0453-E8; extent: his group
+T11	ACE-Mention 526 562	the Palestine Popular Struggle Front
+#11	ACE T11	entityID: APW20001110.1844.0453-E8; extent: the Palestine Popular Struggle Front
+T12	ACE-Mention 604 624	Lockerbie , Scotland
+#12	ACE T12	entityID: APW20001110.1844.0453-E10; extent: Lockerbie , Scotland
+T13	ACE-Mention 628 636	Abu Talb
+#13	ACE T13	entityID: APW20001110.1844.0453-E1; extent: Abu Talb
+T14	ACE-Mention 639 673	the last major prosecution witness
+#14	ACE T14	entityID: APW20001110.1844.0453-E1; extent: the last major prosecution witness
+T15	ACE-Mention 695 701	Sweden
+#15	ACE T15	entityID: APW20001110.1844.0453-E12; extent: Sweden
+T16	ACE-Mention 722 759	Jewish and American targets in Europe
+#16	ACE T16	entityID: APW20001110.1844.0453-E15; extent: Jewish and American targets in Europe
+T17	ACE-Mention 763 765	He
+#17	ACE T17	entityID: APW20001110.1844.0453-E1; extent: He
+T18	ACE-Mention 800 809	Lockerbie
+#18	ACE T18	entityID: APW20001110.1844.0453-E10; extent: Lockerbie
+T19	ACE-Mention 833 843	270 people
+#19	ACE T19	entityID: APW20001110.1844.0453-E18; extent: 270 people
+T20	ACE-Mention 847 849	He
+#20	ACE T20	entityID: APW20001110.1844.0453-E1; extent: He
+T21	ACE-Mention 874 883	terrorist
+#21	ACE T21	entityID: APW20001110.1844.0453-E20; extent: terrorist
+T22	ACE-Mention 894 901	Denmark
+#22	ACE T22	entityID: APW20001110.1844.0453-E19; extent: Denmark
+T23	ACE-Mention 922 939	a Jewish civilian
+#23	ACE T23	entityID: APW20001110.1844.0453-E21; extent: a Jewish civilian
+T24	ACE-Mention 943 953	Defendants
+#24	ACE T24	entityID: APW20001110.1844.0453-E3; extent: Defendants
+T25	ACE-Mention 954 981	Abdel Basset Ali al-Megrahi
+#25	ACE T25	entityID: APW20001110.1844.0453-E23; extent: Abdel Basset Ali al-Megrahi
+T26	ACE-Mention 986 1006	Lamen Khalifa Fhimah
+#26	ACE T26	entityID: APW20001110.1844.0453-E24; extent: Lamen Khalifa Fhimah
+T27	ACE-Mention 1013 1021	Abu Talb
+#27	ACE T27	entityID: APW20001110.1844.0453-E1; extent: Abu Talb
+T28	ACE-Mention 1026 1044	other Palestinians
+#28	ACE T28	entityID: APW20001110.1844.0453-E25; extent: other Palestinians
+T29	ACE-Mention 1068 1079	Prosecutors
+#29	ACE T29	entityID: APW20001110.1844.0453-E26; extent: Prosecutors
+T30	ACE-Mention 1084 1147	the two defendants , who are alleged to be Libyan secret agents
+#30	ACE T30	entityID: APW20001110.1844.0453-E3; extent: the two defendants , who are alleged to be Libyan secret agents
+T31	ACE-Mention 1171 1204	the Mediterranean island of Malta
+#31	ACE T31	entityID: APW20001110.1844.0453-E30; extent: the Mediterranean island of Malta
+T32	ACE-Mention 1217 1233	explosives-laden
+#32	ACE T32	entityID: APW20001110.1844.0453-E32; extent: explosives-laden
+T33	ACE-Mention 1274 1293	Frankfurt , Germany
+#33	ACE T33	entityID: APW20001110.1844.0453-E33; extent: Frankfurt , Germany
+T34	ACE-Mention 1299 1318	the doomed airliner
+#34	ACE T34	entityID: APW20001110.1844.0453-E4; extent: the doomed airliner
+T35	ACE-Mention 1322 1328	London
+#35	ACE T35	entityID: APW20001110.1844.0453-E35; extent: London
+T36	ACE-Mention 1371 1379	Abu Talb
+#36	ACE T36	entityID: APW20001110.1844.0453-E1; extent: Abu Talb
+T37	ACE-Mention 1395 1417	Scottish prison guards
+#37	ACE T37	entityID: APW20001110.1844.0453-E36; extent: Scottish prison guards
+T38	ACE-Mention 1421 1423	he
+#38	ACE T38	entityID: APW20001110.1844.0453-E1; extent: he
+T39	ACE-Mention 1433 1440	witness
+#39	ACE T39	entityID: APW20001110.1844.0453-E37; extent: witness
+T40	ACE-Mention 1464 1482	the public gallery
+#40	ACE T40	entityID: APW20001110.1844.0453-E38; extent: the public gallery
+T41	ACE-Mention 1517 1519	He
+#41	ACE T41	entityID: APW20001110.1844.0453-E1; extent: He
+T42	ACE-Mention 1538 1562	prosecutor Alan Turnbull
+#42	ACE T42	entityID: APW20001110.1844.0453-E39; extent: prosecutor Alan Turnbull
+T43	ACE-Mention 1566 1595	The Egyptian-born Palestinian
+#43	ACE T43	entityID: APW20001110.1844.0453-E1; extent: The Egyptian-born Palestinian
+T44	ACE-Mention 1601 1607	judges
+#44	ACE T44	entityID: APW20001110.1844.0453-E42; extent: judges
+T45	ACE-Mention 1613 1615	he
+#45	ACE T45	entityID: APW20001110.1844.0453-E1; extent: he
+T46	ACE-Mention 1625 1642	the Egyptian army
+#46	ACE T46	entityID: APW20001110.1844.0453-E43; extent: the Egyptian army
+T47	ACE-Mention 1673 1680	Lebanon
+#47	ACE T47	entityID: APW20001110.1844.0453-E44; extent: Lebanon
+T48	ACE-Mention 1685 1691	Jordan
+#48	ACE T48	entityID: APW20001110.1844.0453-E45; extent: Jordan
+T49	ACE-Mention 1717 1719	He
+#49	ACE T49	entityID: APW20001110.1844.0453-E1; extent: He
+T50	ACE-Mention 1736 1744	Moroccan
+#50	ACE T50	entityID: APW20001110.1844.0453-E46; extent: Moroccan
+T51	ACE-Mention 1769 1805	the Palestine Popular Struggle Front
+#51	ACE T51	entityID: APW20001110.1844.0453-E8; extent: the Palestine Popular Struggle Front
+T52	ACE-Mention 1820 1821	I
+#52	ACE T52	entityID: APW20001110.1844.0453-E1; extent: I
+T53	ACE-Mention 1854 1874	46-year-old Abu Talb
+#53	ACE T53	entityID: APW20001110.1844.0453-E1; extent: 46-year-old Abu Talb
+T54	ACE-Mention 1893 1896	his
+#54	ACE T54	entityID: APW20001110.1844.0453-E1; extent: his
+T55	ACE-Mention 1897 1906	terrorist
+#55	ACE T55	entityID: APW20001110.1844.0453-E20; extent: terrorist
+T56	ACE-Mention 1920 1926	Israel
+#56	ACE T56	entityID: APW20001110.1844.0453-E5; extent: Israel
+T57	ACE-Mention 1952 1953	I
+#57	ACE T57	entityID: APW20001110.1844.0453-E1; extent: I
+T58	ACE-Mention 1964 1972	military
+#58	ACE T58	entityID: APW20001110.1844.0453-E47; extent: military
+T59	ACE-Mention 1995 1996	I
+#59	ACE T59	entityID: APW20001110.1844.0453-E1; extent: I
+T60	ACE-Mention 2028 2029	I
+#60	ACE T60	entityID: APW20001110.1844.0453-E1; extent: I
+T61	ACE-Mention 2034 2101	the special bodyguard of the secretary-general of the organizations
+#61	ACE T61	entityID: APW20001110.1844.0453-E1; extent: the special bodyguard of the secretary-general of the organizations
+T62	ACE-Mention 2215 2228	another group
+#62	ACE T62	entityID: APW20001110.1844.0453-E49; extent: another group
+T63	ACE-Mention 2231 2315	the Damascus-based Palestinian Front for the Liberation of Palestine-General Command
+#63	ACE T63	entityID: APW20001110.1844.0453-E49; extent: the Damascus-based Palestinian Front for the Liberation of Palestine-General Command
+T64	ACE-Mention 2319 2330	The PFLP-GC
+#64	ACE T64	entityID: APW20001110.1844.0453-E49; extent: The PFLP-GC
+T65	ACE-Mention 2338 2346	the PPSF
+#65	ACE T65	entityID: APW20001110.1844.0453-E8; extent: the PPSF
+T66	ACE-Mention 2380 2389	Lockerbie
+#66	ACE T66	entityID: APW20001110.1844.0453-E10; extent: Lockerbie
+T67	ACE-Mention 2415 2430	Scottish judges
+#67	ACE T67	entityID: APW20001110.1844.0453-E52; extent: Scottish judges
+T68	ACE-Mention 2437 2442	Syria
+#68	ACE T68	entityID: APW20001110.1844.0453-E53; extent: Syria
+T69	ACE-Mention 2489 2492	who
+#69	ACE T69	entityID: APW20001110.1844.0453-E54; extent: who
+T70	ACE-Mention 2501 2528	the New York-bound jetliner
+#70	ACE T70	entityID: APW20001110.1844.0453-E4; extent: the New York-bound jetliner
+T71	ACE-Mention 2532 2558	Defense lawyer Bill Taylor
+#71	ACE T71	entityID: APW20001110.1844.0453-E56; extent: Defense lawyer Bill Taylor
+T72	ACE-Mention 2601 2614	German police
+#72	ACE T72	entityID: APW20001110.1844.0453-E58; extent: German police
+T73	ACE-Mention 2624 2661	an alleged Palestinian terrorist base
+#73	ACE T73	entityID: APW20001110.1844.0453-E60; extent: an alleged Palestinian terrorist base
+T74	ACE-Mention 2730 2736	police
+#74	ACE T74	entityID: APW20001110.1844.0453-E58; extent: police
+T75	ACE-Mention 2745 2782	a PFLP-GC hide-out in Neuss , Germany
+#75	ACE T75	entityID: APW20001110.1844.0453-E60; extent: a PFLP-GC hide-out in Neuss , Germany
+T76	ACE-Mention 2786 2790	They
+#76	ACE T76	entityID: APW20001110.1844.0453-E58; extent: They
+T77	ACE-Mention 2797 2867	an explosive device similar to one that triggered the Pan Am explosion
+#77	ACE T77	entityID: APW20001110.1844.0453-E63; extent: an explosive device similar to one that triggered the Pan Am explosion
+T78	ACE-Mention 2871 2881	The judges
+#78	ACE T78	entityID: APW20001110.1844.0453-E52; extent: The judges
+T79	ACE-Mention 2960 2966	Syrian
+#79	ACE T79	entityID: APW20001110.1844.0453-E65; extent: Syrian

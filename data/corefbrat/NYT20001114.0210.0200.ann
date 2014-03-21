@@ -1,0 +1,28 @@
+T0	ACE-Mention 275 283	NEW YORK
+#0	ACE T0	entityID: NYT20001114.0210.0200-E1; extent: NEW YORK
+T1	ACE-Mention 331 339	American
+#1	ACE T1	entityID: NYT20001114.0210.0200-E2; extent: American
+T2	ACE-Mention 440 442	we
+#2	ACE T2	entityID: NYT20001114.0210.0200-E3; extent: we
+T3	ACE-Mention 596 604	the cook
+#3	ACE T3	entityID: NYT20001114.0210.0200-E4; extent: the cook
+T4	ACE-Mention 908 916	everyone
+#4	ACE T4	entityID: NYT20001114.0210.0200-E5; extent: everyone
+T5	ACE-Mention 999 1001	My
+#5	ACE T5	entityID: NYT20001114.0210.0200-E6; extent: My
+T6	ACE-Mention 1089 1092	you
+#6	ACE T6	entityID: NYT20001114.0210.0200-E7; extent: you
+T7	ACE-Mention 1208 1211	You
+#7	ACE T7	entityID: NYT20001114.0210.0200-E7; extent: You
+T8	ACE-Mention 1423 1426	you
+#8	ACE T8	entityID: NYT20001114.0210.0200-E7; extent: you
+T9	ACE-Mention 1604 1605	I
+#9	ACE T9	entityID: NYT20001114.0210.0200-E6; extent: I
+T10	ACE-Mention 1676 1679	You
+#10	ACE T10	entityID: NYT20001114.0210.0200-E7; extent: You
+T11	ACE-Mention 1828 1831	you
+#11	ACE T11	entityID: NYT20001114.0210.0200-E7; extent: you
+T12	ACE-Mention 2189 2190	I
+#12	ACE T12	entityID: NYT20001114.0210.0200-E6; extent: I
+T13	ACE-Mention 2262 2265	you
+#13	ACE T13	entityID: NYT20001114.0210.0200-E7; extent: you

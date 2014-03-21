@@ -1,0 +1,68 @@
+T0	ACE-Mention 104 117	TEHRAN , Iran
+#0	ACE T0	entityID: APW20001224.2108.0553-E15; extent: TEHRAN , Iran
+T1	ACE-Mention 118 122	(AP)
+#1	ACE T1	entityID: APW20001224.2108.0553-E17; extent: (AP)
+T2	ACE-Mention 125 155	Iran 's only Jewish legislator
+#2	ACE T2	entityID: APW20001224.2108.0553-E1; extent: Iran 's only Jewish legislator
+T3	ACE-Mention 194 220	non-Muslims in the country
+#3	ACE T3	entityID: APW20001224.2108.0553-E20; extent: non-Muslims in the country
+T4	ACE-Mention 223 255	the Islamic Republic News Agency
+#4	ACE T4	entityID: APW20001224.2108.0553-E21; extent: the Islamic Republic News Agency
+T5	ACE-Mention 271 272	I
+#5	ACE T5	entityID: APW20001224.2108.0553-E1; extent: I
+T6	ACE-Mention 281 309	the Muslim religious leaders
+#6	ACE T6	entityID: APW20001224.2108.0553-E22; extent: the Muslim religious leaders
+T7	ACE-Mention 314 344	the officials of the judiciary
+#7	ACE T7	entityID: APW20001224.2108.0553-E24; extent: the officials of the judiciary
+T8	ACE-Mention 384 403	non-Muslim families
+#8	ACE T8	entityID: APW20001224.2108.0553-E20; extent: non-Muslim families
+T9	ACE-Mention 461 471	the courts
+#9	ACE T9	entityID: APW20001224.2108.0553-E25; extent: the courts
+T10	ACE-Mention 496 511	Maurice Motamed
+#10	ACE T10	entityID: APW20001224.2108.0553-E1; extent: Maurice Motamed
+T11	ACE-Mention 514 575	the sole Jewish representative in Iran 's 290-seat parliament
+#11	ACE T11	entityID: APW20001224.2108.0553-E1; extent: the sole Jewish representative in Iran 's 290-seat parliament
+T12	ACE-Mention 579 583	Iran
+#12	ACE T12	entityID: APW20001224.2108.0553-E6; extent: Iran
+T13	ACE-Mention 661 686	a murder victim 's family
+#13	ACE T13	entityID: APW20001224.2108.0553-E3; extent: a murder victim 's family
+T14	ACE-Mention 692 699	Muslims
+#14	ACE T14	entityID: APW20001224.2108.0553-E5; extent: Muslims
+T15	ACE-Mention 708 719	non-Muslims
+#15	ACE T15	entityID: APW20001224.2108.0553-E20; extent: non-Muslims
+T16	ACE-Mention 723 730	Motamed
+#16	ACE T16	entityID: APW20001224.2108.0553-E1; extent: Motamed
+T17	ACE-Mention 762 788	the Majlis , or parliament
+#17	ACE T17	entityID: APW20001224.2108.0553-E2; extent: the Majlis , or parliament
+T18	ACE-Mention 807 817	government
+#18	ACE T18	entityID: APW20001224.2108.0553-E6; extent: government
+T19	ACE-Mention 842 846	Iran
+#19	ACE T19	entityID: APW20001224.2108.0553-E6; extent: Iran
+T20	ACE-Mention 862 920	all of its citizens , regardless of their race or religion
+#20	ACE T20	entityID: APW20001224.2108.0553-E6; extent: all of its citizens , regardless of their race or religion
+T21	ACE-Mention 945 957	Iranian Jews
+#21	ACE T21	entityID: APW20001224.2108.0553-E7; extent: Iranian Jews
+T22	ACE-Mention 993 998	their
+#22	ACE T22	entityID: APW20001224.2108.0553-E7; extent: their
+T23	ACE-Mention 1056 1067	80,000 Jews
+#23	ACE T23	entityID: APW20001224.2108.0553-E8; extent: 80,000 Jews
+T24	ACE-Mention 1071 1075	Iran
+#24	ACE T24	entityID: APW20001224.2108.0553-E6; extent: Iran
+T25	ACE-Mention 1122 1135	the community
+#25	ACE T25	entityID: APW20001224.2108.0553-E9; extent: the community
+T26	ACE-Mention 1152 1158	25,000
+#26	ACE T26	entityID: APW20001224.2108.0553-E9; extent: 25,000
+T27	ACE-Mention 1162 1164	It
+#27	ACE T27	entityID: APW20001224.2108.0553-E9; extent: It
+T28	ACE-Mention 1173 1235	the largest Jewish community in the Middle East outside Israel
+#28	ACE T28	entityID: APW20001224.2108.0553-E9; extent: the largest Jewish community in the Middle East outside Israel
+T29	ACE-Mention 1239 1243	Iran
+#29	ACE T29	entityID: APW20001224.2108.0553-E6; extent: Iran
+T30	ACE-Mention 1302 1304	it
+#30	ACE T30	entityID: APW20001224.2108.0553-E6; extent: it
+T31	ACE-Mention 1314 1329	13 Iranian Jews
+#31	ACE T31	entityID: APW20001224.2108.0553-E13; extent: 13 Iranian Jews
+T32	ACE-Mention 1350 1352	10
+#32	ACE T32	entityID: APW20001224.2108.0553-E14; extent: 10
+T33	ACE-Mention 1367 1373	Israel
+#33	ACE T33	entityID: APW20001224.2108.0553-E12; extent: Israel

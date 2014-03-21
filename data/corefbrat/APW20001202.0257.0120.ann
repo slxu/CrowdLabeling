@@ -1,0 +1,100 @@
+T0	ACE-Mention 112 119	PHOENIX
+#0	ACE T0	entityID: APW20001202.0257.0120-E18; extent: PHOENIX
+T1	ACE-Mention 120 124	(AP)
+#1	ACE T1	entityID: APW20001202.0257.0120-E38; extent: (AP)
+T2	ACE-Mention 127 223	Boise State coach Dirk Koetter , who just a day earlier was reportedly headed for Oklahoma State
+#2	ACE T2	entityID: APW20001202.0257.0120-E10; extent: Boise State coach Dirk Koetter , who just a day earlier was reportedly headed for Oklahoma State
+T3	ACE-Mention 260 273	Arizona State
+#3	ACE T3	entityID: APW20001202.0257.0120-E37; extent: Arizona State
+T4	ACE-Mention 277 328	Oklahoma State athletic director Terry Don Phillips
+#4	ACE T4	entityID: APW20001202.0257.0120-E45; extent: Oklahoma State athletic director Terry Don Phillips
+T5	ACE-Mention 339 346	Koetter
+#5	ACE T5	entityID: APW20001202.0257.0120-E10; extent: Koetter
+T6	ACE-Mention 403 416	Coach Koetter
+#6	ACE T6	entityID: APW20001202.0257.0120-E10; extent: Coach Koetter
+T7	ACE-Mention 426 428	me
+#7	ACE T7	entityID: APW20001202.0257.0120-E45; extent: me
+T8	ACE-Mention 474 476	he
+#8	ACE T8	entityID: APW20001202.0257.0120-E10; extent: he
+T9	ACE-Mention 509 533	Arizona State University
+#9	ACE T9	entityID: APW20001202.0257.0120-E1; extent: Arizona State University
+T10	ACE-Mention 556 564	Phillips
+#10	ACE T10	entityID: APW20001202.0257.0120-E45; extent: Phillips
+T11	ACE-Mention 573 585	Koetter , 41
+#11	ACE T11	entityID: APW20001202.0257.0120-E10; extent: Koetter , 41
+T12	ACE-Mention 597 644	Bruce Snyder , who was fired after nine seasons
+#12	ACE T12	entityID: APW20001202.0257.0120-E3; extent: Bruce Snyder , who was fired after nine seasons
+T13	ACE-Mention 648 654	Snyder
+#13	ACE T13	entityID: APW20001202.0257.0120-E3; extent: Snyder
+T14	ACE-Mention 666 679	Arizona State
+#14	ACE T14	entityID: APW20001202.0257.0120-E37; extent: Arizona State
+T15	ACE-Mention 731 750	The Daily Oklahoman
+#15	ACE T15	entityID: APW20001202.0257.0120-E4; extent: The Daily Oklahoman
+T16	ACE-Mention 755 796	several TV and radio stations in Oklahoma
+#16	ACE T16	entityID: APW20001202.0257.0120-E5; extent: several TV and radio stations in Oklahoma
+T17	ACE-Mention 835 842	Koetter
+#17	ACE T17	entityID: APW20001202.0257.0120-E10; extent: Koetter
+T18	ACE-Mention 860 874	Oklahoma State
+#18	ACE T18	entityID: APW20001202.0257.0120-E42; extent: Oklahoma State
+T19	ACE-Mention 886 894	Phillips
+#19	ACE T19	entityID: APW20001202.0257.0120-E45; extent: Phillips
+T20	ACE-Mention 931 938	Koetter
+#20	ACE T20	entityID: APW20001202.0257.0120-E10; extent: Koetter
+T21	ACE-Mention 985 996	Boise State
+#21	ACE T21	entityID: APW20001202.0257.0120-E2; extent: Boise State
+T22	ACE-Mention 1019 1026	Koetter
+#22	ACE T22	entityID: APW20001202.0257.0120-E10; extent: Koetter
+T23	ACE-Mention 1052 1054	he
+#23	ACE T23	entityID: APW20001202.0257.0120-E10; extent: he
+T24	ACE-Mention 1076 1084	Phillips
+#24	ACE T24	entityID: APW20001202.0257.0120-E45; extent: Phillips
+T25	ACE-Mention 1094 1136	Arizona State athletic director Gene Smith
+#25	ACE T25	entityID: APW20001202.0257.0120-E7; extent: Arizona State athletic director Gene Smith
+T26	ACE-Mention 1140 1147	Koetter
+#26	ACE T26	entityID: APW20001202.0257.0120-E10; extent: Koetter
+T27	ACE-Mention 1162 1212	one of the country 's top young coaching prospects
+#27	ACE T27	entityID: APW20001202.0257.0120-E10; extent: one of the country 's top young coaching prospects
+T28	ACE-Mention 1258 1260	he
+#28	ACE T28	entityID: APW20001202.0257.0120-E10; extent: he
+T29	ACE-Mention 1268 1279	Boise State
+#29	ACE T29	entityID: APW20001202.0257.0120-E2; extent: Boise State
+T30	ACE-Mention 1318 1332	His first team
+#30	ACE T30	entityID: APW20001202.0257.0120-E12; extent: His first team
+T31	ACE-Mention 1419 1429	Louisville
+#31	ACE T31	entityID: APW20001202.0257.0120-E13; extent: Louisville
+T32	ACE-Mention 1458 1475	This year 's team
+#32	ACE T32	entityID: APW20001202.0257.0120-E14; extent: This year 's team
+T33	ACE-Mention 1490 1493	its
+#33	ACE T33	entityID: APW20001202.0257.0120-E14; extent: its
+T34	ACE-Mention 1515 1523	Arkansas
+#34	ACE T34	entityID: APW20001202.0257.0120-E15; extent: Arkansas
+T35	ACE-Mention 1537 1553	Washington State
+#35	ACE T35	entityID: APW20001202.0257.0120-E16; extent: Washington State
+T36	ACE-Mention 1557 1564	Koetter
+#36	ACE T36	entityID: APW20001202.0257.0120-E10; extent: Koetter
+T37	ACE-Mention 1583 1610	Arizona State 's top choice
+#37	ACE T37	entityID: APW20001202.0257.0120-E17; extent: Arizona State 's top choice
+T38	ACE-Mention 1614 1640	Phoenix radio station KMVP
+#38	ACE T38	entityID: APW20001202.0257.0120-E19; extent: Phoenix radio station KMVP
+T39	ACE-Mention 1662 1667	Smith
+#39	ACE T39	entityID: APW20001202.0257.0120-E7; extent: Smith
+T40	ACE-Mention 1708 1735	TCU coach Dennis Franchione
+#40	ACE T40	entityID: APW20001202.0257.0120-E23; extent: TCU coach Dennis Franchione
+T41	ACE-Mention 1779 1786	Alabama
+#41	ACE T41	entityID: APW20001202.0257.0120-E25; extent: Alabama
+T42	ACE-Mention 1794 1804	Franchione
+#42	ACE T42	entityID: APW20001202.0257.0120-E23; extent: Franchione
+T43	ACE-Mention 1845 1893	one of college football 's most storied programs
+#43	ACE T43	entityID: APW20001202.0257.0120-E26; extent: one of college football 's most storied programs
+T44	ACE-Mention 1946 1953	Koetter
+#44	ACE T44	entityID: APW20001202.0257.0120-E10; extent: Koetter
+T45	ACE-Mention 1980 2007	some Arizona State boosters
+#45	ACE T45	entityID: APW20001202.0257.0120-E29; extent: some Arizona State boosters
+T46	ACE-Mention 2016 2027	Danny White
+#46	ACE T46	entityID: APW20001202.0257.0120-E30; extent: Danny White
+T47	ACE-Mention 2030 2147	the former Arizona State and Dallas Cowboys quarterback who coaches the Arizona Rattlers of the Arena Football League
+#47	ACE T47	entityID: APW20001202.0257.0120-E30; extent: the former Arizona State and Dallas Cowboys quarterback who coaches the Arizona Rattlers of the Arena Football League
+T48	ACE-Mention 2151 2157	Snyder
+#48	ACE T48	entityID: APW20001202.0257.0120-E3; extent: Snyder
+T49	ACE-Mention 2174 2183	his teams
+#49	ACE T49	entityID: APW20001202.0257.0120-E34; extent: his teams

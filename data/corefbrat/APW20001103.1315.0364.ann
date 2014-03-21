@@ -1,0 +1,132 @@
+T0	ACE-Mention 108 125	PISCATAWAY , N.J.
+#0	ACE T0	entityID: APW20001103.1315.0364-E19; extent: PISCATAWAY , N.J.
+T1	ACE-Mention 126 130	(AP)
+#1	ACE T1	entityID: APW20001103.1315.0364-E44; extent: (AP)
+T2	ACE-Mention 133 214	Terry Shea , who failed to produce a winning season in four-plus years at Rutgers
+#2	ACE T2	entityID: APW20001103.1315.0364-E8; extent: Terry Shea , who failed to produce a winning season in four-plus years at Rutgers
+T3	ACE-Mention 235 240	coach
+#3	ACE T3	entityID: APW20001103.1315.0364-E8; extent: coach
+T4	ACE-Mention 269 297	a source close to the school
+#4	ACE T4	entityID: APW20001103.1315.0364-E48; extent: a source close to the school
+T5	ACE-Mention 303 323	The Associated Press
+#5	ACE T5	entityID: APW20001103.1315.0364-E44; extent: The Associated Press
+T6	ACE-Mention 334 364	Shea , who has an 11-41 record
+#6	ACE T6	entityID: APW20001103.1315.0364-E8; extent: Shea , who has an 11-41 record
+T7	ACE-Mention 403 438	athletic director Robert E. Mulcahy
+#7	ACE T7	entityID: APW20001103.1315.0364-E1; extent: athletic director Robert E. Mulcahy
+T8	ACE-Mention 476 528	the source , who spoke on the condition of anonymity
+#8	ACE T8	entityID: APW20001103.1315.0364-E48; extent: the source , who spoke on the condition of anonymity
+T9	ACE-Mention 532 557	The Star-Ledger of Newark
+#9	ACE T9	entityID: APW20001103.1315.0364-E3; extent: The Star-Ledger of Newark
+T10	ACE-Mention 560 578	Gannett Newspapers
+#10	ACE T10	entityID: APW20001103.1315.0364-E5; extent: Gannett Newspapers
+T11	ACE-Mention 583 607	The Record of Hackensack
+#11	ACE T11	entityID: APW20001103.1315.0364-E6; extent: The Record of Hackensack
+T12	ACE-Mention 629 633	Shea
+#12	ACE T12	entityID: APW20001103.1315.0364-E8; extent: Shea
+T13	ACE-Mention 654 661	Mulcahy
+#13	ACE T13	entityID: APW20001103.1315.0364-E1; extent: Mulcahy
+T14	ACE-Mention 666 670	Shea
+#14	ACE T14	entityID: APW20001103.1315.0364-E8; extent: Shea
+T15	ACE-Mention 685 688	his
+#15	ACE T15	entityID: APW20001103.1315.0364-E8; extent: his
+T16	ACE-Mention 724 728	Shea
+#16	ACE T16	entityID: APW20001103.1315.0364-E8; extent: Shea
+T17	ACE-Mention 754 771	his football team
+#17	ACE T17	entityID: APW20001103.1315.0364-E9; extent: his football team
+T18	ACE-Mention 787 797	the source
+#18	ACE T18	entityID: APW20001103.1315.0364-E48; extent: the source
+T19	ACE-Mention 806 849	Rutgers athletic director Robert E. Mulcahy
+#19	ACE T19	entityID: APW20001103.1315.0364-E1; extent: Rutgers athletic director Robert E. Mulcahy
+T20	ACE-Mention 937 947	the source
+#20	ACE T20	entityID: APW20001103.1315.0364-E48; extent: the source
+T21	ACE-Mention 975 982	Mulcahy
+#21	ACE T21	entityID: APW20001103.1315.0364-E1; extent: Mulcahy
+T22	ACE-Mention 987 1035	Rutgers sports information director John Wooding
+#22	ACE T22	entityID: APW20001103.1315.0364-E12; extent: Rutgers sports information director John Wooding
+T23	ACE-Mention 1039 1059	The Associated Press
+#23	ACE T23	entityID: APW20001103.1315.0364-E44; extent: The Associated Press
+T24	ACE-Mention 1093 1112	The Scarlet Knights
+#24	ACE T24	entityID: APW20001103.1315.0364-E9; extent: The Scarlet Knights
+T25	ACE-Mention 1140 1163	the Big East Conference
+#25	ACE T25	entityID: APW20001103.1315.0364-E14; extent: the Big East Conference
+T26	ACE-Mention 1167 1171	They
+#26	ACE T26	entityID: APW20001103.1315.0364-E9; extent: They
+T27	ACE-Mention 1240 1253	West Virginia
+#27	ACE T27	entityID: APW20001103.1315.0364-E15; extent: West Virginia
+T28	ACE-Mention 1256 1266	Notre Dame
+#28	ACE T28	entityID: APW20001103.1315.0364-E16; extent: Notre Dame
+T29	ACE-Mention 1271 1279	Syracuse
+#29	ACE T29	entityID: APW20001103.1315.0364-E17; extent: Syracuse
+T30	ACE-Mention 1289 1296	Rutgers
+#30	ACE T30	entityID: APW20001103.1315.0364-E9; extent: Rutgers
+T31	ACE-Mention 1332 1339	Mulcahy
+#31	ACE T31	entityID: APW20001103.1315.0364-E1; extent: Mulcahy
+T32	ACE-Mention 1345 1349	Shea
+#32	ACE T32	entityID: APW20001103.1315.0364-E8; extent: Shea
+T33	ACE-Mention 1350 1352	he
+#33	ACE T33	entityID: APW20001103.1315.0364-E8; extent: he
+T34	ACE-Mention 1398 1406	the team
+#34	ACE T34	entityID: APW20001103.1315.0364-E9; extent: the team
+T35	ACE-Mention 1458 1468	the school
+#35	ACE T35	entityID: APW20001103.1315.0364-E10; extent: the school
+T36	ACE-Mention 1528 1537	Villanova
+#36	ACE T36	entityID: APW20001103.1315.0364-E18; extent: Villanova
+T37	ACE-Mention 1540 1562	a Division IAA program
+#37	ACE T37	entityID: APW20001103.1315.0364-E18; extent: a Division IAA program
+T38	ACE-Mention 1569 1648	Buffalo , which recently announced its coach would not be returning next season
+#38	ACE T38	entityID: APW20001103.1315.0364-E21; extent: Buffalo , which recently announced its coach would not be returning next season
+T39	ACE-Mention 1651 1658	Rutgers
+#39	ACE T39	entityID: APW20001103.1315.0364-E9; extent: Rutgers
+T40	ACE-Mention 1664 1667	its
+#40	ACE T40	entityID: APW20001103.1315.0364-E9; extent: its
+T41	ACE-Mention 1760 1772	winless Navy
+#41	ACE T41	entityID: APW20001103.1315.0364-E23; extent: winless Navy
+T42	ACE-Mention 1776 1780	Shea
+#42	ACE T42	entityID: APW20001103.1315.0364-E8; extent: Shea
+T43	ACE-Mention 1790 1811	the fired Doug Graber
+#43	ACE T43	entityID: APW20001103.1315.0364-E24; extent: the fired Doug Graber
+T44	ACE-Mention 1860 1875	Bill Walsh-type
+#44	ACE T44	entityID: APW20001103.1315.0364-E25; extent: Bill Walsh-type
+T45	ACE-Mention 1898 1902	Shea
+#45	ACE T45	entityID: APW20001103.1315.0364-E8; extent: Shea
+T46	ACE-Mention 1945 1947	He
+#46	ACE T46	entityID: APW20001103.1315.0364-E8; extent: He
+T47	ACE-Mention 1995 1998	His
+#47	ACE T47	entityID: APW20001103.1315.0364-E8; extent: His
+T48	ACE-Mention 2073 2076	him
+#48	ACE T48	entityID: APW20001103.1315.0364-E8; extent: him
+T49	ACE-Mention 2077 2103	Big East Coach of the Year
+#49	ACE T49	entityID: APW20001103.1315.0364-E8; extent: Big East Coach of the Year
+T50	ACE-Mention 2107 2114	Rutgers
+#50	ACE T50	entityID: APW20001103.1315.0364-E9; extent: Rutgers
+T51	ACE-Mention 2127 2135	Big East
+#51	ACE T51	entityID: APW20001103.1315.0364-E14; extent: Big East
+T52	ACE-Mention 2148 2152	Shea
+#52	ACE T52	entityID: APW20001103.1315.0364-E8; extent: Shea
+T53	ACE-Mention 2183 2189	league
+#53	ACE T53	entityID: APW20001103.1315.0364-E14; extent: league
+T54	ACE-Mention 2204 2223	The Scarlet Knights
+#54	ACE T54	entityID: APW20001103.1315.0364-E9; extent: The Scarlet Knights
+T55	ACE-Mention 2268 2272	Shea
+#55	ACE T55	entityID: APW20001103.1315.0364-E8; extent: Shea
+T56	ACE-Mention 2276 2280	Shea
+#56	ACE T56	entityID: APW20001103.1315.0364-E8; extent: Shea
+T57	ACE-Mention 2307 2310	his
+#57	ACE T57	entityID: APW20001103.1315.0364-E8; extent: his
+T58	ACE-Mention 2362 2369	Rutgers
+#58	ACE T58	entityID: APW20001103.1315.0364-E10; extent: Rutgers
+T59	ACE-Mention 2403 2445	a short list of candidates to replace Shea
+#59	ACE T59	entityID: APW20001103.1315.0364-E27; extent: a short list of candidates to replace Shea
+T60	ACE-Mention 2461 2473	head coaches
+#60	ACE T60	entityID: APW20001103.1315.0364-E31; extent: head coaches
+T61	ACE-Mention 2474 2506	Gary Darnell of Western Michigan
+#61	ACE T61	entityID: APW20001103.1315.0364-E32; extent: Gary Darnell of Western Michigan
+T62	ACE-Mention 2509 2530	Gary Pinkel of Toledo
+#62	ACE T62	entityID: APW20001103.1315.0364-E34; extent: Gary Pinkel of Toledo
+T63	ACE-Mention 2535 2551	two coordinators
+#63	ACE T63	entityID: APW20001103.1315.0364-E29; extent: two coordinators
+T64	ACE-Mention 2554 2594	Miami defensive coordinator Greg Schiano
+#64	ACE T64	entityID: APW20001103.1315.0364-E28; extent: Miami defensive coordinator Greg Schiano
+T65	ACE-Mention 2599 2644	Notre Dame offensive coordinator Kevin Rogers
+#65	ACE T65	entityID: APW20001103.1315.0364-E39; extent: Notre Dame offensive coordinator Kevin Rogers

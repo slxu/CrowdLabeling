@@ -1,0 +1,158 @@
+T0	ACE-Mention 109 126	LITTLETON , Colo.
+#0	ACE T0	entityID: APW20001023.2100.0686-E15; extent: LITTLETON , Colo.
+T1	ACE-Mention 127 131	(AP)
+#1	ACE T1	entityID: APW20001023.2100.0686-E38; extent: (AP)
+T2	ACE-Mention 134 188	The wife of Patrick Roy , the NHL 's winningest goalie
+#2	ACE T2	entityID: APW20001023.2100.0686-E39; extent: The wife of Patrick Roy , the NHL 's winningest goalie
+T3	ACE-Mention 210 213	she
+#3	ACE T3	entityID: APW20001023.2100.0686-E39; extent: she
+T4	ACE-Mention 233 244	her husband
+#4	ACE T4	entityID: APW20001023.2100.0686-E22; extent: her husband
+T5	ACE-Mention 257 261	they
+#5	ACE T5	entityID: APW20001023.2100.0686-E1; extent: they
+T6	ACE-Mention 275 282	in-laws
+#6	ACE T6	entityID: APW20001023.2100.0686-E2; extent: in-laws
+T7	ACE-Mention 300 306	police
+#7	ACE T7	entityID: APW20001023.2100.0686-E3; extent: police
+T8	ACE-Mention 333 344	Michele Roy
+#8	ACE T8	entityID: APW20001023.2100.0686-E39; extent: Michele Roy
+T9	ACE-Mention 380 390	their home
+#9	ACE T9	entityID: APW20001023.2100.0686-E4; extent: their home
+T10	ACE-Mention 410 413	Roy
+#10	ACE T10	entityID: APW20001023.2100.0686-E22; extent: Roy
+T11	ACE-Mention 433 440	bedroom
+#11	ACE T11	entityID: APW20001023.2100.0686-E5; extent: bedroom
+T12	ACE-Mention 488 496	his wife
+#12	ACE T12	entityID: APW20001023.2100.0686-E39; extent: his wife
+T13	ACE-Mention 504 528	Greenwood Village police
+#13	ACE T13	entityID: APW20001023.2100.0686-E3; extent: Greenwood Village police
+T14	ACE-Mention 579 615	The somber Colorado Avalanche goalie
+#14	ACE T14	entityID: APW20001023.2100.0686-E22; extent: The somber Colorado Avalanche goalie
+T15	ACE-Mention 633 665	his parents , sister and brother
+#15	ACE T15	entityID: APW20001023.2100.0686-E8; extent: his parents , sister and brother
+T16	ACE-Mention 679 682	his
+#16	ACE T16	entityID: APW20001023.2100.0686-E22; extent: his
+T17	ACE-Mention 704 707	his
+#17	ACE T17	entityID: APW20001023.2100.0686-E22; extent: his
+T18	ACE-Mention 728 733	court
+#18	ACE T18	entityID: APW20001023.2100.0686-E9; extent: court
+T19	ACE-Mention 796 799	Roy
+#19	ACE T19	entityID: APW20001023.2100.0686-E22; extent: Roy
+T20	ACE-Mention 873 881	His wife
+#20	ACE T20	entityID: APW20001023.2100.0686-E39; extent: His wife
+T21	ACE-Mention 896 905	The judge
+#21	ACE T21	entityID: APW20001023.2100.0686-E10; extent: The judge
+T22	ACE-Mention 998 1001	Roy
+#22	ACE T22	entityID: APW20001023.2100.0686-E22; extent: Roy
+T23	ACE-Mention 1062 1066	guns
+#23	ACE T23	entityID: APW20001023.2100.0686-E11; extent: guns
+T24	ACE-Mention 1070 1077	weapons
+#24	ACE T24	entityID: APW20001023.2100.0686-E12; extent: weapons
+T25	ACE-Mention 1081 1083	He
+#25	ACE T25	entityID: APW20001023.2100.0686-E22; extent: He
+T26	ACE-Mention 1116 1126	his family
+#26	ACE T26	entityID: APW20001023.2100.0686-E16; extent: his family
+T27	ACE-Mention 1157 1165	the team
+#27	ACE T27	entityID: APW20001023.2100.0686-E7; extent: the team
+T28	ACE-Mention 1197 1210	the Avalanche
+#28	ACE T28	entityID: APW20001023.2100.0686-E7; extent: the Avalanche
+T29	ACE-Mention 1225 1228	Roy
+#29	ACE T29	entityID: APW20001023.2100.0686-E22; extent: Roy
+T30	ACE-Mention 1266 1268	he
+#30	ACE T30	entityID: APW20001023.2100.0686-E22; extent: he
+T31	ACE-Mention 1290 1293	his
+#31	ACE T31	entityID: APW20001023.2100.0686-E22; extent: his
+T32	ACE-Mention 1318 1328	his lawyer
+#32	ACE T32	entityID: APW20001023.2100.0686-E13; extent: his lawyer
+T33	ACE-Mention 1332 1334	He
+#33	ACE T33	entityID: APW20001023.2100.0686-E22; extent: He
+T34	ACE-Mention 1351 1361	the public
+#34	ACE T34	entityID: APW20001023.2100.0686-E14; extent: the public
+T35	ACE-Mention 1370 1380	his family
+#35	ACE T35	entityID: APW20001023.2100.0686-E16; extent: his family
+T36	ACE-Mention 1447 1449	my
+#36	ACE T36	entityID: APW20001023.2100.0686-E22; extent: my
+T37	ACE-Mention 1503 1505	he
+#37	ACE T37	entityID: APW20001023.2100.0686-E22; extent: he
+T38	ACE-Mention 1517 1518	I
+#38	ACE T38	entityID: APW20001023.2100.0686-E22; extent: I
+T39	ACE-Mention 1547 1548	I
+#39	ACE T39	entityID: APW20001023.2100.0686-E22; extent: I
+T40	ACE-Mention 1565 1574	my family
+#40	ACE T40	entityID: APW20001023.2100.0686-E16; extent: my family
+T41	ACE-Mention 1579 1604	every one of my teammates
+#41	ACE T41	entityID: APW20001023.2100.0686-E17; extent: every one of my teammates
+T42	ACE-Mention 1611 1627	Colorado players
+#42	ACE T42	entityID: APW20001023.2100.0686-E18; extent: Colorado players
+T43	ACE-Mention 1655 1658	Roy
+#43	ACE T43	entityID: APW20001023.2100.0686-E22; extent: Roy
+T44	ACE-Mention 1668 1672	they
+#44	ACE T44	entityID: APW20001023.2100.0686-E18; extent: they
+T45	ACE-Mention 1681 1683	he
+#45	ACE T45	entityID: APW20001023.2100.0686-E22; extent: he
+T46	ACE-Mention 1773 1781	The team
+#46	ACE T46	entityID: APW20001023.2100.0686-E7; extent: The team
+T47	ACE-Mention 1801 1805	home
+#47	ACE T47	entityID: APW20001023.2100.0686-E36; extent: home
+T48	ACE-Mention 1824 1833	Nashville
+#48	ACE T48	entityID: APW20001023.2100.0686-E19; extent: Nashville
+T49	ACE-Mention 1840 1842	We
+#49	ACE T49	entityID: APW20001023.2100.0686-E18; extent: We
+T50	ACE-Mention 1860 1868	together
+#50	ACE T50	entityID: APW20001023.2100.0686-E18; extent: together
+T51	ACE-Mention 1873 1875	we
+#51	ACE T51	entityID: APW20001023.2100.0686-E18; extent: we
+T52	ACE-Mention 1889 1896	Patrick
+#52	ACE T52	entityID: APW20001023.2100.0686-E22; extent: Patrick
+T53	ACE-Mention 1902 1924	defenseman Ray Bourque
+#53	ACE T53	entityID: APW20001023.2100.0686-E20; extent: defenseman Ray Bourque
+T54	ACE-Mention 1936 1938	We
+#54	ACE T54	entityID: APW20001023.2100.0686-E18; extent: We
+T55	ACE-Mention 1944 1946	he
+#55	ACE T55	entityID: APW20001023.2100.0686-E22; extent: he
+T56	ACE-Mention 1950 1966	a quality person
+#56	ACE T56	entityID: APW20001023.2100.0686-E22; extent: a quality person
+T57	ACE-Mention 1971 1989	a great family man
+#57	ACE T57	entityID: APW20001023.2100.0686-E22; extent: a great family man
+T58	ACE-Mention 1996 2019	Defenseman Aaron Miller
+#58	ACE T58	entityID: APW20001023.2100.0686-E25; extent: Defenseman Aaron Miller
+T59	ACE-Mention 2036 2038	we
+#59	ACE T59	entityID: APW20001023.2100.0686-E18; extent: we
+T60	ACE-Mention 2075 2077	we
+#60	ACE T60	entityID: APW20001023.2100.0686-E18; extent: we
+T61	ACE-Mention 2109 2111	us
+#61	ACE T61	entityID: APW20001023.2100.0686-E18; extent: us
+T62	ACE-Mention 2124 2126	us
+#62	ACE T62	entityID: APW20001023.2100.0686-E18; extent: us
+T63	ACE-Mention 2130 2131	I
+#63	ACE T63	entityID: APW20001023.2100.0686-E25; extent: I
+T64	ACE-Mention 2138 2139	I
+#64	ACE T64	entityID: APW20001023.2100.0686-E25; extent: I
+T65	ACE-Mention 2150 2164	the whole team
+#65	ACE T65	entityID: APW20001023.2100.0686-E18; extent: the whole team
+T66	ACE-Mention 2170 2172	we
+#66	ACE T66	entityID: APW20001023.2100.0686-E18; extent: we
+T67	ACE-Mention 2184 2189	Patty
+#67	ACE T67	entityID: APW20001023.2100.0686-E22; extent: Patty
+T68	ACE-Mention 2208 2216	Roy , 35
+#68	ACE T68	entityID: APW20001023.2100.0686-E22; extent: Roy , 35
+T69	ACE-Mention 2354 2356	he
+#69	ACE T69	entityID: APW20001023.2100.0686-E22; extent: he
+T70	ACE-Mention 2388 2403	the county jail
+#70	ACE T70	entityID: APW20001023.2100.0686-E27; extent: the county jail
+T71	ACE-Mention 2430 2493	a spokesman for the Arapahoe County district attorney 's office
+#71	ACE T71	entityID: APW20001023.2100.0686-E30; extent: a spokesman for the Arapahoe County district attorney 's office
+T72	ACE-Mention 2497 2505	Officers
+#72	ACE T72	entityID: APW20001023.2100.0686-E32; extent: Officers
+T73	ACE-Mention 2543 2614	Roy 's residence , where Michele Roy told them the two had been arguing
+#73	ACE T73	entityID: APW20001023.2100.0686-E4; extent: Roy 's residence , where Michele Roy told them the two had been arguing
+T74	ACE-Mention 2618 2621	Roy
+#74	ACE T74	entityID: APW20001023.2100.0686-E22; extent: Roy
+T75	ACE-Mention 2659 2662	his
+#75	ACE T75	entityID: APW20001023.2100.0686-E22; extent: his
+T76	ACE-Mention 2728 2751	the Washington Capitals
+#76	ACE T76	entityID: APW20001023.2100.0686-E33; extent: the Washington Capitals
+T77	ACE-Mention 2755 2757	He
+#77	ACE T77	entityID: APW20001023.2100.0686-E22; extent: He
+T78	ACE-Mention 2780 2793	Terry Sawchuk
+#78	ACE T78	entityID: APW20001023.2100.0686-E34; extent: Terry Sawchuk

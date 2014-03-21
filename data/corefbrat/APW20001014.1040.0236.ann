@@ -1,0 +1,110 @@
+T0	ACE-Mention 114 128	UNITED NATIONS
+#0	ACE T0	entityID: APW20001014.1040.0236-E25; extent: UNITED NATIONS
+T1	ACE-Mention 129 133	(AP)
+#1	ACE T1	entityID: APW20001014.1040.0236-E40; extent: (AP)
+T2	ACE-Mention 136 156	The General Assembly
+#2	ACE T2	entityID: APW20001014.1040.0236-E14; extent: The General Assembly
+T3	ACE-Mention 211 226	the Middle East
+#3	ACE T3	entityID: APW20001014.1040.0236-E36; extent: the Middle East
+T4	ACE-Mention 303 319	Israeli soldiers
+#4	ACE T4	entityID: APW20001014.1040.0236-E44; extent: Israeli soldiers
+T5	ACE-Mention 355 375	The Associated Press
+#5	ACE T5	entityID: APW20001014.1040.0236-E40; extent: The Associated Press
+T6	ACE-Mention 432 452	the Security Council
+#6	ACE T6	entityID: APW20001014.1040.0236-E31; extent: the Security Council
+T7	ACE-Mention 542 560	Israel-Palestinian
+#7	ACE T7	entityID: APW20001014.1040.0236-E43; extent: Israel-Palestinian
+T8	ACE-Mention 679 688	Jerusalem
+#8	ACE T8	entityID: APW20001014.1040.0236-E47; extent: Jerusalem
+T9	ACE-Mention 708 729	the holy places there
+#9	ACE T9	entityID: APW20001014.1040.0236-E48; extent: the holy places there
+T10	ACE-Mention 805 813	Israelis
+#10	ACE T10	entityID: APW20001014.1040.0236-E43; extent: Israelis
+T11	ACE-Mention 818 830	Palestinians
+#11	ACE T11	entityID: APW20001014.1040.0236-E46; extent: Palestinians
+T12	ACE-Mention 878 888	both sides
+#12	ACE T12	entityID: APW20001014.1040.0236-E51; extent: both sides
+T13	ACE-Mention 892 903	Arab states
+#13	ACE T13	entityID: APW20001014.1040.0236-E1; extent: Arab states
+T14	ACE-Mention 908 926	developing nations
+#14	ACE T14	entityID: APW20001014.1040.0236-E3; extent: developing nations
+T15	ACE-Mention 972 992	the Security Council
+#15	ACE T15	entityID: APW20001014.1040.0236-E31; extent: the Security Council
+T16	ACE-Mention 1003 1005	it
+#16	ACE T16	entityID: APW20001014.1040.0236-E31; extent: it
+T17	ACE-Mention 1130 1159	96 people , most Palestinians
+#17	ACE T17	entityID: APW20001014.1040.0236-E5; extent: 96 people , most Palestinians
+T18	ACE-Mention 1168 1208	a majority of the 189 U.N. member states
+#18	ACE T18	entityID: APW20001014.1040.0236-E6; extent: a majority of the 189 U.N. member states
+T19	ACE-Mention 1311 1334	Spokeswoman Sue Markham
+#19	ACE T19	entityID: APW20001014.1040.0236-E10; extent: Spokeswoman Sue Markham
+T20	ACE-Mention 1340 1380	General Assembly President Harri Holkeri
+#20	ACE T20	entityID: APW20001014.1040.0236-E12; extent: General Assembly President Harri Holkeri
+T21	ACE-Mention 1399 1418	other member states
+#21	ACE T21	entityID: APW20001014.1040.0236-E15; extent: other member states
+T22	ACE-Mention 1438 1452	Arab diplomats
+#22	ACE T22	entityID: APW20001014.1040.0236-E16; extent: Arab diplomats
+T23	ACE-Mention 1508 1538	The Palestinian representative
+#23	ACE T23	entityID: APW20001014.1040.0236-E17; extent: The Palestinian representative
+T24	ACE-Mention 1541 1556	Nasser Al-Kidwa
+#24	ACE T24	entityID: APW20001014.1040.0236-E17; extent: Nasser Al-Kidwa
+T25	ACE-Mention 1608 1628	the Security Council
+#25	ACE T25	entityID: APW20001014.1040.0236-E31; extent: the Security Council
+T26	ACE-Mention 1664 1678	Israeli rocket
+#26	ACE T26	entityID: APW20001014.1040.0236-E19; extent: Israeli rocket
+T27	ACE-Mention 1690 1717	Palestinian command centers
+#27	ACE T27	entityID: APW20001014.1040.0236-E20; extent: Palestinian command centers
+T28	ACE-Mention 1768 1788	two Israeli soldiers
+#28	ACE T28	entityID: APW20001014.1040.0236-E21; extent: two Israeli soldiers
+T29	ACE-Mention 1855 1884	the entire Palestinian people
+#29	ACE T29	entityID: APW20001014.1040.0236-E46; extent: the entire Palestinian people
+T30	ACE-Mention 1895 1928	U.S. Ambassador Richard Holbrooke
+#30	ACE T30	entityID: APW20001014.1040.0236-E22; extent: U.S. Ambassador Richard Holbrooke
+T31	ACE-Mention 1934 1951	the United States
+#31	ACE T31	entityID: APW20001014.1040.0236-E24; extent: the United States
+T32	ACE-Mention 1986 2007	other council members
+#32	ACE T32	entityID: APW20001014.1040.0236-E27; extent: other council members
+T33	ACE-Mention 2013 2017	they
+#33	ACE T33	entityID: APW20001014.1040.0236-E27; extent: they
+T34	ACE-Mention 2033 2061	Secretary-General Kofi Annan
+#34	ACE T34	entityID: APW20001014.1040.0236-E28; extent: Secretary-General Kofi Annan
+T35	ACE-Mention 2120 2133	The two sides
+#35	ACE T35	entityID: APW20001014.1040.0236-E51; extent: The two sides
+T36	ACE-Mention 2153 2157	they
+#36	ACE T36	entityID: APW20001014.1040.0236-E51; extent: they
+T37	ACE-Mention 2181 2186	Egypt
+#37	ACE T37	entityID: APW20001014.1040.0236-E30; extent: Egypt
+T38	ACE-Mention 2190 2206	Security Council
+#38	ACE T38	entityID: APW20001014.1040.0236-E31; extent: Security Council
+T39	ACE-Mention 2271 2287	General Assembly
+#39	ACE T39	entityID: APW20001014.1040.0236-E14; extent: General Assembly
+T40	ACE-Mention 2387 2403	Security Council
+#40	ACE T40	entityID: APW20001014.1040.0236-E31; extent: Security Council
+T41	ACE-Mention 2476 2492	the Palestinians
+#41	ACE T41	entityID: APW20001014.1040.0236-E46; extent: the Palestinians
+T42	ACE-Mention 2510 2516	Israel
+#42	ACE T42	entityID: APW20001014.1040.0236-E43; extent: Israel
+T43	ACE-Mention 2524 2540	General Assembly
+#43	ACE T43	entityID: APW20001014.1040.0236-E14; extent: General Assembly
+T44	ACE-Mention 2605 2633	the Israeli occupying forces
+#44	ACE T44	entityID: APW20001014.1040.0236-E44; extent: the Israeli occupying forces
+T45	ACE-Mention 2642 2663	Palestinian civilians
+#45	ACE T45	entityID: APW20001014.1040.0236-E32; extent: Palestinian civilians
+T46	ACE-Mention 2670 2676	Israel
+#46	ACE T46	entityID: APW20001014.1040.0236-E43; extent: Israel
+T47	ACE-Mention 2682 2694	its soldiers
+#47	ACE T47	entityID: APW20001014.1040.0236-E33; extent: its soldiers
+T48	ACE-Mention 2725 2730	their
+#48	ACE T48	entityID: APW20001014.1040.0236-E33; extent: their
+T49	ACE-Mention 2789 2853	Jewish settlements in territory captured in the 1967 Mideast war
+#49	ACE T49	entityID: APW20001014.1040.0236-E35; extent: Jewish settlements in territory captured in the 1967 Mideast war
+T50	ACE-Mention 2902 2922	The Security Council
+#50	ACE T50	entityID: APW20001014.1040.0236-E31; extent: The Security Council
+T51	ACE-Mention 3012 3028	General Assembly
+#51	ACE T51	entityID: APW20001014.1040.0236-E14; extent: General Assembly
+T52	ACE-Mention 3112 3117	Annan
+#52	ACE T52	entityID: APW20001014.1040.0236-E28; extent: Annan
+T53	ACE-Mention 3131 3143	the assembly
+#53	ACE T53	entityID: APW20001014.1040.0236-E14; extent: the assembly
+T54	ACE-Mention 3158 3161	his
+#54	ACE T54	entityID: APW20001014.1040.0236-E28; extent: his

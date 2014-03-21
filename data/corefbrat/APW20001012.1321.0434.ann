@@ -1,0 +1,66 @@
+T0	ACE-Mention 112 126	WARREN , Mich.
+#0	ACE T0	entityID: APW20001012.1321.0434-E3; extent: WARREN , Mich.
+T1	ACE-Mention 127 131	(AP)
+#1	ACE T1	entityID: APW20001012.1321.0434-E19; extent: (AP)
+T2	ACE-Mention 134 145	A detective
+#2	ACE T2	entityID: APW20001012.1321.0434-E10; extent: A detective
+T3	ACE-Mention 150 164	a drug suspect
+#3	ACE T3	entityID: APW20001012.1321.0434-E21; extent: a drug suspect
+T4	ACE-Mention 210 221	the officer
+#4	ACE T4	entityID: APW20001012.1321.0434-E10; extent: the officer
+T5	ACE-Mention 234 237	him
+#5	ACE T5	entityID: APW20001012.1321.0434-E21; extent: him
+T6	ACE-Mention 241 260	police headquarters
+#6	ACE T6	entityID: APW20001012.1321.0434-E22; extent: police headquarters
+T7	ACE-Mention 264 272	Officers
+#7	ACE T7	entityID: APW20001012.1321.0434-E24; extent: Officers
+T8	ACE-Mention 278 291	investigators
+#8	ACE T8	entityID: APW20001012.1321.0434-E25; extent: investigators
+T9	ACE-Mention 322 337	the lockup area
+#9	ACE T9	entityID: APW20001012.1321.0434-E26; extent: the lockup area
+T10	ACE-Mention 434 463	Detective Christopher Wouters
+#10	ACE T10	entityID: APW20001012.1321.0434-E10; extent: Detective Christopher Wouters
+T11	ACE-Mention 477 486	a suspect
+#11	ACE T11	entityID: APW20001012.1321.0434-E21; extent: a suspect
+T12	ACE-Mention 505 535	Warren police Chief James Vohs
+#12	ACE T12	entityID: APW20001012.1321.0434-E1; extent: Warren police Chief James Vohs
+T13	ACE-Mention 544 548	Both
+#13	ACE T13	entityID: APW20001012.1321.0434-E4; extent: Both
+T14	ACE-Mention 585 592	the man
+#14	ACE T14	entityID: APW20001012.1321.0434-E21; extent: the man
+T15	ACE-Mention 605 610	a gun
+#15	ACE T15	entityID: APW20001012.1321.0434-E5; extent: a gun
+T16	ACE-Mention 641 643	he
+#16	ACE T16	entityID: APW20001012.1321.0434-E1; extent: he
+T17	ACE-Mention 652 663	Authorities
+#17	ACE T17	entityID: APW20001012.1321.0434-E6; extent: Authorities
+T18	ACE-Mention 696 703	the gun
+#18	ACE T18	entityID: APW20001012.1321.0434-E5; extent: the gun
+T19	ACE-Mention 716 729	the detective
+#19	ACE T19	entityID: APW20001012.1321.0434-E10; extent: the detective
+T20	ACE-Mention 733 744	the suspect
+#20	ACE T20	entityID: APW20001012.1321.0434-E21; extent: the suspect
+T21	ACE-Mention 748 760	Wouters , 42
+#21	ACE T21	entityID: APW20001012.1321.0434-E10; extent: Wouters , 42
+T22	ACE-Mention 785 809	St. John Macomb Hospital
+#22	ACE T22	entityID: APW20001012.1321.0434-E7; extent: St. John Macomb Hospital
+T23	ACE-Mention 813 824	The suspect
+#23	ACE T23	entityID: APW20001012.1321.0434-E21; extent: The suspect
+T24	ACE-Mention 853 890	hospital spokeswoman Rebecca O 'Grady
+#24	ACE T24	entityID: APW20001012.1321.0434-E8; extent: hospital spokeswoman Rebecca O 'Grady
+T25	ACE-Mention 908 911	His
+#25	ACE T25	entityID: APW20001012.1321.0434-E21; extent: His
+T26	ACE-Mention 937 941	Vohs
+#26	ACE T26	entityID: APW20001012.1321.0434-E1; extent: Vohs
+T27	ACE-Mention 952 959	Wouters
+#27	ACE T27	entityID: APW20001012.1321.0434-E10; extent: Wouters
+T28	ACE-Mention 962 979	a 19-year veteran
+#28	ACE T28	entityID: APW20001012.1321.0434-E10; extent: a 19-year veteran
+T29	ACE-Mention 985 1043	a good officer who was married and had two young daughters
+#29	ACE T29	entityID: APW20001012.1321.0434-E10; extent: a good officer who was married and had two young daughters
+T30	ACE-Mention 1085 1095	an officer
+#30	ACE T30	entityID: APW20001012.1321.0434-E13; extent: an officer
+T31	ACE-Mention 1135 1141	Warren
+#31	ACE T31	entityID: APW20001012.1321.0434-E3; extent: Warren
+T32	ACE-Mention 1144 1178	a large blue-collar Detroit suburb
+#32	ACE T32	entityID: APW20001012.1321.0434-E3; extent: a large blue-collar Detroit suburb

@@ -1,0 +1,152 @@
+T0	ACE-Mention 113 130	ARLINGTON , Texas
+#0	ACE T0	entityID: APW20001127.1346.0419-E22; extent: ARLINGTON , Texas
+T1	ACE-Mention 131 135	(AP)
+#1	ACE T1	entityID: APW20001127.1346.0419-E40; extent: (AP)
+T2	ACE-Mention 138 182	One of baseball 's biggest free-agent prizes
+#2	ACE T2	entityID: APW20001127.1346.0419-E41; extent: One of baseball 's biggest free-agent prizes
+T3	ACE-Mention 185 199	Alex Rodriguez
+#3	ACE T3	entityID: APW20001127.1346.0419-E41; extent: Alex Rodriguez
+T4	ACE-Mention 237 254	the Texas Rangers
+#4	ACE T4	entityID: APW20001127.1346.0419-E44; extent: the Texas Rangers
+T5	ACE-Mention 267 283	the Dallas Stars
+#5	ACE T5	entityID: APW20001127.1346.0419-E11; extent: the Dallas Stars
+T6	ACE-Mention 325 347	the All-Star shortstop
+#6	ACE T6	entityID: APW20001127.1346.0419-E41; extent: the All-Star shortstop
+T7	ACE-Mention 351 360	Rodriguez
+#7	ACE T7	entityID: APW20001127.1346.0419-E41; extent: Rodriguez
+T8	ACE-Mention 365 382	agent Scott Boras
+#8	ACE T8	entityID: APW20001127.1346.0419-E46; extent: agent Scott Boras
+T9	ACE-Mention 417 440	Rangers owner Tom Hicks
+#9	ACE T9	entityID: APW20001127.1346.0419-E48; extent: Rangers owner Tom Hicks
+T10	ACE-Mention 465 492	general manager Doug Melvin
+#10	ACE T10	entityID: APW20001127.1346.0419-E1; extent: general manager Doug Melvin
+T11	ACE-Mention 495 515	manager Johnny Oates
+#11	ACE T11	entityID: APW20001127.1346.0419-E3; extent: manager Johnny Oates
+T12	ACE-Mention 520 535	several players
+#12	ACE T12	entityID: APW20001127.1346.0419-E5; extent: several players
+T13	ACE-Mention 539 547	The team
+#13	ACE T13	entityID: APW20001127.1346.0419-E44; extent: The team
+T14	ACE-Mention 559 568	Rodriguez
+#14	ACE T14	entityID: APW20001127.1346.0419-E41; extent: Rodriguez
+T15	ACE-Mention 717 719	We
+#15	ACE T15	entityID: APW20001127.1346.0419-E44; extent: We
+T16	ACE-Mention 755 757	we
+#16	ACE T16	entityID: APW20001127.1346.0419-E44; extent: we
+T17	ACE-Mention 780 782	we
+#17	ACE T17	entityID: APW20001127.1346.0419-E44; extent: we
+T18	ACE-Mention 804 810	people
+#18	ACE T18	entityID: APW20001127.1346.0419-E6; extent: people
+T19	ACE-Mention 834 840	Melvin
+#19	ACE T19	entityID: APW20001127.1346.0419-E1; extent: Melvin
+T20	ACE-Mention 853 877	Fort Worth Star-Telegram
+#20	ACE T20	entityID: APW20001127.1346.0419-E7; extent: Fort Worth Star-Telegram
+T21	ACE-Mention 894 895	I
+#21	ACE T21	entityID: APW20001127.1346.0419-E1; extent: I
+T22	ACE-Mention 910 912	we
+#22	ACE T22	entityID: APW20001127.1346.0419-E44; extent: we
+T23	ACE-Mention 951 953	we
+#23	ACE T23	entityID: APW20001127.1346.0419-E44; extent: we
+T24	ACE-Mention 974 977	our
+#24	ACE T24	entityID: APW20001127.1346.0419-E44; extent: our
+T25	ACE-Mention 999 1001	We
+#25	ACE T25	entityID: APW20001127.1346.0419-E44; extent: We
+T26	ACE-Mention 1032 1048	most other clubs
+#26	ACE T26	entityID: APW20001127.1346.0419-E8; extent: most other clubs
+T27	ACE-Mention 1055 1079	Stars center Mike Modano
+#27	ACE T27	entityID: APW20001127.1346.0419-E9; extent: Stars center Mike Modano
+T28	ACE-Mention 1112 1121	Rodriguez
+#28	ACE T28	entityID: APW20001127.1346.0419-E41; extent: Rodriguez
+T29	ACE-Mention 1129 1155	the Dallas-Fort Worth area
+#29	ACE T29	entityID: APW20001127.1346.0419-E12; extent: the Dallas-Fort Worth area
+T30	ACE-Mention 1165 1168	him
+#30	ACE T30	entityID: APW20001127.1346.0419-E41; extent: him
+T31	ACE-Mention 1173 1175	it
+#31	ACE T31	entityID: APW20001127.1346.0419-E12; extent: it
+T32	ACE-Mention 1210 1216	Melvin
+#32	ACE T32	entityID: APW20001127.1346.0419-E1; extent: Melvin
+T33	ACE-Mention 1222 1224	he
+#33	ACE T33	entityID: APW20001127.1346.0419-E1; extent: he
+T34	ACE-Mention 1241 1252	the Rangers
+#34	ACE T34	entityID: APW20001127.1346.0419-E44; extent: the Rangers
+T35	ACE-Mention 1324 1333	Rodriguez
+#35	ACE T35	entityID: APW20001127.1346.0419-E41; extent: Rodriguez
+T36	ACE-Mention 1337 1428	The 25-year-old shortstop , who hit .316 with 41 homers and 132 RBIs at Seattle last season
+#36	ACE T36	entityID: APW20001127.1346.0419-E41; extent: The 25-year-old shortstop , who hit .316 with 41 homers and 132 RBIs at Seattle last season
+T37	ACE-Mention 1472 1489	Chicago White Sox
+#37	ACE T37	entityID: APW20001127.1346.0419-E15; extent: Chicago White Sox
+T38	ACE-Mention 1492 1511	Los Angeles Dodgers
+#38	ACE T38	entityID: APW20001127.1346.0419-E16; extent: Los Angeles Dodgers
+T39	ACE-Mention 1514 1527	New York Mets
+#39	ACE T39	entityID: APW20001127.1346.0419-E17; extent: New York Mets
+T40	ACE-Mention 1532 1546	Atlanta Braves
+#40	ACE T40	entityID: APW20001127.1346.0419-E18; extent: Atlanta Braves
+T41	ACE-Mention 1550 1601	The Mariners , Rodriguez 's team the past six years
+#41	ACE T41	entityID: APW20001127.1346.0419-E19; extent: The Mariners , Rodriguez 's team the past six years
+T42	ACE-Mention 1648 1650	us
+#42	ACE T42	entityID: APW20001127.1346.0419-E44; extent: us
+T43	ACE-Mention 1668 1671	him
+#43	ACE T43	entityID: APW20001127.1346.0419-E41; extent: him
+T44	ACE-Mention 1678 1694	our organization
+#44	ACE T44	entityID: APW20001127.1346.0419-E44; extent: our organization
+T45	ACE-Mention 1713 1715	we
+#45	ACE T45	entityID: APW20001127.1346.0419-E44; extent: we
+T46	ACE-Mention 1749 1753	they
+#46	ACE T46	entityID: APW20001127.1346.0419-E41; extent: they
+T47	ACE-Mention 1771 1773	us
+#47	ACE T47	entityID: APW20001127.1346.0419-E44; extent: us
+T48	ACE-Mention 1779 1785	Melvin
+#48	ACE T48	entityID: APW20001127.1346.0419-E1; extent: Melvin
+T49	ACE-Mention 1794 1798	Some
+#49	ACE T49	entityID: APW20001127.1346.0419-E23; extent: Some
+T50	ACE-Mention 1809 1823	a neighborhood
+#50	ACE T50	entityID: APW20001127.1346.0419-E24; extent: a neighborhood
+T51	ACE-Mention 1826 1872	the fashionable Dallas suburb of Highland Park
+#51	ACE T51	entityID: APW20001127.1346.0419-E24; extent: the fashionable Dallas suburb of Highland Park
+T52	ACE-Mention 1890 1899	Rodriguez
+#52	ACE T52	entityID: APW20001127.1346.0419-E41; extent: Rodriguez
+T53	ACE-Mention 1903 1985	Neighbors of one available residence _ a five-bedroom spread worth $ 11.95 million
+#53	ACE T53	entityID: APW20001127.1346.0419-E20; extent: Neighbors of one available residence _ a five-bedroom spread worth $ 11.95 million
+T54	ACE-Mention 2002 2007	Hicks
+#54	ACE T54	entityID: APW20001127.1346.0419-E48; extent: Hicks
+T55	ACE-Mention 2010 2016	Modano
+#55	ACE T55	entityID: APW20001127.1346.0419-E9; extent: Modano
+T56	ACE-Mention 2021 2053	Dallas Cowboys owner Jerry Jones
+#56	ACE T56	entityID: APW20001127.1346.0419-E29; extent: Dallas Cowboys owner Jerry Jones
+T57	ACE-Mention 2060 2064	Alex
+#57	ACE T57	entityID: APW20001127.1346.0419-E41; extent: Alex
+T58	ACE-Mention 2078 2088	this house
+#58	ACE T58	entityID: APW20001127.1346.0419-E27; extent: this house
+T59	ACE-Mention 2094 2107	Ronda Needham
+#59	ACE T59	entityID: APW20001127.1346.0419-E32; extent: Ronda Needham
+T60	ACE-Mention 2110 2125	a listing agent
+#60	ACE T60	entityID: APW20001127.1346.0419-E32; extent: a listing agent
+T61	ACE-Mention 2133 2156	The Dallas Morning News
+#61	ACE T61	entityID: APW20001127.1346.0419-E34; extent: The Dallas Morning News
+T62	ACE-Mention 2163 2192	The people who own this house
+#62	ACE T62	entityID: APW20001127.1346.0419-E35; extent: The people who own this house
+T63	ACE-Mention 2210 2241	their two baseball-playing sons
+#63	ACE T63	entityID: APW20001127.1346.0419-E36; extent: their two baseball-playing sons
+T64	ACE-Mention 2245 2247	It
+#64	ACE T64	entityID: APW20001127.1346.0419-E27; extent: It
+T65	ACE-Mention 2251 2277	a very sports-minded house
+#65	ACE T65	entityID: APW20001127.1346.0419-E27; extent: a very sports-minded house
+T66	ACE-Mention 2284 2292	The Mets
+#66	ACE T66	entityID: APW20001127.1346.0419-E17; extent: The Mets
+T67	ACE-Mention 2311 2341	the favorites to get Rodriguez
+#67	ACE T67	entityID: APW20001127.1346.0419-E17; extent: the favorites to get Rodriguez
+T68	ACE-Mention 2356 2361	their
+#68	ACE T68	entityID: APW20001127.1346.0419-E17; extent: their
+T69	ACE-Mention 2371 2401	General manager Steve Phillips
+#69	ACE T69	entityID: APW20001127.1346.0419-E37; extent: General manager Steve Phillips
+T70	ACE-Mention 2461 2466	Boras
+#70	ACE T70	entityID: APW20001127.1346.0419-E46; extent: Boras
+T71	ACE-Mention 2474 2483	the agent
+#71	ACE T71	entityID: APW20001127.1346.0419-E46; extent: the agent
+T72	ACE-Mention 2489 2498	Rodriguez
+#72	ACE T72	entityID: APW20001127.1346.0419-E41; extent: Rodriguez
+T73	ACE-Mention 2534 2535	I
+#73	ACE T73	entityID: APW20001127.1346.0419-E37; extent: I
+T74	ACE-Mention 2581 2583	us
+#74	ACE T74	entityID: APW20001127.1346.0419-E17; extent: us
+T75	ACE-Mention 2602 2610	Phillips
+#75	ACE T75	entityID: APW20001127.1346.0419-E37; extent: Phillips

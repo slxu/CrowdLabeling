@@ -1,0 +1,76 @@
+T0	ACE-Mention 106 123	TUSCALOOSA , Ala.
+#0	ACE T0	entityID: APW20001216.2012.0590-E3; extent: TUSCALOOSA , Ala.
+T1	ACE-Mention 124 128	(AP)
+#1	ACE T1	entityID: APW20001216.2012.0590-E35; extent: (AP)
+T2	ACE-Mention 151 156	homes
+#2	ACE T2	entityID: APW20001216.2012.0590-E36; extent: homes
+T3	ACE-Mention 172 176	cars
+#3	ACE T3	entityID: APW20001216.2012.0590-E37; extent: cars
+T4	ACE-Mention 180 204	several areas of Alabama
+#4	ACE T4	entityID: APW20001216.2012.0590-E38; extent: several areas of Alabama
+T5	ACE-Mention 221 247	more than two dozen people
+#5	ACE T5	entityID: APW20001216.2012.0590-E39; extent: more than two dozen people
+T6	ACE-Mention 273 292	At least one person
+#6	ACE T6	entityID: APW20001216.2012.0590-E40; extent: At least one person
+T7	ACE-Mention 307 317	Tuscaloosa
+#7	ACE T7	entityID: APW20001216.2012.0590-E3; extent: Tuscaloosa
+T8	ACE-Mention 325 338	Debbie Watson
+#8	ACE T8	entityID: APW20001216.2012.0590-E41; extent: Debbie Watson
+T9	ACE-Mention 341 406	spokeswoman for the Tuscaloosa County Emergency Management Agency
+#9	ACE T9	entityID: APW20001216.2012.0590-E41; extent: spokeswoman for the Tuscaloosa County Emergency Management Agency
+T10	ACE-Mention 446 484	the state 's rural southeastern corner
+#10	ACE T10	entityID: APW20001216.2012.0590-E44; extent: the state 's rural southeastern corner
+T11	ACE-Mention 496 506	Tuscaloosa
+#11	ACE T11	entityID: APW20001216.2012.0590-E3; extent: Tuscaloosa
+T12	ACE-Mention 511 541	the northern part of the state
+#12	ACE T12	entityID: APW20001216.2012.0590-E1; extent: the northern part of the state
+T13	ACE-Mention 581 590	the South
+#13	ACE T13	entityID: APW20001216.2012.0590-E2; extent: the South
+T14	ACE-Mention 598 608	Tuscaloosa
+#14	ACE T14	entityID: APW20001216.2012.0590-E3; extent: Tuscaloosa
+T15	ACE-Mention 624 637	a subdivision
+#15	ACE T15	entityID: APW20001216.2012.0590-E4; extent: a subdivision
+T16	ACE-Mention 640 646	Watson
+#16	ACE T16	entityID: APW20001216.2012.0590-E41; extent: Watson
+T17	ACE-Mention 655 683	The National Weather Service
+#17	ACE T17	entityID: APW20001216.2012.0590-E5; extent: The National Weather Service
+T18	ACE-Mention 719 736	Twenty-one people
+#18	ACE T18	entityID: APW20001216.2012.0590-E6; extent: Twenty-one people
+T19	ACE-Mention 806 844	Geneva , near the Alabama-Florida line
+#19	ACE T19	entityID: APW20001216.2012.0590-E7; extent: Geneva , near the Alabama-Florida line
+T20	ACE-Mention 852 869	Mayor Warren Beck
+#20	ACE T20	entityID: APW20001216.2012.0590-E9; extent: Mayor Warren Beck
+T21	ACE-Mention 873 875	He
+#21	ACE T21	entityID: APW20001216.2012.0590-E9; extent: He
+T22	ACE-Mention 881 889	vehicles
+#22	ACE T22	entityID: APW20001216.2012.0590-E11; extent: vehicles
+T23	ACE-Mention 910 915	homes
+#23	ACE T23	entityID: APW20001216.2012.0590-E12; extent: homes
+T24	ACE-Mention 934 999	Geneva County Emergency Management Agency director Margaret Mixon
+#24	ACE T24	entityID: APW20001216.2012.0590-E13; extent: Geneva County Emergency Management Agency director Margaret Mixon
+T25	ACE-Mention 1005 1017	eight people
+#25	ACE T25	entityID: APW20001216.2012.0590-E16; extent: eight people
+T26	ACE-Mention 1033 1044	two of them
+#26	ACE T26	entityID: APW20001216.2012.0590-E33; extent: two of them
+T27	ACE-Mention 1083 1122	about a half-dozen homes in Dale County
+#27	ACE T27	entityID: APW20001216.2012.0590-E17; extent: about a half-dozen homes in Dale County
+T28	ACE-Mention 1136 1162	a peanut mill at Abbeville
+#28	ACE T28	entityID: APW20001216.2012.0590-E19; extent: a peanut mill at Abbeville
+T29	ACE-Mention 1176 1190	a textile mill
+#29	ACE T29	entityID: APW20001216.2012.0590-E21; extent: a textile mill
+T30	ACE-Mention 1193 1204	authorities
+#30	ACE T30	entityID: APW20001216.2012.0590-E22; extent: authorities
+T31	ACE-Mention 1213 1253	Dale County Commissioner Buddy Stapleton
+#31	ACE T31	entityID: APW20001216.2012.0590-E23; extent: Dale County Commissioner Buddy Stapleton
+T32	ACE-Mention 1259 1261	he
+#32	ACE T32	entityID: APW20001216.2012.0590-E23; extent: he
+T33	ACE-Mention 1276 1294	a half-dozen homes
+#33	ACE T33	entityID: APW20001216.2012.0590-E25; extent: a half-dozen homes
+T34	ACE-Mention 1304 1310	Newton
+#34	ACE T34	entityID: APW20001216.2012.0590-E26; extent: Newton
+T35	ACE-Mention 1317 1333	northern Alabama
+#35	ACE T35	entityID: APW20001216.2012.0590-E28; extent: northern Alabama
+T36	ACE-Mention 1336 1353	about eight homes
+#36	ACE T36	entityID: APW20001216.2012.0590-E29; extent: about eight homes
+T37	ACE-Mention 1420 1436	Limestone County
+#37	ACE T37	entityID: APW20001216.2012.0590-E30; extent: Limestone County

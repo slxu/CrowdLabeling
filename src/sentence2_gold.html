@@ -1,0 +1,444 @@
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.node {
+  cursor: pointer;
+}
+
+.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font: 40px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1.5px;
+}
+
+.selectedLink {
+  fill: none;
+  stroke: #222;
+  stroke-width: 1.5px;
+}
+
+line {
+    stroke: black;
+    stroke-width: 1px;
+}
+
+</style>
+<body>
+<script src="/js/d3.v3.min.js"></script>
+<script src="/js/sentencetree.js"></script>
+<script src="/js/raphael-min.js"></script>
+<script>
+
+var margin = {top: 20, right: 120, bottom: 20, left: 120},
+    width = 1260 - margin.right - margin.left,
+    height = 1000 - margin.top - margin.bottom;
+    
+var i = 0,
+    duration = 750,
+    root;
+
+var textSize = 16;
+
+var sentenceTree = d3.layout.sentenceTree().size([height,
+width]).textSize(textSize).textMargin(10);
+
+var diagonal = d3.svg.diagonal().projection(function(d) { return [d.y, d.x]; });
+var extendedDiagonal = d3.svg.diagonal().projection(function(d) { return [d.y, d.x]; });
+
+var line;
+
+var lineData = [];
+
+function lineString()
+{
+  return "M"+lineData[0][0]+","+lineData[0][1]+"L"+lineData[1][0]+","+lineData[1][1];
+}
+
+var mouseIsDown=false;
+function mousedown() {
+  if (!mouseIsDown) {
+    mouseIsDown=true;
+    var m = d3.mouse(this);
+    lineData[0] =  [m[0]-margin.left, m[1]-margin.top];
+    lineData[1] =  [m[0]-margin.left, m[1]-margin.top];
+    line = svg.append("line")
+        .attr("x1", lineData[0][0])
+        .attr("y1", lineData[0][1])
+        .attr("x2", lineData[1][0])
+        .attr("y2", lineData[1][1]);
+  }
+}
+
+function mousemove() {
+  if (mouseIsDown) {
+    var m = d3.mouse(this);
+    lineData[1] =  [m[0]-margin.left, m[1]-margin.top];
+    line
+        .attr("x2", lineData[1][0])
+        .attr("y2", lineData[1][1]);
+    pathSelection();
+  }
+}
+
+function removeDuplicates(subTreeRoots) {
+  var subTreeRootsNeedMerge=new Array();
+  subTreeRoots.forEach(function(d){
+    if (subTreeRootsNeedMerge.indexOf(d)<0)
+      subTreeRootsNeedMerge.push(d);
+  });
+  return subTreeRootsNeedMerge;
+}
+
+function nearestCommonAncestorOrdered(subTreeRoots){
+  var subTreeRoots = subTreeRoots.slice(0);
+  var minDepth = d3.min(subTreeRoots, function(d){
+    return d.depth;
+  });
+  
+  for (var i=0;i<subTreeRoots.length;i++) {
+    while (subTreeRoots[i].depth>minDepth) {
+      subTreeRoots[i] = subTreeRoots[i].parent;
+    }
+  }
+  
+  subTreeRoots = removeDuplicates(subTreeRoots);
+  var lastSubTreeRoots=null;
+  while (subTreeRoots.length>1) {
+    lastSubTreeRoots=subTreeRoots.slice(0);
+    for (var i=0;i<subTreeRoots.length;i++) {
+      subTreeRoots[i] = subTreeRoots[i].parent;
+    }
+    subTreeRoots = removeDuplicates(subTreeRoots);
+  }
+  if (lastSubTreeRoots==null)
+    return null;
+
+  if (subTreeRoots.length==1)
+  {
+    var ancestor = subTreeRoots[0];
+    var correctOrderedChildren=new Array();
+    lastSubTreeRoots.forEach(function(d){
+      correctOrderedChildren.push({"node":d,"idx":ancestor.children.indexOf(d)});
+    });
+    correctOrderedChildren.sort(function(a,b){
+      return a.idx-b.idx;
+    });
+    var orderedChildren=new Array();
+    var lastIdx=correctOrderedChildren[0].idx-1;
+    correctOrderedChildren.forEach(function(d){
+      if (d.idx != lastIdx+1){
+        lastIdx=-1;
+        return;
+      }
+      lastIdx+=1;
+      orderedChildren.push(d.node);
+    });
+    if (lastIdx>=0)
+      return [ancestor,orderedChildren];
+    else
+      return null;
+  }
+  else
+    return null;
+}
+
+function addDepth(root,deltaDepth) {
+  root.depth+=deltaDepth;
+  if (root.children && root.children.length)
+    root.children.forEach(function(d) {
+      addDepth(d,deltaDepth);
+    });
+}
+
+function addMergeNode(parentNode, childrenNodes) {
+  var newNode={};
+  newNode.parent = parentNode;
+  newNode.children= childrenNodes;
+  newNode.depth= parentNode.depth+1;
+  childrenNodes.forEach(function(d){
+    d.parent=newNode;
+    addDepth(d,1);
+  });
+  var newChildren=new Array();
+  var newNodeAdded=false;
+  parentNode.children.forEach(function(d) {
+    if (childrenNodes.indexOf(d)<0)
+      newChildren.push(d);
+    else
+      if (!newNodeAdded) {
+        newChildren.push(newNode);
+        newNodeAdded=true;
+      }
+  });
+  parentNode.children = newChildren;
+}
+
+function mergeSelected(selectedSubTrees){
+  if (selectedSubTrees && selectedSubTrees.length) {
+    var ancestorChildren = nearestCommonAncestorOrdered(selectedSubTrees);
+    if (ancestorChildren)
+    {
+      var ancestor = ancestorChildren[0];
+      var aChildren = ancestorChildren[1];
+      addMergeNode(ancestor,aChildren);
+      return ancestor;
+    }
+    return null;
+  }
+  return null;
+}
+
+
+function cutRearEdge(selectedSubTrees) {
+  if (selectedSubTrees && selectedSubTrees.length==1) {
+    var selectedParent = selectedSubTrees[0].parent;
+    var selectedChild = selectedSubTrees[0];
+    var selectedGrandChildren = selectedChild.children;
+    if (selectedGrandChildren && selectedGrandChildren.length) {
+      var childIdx = selectedParent.children.indexOf(selectedChild);
+      selectedParent.children.splice(childIdx,1);
+      selectedGrandChildren.forEach(function(e){
+        e.parent = selectedParent;
+        addDepth(e,-1);
+        selectedParent.children.splice(childIdx,0,e);
+        childIdx++;
+      });
+    }
+    return selectedParent;
+  }
+  return null;
+}
+
+function cutFrontEdge(selectedSubTrees) {
+  //can only remove first child or last child
+  if (selectedSubTrees && selectedSubTrees.length==1) {
+    var selectedParent = selectedSubTrees[0].parent;
+    var selectedChild = selectedSubTrees[0];
+    if (selectedParent.depth!=0) {
+      var grandParent = selectedParent.parent;
+      //if it's root-> leaf, don't cut
+      if (selectedParent.children.length==1) {
+        // single child, should remove the parent node
+        for (var i=0;i<grandParent.children.length;i++)
+          if (grandParent.children[i] == selectedParent)
+          {
+            grandParent.children[i] = selectedChild;
+            selectedChild.parent = grandParent;
+            addDepth(selectedChild,-1);
+            break;
+          }
+      }
+      else if (selectedParent.children[0] == selectedSubTrees[0]) {
+        //first child
+        for (var i=0;i<grandParent.children.length;i++)
+          if (grandParent.children[i] == selectedParent)
+          {
+            grandParent.children.splice(i,0,selectedChild);
+            selectedChild.parent = grandParent;
+            selectedParent.children.splice(0,1);
+            addDepth(selectedChild,-1);
+            break;
+          }
+      } else if
+      (selectedParent.children[selectedParent.children.length-1] == selectedSubTrees[0]) {
+        //last child
+        for (var i=0;i<grandParent.children.length;i++)
+          if (grandParent.children[i] == selectedParent)
+          {
+            grandParent.children.splice(i+1,0,selectedChild);
+            selectedChild.parent = grandParent;
+            selectedParent.children.splice(selectedParent.children.length-1,1);
+            addDepth(selectedChild,-1);
+            break;
+          }
+      }
+      return grandParent;
+    }
+  }
+  return null;
+}
+
+
+function mouseup() {
+  if (mouseIsDown)
+  {
+    var m = d3.mouse(this);
+    var selectedSubTrees = pathSelection();
+    cleanupPathSelection();
+    var cutted = cutRearEdge(selectedSubTrees);
+    if (!cutted) {
+      var ancestor = mergeSelected(selectedSubTrees);
+      if (ancestor)
+        update(ancestor);
+    } else
+      update(cutted);
+  }
+  mouseIsDown=false;
+}
+
+function cleanupPathSelection(){
+  lineData[0] =  [0,0];
+  lineData[1] =  [0,0];
+  line
+      .attr("x2", lineData[1][0])
+      .attr("y2", lineData[1][1]);
+  svg.select("line").remove();
+  pathSelection();
+}
+
+function pathSelection(){
+    var link = svg.selectAll("path.link");
+    var selectedSubTrees=new Array();
+    link[0].forEach(function(l){
+      var intersects = Raphael.pathIntersection(l.attributes[1].value, lineString());
+      if (intersects && intersects.length)
+        selectedSubTrees.push(l.__data__.target);
+    });
+    link.filter(function(d,i){ 
+      return (selectedSubTrees.indexOf(d.target)>=0);
+      }).attr("style","stroke: #222");
+    link.filter(function(d,i){ 
+      return !(selectedSubTrees.indexOf(d.target)>=0);
+      }).attr("style",null);
+    return selectedSubTrees;
+}
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.right + margin.left)
+    .attr("height", height + margin.top + margin.bottom)
+    .on("mousedown",mousedown)
+    .on("mousemove",mousemove)
+    .on("mouseup",mouseup)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+d3.json("/data/sentence2_gold.json", function(error, flare) {
+  root = flare;
+  root.x0 = height / 2;
+  root.y0 = 0;
+  sentenceTree.nodes(root);
+  root.children.forEach(function(d){ d.collapse();});
+  update(root);
+});
+
+d3.select(self.frameElement).style("height", "1000px");
+
+function update(source) {
+
+  // Compute the new tree layout.
+  var nodes = sentenceTree.nodes(root).reverse(),
+      links = sentenceTree.links(nodes);
+
+  // Normalize for fixed-depth.
+  //nodes.forEach(function(d) { d.y = d.depth * 50; });
+
+  // Update the nodes…
+  var node = svg.selectAll("g.node")
+      .data(nodes, function(d) { return d.id || (d.id = ++i); });
+
+  // Enter any new nodes at the parent's previous position.
+  var nodeEnter = node.enter().append("g")
+      .attr("class", "node")
+      .attr("transform", function(d) { return "translate(" + source.y0 + "," + source.x0 + ")"; })
+      .on("click", click);
+
+  nodeEnter.append("circle")
+      .attr("r", 1e-5)
+      .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
+
+  nodeEnter.append("text")
+//      .attr("x", function(d) { return d.children || d._children ? -10 : 10; })
+      .attr("x", function(d) { return textSize; })
+      .attr("dy", ".35em")
+//      .attr("text-anchor", function(d) { return d.children || d._children ? "end" : "start"; })
+      .text(function(d) { return d.name; })
+      .style("fill-opacity", 1e-5)
+      .attr("text-anchor", function(d) {
+        return "start";
+      });
+
+  // Transition nodes to their new position.
+  var nodeUpdate = node.transition()
+      .duration(duration)
+      .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; });
+
+  nodeUpdate.select("circle")
+      .attr("r", 6.5)
+      .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
+
+  nodeUpdate.select("text")
+//      .attr("x", function(d) { return d.children || d._children ? -10 : 10; })
+      .attr("x", function(d) { return textSize; })
+      .attr("dy", ".35em")
+//      .attr("text-anchor", function(d) { return d.children || d._children ? "end" : "start"; })
+      .text(function(d) { return d.name; })
+      .style("fill-opacity", 1)
+      .attr("text-anchor", function(d) {
+        return "start";
+      });
+
+  // Transition exiting nodes to the parent's new position.
+  var nodeExit = node.exit().transition()
+      .duration(duration)
+      .attr("transform", function(d) { return "translate(" + source.y + "," + source.x + ")"; })
+      .remove();
+
+  nodeExit.select("circle")
+      .attr("r", 1e-5);
+
+  nodeExit.select("text")
+      .style("fill-opacity", 1e-5);
+
+  // Update the links…
+  var link = svg.selectAll("path.link")
+      .data(links, function(d) { return d.target.id; });
+
+  // Enter any new links at the parent's previous position.
+  link.enter().insert("path", "g")
+      .attr("class", "link")
+      .attr("d", function(d) {
+        var o = {x: source.x0, y: source.y0};
+        return diagonal({source: o, target: o});
+      });
+
+  // Transition links to their new position.
+  link.transition()
+      .duration(duration)
+      .attr("d", diagonal);
+
+  // Transition exiting nodes to the parent's new position.
+  link.exit().transition()
+      .duration(duration)
+      .attr("d", function(d) {
+        var o = {x: source.x, y: source.y};
+        return diagonal({source: o, target: o});
+      })
+      .remove();
+
+  // Stash the old positions for transition.
+  nodes.forEach(function(d) {
+    d.x0 = d.x;
+    d.y0 = d.y;
+  });
+}
+
+// Toggle children on click.
+function click(d) {
+  d.collapse();
+  update(d);
+}
+
+</script>
+

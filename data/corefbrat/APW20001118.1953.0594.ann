@@ -1,0 +1,58 @@
+T0	ACE-Mention 97 105	ST. PAUL
+#0	ACE T0	entityID: APW20001118.1953.0594-E7; extent: ST. PAUL
+T1	ACE-Mention 106 110	(AP)
+#1	ACE T1	entityID: APW20001118.1953.0594-E8; extent: (AP)
+T2	ACE-Mention 113 131	Gov. Jesse Ventura
+#2	ACE T2	entityID: APW20001118.1953.0594-E9; extent: Gov. Jesse Ventura
+T3	ACE-Mention 187 190	his
+#3	ACE T3	entityID: APW20001118.1953.0594-E9; extent: his
+T4	ACE-Mention 212 234	a football commentator
+#4	ACE T4	entityID: APW20001118.1953.0594-E9; extent: a football commentator
+T5	ACE-Mention 241 244	You
+#5	ACE T5	entityID: APW20001118.1953.0594-E9; extent: You
+T6	ACE-Mention 255 265	the people
+#6	ACE T6	entityID: APW20001118.1953.0594-E12; extent: the people
+T7	ACE-Mention 322 332	one caller
+#7	ACE T7	entityID: APW20001118.1953.0594-E13; extent: one caller
+T8	ACE-Mention 354 360	Others
+#8	ACE T8	entityID: APW20001118.1953.0594-E14; extent: Others
+T9	ACE-Mention 366 369	his
+#9	ACE T9	entityID: APW20001118.1953.0594-E9; extent: his
+T10	ACE-Mention 387 394	the XFL
+#10	ACE T10	entityID: APW20001118.1953.0594-E15; extent: the XFL
+T11	ACE-Mention 397 474	a rough-and-tumble league organized by NBC and the World Wrestling Federation
+#11	ACE T11	entityID: APW20001118.1953.0594-E15; extent: a rough-and-tumble league organized by NBC and the World Wrestling Federation
+T12	ACE-Mention 486 489	his
+#12	ACE T12	entityID: APW20001118.1953.0594-E9; extent: his
+T13	ACE-Mention 500 507	Ventura
+#13	ACE T13	entityID: APW20001118.1953.0594-E9; extent: Ventura
+T14	ACE-Mention 545 547	he
+#14	ACE T14	entityID: APW20001118.1953.0594-E9; extent: he
+T15	ACE-Mention 562 569	the XFL
+#15	ACE T15	entityID: APW20001118.1953.0594-E15; extent: the XFL
+T16	ACE-Mention 593 595	he
+#16	ACE T16	entityID: APW20001118.1953.0594-E9; extent: he
+T17	ACE-Mention 602 604	it
+#17	ACE T17	entityID: APW20001118.1953.0594-E15; extent: it
+T18	ACE-Mention 635 637	my
+#18	ACE T18	entityID: APW20001118.1953.0594-E9; extent: my
+T19	ACE-Mention 650 658	governor
+#19	ACE T19	entityID: APW20001118.1953.0594-E9; extent: governor
+T20	ACE-Mention 677 713	Democratic state Sen. Ellen Anderson
+#20	ACE T20	entityID: APW20001118.1953.0594-E1; extent: Democratic state Sen. Ellen Anderson
+T21	ACE-Mention 719 722	she
+#21	ACE T21	entityID: APW20001118.1953.0594-E1; extent: she
+T22	ACE-Mention 808 813	state
+#22	ACE T22	entityID: APW20001118.1953.0594-E4; extent: state
+T23	ACE-Mention 857 864	Ventura
+#23	ACE T23	entityID: APW20001118.1953.0594-E9; extent: Ventura
+T24	ACE-Mention 931 934	him
+#24	ACE T24	entityID: APW20001118.1953.0594-E9; extent: him
+T25	ACE-Mention 960 963	she
+#25	ACE T25	entityID: APW20001118.1953.0594-E1; extent: she
+T26	ACE-Mention 1007 1026	the former wrestler
+#26	ACE T26	entityID: APW20001118.1953.0594-E9; extent: the former wrestler
+T27	ACE-Mention 1090 1092	He
+#27	ACE T27	entityID: APW20001118.1953.0594-E9; extent: He
+T28	ACE-Mention 1110 1115	state
+#28	ACE T28	entityID: APW20001118.1953.0594-E4; extent: state

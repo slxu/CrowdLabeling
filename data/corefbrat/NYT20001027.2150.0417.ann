@@ -1,0 +1,168 @@
+T0	ACE-Mention 296 316	Canadian authorities
+#0	ACE T0	entityID: NYT20001027.2150.0417-E71; extent: Canadian authorities
+T1	ACE-Mention 326 348	two Vancouver-area men
+#1	ACE T1	entityID: NYT20001027.2150.0417-E4; extent: two Vancouver-area men
+T2	ACE-Mention 371 375	them
+#2	ACE T2	entityID: NYT20001027.2150.0417-E4; extent: them
+T3	ACE-Mention 393 524	329 passengers and crew members of an Air-India Boeing 747 that blew up over the Irish Sea in 1985 , en route from Canada to London
+#3	ACE T3	entityID: NYT20001027.2150.0417-E91; extent: 329 passengers and crew members of an Air-India Boeing 747 that blew up over the Irish Sea in 1985 , en route from Canada to London
+T4	ACE-Mention 528 535	The two
+#4	ACE T4	entityID: NYT20001027.2150.0417-E4; extent: The two
+T5	ACE-Mention 538 562	Ripudan Singh Malik , 53
+#5	ACE T5	entityID: NYT20001027.2150.0417-E61; extent: Ripudan Singh Malik , 53
+T6	ACE-Mention 569 591	Ajaib Singh Bagri , 51
+#6	ACE T6	entityID: NYT20001027.2150.0417-E5; extent: Ajaib Singh Bagri , 51
+T7	ACE-Mention 611 644	the Royal Canadian Mounted Police
+#7	ACE T7	entityID: NYT20001027.2150.0417-E71; extent: the Royal Canadian Mounted Police
+T8	ACE-Mention 660 672	the Mounties
+#8	ACE T8	entityID: NYT20001027.2150.0417-E71; extent: the Mounties
+T9	ACE-Mention 737 747	the nation
+#9	ACE T9	entityID: NYT20001027.2150.0417-E22; extent: the nation
+T10	ACE-Mention 777 784	the jet
+#10	ACE T10	entityID: NYT20001027.2150.0417-E92; extent: the jet
+T11	ACE-Mention 890 897	the men
+#11	ACE T11	entityID: NYT20001027.2150.0417-E4; extent: the men
+T12	ACE-Mention 944 954	explosives
+#12	ACE T12	entityID: NYT20001027.2150.0417-E8; extent: explosives
+T13	ACE-Mention 963 981	two Air-India jets
+#13	ACE T13	entityID: NYT20001027.2150.0417-E7; extent: two Air-India jets
+T14	ACE-Mention 1018 1038	Air-India Flight 182
+#14	ACE T14	entityID: NYT20001027.2150.0417-E92; extent: Air-India Flight 182
+T15	ACE-Mention 1067 1077	all aboard
+#15	ACE T15	entityID: NYT20001027.2150.0417-E91; extent: all aboard
+T16	ACE-Mention 1121 1151	Narita Airport , outside Tokyo
+#16	ACE T16	entityID: NYT20001027.2150.0417-E9; extent: Narita Airport , outside Tokyo
+T17	ACE-Mention 1182 1225	Air-India Flight 301 , destined for Bangkok
+#17	ACE T17	entityID: NYT20001027.2150.0417-E11; extent: Air-India Flight 301 , destined for Bangkok
+T18	ACE-Mention 1238 1258	two baggage handlers
+#18	ACE T18	entityID: NYT20001027.2150.0417-E13; extent: two baggage handlers
+T19	ACE-Mention 1280 1289	Air-India
+#19	ACE T19	entityID: NYT20001027.2150.0417-E14; extent: Air-India
+T20	ACE-Mention 1316 1329	Indian troops
+#20	ACE T20	entityID: NYT20001027.2150.0417-E16; extent: Indian troops
+T21	ACE-Mention 1353 1373	Sikhdom 's holy site
+#21	ACE T21	entityID: NYT20001027.2150.0417-E18; extent: Sikhdom 's holy site
+T22	ACE-Mention 1376 1405	the Golden Temple in Amritsar
+#22	ACE T22	entityID: NYT20001027.2150.0417-E18; extent: the Golden Temple in Amritsar
+T23	ACE-Mention 1409 1419	The temple
+#23	ACE T23	entityID: NYT20001027.2150.0417-E18; extent: The temple
+T24	ACE-Mention 1431 1547	a center for radicals seeking an independent Sikh state , an issue that polarized the Sikh diaspora around the world
+#24	ACE T24	entityID: NYT20001027.2150.0417-E18; extent: a center for radicals seeking an independent Sikh state , an issue that polarized the Sikh diaspora around the world
+T25	ACE-Mention 1551 1556	Malik
+#25	ACE T25	entityID: NYT20001027.2150.0417-E61; extent: Malik
+T26	ACE-Mention 1561 1566	Bagri
+#26	ACE T26	entityID: NYT20001027.2150.0417-E5; extent: Bagri
+T27	ACE-Mention 1569 1572	who
+#27	ACE T27	entityID: NYT20001027.2150.0417-E4; extent: who
+T28	ACE-Mention 1582 1587	Sikhs
+#28	ACE T28	entityID: NYT20001027.2150.0417-E4; extent: Sikhs
+T29	ACE-Mention 1607 1612	court
+#29	ACE T29	entityID: NYT20001027.2150.0417-E29; extent: court
+T30	ACE-Mention 1626 1704	Malik , who runs a school and credit union catering to the immigrant community
+#30	ACE T30	entityID: NYT20001027.2150.0417-E61; extent: Malik , who runs a school and credit union catering to the immigrant community
+T31	ACE-Mention 1721 1742	a suspect in the case
+#31	ACE T31	entityID: NYT20001027.2150.0417-E61; extent: a suspect in the case
+T32	ACE-Mention 1746 1751	Bagri
+#32	ACE T32	entityID: NYT20001027.2150.0417-E5; extent: Bagri
+T33	ACE-Mention 1754 1800	a mill worker from Kamloops , British Columbia
+#33	ACE T33	entityID: NYT20001027.2150.0417-E5; extent: a mill worker from Kamloops , British Columbia
+T34	ACE-Mention 1829 1854	The Province in Vancouver
+#34	ACE T34	entityID: NYT20001027.2150.0417-E34; extent: The Province in Vancouver
+T35	ACE-Mention 1858 1968	a key lieutenant of Talwinder Singh Parmar , a Sikh militant leader shot to death by the Indian police in 1992
+#35	ACE T35	entityID: NYT20001027.2150.0417-E5; extent: a key lieutenant of Talwinder Singh Parmar , a Sikh militant leader shot to death by the Indian police in 1992
+T36	ACE-Mention 1972 1977	Bagri
+#36	ACE T36	entityID: NYT20001027.2150.0417-E5; extent: Bagri
+T37	ACE-Mention 2017 2033	Tara Singh Hayer
+#37	ACE T37	entityID: NYT20001027.2150.0417-E39; extent: Tara Singh Hayer
+T38	ACE-Mention 2036 2114	editor of The Indo-Canadian Times , North America 's largest Punjabi newspaper
+#38	ACE T38	entityID: NYT20001027.2150.0417-E39; extent: editor of The Indo-Canadian Times , North America 's largest Punjabi newspaper
+T39	ACE-Mention 2128 2133	Hayer
+#39	ACE T39	entityID: NYT20001027.2150.0417-E39; extent: Hayer
+T40	ACE-Mention 2198 2226	his wheelchair in his garage
+#40	ACE T40	entityID: NYT20001027.2150.0417-E45; extent: his wheelchair in his garage
+T41	ACE-Mention 2308 2314	police
+#41	ACE T41	entityID: NYT20001027.2150.0417-E47; extent: police
+T42	ACE-Mention 2334 2358	Constable Cate Galliford
+#42	ACE T42	entityID: NYT20001027.2150.0417-E48; extent: Constable Cate Galliford
+T43	ACE-Mention 2361 2412	spokeswoman for the Mounties ' Air-India task force
+#43	ACE T43	entityID: NYT20001027.2150.0417-E48; extent: spokeswoman for the Mounties ' Air-India task force
+T44	ACE-Mention 2462 2465	She
+#44	ACE T44	entityID: NYT20001027.2150.0417-E48; extent: She
+T45	ACE-Mention 2476 2478	We
+#45	ACE T45	entityID: NYT20001027.2150.0417-E51; extent: We
+T46	ACE-Mention 2514 2516	we
+#46	ACE T46	entityID: NYT20001027.2150.0417-E51; extent: we
+T47	ACE-Mention 2562 2576	Beverly Busson
+#47	ACE T47	entityID: NYT20001027.2150.0417-E52; extent: Beverly Busson
+T48	ACE-Mention 2579 2625	the Mounties ' commanding officer in Vancouver
+#48	ACE T48	entityID: NYT20001027.2150.0417-E52; extent: the Mounties ' commanding officer in Vancouver
+T49	ACE-Mention 2674 2683	worldwide
+#49	ACE T49	entityID: NYT20001027.2150.0417-E28; extent: worldwide
+T50	ACE-Mention 2751 2757	Canada
+#50	ACE T50	entityID: NYT20001027.2150.0417-E22; extent: Canada
+T51	ACE-Mention 2761 2828	home to half a million people of Indian origin , most of them Sikhs
+#51	ACE T51	entityID: NYT20001027.2150.0417-E22; extent: home to half a million people of Indian origin , most of them Sikhs
+T52	ACE-Mention 2832 2842	Four Sikhs
+#52	ACE T52	entityID: NYT20001027.2150.0417-E59; extent: Four Sikhs
+T53	ACE-Mention 2852 2862	Parliament
+#53	ACE T53	entityID: NYT20001027.2150.0417-E60; extent: Parliament
+T54	ACE-Mention 2877 2945	the Vancouver area , where half of the nation 's Indo-Canadians live
+#54	ACE T54	entityID: NYT20001027.2150.0417-E63; extent: the Vancouver area , where half of the nation 's Indo-Canadians live
+T55	ACE-Mention 2969 2975	a Sikh
+#55	ACE T55	entityID: NYT20001027.2150.0417-E66; extent: a Sikh
+T56	ACE-Mention 2978 2991	Ujjal Dosanjh
+#56	ACE T56	entityID: NYT20001027.2150.0417-E66; extent: Ujjal Dosanjh
+T57	ACE-Mention 3001 3028	premier of British Columbia
+#57	ACE T57	entityID: NYT20001027.2150.0417-E66; extent: premier of British Columbia
+T58	ACE-Mention 3033 3076	Canada 's first nonwhite provincial premier
+#58	ACE T58	entityID: NYT20001027.2150.0417-E66; extent: Canada 's first nonwhite provincial premier
+T59	ACE-Mention 3080 3087	Dosanjh
+#59	ACE T59	entityID: NYT20001027.2150.0417-E66; extent: Dosanjh
+T60	ACE-Mention 3090 3100	a moderate
+#60	ACE T60	entityID: NYT20001027.2150.0417-E66; extent: a moderate
+T61	ACE-Mention 3141 3145	Sikh
+#61	ACE T61	entityID: NYT20001027.2150.0417-E17; extent: Sikh
+T62	ACE-Mention 3169 3192	the Vancouver community
+#62	ACE T62	entityID: NYT20001027.2150.0417-E35; extent: the Vancouver community
+T63	ACE-Mention 3203 3216	Golden Temple
+#63	ACE T63	entityID: NYT20001027.2150.0417-E18; extent: Golden Temple
+T64	ACE-Mention 3248 3256	AirIndia
+#64	ACE T64	entityID: NYT20001027.2150.0417-E14; extent: AirIndia
+T65	ACE-Mention 3267 3274	Dosanjh
+#65	ACE T65	entityID: NYT20001027.2150.0417-E66; extent: Dosanjh
+T66	ACE-Mention 3296 3310	his law office
+#66	ACE T66	entityID: NYT20001027.2150.0417-E75; extent: his law office
+T67	ACE-Mention 3314 3340	a man wielding an iron rod
+#67	ACE T67	entityID: NYT20001027.2150.0417-E76; extent: a man wielding an iron rod
+T68	ACE-Mention 3344 3351	Dosanjh
+#68	ACE T68	entityID: NYT20001027.2150.0417-E66; extent: Dosanjh
+T69	ACE-Mention 3457 3466	Moderates
+#69	ACE T69	entityID: NYT20001027.2150.0417-E78; extent: Moderates
+T70	ACE-Mention 3487 3520	Vancouver 's largest Sikh temples
+#70	ACE T70	entityID: NYT20001027.2150.0417-E79; extent: Vancouver 's largest Sikh temples
+T71	ACE-Mention 3523 3548	the provincial government
+#71	ACE T71	entityID: NYT20001027.2150.0417-E33; extent: the provincial government
+T72	ACE-Mention 3560 3569	community
+#72	ACE T72	entityID: NYT20001027.2150.0417-E80; extent: community
+T73	ACE-Mention 3610 3625	radical temples
+#73	ACE T73	entityID: NYT20001027.2150.0417-E81; extent: radical temples
+T74	ACE-Mention 3630 3652	the federal government
+#74	ACE T74	entityID: NYT20001027.2150.0417-E22; extent: the federal government
+T75	ACE-Mention 3671 3678	Punjabi
+#75	ACE T75	entityID: NYT20001027.2150.0417-E44; extent: Punjabi
+T76	ACE-Mention 3719 3735	Washington State
+#76	ACE T76	entityID: NYT20001027.2150.0417-E82; extent: Washington State
+T77	ACE-Mention 3774 3783	Vancouver
+#77	ACE T77	entityID: NYT20001027.2150.0417-E35; extent: Vancouver
+T78	ACE-Mention 3786 3801	Premier Dosanjh
+#78	ACE T78	entityID: NYT20001027.2150.0417-E66; extent: Premier Dosanjh
+T79	ACE-Mention 3841 3849	Canadian
+#79	ACE T79	entityID: NYT20001027.2150.0417-E22; extent: Canadian
+T80	ACE-Mention 3861 3863	He
+#80	ACE T80	entityID: NYT20001027.2150.0417-E66; extent: He
+T81	ACE-Mention 3874 3875	I
+#81	ACE T81	entityID: NYT20001027.2150.0417-E66; extent: I
+T82	ACE-Mention 3882 3908	people of British Columbia
+#82	ACE T82	entityID: NYT20001027.2150.0417-E33; extent: people of British Columbia
+T83	ACE-Mention 3911 3927	people of Canada
+#83	ACE T83	entityID: NYT20001027.2150.0417-E22; extent: people of Canada

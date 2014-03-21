@@ -1,0 +1,84 @@
+T0	ACE-Mention 242 260	The New York Times
+#0	ACE T0	entityID: NYT20001001.2157.0225-E19; extent: The New York Times
+T1	ACE-Mention 311 324	Supreme Court
+#1	ACE T1	entityID: NYT20001001.2157.0225-E20; extent: Supreme Court
+T2	ACE-Mention 441 445	gays
+#2	ACE T2	entityID: NYT20001001.2157.0225-E21; extent: gays
+T3	ACE-Mention 449 463	the Boy Scouts
+#3	ACE T3	entityID: NYT20001001.2157.0225-E22; extent: the Boy Scouts
+T4	ACE-Mention 488 499	high school
+#4	ACE T4	entityID: NYT20001001.2157.0225-E23; extent: high school
+T5	ACE-Mention 540 549	Microsoft
+#5	ACE T5	entityID: NYT20001001.2157.0225-E24; extent: Microsoft
+T6	ACE-Mention 613 622	The court
+#6	ACE T6	entityID: NYT20001001.2157.0225-E20; extent: The court
+T7	ACE-Mention 965 987	the federal government
+#7	ACE T7	entityID: NYT20001001.2157.0225-E26; extent: the federal government
+T8	ACE-Mention 992 1002	the states
+#8	ACE T8	entityID: NYT20001001.2157.0225-E27; extent: the states
+T9	ACE-Mention 1017 1025	Congress
+#9	ACE T9	entityID: NYT20001001.2157.0225-E29; extent: Congress
+T10	ACE-Mention 1030 1057	federal regulatory agencies
+#10	ACE T10	entityID: NYT20001001.2157.0225-E28; extent: federal regulatory agencies
+T11	ACE-Mention 1073 1082	the court
+#11	ACE T11	entityID: NYT20001001.2157.0225-E20; extent: the court
+T12	ACE-Mention 1402 1408	states
+#12	ACE T12	entityID: NYT20001001.2157.0225-E30; extent: states
+T13	ACE-Mention 1434 1456	their public employees
+#13	ACE T13	entityID: NYT20001001.2157.0225-E31; extent: their public employees
+T14	ACE-Mention 1571 1580	the court
+#14	ACE T14	entityID: NYT20001001.2157.0225-E20; extent: the court
+T15	ACE-Mention 1603 1611	Congress
+#15	ACE T15	entityID: NYT20001001.2157.0225-E29; extent: Congress
+T16	ACE-Mention 1674 1701	small , intrastate wetlands
+#16	ACE T16	entityID: NYT20001001.2157.0225-E1; extent: small , intrastate wetlands
+T17	ACE-Mention 1713 1744	the habitats of migratory birds
+#17	ACE T17	entityID: NYT20001001.2157.0225-E2; extent: the habitats of migratory birds
+T18	ACE-Mention 1758 1767	the court
+#18	ACE T18	entityID: NYT20001001.2157.0225-E20; extent: the court
+T19	ACE-Mention 1820 1851	Environmental Protection Agency
+#19	ACE T19	entityID: NYT20001001.2157.0225-E3; extent: Environmental Protection Agency
+T20	ACE-Mention 1900 1912	The justices
+#20	ACE T20	entityID: NYT20001001.2157.0225-E4; extent: The justices
+T21	ACE-Mention 1998 2006	Congress
+#21	ACE T21	entityID: NYT20001001.2157.0225-E29; extent: Congress
+T22	ACE-Mention 2042 2049	the EPA
+#22	ACE T22	entityID: NYT20001001.2157.0225-E3; extent: the EPA
+T23	ACE-Mention 2072 2082	the agency
+#23	ACE T23	entityID: NYT20001001.2157.0225-E3; extent: the agency
+T24	ACE-Mention 2159 2168	the court
+#24	ACE T24	entityID: NYT20001001.2157.0225-E20; extent: the court
+T25	ACE-Mention 2234 2246	Indianapolis
+#25	ACE T25	entityID: NYT20001001.2157.0225-E5; extent: Indianapolis
+T26	ACE-Mention 2273 2279	police
+#26	ACE T26	entityID: NYT20001001.2157.0225-E6; extent: police
+T27	ACE-Mention 2324 2333	motorists
+#27	ACE T27	entityID: NYT20001001.2157.0225-E7; extent: motorists
+T28	ACE-Mention 2355 2364	The court
+#28	ACE T28	entityID: NYT20001001.2157.0225-E20; extent: The court
+T29	ACE-Mention 2553 2562	the court
+#29	ACE T29	entityID: NYT20001001.2157.0225-E20; extent: the court
+T30	ACE-Mention 2628 2797	pregnant women who were selectively tested for cocaine use while seeking prenatal care at a South Carolina hospital , and subsequently arrested or threatened with arrest
+#30	ACE T30	entityID: NYT20001001.2157.0225-E8; extent: pregnant women who were selectively tested for cocaine use while seeking prenatal care at a South Carolina hospital , and subsequently arrested or threatened with arrest
+T31	ACE-Mention 2820 2853	leading medical and health groups
+#31	ACE T31	entityID: NYT20001001.2157.0225-E11; extent: leading medical and health groups
+T32	ACE-Mention 2901 2906	women
+#32	ACE T32	entityID: NYT20001001.2157.0225-E12; extent: women
+T33	ACE-Mention 2993 3002	the court
+#33	ACE T33	entityID: NYT20001001.2157.0225-E20; extent: the court
+T34	ACE-Mention 3068 3096	a Pennsylvania radio station
+#34	ACE T34	entityID: NYT20001001.2157.0225-E13; extent: a Pennsylvania radio station
+T35	ACE-Mention 3199 3218	two union officials
+#35	ACE T35	entityID: NYT20001001.2157.0225-E15; extent: two union officials
+T36	ACE-Mention 3222 3228	No one
+#36	ACE T36	entityID: NYT20001001.2157.0225-E18; extent: No one
+T37	ACE-Mention 3237 3248	the station
+#37	ACE T37	entityID: NYT20001001.2157.0225-E13; extent: the station
+T38	ACE-Mention 3298 3322	an anonymous third party
+#38	ACE T38	entityID: NYT20001001.2157.0225-E16; extent: an anonymous third party
+T39	ACE-Mention 3333 3342	the court
+#39	ACE T39	entityID: NYT20001001.2157.0225-E20; extent: the court
+T40	ACE-Mention 3352 3363	the station
+#40	ACE T40	entityID: NYT20001001.2157.0225-E13; extent: the station
+T41	ACE-Mention 3468 3477	The Times
+#41	ACE T41	entityID: NYT20001001.2157.0225-E19; extent: The Times

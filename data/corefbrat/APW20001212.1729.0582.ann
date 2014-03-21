@@ -1,0 +1,94 @@
+T0	ACE-Mention 101 109	NEW YORK
+#0	ACE T0	entityID: APW20001212.1729.0582-E25; extent: NEW YORK
+T1	ACE-Mention 110 114	(AP)
+#1	ACE T1	entityID: APW20001212.1729.0582-E39; extent: (AP)
+T2	ACE-Mention 219 230	Wall Street
+#2	ACE T2	entityID: APW20001212.1729.0582-E40; extent: Wall Street
+T3	ACE-Mention 286 325	Federal Reserve Chairman Alan Greenspan
+#3	ACE T3	entityID: APW20001212.1729.0582-E42; extent: Federal Reserve Chairman Alan Greenspan
+T4	ACE-Mention 331 333	he
+#4	ACE T4	entityID: APW20001212.1729.0582-E42; extent: he
+T5	ACE-Mention 428 437	investors
+#5	ACE T5	entityID: APW20001212.1729.0582-E44; extent: investors
+T6	ACE-Mention 496 504	analysts
+#6	ACE T6	entityID: APW20001212.1729.0582-E45; extent: analysts
+T7	ACE-Mention 563 577	Alan Greenspan
+#7	ACE T7	entityID: APW20001212.1729.0582-E42; extent: Alan Greenspan
+T8	ACE-Mention 600 602	he
+#8	ACE T8	entityID: APW20001212.1729.0582-E42; extent: he
+T9	ACE-Mention 714 729	the chip sector
+#9	ACE T9	entityID: APW20001212.1729.0582-E1; extent: the chip sector
+T10	ACE-Mention 776 789	Alan Skrainka
+#10	ACE T10	entityID: APW20001212.1729.0582-E46; extent: Alan Skrainka
+T11	ACE-Mention 792 857	chief market strategist for A.G. Edwards & Sons Inc. in St. Louis
+#11	ACE T11	entityID: APW20001212.1729.0582-E46; extent: chief market strategist for A.G. Edwards & Sons Inc. in St. Louis
+T12	ACE-Mention 867 869	we
+#12	ACE T12	entityID: APW20001212.1729.0582-E2; extent: we
+T13	ACE-Mention 1158 1169	Some people
+#13	ACE T13	entityID: APW20001212.1729.0582-E3; extent: Some people
+T14	ACE-Mention 1230 1232	we
+#14	ACE T14	entityID: APW20001212.1729.0582-E4; extent: we
+T15	ACE-Mention 1268 1276	Skrainka
+#15	ACE T15	entityID: APW20001212.1729.0582-E46; extent: Skrainka
+T16	ACE-Mention 1401 1410	Investors
+#16	ACE T16	entityID: APW20001212.1729.0582-E44; extent: Investors
+T17	ACE-Mention 1461 1483	the U.S. Supreme Court
+#17	ACE T17	entityID: APW20001212.1729.0582-E5; extent: the U.S. Supreme Court
+T18	ACE-Mention 1504 1511	Florida
+#18	ACE T18	entityID: APW20001212.1729.0582-E7; extent: Florida
+T19	ACE-Mention 1523 1526	its
+#19	ACE T19	entityID: APW20001212.1729.0582-E7; extent: its
+T20	ACE-Mention 1565 1587	Vice President Al Gore
+#20	ACE T20	entityID: APW20001212.1729.0582-E8; extent: Vice President Al Gore
+T21	ACE-Mention 1591 1616	Texas Gov. George W. Bush
+#21	ACE T21	entityID: APW20001212.1729.0582-E11; extent: Texas Gov. George W. Bush
+T22	ACE-Mention 1625 1634	president
+#22	ACE T22	entityID: APW20001212.1729.0582-E13; extent: president
+T23	ACE-Mention 1638 1649	Wall Street
+#23	ACE T23	entityID: APW20001212.1729.0582-E40; extent: Wall Street
+T24	ACE-Mention 1788 1810	Advanced Micro Devices
+#24	ACE T24	entityID: APW20001212.1729.0582-E14; extent: Advanced Micro Devices
+T25	ACE-Mention 1926 1929	AMD
+#25	ACE T25	entityID: APW20001212.1729.0582-E14; extent: AMD
+T26	ACE-Mention 1975 2023	Intel , which issued a similar warning last week
+#26	ACE T26	entityID: APW20001212.1729.0582-E15; extent: Intel , which issued a similar warning last week
+T27	ACE-Mention 2055 2064	Microsoft
+#27	ACE T27	entityID: APW20001212.1729.0582-E16; extent: Microsoft
+T28	ACE-Mention 2091 2120	Network equipment maker Cisco
+#28	ACE T28	entityID: APW20001212.1729.0582-E17; extent: Network equipment maker Cisco
+T29	ACE-Mention 2241 2257	General Electric
+#29	ACE T29	entityID: APW20001212.1729.0582-E19; extent: General Electric
+T30	ACE-Mention 2328 2342	CEO Jack Welch
+#30	ACE T30	entityID: APW20001212.1729.0582-E20; extent: CEO Jack Welch
+T31	ACE-Mention 2346 2354	analysts
+#31	ACE T31	entityID: APW20001212.1729.0582-E22; extent: analysts
+T32	ACE-Mention 2358 2450	GE , which also announced it will take a $ 4 billion charge for its acquisition of Honeywell
+#32	ACE T32	entityID: APW20001212.1729.0582-E19; extent: GE , which also announced it will take a $ 4 billion charge for its acquisition of Honeywell
+T33	ACE-Mention 2483 2497	General Motors
+#33	ACE T33	entityID: APW20001212.1729.0582-E24; extent: General Motors
+T34	ACE-Mention 2527 2540	the automaker
+#34	ACE T34	entityID: APW20001212.1729.0582-E24; extent: the automaker
+T35	ACE-Mention 2551 2553	it
+#35	ACE T35	entityID: APW20001212.1729.0582-E24; extent: it
+T36	ACE-Mention 2569 2592	its Oldsmobile division
+#36	ACE T36	entityID: APW20001212.1729.0582-E26; extent: its Oldsmobile division
+T37	ACE-Mention 2638 2656	Banker J.P. Morgan
+#37	ACE T37	entityID: APW20001212.1729.0582-E28; extent: Banker J.P. Morgan
+T38	ACE-Mention 2689 2717	drug maker Johnson & Johnson
+#38	ACE T38	entityID: APW20001212.1729.0582-E30; extent: drug maker Johnson & Johnson
+T39	ACE-Mention 2775 2794	industry economists
+#39	ACE T39	entityID: APW20001212.1729.0582-E33; extent: industry economists
+T40	ACE-Mention 2800 2810	the Senate
+#40	ACE T40	entityID: APW20001212.1729.0582-E34; extent: the Senate
+T41	ACE-Mention 2879 2883	They
+#41	ACE T41	entityID: APW20001212.1729.0582-E33; extent: They
+T42	ACE-Mention 2958 2963	Enron
+#42	ACE T42	entityID: APW20001212.1729.0582-E35; extent: Enron
+T43	ACE-Mention 2999 3011	Exxon Mobile
+#43	ACE T43	entityID: APW20001212.1729.0582-E36; extent: Exxon Mobile
+T44	ACE-Mention 3141 3244	the New York Stock Exchange where volume was 493.10 million shares , down from Monday 's 522.67 million
+#44	ACE T44	entityID: APW20001212.1729.0582-E37; extent: the New York Stock Exchange where volume was 493.10 million shares , down from Monday 's 522.67 million
+T45	ACE-Mention 3265 3288	New York Stock Exchange
+#45	ACE T45	entityID: APW20001212.1729.0582-E37; extent: New York Stock Exchange
+T46	ACE-Mention 3311 3330	Nasdaq Stock Market
+#46	ACE T46	entityID: APW20001212.1729.0582-E38; extent: Nasdaq Stock Market

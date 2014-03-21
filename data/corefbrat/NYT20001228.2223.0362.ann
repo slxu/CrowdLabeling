@@ -1,0 +1,204 @@
+T0	ACE-Mention 304 307	You
+#0	ACE T0	entityID: NYT20001228.2223.0362-E16; extent: You
+T1	ACE-Mention 331 344	Richard Nixon
+#1	ACE T1	entityID: NYT20001228.2223.0362-E51; extent: Richard Nixon
+T2	ACE-Mention 347 360	Elvis Presley
+#2	ACE T2	entityID: NYT20001228.2223.0362-E55; extent: Elvis Presley
+T3	ACE-Mention 364 376	Muhammad Ali
+#3	ACE T3	entityID: NYT20001228.2223.0362-E56; extent: Muhammad Ali
+T4	ACE-Mention 391 400	all three
+#4	ACE T4	entityID: NYT20001228.2223.0362-E57; extent: all three
+T5	ACE-Mention 435 465	president of the United States
+#5	ACE T5	entityID: NYT20001228.2223.0362-E51; extent: president of the United States
+T6	ACE-Mention 468 490	king of rock 'n ' roll
+#6	ACE T6	entityID: NYT20001228.2223.0362-E55; extent: king of rock 'n ' roll
+T7	ACE-Mention 495 528	heavyweight champion of the world
+#7	ACE T7	entityID: NYT20001228.2223.0362-E56; extent: heavyweight champion of the world
+T8	ACE-Mention 531 535	they
+#8	ACE T8	entityID: NYT20001228.2223.0362-E57; extent: they
+T9	ACE-Mention 570 575	their
+#9	ACE T9	entityID: NYT20001228.2223.0362-E57; extent: their
+T10	ACE-Mention 576 584	American
+#10	ACE T10	entityID: NYT20001228.2223.0362-E58; extent: American
+T11	ACE-Mention 598 606	each man
+#11	ACE T11	entityID: NYT20001228.2223.0362-E61; extent: each man
+T12	ACE-Mention 739 752	Mario Lemieux
+#12	ACE T12	entityID: NYT20001228.2223.0362-E10; extent: Mario Lemieux
+T13	ACE-Mention 755 781	the Pittsburgh hockey star
+#13	ACE T13	entityID: NYT20001228.2223.0362-E10; extent: the Pittsburgh hockey star
+T14	ACE-Mention 797 851	a transcendent personality like Nixon , Presley or Ali
+#14	ACE T14	entityID: NYT20001228.2223.0362-E2; extent: a transcendent personality like Nixon , Presley or Ali
+T15	ACE-Mention 858 861	his
+#15	ACE T15	entityID: NYT20001228.2223.0362-E10; extent: his
+T16	ACE-Mention 958 965	Lemieux
+#16	ACE T16	entityID: NYT20001228.2223.0362-E10; extent: Lemieux
+T17	ACE-Mention 1070 1073	his
+#17	ACE T17	entityID: NYT20001228.2223.0362-E10; extent: his
+T18	ACE-Mention 1094 1236	Michael Jordan , who spent almost two seasons away from the NBA before returning in 1995 to lead the Chicago Bulls to three more championships
+#18	ACE T18	entityID: NYT20001228.2223.0362-E3; extent: Michael Jordan , who spent almost two seasons away from the NBA before returning in 1995 to lead the Chicago Bulls to three more championships
+T19	ACE-Mention 1245 1251	Jordan
+#19	ACE T19	entityID: NYT20001228.2223.0362-E3; extent: Jordan
+T20	ACE-Mention 1254 1261	Lemieux
+#20	ACE T20	entityID: NYT20001228.2223.0362-E10; extent: Lemieux
+T21	ACE-Mention 1269 1306	part-owner of a team after retirement
+#21	ACE T21	entityID: NYT20001228.2223.0362-E10; extent: part-owner of a team after retirement
+T22	ACE-Mention 1317 1323	Jordan
+#22	ACE T22	entityID: NYT20001228.2223.0362-E3; extent: Jordan
+T23	ACE-Mention 1326 1333	Lemieux
+#23	ACE T23	entityID: NYT20001228.2223.0362-E10; extent: Lemieux
+T24	ACE-Mention 1346 1364	an equity investor
+#24	ACE T24	entityID: NYT20001228.2223.0362-E10; extent: an equity investor
+T25	ACE-Mention 1369 1380	an employee
+#25	ACE T25	entityID: NYT20001228.2223.0362-E10; extent: an employee
+T26	ACE-Mention 1418 1425	Lemieux
+#26	ACE T26	entityID: NYT20001228.2223.0362-E10; extent: Lemieux
+T27	ACE-Mention 1437 1449	the Penguins
+#27	ACE T27	entityID: NYT20001228.2223.0362-E1; extent: the Penguins
+T28	ACE-Mention 1522 1529	Toronto
+#28	ACE T28	entityID: NYT20001228.2223.0362-E7; extent: Toronto
+T29	ACE-Mention 1547 1554	Lemieux
+#29	ACE T29	entityID: NYT20001228.2223.0362-E10; extent: Lemieux
+T30	ACE-Mention 1562 1569	the NHL
+#30	ACE T30	entityID: NYT20001228.2223.0362-E8; extent: the NHL
+T31	ACE-Mention 1610 1612	it
+#31	ACE T31	entityID: NYT20001228.2223.0362-E8; extent: it
+T32	ACE-Mention 1639 1652	Wayne Gretzky
+#32	ACE T32	entityID: NYT20001228.2223.0362-E9; extent: Wayne Gretzky
+T33	ACE-Mention 1702 1709	Lemieux
+#33	ACE T33	entityID: NYT20001228.2223.0362-E10; extent: Lemieux
+T34	ACE-Mention 1801 1842	the second-best player of the Gretzky era
+#34	ACE T34	entityID: NYT20001228.2223.0362-E10; extent: the second-best player of the Gretzky era
+T35	ACE-Mention 1845 1852	Lemieux
+#35	ACE T35	entityID: NYT20001228.2223.0362-E10; extent: Lemieux
+T36	ACE-Mention 1879 1881	he
+#36	ACE T36	entityID: NYT20001228.2223.0362-E10; extent: he
+T37	ACE-Mention 1925 1932	Lemieux
+#37	ACE T37	entityID: NYT20001228.2223.0362-E10; extent: Lemieux
+T38	ACE-Mention 2020 2027	Lemieux
+#38	ACE T38	entityID: NYT20001228.2223.0362-E10; extent: Lemieux
+T39	ACE-Mention 2036 2044	his team
+#39	ACE T39	entityID: NYT20001228.2223.0362-E1; extent: his team
+T40	ACE-Mention 2133 2146	the franchise
+#40	ACE T40	entityID: NYT20001228.2223.0362-E1; extent: the franchise
+T41	ACE-Mention 2159 2172	new investors
+#41	ACE T41	entityID: NYT20001228.2223.0362-E12; extent: new investors
+T42	ACE-Mention 2177 2222	a new arena to replace the NHL 's oldest rink
+#42	ACE T42	entityID: NYT20001228.2223.0362-E13; extent: a new arena to replace the NHL 's oldest rink
+T43	ACE-Mention 2237 2243	family
+#43	ACE T43	entityID: NYT20001228.2223.0362-E25; extent: family
+T44	ACE-Mention 2252 2265	his young son
+#44	ACE T44	entityID: NYT20001228.2223.0362-E15; extent: his young son
+T45	ACE-Mention 2279 2282	him
+#45	ACE T45	entityID: NYT20001228.2223.0362-E10; extent: him
+T46	ACE-Mention 2359 2366	Lemieux
+#46	ACE T46	entityID: NYT20001228.2223.0362-E10; extent: Lemieux
+T47	ACE-Mention 2395 2428	a mediocre , underperforming team
+#47	ACE T47	entityID: NYT20001228.2223.0362-E1; extent: a mediocre , underperforming team
+T48	ACE-Mention 2434 2466	a dynamic and overachieving team
+#48	ACE T48	entityID: NYT20001228.2223.0362-E1; extent: a dynamic and overachieving team
+T49	ACE-Mention 2470 2500	The other Pittsburgh superstar
+#49	ACE T49	entityID: NYT20001228.2223.0362-E17; extent: The other Pittsburgh superstar
+T50	ACE-Mention 2503 2515	Jaromir Jagr
+#50	ACE T50	entityID: NYT20001228.2223.0362-E17; extent: Jaromir Jagr
+T51	ACE-Mention 2526 2606	Lemieux , who might change Jagr 's recent sulks and pouts into shouts of triumph
+#51	ACE T51	entityID: NYT20001228.2223.0362-E10; extent: Lemieux , who might change Jagr 's recent sulks and pouts into shouts of triumph
+T52	ACE-Mention 2630 2637	Lemieux
+#52	ACE T52	entityID: NYT20001228.2223.0362-E10; extent: Lemieux
+T53	ACE-Mention 2651 2664	ticket buyers
+#53	ACE T53	entityID: NYT20001228.2223.0362-E19; extent: ticket buyers
+T54	ACE-Mention 2669 2687	television viewers
+#54	ACE T54	entityID: NYT20001228.2223.0362-E20; extent: television viewers
+T55	ACE-Mention 2844 2851	Lemieux
+#55	ACE T55	entityID: NYT20001228.2223.0362-E10; extent: Lemieux
+T56	ACE-Mention 2857 2860	his
+#56	ACE T56	entityID: NYT20001228.2223.0362-E10; extent: his
+T57	ACE-Mention 2952 2979	even young , healthy bodies
+#57	ACE T57	entityID: NYT20001228.2223.0362-E52; extent: even young , healthy bodies
+T58	ACE-Mention 2987 2994	Lemieux
+#58	ACE T58	entityID: NYT20001228.2223.0362-E10; extent: Lemieux
+T59	ACE-Mention 3201 3208	Lemieux
+#59	ACE T59	entityID: NYT20001228.2223.0362-E10; extent: Lemieux
+T60	ACE-Mention 3274 3283	team-wide
+#60	ACE T60	entityID: NYT20001228.2223.0362-E1; extent: team-wide
+T61	ACE-Mention 3321 3362	a shrewd general manager in Craig Patrick
+#61	ACE T61	entityID: NYT20001228.2223.0362-E22; extent: a shrewd general manager in Craig Patrick
+T62	ACE-Mention 3367 3410	a loyal fan base that understands the sport
+#62	ACE T62	entityID: NYT20001228.2223.0362-E24; extent: a loyal fan base that understands the sport
+T63	ACE-Mention 3413 3437	the Pittsburgh franchise
+#63	ACE T63	entityID: NYT20001228.2223.0362-E1; extent: the Pittsburgh franchise
+T64	ACE-Mention 3538 3551	The new coach
+#64	ACE T64	entityID: NYT20001228.2223.0362-E27; extent: The new coach
+T65	ACE-Mention 3554 3565	Ivan Hlinka
+#65	ACE T65	entityID: NYT20001228.2223.0362-E27; extent: Ivan Hlinka
+T66	ACE-Mention 3571 3606	one of the NHL 's first from Europe
+#66	ACE T66	entityID: NYT20001228.2223.0362-E27; extent: one of the NHL 's first from Europe
+T67	ACE-Mention 3613 3616	his
+#67	ACE T67	entityID: NYT20001228.2223.0362-E27; extent: his
+T68	ACE-Mention 3659 3671	the Penguins
+#68	ACE T68	entityID: NYT20001228.2223.0362-E1; extent: the Penguins
+T69	ACE-Mention 3682 3688	a team
+#69	ACE T69	entityID: NYT20001228.2223.0362-E1; extent: a team
+T70	ACE-Mention 3713 3723	a business
+#70	ACE T70	entityID: NYT20001228.2223.0362-E1; extent: a business
+T71	ACE-Mention 3743 3750	Lemieux
+#71	ACE T71	entityID: NYT20001228.2223.0362-E10; extent: Lemieux
+T72	ACE-Mention 3898 3901	who
+#72	ACE T72	entityID: NYT20001228.2223.0362-E31; extent: who
+T73	ACE-Mention 3976 3982	Devils
+#73	ACE T73	entityID: NYT20001228.2223.0362-E32; extent: Devils
+T74	ACE-Mention 3996 4004	Columbus
+#74	ACE T74	entityID: NYT20001228.2223.0362-E33; extent: Columbus
+T75	ACE-Mention 4008 4023	the Meadowlands
+#75	ACE T75	entityID: NYT20001228.2223.0362-E34; extent: the Meadowlands
+T76	ACE-Mention 4052 4077	the Stanley Cup champions
+#76	ACE T76	entityID: NYT20001228.2223.0362-E32; extent: the Stanley Cup champions
+T77	ACE-Mention 4085 4111	the expansion Blue Jackets
+#77	ACE T77	entityID: NYT20001228.2223.0362-E33; extent: the expansion Blue Jackets
+T78	ACE-Mention 4114 4118	fans
+#78	ACE T78	entityID: NYT20001228.2223.0362-E36; extent: fans
+T79	ACE-Mention 4196 4203	Lemieux
+#79	ACE T79	entityID: NYT20001228.2223.0362-E10; extent: Lemieux
+T80	ACE-Mention 4248 4258	Pittsburgh
+#80	ACE T80	entityID: NYT20001228.2223.0362-E1; extent: Pittsburgh
+T81	ACE-Mention 4270 4284	the press room
+#81	ACE T81	entityID: NYT20001228.2223.0362-E37; extent: the press room
+T82	ACE-Mention 4305 4314	reporters
+#82	ACE T82	entityID: NYT20001228.2223.0362-E38; extent: reporters
+T83	ACE-Mention 4333 4340	Lemieux
+#83	ACE T83	entityID: NYT20001228.2223.0362-E10; extent: Lemieux
+T84	ACE-Mention 4370 4379	the Igloo
+#84	ACE T84	entityID: NYT20001228.2223.0362-E14; extent: the Igloo
+T85	ACE-Mention 4386 4398	the corridor
+#85	ACE T85	entityID: NYT20001228.2223.0362-E39; extent: the corridor
+T86	ACE-Mention 4411 4434	two Columbus assistants
+#86	ACE T86	entityID: NYT20001228.2223.0362-E40; extent: two Columbus assistants
+T87	ACE-Mention 4449 4452	you
+#87	ACE T87	entityID: NYT20001228.2223.0362-E43; extent: you
+T88	ACE-Mention 4464 4469	Mario
+#88	ACE T88	entityID: NYT20001228.2223.0362-E10; extent: Mario
+T89	ACE-Mention 4476 4479	one
+#89	ACE T89	entityID: NYT20001228.2223.0362-E42; extent: one
+T90	ACE-Mention 4503 4516	his colleague
+#90	ACE T90	entityID: NYT20001228.2223.0362-E43; extent: his colleague
+T91	ACE-Mention 4528 4536	Both men
+#91	ACE T91	entityID: NYT20001228.2223.0362-E40; extent: Both men
+T92	ACE-Mention 4595 4599	they
+#92	ACE T92	entityID: NYT20001228.2223.0362-E40; extent: they
+T93	ACE-Mention 4630 4647	Continental Arena
+#93	ACE T93	entityID: NYT20001228.2223.0362-E44; extent: Continental Arena
+T94	ACE-Mention 4656 4664	skeptics
+#94	ACE T94	entityID: NYT20001228.2223.0362-E45; extent: skeptics
+T95	ACE-Mention 4669 4675	cynics
+#95	ACE T95	entityID: NYT20001228.2223.0362-E46; extent: cynics
+T96	ACE-Mention 4734 4741	The sun
+#96	ACE T96	entityID: NYT20001228.2223.0362-E54; extent: The sun
+T97	ACE-Mention 4765 4788	the Northern Hemisphere
+#97	ACE T97	entityID: NYT20001228.2223.0362-E47; extent: the Northern Hemisphere
+T98	ACE-Mention 4845 4852	friends
+#98	ACE T98	entityID: NYT20001228.2223.0362-E49; extent: friends
+T99	ACE-Mention 4857 4861	foes
+#99	ACE T99	entityID: NYT20001228.2223.0362-E50; extent: foes
+T100	ACE-Mention 4865 4888	the Pittsburgh Penguins
+#100	ACE T100	entityID: NYT20001228.2223.0362-E1; extent: the Pittsburgh Penguins
+T101	ACE-Mention 4937 4972	the athlete they call le Magnifique
+#101	ACE T101	entityID: NYT20001228.2223.0362-E10; extent: the athlete they call le Magnifique

@@ -1,0 +1,92 @@
+T0	ACE-Mention 117 130	CONYERS , Ga.
+#0	ACE T0	entityID: APW20001002.1912.0524-E25; extent: CONYERS , Ga.
+T1	ACE-Mention 131 135	(AP)
+#1	ACE T1	entityID: APW20001002.1912.0524-E28; extent: (AP)
+T2	ACE-Mention 138 149	A teen-ager
+#2	ACE T2	entityID: APW20001002.1912.0524-E29; extent: A teen-ager
+T3	ACE-Mention 224 230	school
+#3	ACE T3	entityID: APW20001002.1912.0524-E30; extent: school
+T4	ACE-Mention 250 269	six fellow students
+#4	ACE T4	entityID: APW20001002.1912.0524-E31; extent: six fellow students
+T5	ACE-Mention 281 288	A judge
+#5	ACE T5	entityID: APW20001002.1912.0524-E32; extent: A judge
+T6	ACE-Mention 340 364	17-year-old T.J. Solomon
+#6	ACE T6	entityID: APW20001002.1912.0524-E29; extent: 17-year-old T.J. Solomon
+T7	ACE-Mention 420 429	the judge
+#7	ACE T7	entityID: APW20001002.1912.0524-E32; extent: the judge
+T8	ACE-Mention 517 525	children
+#8	ACE T8	entityID: APW20001002.1912.0524-E33; extent: children
+T9	ACE-Mention 530 537	weapons
+#9	ACE T9	entityID: APW20001002.1912.0524-E24; extent: weapons
+T10	ACE-Mention 551 558	Solomon
+#10	ACE T10	entityID: APW20001002.1912.0524-E29; extent: Solomon
+T11	ACE-Mention 600 606	prison
+#11	ACE T11	entityID: APW20001002.1912.0524-E1; extent: prison
+T12	ACE-Mention 613 622	the judge
+#12	ACE T12	entityID: APW20001002.1912.0524-E32; extent: the judge
+T13	ACE-Mention 666 673	Solomon
+#13	ACE T13	entityID: APW20001002.1912.0524-E29; extent: Solomon
+T14	ACE-Mention 692 698	prison
+#14	ACE T14	entityID: APW20001002.1912.0524-E1; extent: prison
+T15	ACE-Mention 757 771	prison doctors
+#15	ACE T15	entityID: APW20001002.1912.0524-E3; extent: prison doctors
+T16	ACE-Mention 775 792	Solomon , then 15
+#16	ACE T16	entityID: APW20001002.1912.0524-E29; extent: Solomon , then 15
+T17	ACE-Mention 812 829	a sawed-off rifle
+#17	ACE T17	entityID: APW20001002.1912.0524-E4; extent: a sawed-off rifle
+T18	ACE-Mention 833 938	hundreds of students in a common area at Heritage High School in Conyers , about 25 miles east of Atlanta
+#18	ACE T18	entityID: APW20001002.1912.0524-E5; extent: hundreds of students in a common area at Heritage High School in Conyers , about 25 miles east of Atlanta
+T19	ACE-Mention 961 975	Columbine High
+#19	ACE T19	entityID: APW20001002.1912.0524-E10; extent: Columbine High
+T20	ACE-Mention 988 996	Colorado
+#20	ACE T20	entityID: APW20001002.1912.0524-E11; extent: Colorado
+T21	ACE-Mention 1000 1009	Witnesses
+#21	ACE T21	entityID: APW20001002.1912.0524-E12; extent: Witnesses
+T22	ACE-Mention 1015 1017	he
+#22	ACE T22	entityID: APW20001002.1912.0524-E29; extent: he
+T23	ACE-Mention 1061 1063	He
+#23	ACE T23	entityID: APW20001002.1912.0524-E29; extent: He
+T24	ACE-Mention 1080 1083	his
+#24	ACE T24	entityID: APW20001002.1912.0524-E29; extent: his
+T25	ACE-Mention 1102 1132	a .357-caliber Magnum revolver
+#25	ACE T25	entityID: APW20001002.1912.0524-E13; extent: a .357-caliber Magnum revolver
+T26	ACE-Mention 1144 1147	his
+#26	ACE T26	entityID: APW20001002.1912.0524-E29; extent: his
+T27	ACE-Mention 1166 1188	an assistant principal
+#27	ACE T27	entityID: APW20001002.1912.0524-E14; extent: an assistant principal
+T28	ACE-Mention 1212 1214	it
+#28	ACE T28	entityID: APW20001002.1912.0524-E13; extent: it
+T29	ACE-Mention 1218 1225	the man
+#29	ACE T29	entityID: APW20001002.1912.0524-E14; extent: the man
+T30	ACE-Mention 1251 1257	my God
+#30	ACE T30	entityID: APW20001002.1912.0524-E15; extent: my God
+T31	ACE-Mention 1260 1261	I
+#31	ACE T31	entityID: APW20001002.1912.0524-E29; extent: I
+T32	ACE-Mention 1281 1299	Solomon 's lawyers
+#32	ACE T32	entityID: APW20001002.1912.0524-E16; extent: Solomon 's lawyers
+T33	ACE-Mention 1316 1329	the teen-ager
+#33	ACE T33	entityID: APW20001002.1912.0524-E29; extent: the teen-ager
+T34	ACE-Mention 1378 1401	a Georgia appeals court
+#34	ACE T34	entityID: APW20001002.1912.0524-E17; extent: a Georgia appeals court
+T35	ACE-Mention 1413 1415	he
+#35	ACE T35	entityID: APW20001002.1912.0524-E29; extent: he
+T36	ACE-Mention 1482 1489	Friends
+#36	ACE T36	entityID: APW20001002.1912.0524-E19; extent: Friends
+T37	ACE-Mention 1500 1507	Solomon
+#37	ACE T37	entityID: APW20001002.1912.0524-E29; extent: Solomon
+T38	ACE-Mention 1546 1548	he
+#38	ACE T38	entityID: APW20001002.1912.0524-E29; extent: he
+T39	ACE-Mention 1565 1568	his
+#39	ACE T39	entityID: APW20001002.1912.0524-E29; extent: his
+T40	ACE-Mention 1669 1670	I
+#40	ACE T40	entityID: APW20001002.1912.0524-E29; extent: I
+T41	ACE-Mention 1718 1725	Solomon
+#41	ACE T41	entityID: APW20001002.1912.0524-E29; extent: Solomon
+T42	ACE-Mention 1767 1769	my
+#42	ACE T42	entityID: APW20001002.1912.0524-E29; extent: my
+T43	ACE-Mention 1803 1817	Cecil Brinkley
+#43	ACE T43	entityID: APW20001002.1912.0524-E14; extent: Cecil Brinkley
+T44	ACE-Mention 1820 1843	the assistant principal
+#44	ACE T44	entityID: APW20001002.1912.0524-E14; extent: the assistant principal
+T45	ACE-Mention 1871 1991	the Pittsburgh-based Carnegie Hero Fund Commission , established in 1904 by Andrew Carnegie to recognize acts of heroism
+#45	ACE T45	entityID: APW20001002.1912.0524-E22; extent: the Pittsburgh-based Carnegie Hero Fund Commission , established in 1904 by Andrew Carnegie to recognize acts of heroism

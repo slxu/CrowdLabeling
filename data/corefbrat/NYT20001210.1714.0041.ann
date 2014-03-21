@@ -1,0 +1,116 @@
+T0	ACE-Mention 307 319	The dot-coms
+#0	ACE T0	entityID: NYT20001210.1714.0041-E20; extent: The dot-coms
+T1	ACE-Mention 349 366	John F. Welch Jr.
+#1	ACE T1	entityID: NYT20001210.1714.0041-E23; extent: John F. Welch Jr.
+T2	ACE-Mention 383 414	companies like General Electric
+#2	ACE T2	entityID: NYT20001210.1714.0041-E24; extent: companies like General Electric
+T3	ACE-Mention 469 482	big companies
+#3	ACE T3	entityID: NYT20001210.1714.0041-E26; extent: big companies
+T4	ACE-Mention 493 498	Welch
+#4	ACE T4	entityID: NYT20001210.1714.0041-E23; extent: Welch
+T5	ACE-Mention 501 515	GE 's chairman
+#5	ACE T5	entityID: NYT20001210.1714.0041-E23; extent: GE 's chairman
+T6	ACE-Mention 520 541	Web champion-in-chief
+#6	ACE T6	entityID: NYT20001210.1714.0041-E23; extent: Web champion-in-chief
+T7	ACE-Mention 548 560	The dot-coms
+#7	ACE T7	entityID: NYT20001210.1714.0041-E20; extent: The dot-coms
+T8	ACE-Mention 705 740	sophisticated old-economy companies
+#8	ACE T8	entityID: NYT20001210.1714.0041-E29; extent: sophisticated old-economy companies
+T9	ACE-Mention 816 825	suppliers
+#9	ACE T9	entityID: NYT20001210.1714.0041-E30; extent: suppliers
+T10	ACE-Mention 869 880	back-office
+#10	ACE T10	entityID: NYT20001210.1714.0041-E31; extent: back-office
+T11	ACE-Mention 1006 1024	industrial America
+#11	ACE T11	entityID: NYT20001210.1714.0041-E32; extent: industrial America
+T12	ACE-Mention 1036 1064	Web-based buying consortiums
+#12	ACE T12	entityID: NYT20001210.1714.0041-E33; extent: Web-based buying consortiums
+T13	ACE-Mention 1149 1158	companies
+#13	ACE T13	entityID: NYT20001210.1714.0041-E34; extent: companies
+T14	ACE-Mention 1312 1321	companies
+#14	ACE T14	entityID: NYT20001210.1714.0041-E1; extent: companies
+T15	ACE-Mention 1332 1337	their
+#15	ACE T15	entityID: NYT20001210.1714.0041-E1; extent: their
+T16	ACE-Mention 1350 1394	businesses too small to warrant a sales call
+#16	ACE T16	entityID: NYT20001210.1714.0041-E2; extent: businesses too small to warrant a sales call
+T17	ACE-Mention 1402 1473	consumers who may live hours away from the nearest store or distributor
+#17	ACE T17	entityID: NYT20001210.1714.0041-E3; extent: consumers who may live hours away from the nearest store or distributor
+T18	ACE-Mention 1477 1490	The companies
+#18	ACE T18	entityID: NYT20001210.1714.0041-E1; extent: The companies
+T19	ACE-Mention 1569 1573	They
+#19	ACE T19	entityID: NYT20001210.1714.0041-E1; extent: They
+T20	ACE-Mention 1582 1591	customers
+#20	ACE T20	entityID: NYT20001210.1714.0041-E5; extent: customers
+T21	ACE-Mention 1621 1625	them
+#21	ACE T21	entityID: NYT20001210.1714.0041-E5; extent: them
+T22	ACE-Mention 1633 1638	their
+#22	ACE T22	entityID: NYT20001210.1714.0041-E1; extent: their
+T23	ACE-Mention 1651 1675	Diversified corporations
+#23	ACE T23	entityID: NYT20001210.1714.0041-E6; extent: Diversified corporations
+T24	ACE-Mention 1810 1822	GE Appliance
+#24	ACE T24	entityID: NYT20001210.1714.0041-E7; extent: GE Appliance
+T25	ACE-Mention 1863 1873	GE Capital
+#25	ACE T25	entityID: NYT20001210.1714.0041-E8; extent: GE Capital
+T26	ACE-Mention 1901 1903	GE
+#26	ACE T26	entityID: NYT20001210.1714.0041-E12; extent: GE
+T27	ACE-Mention 1911 1914	its
+#27	ACE T27	entityID: NYT20001210.1714.0041-E12; extent: its
+T28	ACE-Mention 2064 2086	an old-economy company
+#28	ACE T28	entityID: NYT20001210.1714.0041-E9; extent: an old-economy company
+T29	ACE-Mention 2120 2131	GE Plastics
+#29	ACE T29	entityID: NYT20001210.1714.0041-E10; extent: GE Plastics
+T30	ACE-Mention 2139 2150	the company
+#30	ACE T30	entityID: NYT20001210.1714.0041-E12; extent: the company
+T31	ACE-Mention 2197 2213	each GE business
+#31	ACE T31	entityID: NYT20001210.1714.0041-E11; extent: each GE business
+T32	ACE-Mention 2259 2261	GE
+#32	ACE T32	entityID: NYT20001210.1714.0041-E12; extent: GE
+T33	ACE-Mention 2323 2325	We
+#33	ACE T33	entityID: NYT20001210.1714.0041-E12; extent: We
+T34	ACE-Mention 2372 2377	Welch
+#34	ACE T34	entityID: NYT20001210.1714.0041-E23; extent: Welch
+T35	ACE-Mention 2413 2416	you
+#35	ACE T35	entityID: NYT20001210.1714.0041-E13; extent: you
+T36	ACE-Mention 2475 2477	GE
+#36	ACE T36	entityID: NYT20001210.1714.0041-E12; extent: GE
+T37	ACE-Mention 2483 2500	its own customers
+#37	ACE T37	entityID: NYT20001210.1714.0041-E14; extent: its own customers
+T38	ACE-Mention 2518 2520	GE
+#38	ACE T38	entityID: NYT20001210.1714.0041-E12; extent: GE
+T39	ACE-Mention 2535 2538	its
+#39	ACE T39	entityID: NYT20001210.1714.0041-E12; extent: its
+T40	ACE-Mention 2613 2622	hospitals
+#40	ACE T40	entityID: NYT20001210.1714.0041-E15; extent: hospitals
+T41	ACE-Mention 2627 2630	its
+#41	ACE T41	entityID: NYT20001210.1714.0041-E12; extent: its
+T42	ACE-Mention 2656 2664	airlines
+#42	ACE T42	entityID: NYT20001210.1714.0041-E16; extent: airlines
+T43	ACE-Mention 2691 2694	its
+#43	ACE T43	entityID: NYT20001210.1714.0041-E12; extent: its
+T44	ACE-Mention 2714 2723	utilities
+#44	ACE T44	entityID: NYT20001210.1714.0041-E17; extent: utilities
+T45	ACE-Mention 2780 2805	Customers with a password
+#45	ACE T45	entityID: NYT20001210.1714.0041-E18; extent: Customers with a password
+T46	ACE-Mention 2852 2857	their
+#46	ACE T46	entityID: NYT20001210.1714.0041-E18; extent: their
+T47	ACE-Mention 2877 2879	GE
+#47	ACE T47	entityID: NYT20001210.1714.0041-E12; extent: GE
+T48	ACE-Mention 2909 2918	customers
+#48	ACE T48	entityID: NYT20001210.1714.0041-E19; extent: customers
+T49	ACE-Mention 2964 2975	the company
+#49	ACE T49	entityID: NYT20001210.1714.0041-E12; extent: the company
+T50	ACE-Mention 2998 3007	hospitals
+#50	ACE T50	entityID: NYT20001210.1714.0041-E21; extent: hospitals
+T51	ACE-Mention 3061 3063	GE
+#51	ACE T51	entityID: NYT20001210.1714.0041-E12; extent: GE
+T52	ACE-Mention 3073 3077	them
+#52	ACE T52	entityID: NYT20001210.1714.0041-E19; extent: them
+T53	ACE-Mention 3183 3195	the customer
+#53	ACE T53	entityID: NYT20001210.1714.0041-E19; extent: the customer
+T54	ACE-Mention 3267 3270	you
+#54	ACE T54	entityID: NYT20001210.1714.0041-E22; extent: you
+T55	ACE-Mention 3303 3306	you
+#55	ACE T55	entityID: NYT20001210.1714.0041-E22; extent: you
+T56	ACE-Mention 3332 3337	Welch
+#56	ACE T56	entityID: NYT20001210.1714.0041-E23; extent: Welch
+T57	ACE-Mention 3395 3397	we
+#57	ACE T57	entityID: NYT20001210.1714.0041-E12; extent: we

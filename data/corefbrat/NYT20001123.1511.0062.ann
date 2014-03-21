@@ -1,0 +1,138 @@
+T0	ACE-Mention 417 426	the media
+#0	ACE T0	entityID: NYT20001123.1511.0062-E29; extent: the media
+T1	ACE-Mention 437 446	Americans
+#1	ACE T1	entityID: NYT20001123.1511.0062-E62; extent: Americans
+T2	ACE-Mention 526 529	ABC
+#2	ACE T2	entityID: NYT20001123.1511.0062-E63; extent: ABC
+T3	ACE-Mention 580 583	its
+#3	ACE T3	entityID: NYT20001123.1511.0062-E63; extent: its
+T4	ACE-Mention 656 674	a Hollywood studio
+#4	ACE T4	entityID: NYT20001123.1511.0062-E64; extent: a Hollywood studio
+T5	ACE-Mention 699 706	Florida
+#5	ACE T5	entityID: NYT20001123.1511.0062-E66; extent: Florida
+T6	ACE-Mention 797 840	How many readers of The Wall Street Journal
+#6	ACE T6	entityID: NYT20001123.1511.0062-E67; extent: How many readers of The Wall Street Journal
+T7	ACE-Mention 1020 1030	Fox Sports
+#7	ACE T7	entityID: NYT20001123.1511.0062-E68; extent: Fox Sports
+T8	ACE-Mention 1044 1060	Sun Microsystems
+#8	ACE T8	entityID: NYT20001123.1511.0062-E69; extent: Sun Microsystems
+T9	ACE-Mention 1133 1140	a Buick
+#9	ACE T9	entityID: NYT20001123.1511.0062-E70; extent: a Buick
+T10	ACE-Mention 1187 1207	Fidelity Investments
+#10	ACE T10	entityID: NYT20001123.1511.0062-E71; extent: Fidelity Investments
+T11	ACE-Mention 1255 1272	a female employee
+#11	ACE T11	entityID: NYT20001123.1511.0062-E72; extent: a female employee
+T12	ACE-Mention 1277 1292	a male customer
+#12	ACE T12	entityID: NYT20001123.1511.0062-E73; extent: a male customer
+T13	ACE-Mention 1306 1314	Citibank
+#13	ACE T13	entityID: NYT20001123.1511.0062-E74; extent: Citibank
+T14	ACE-Mention 1467 1521	shoppers at the New York supermarket chain Gristede 's
+#14	ACE T14	entityID: NYT20001123.1511.0062-E1; extent: shoppers at the New York supermarket chain Gristede 's
+T15	ACE-Mention 1596 1604	Scotties
+#15	ACE T15	entityID: NYT20001123.1511.0062-E5; extent: Scotties
+T16	ACE-Mention 1646 1654	Scotties
+#16	ACE T16	entityID: NYT20001123.1511.0062-E5; extent: Scotties
+T17	ACE-Mention 1700 1723	Ocean Spray Cranberries
+#17	ACE T17	entityID: NYT20001123.1511.0062-E7; extent: Ocean Spray Cranberries
+T18	ACE-Mention 1928 1949	Carnation Coffee-mate
+#18	ACE T18	entityID: NYT20001123.1511.0062-E8; extent: Carnation Coffee-mate
+T19	ACE-Mention 1997 2032	In Style Entertaining 2000 magazine
+#19	ACE T19	entityID: NYT20001123.1511.0062-E9; extent: In Style Entertaining 2000 magazine
+T20	ACE-Mention 2185 2203	an English teacher
+#20	ACE T20	entityID: NYT20001123.1511.0062-E10; extent: an English teacher
+T21	ACE-Mention 2231 2264	the Tropicana division of PepsiCo
+#21	ACE T21	entityID: NYT20001123.1511.0062-E11; extent: the Tropicana division of PepsiCo
+T22	ACE-Mention 2297 2300	its
+#22	ACE T22	entityID: NYT20001123.1511.0062-E11; extent: its
+T23	ACE-Mention 2367 2372	a bus
+#23	ACE T23	entityID: NYT20001123.1511.0062-E37; extent: a bus
+T24	ACE-Mention 2401 2415	Jack Nicholson
+#24	ACE T24	entityID: NYT20001123.1511.0062-E14; extent: Jack Nicholson
+T25	ACE-Mention 2418 2428	Helen Hunt
+#25	ACE T25	entityID: NYT20001123.1511.0062-E15; extent: Helen Hunt
+T26	ACE-Mention 2431 2443	Greg Kinnear
+#26	ACE T26	entityID: NYT20001123.1511.0062-E16; extent: Greg Kinnear
+T27	ACE-Mention 2448 2463	James L. Brooks
+#27	ACE T27	entityID: NYT20001123.1511.0062-E17; extent: James L. Brooks
+T28	ACE-Mention 2490 2507	Campbell Soup Co.
+#28	ACE T28	entityID: NYT20001123.1511.0062-E18; extent: Campbell Soup Co.
+T29	ACE-Mention 2512 2520	Campbell
+#29	ACE T29	entityID: NYT20001123.1511.0062-E18; extent: Campbell
+T30	ACE-Mention 2629 2659	the Roundabout Theater Company
+#30	ACE T30	entityID: NYT20001123.1511.0062-E19; extent: the Roundabout Theater Company
+T31	ACE-Mention 2671 2703	its new facility in Times Square
+#31	ACE T31	entityID: NYT20001123.1511.0062-E20; extent: its new facility in Times Square
+T32	ACE-Mention 2704 2733	the American Airlines Theater
+#32	ACE T32	entityID: NYT20001123.1511.0062-E20; extent: the American Airlines Theater
+T33	ACE-Mention 2741 2751	the ushers
+#33	ACE T33	entityID: NYT20001123.1511.0062-E22; extent: the ushers
+T34	ACE-Mention 2803 2835	the Reader 's Digest Association
+#34	ACE T34	entityID: NYT20001123.1511.0062-E23; extent: the Reader 's Digest Association
+T35	ACE-Mention 2937 3006	a man in a photograph featured in an ad for Reader 's Digest magazine
+#35	ACE T35	entityID: NYT20001123.1511.0062-E24; extent: a man in a photograph featured in an ad for Reader 's Digest magazine
+T36	ACE-Mention 3084 3088	Levi
+#36	ACE T36	entityID: NYT20001123.1511.0062-E60; extent: Levi
+T37	ACE-Mention 3248 3257	consumers
+#37	ACE T37	entityID: NYT20001123.1511.0062-E26; extent: consumers
+T38	ACE-Mention 3344 3369	two disparate advertisers
+#38	ACE T38	entityID: NYT20001123.1511.0062-E27; extent: two disparate advertisers
+T39	ACE-Mention 3372 3401	Empire Blue Cross Blue Shield
+#39	ACE T39	entityID: NYT20001123.1511.0062-E30; extent: Empire Blue Cross Blue Shield
+T40	ACE-Mention 3406 3434	the MSN network of Microsoft
+#40	ACE T40	entityID: NYT20001123.1511.0062-E31; extent: the MSN network of Microsoft
+T41	ACE-Mention 3548 3572	two automotive marketers
+#41	ACE T41	entityID: NYT20001123.1511.0062-E33; extent: two automotive marketers
+T42	ACE-Mention 3575 3585	Land Rover
+#42	ACE T42	entityID: NYT20001123.1511.0062-E35; extent: Land Rover
+T43	ACE-Mention 3590 3595	Volvo
+#43	ACE T43	entityID: NYT20001123.1511.0062-E36; extent: Volvo
+T44	ACE-Mention 3655 3694	drivers rescuing animals on rainy roads
+#44	ACE T44	entityID: NYT20001123.1511.0062-E38; extent: drivers rescuing animals on rainy roads
+T45	ACE-Mention 3704 3709	folks
+#45	ACE T45	entityID: NYT20001123.1511.0062-E39; extent: folks
+T46	ACE-Mention 3747 3783	the radio and television personality
+#46	ACE T46	entityID: NYT20001123.1511.0062-E40; extent: the radio and television personality
+T47	ACE-Mention 3784 3798	Arthur Godfrey
+#47	ACE T47	entityID: NYT20001123.1511.0062-E40; extent: Arthur Godfrey
+T48	ACE-Mention 3811 3814	his
+#48	ACE T48	entityID: NYT20001123.1511.0062-E40; extent: his
+T49	ACE-Mention 3846 3848	ya
+#49	ACE T49	entityID: NYT20001123.1511.0062-E42; extent: ya
+T50	ACE-Mention 3868 3872	they
+#50	ACE T50	entityID: NYT20001123.1511.0062-E39; extent: they
+T51	ACE-Mention 3890 3933	the new Lucent Technologies spinoff company
+#51	ACE T51	entityID: NYT20001123.1511.0062-E43; extent: the new Lucent Technologies spinoff company
+T52	ACE-Mention 3936 3955	Avaya Communication
+#52	ACE T52	entityID: NYT20001123.1511.0062-E43; extent: Avaya Communication
+T53	ACE-Mention 4002 4027	Sprint Communications Co.
+#53	ACE T53	entityID: NYT20001123.1511.0062-E46; extent: Sprint Communications Co.
+T54	ACE-Mention 4036 4087	buyers of a Sprint PCS telephone and a calling plan
+#54	ACE T54	entityID: NYT20001123.1511.0062-E47; extent: buyers of a Sprint PCS telephone and a calling plan
+T55	ACE-Mention 4161 4220	the character played by John Corbett on `` Sex and the City
+#55	ACE T55	entityID: NYT20001123.1511.0062-E50; extent: the character played by John Corbett on `` Sex and the City
+T56	ACE-Mention 4226 4236	Aidan Shaw
+#56	ACE T56	entityID: NYT20001123.1511.0062-E50; extent: Aidan Shaw
+T57	ACE-Mention 4275 4307	a longtime star of gay sex films
+#57	ACE T57	entityID: NYT20001123.1511.0062-E52; extent: a longtime star of gay sex films
+T58	ACE-Mention 4310 4320	Aiden Shaw
+#58	ACE T58	entityID: NYT20001123.1511.0062-E52; extent: Aiden Shaw
+T59	ACE-Mention 4347 4370	the Houston Grand Opera
+#59	ACE T59	entityID: NYT20001123.1511.0062-E54; extent: the Houston Grand Opera
+T60	ACE-Mention 4560 4563	CBS
+#60	ACE T60	entityID: NYT20001123.1511.0062-E55; extent: CBS
+T61	ACE-Mention 4615 4618	its
+#61	ACE T61	entityID: NYT20001123.1511.0062-E55; extent: its
+T62	ACE-Mention 4655 4666	the network
+#62	ACE T62	entityID: NYT20001123.1511.0062-E55; extent: the network
+T63	ACE-Mention 4727 4730	its
+#63	ACE T63	entityID: NYT20001123.1511.0062-E55; extent: its
+T64	ACE-Mention 4772 4822	cheerful chorus members dressed in V-neck sweaters
+#64	ACE T64	entityID: NYT20001123.1511.0062-E56; extent: cheerful chorus members dressed in V-neck sweaters
+T65	ACE-Mention 4833 4838	their
+#65	ACE T65	entityID: NYT20001123.1511.0062-E56; extent: their
+T66	ACE-Mention 4888 4912	an advertising columnist
+#66	ACE T66	entityID: NYT20001123.1511.0062-E57; extent: an advertising columnist
+T67	ACE-Mention 4918 4921	You
+#67	ACE T67	entityID: NYT20001123.1511.0062-E57; extent: You
+T68	ACE-Mention 4949 4970	someone from Brooklyn
+#68	ACE T68	entityID: NYT20001123.1511.0062-E57; extent: someone from Brooklyn

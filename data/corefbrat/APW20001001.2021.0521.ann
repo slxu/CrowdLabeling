@@ -1,0 +1,190 @@
+T0	ACE-Mention 104 117	CAIRO , Egypt
+#0	ACE T0	entityID: APW20001001.2021.0521-E15; extent: CAIRO , Egypt
+T1	ACE-Mention 118 122	(AP)
+#1	ACE T1	entityID: APW20001001.2021.0521-E45; extent: (AP)
+T2	ACE-Mention 128 131	his
+#2	ACE T2	entityID: APW20001001.2021.0521-E14; extent: his
+T3	ACE-Mention 156 174	Syria 's president
+#3	ACE T3	entityID: APW20001001.2021.0521-E14; extent: Syria 's president
+T4	ACE-Mention 177 189	Bashar Assad
+#4	ACE T4	entityID: APW20001001.2021.0521-E14; extent: Bashar Assad
+T5	ACE-Mention 206 238	Egyptian President Hosni Mubarak
+#5	ACE T5	entityID: APW20001001.2021.0521-E49; extent: Egyptian President Hosni Mubarak
+T6	ACE-Mention 251 258	Mideast
+#6	ACE T6	entityID: APW20001001.2021.0521-E52; extent: Mideast
+T7	ACE-Mention 296 323	the Palestinian territories
+#7	ACE T7	entityID: APW20001001.2021.0521-E53; extent: the Palestinian territories
+T8	ACE-Mention 327 332	Assad
+#8	ACE T8	entityID: APW20001001.2021.0521-E14; extent: Assad
+T9	ACE-Mention 338 341	his
+#9	ACE T9	entityID: APW20001001.2021.0521-E14; extent: his
+T10	ACE-Mention 353 359	abroad
+#10	ACE T10	entityID: APW20001001.2021.0521-E22; extent: abroad
+T11	ACE-Mention 375 384	president
+#11	ACE T11	entityID: APW20001001.2021.0521-E14; extent: president
+T12	ACE-Mention 424 428	Iraq
+#12	ACE T12	entityID: APW20001001.2021.0521-E1; extent: Iraq
+T13	ACE-Mention 447 454	Mubarak
+#13	ACE T13	entityID: APW20001001.2021.0521-E49; extent: Mubarak
+T14	ACE-Mention 457 492	Egyptian Foreign Minister Amr Mussa
+#14	ACE T14	entityID: APW20001001.2021.0521-E2; extent: Egyptian Foreign Minister Amr Mussa
+T15	ACE-Mention 501 518	The Syrian leader
+#15	ACE T15	entityID: APW20001001.2021.0521-E14; extent: The Syrian leader
+T16	ACE-Mention 579 592	the West Bank
+#16	ACE T16	entityID: APW20001001.2021.0521-E5; extent: the West Bank
+T17	ACE-Mention 595 605	Gaza Strip
+#17	ACE T17	entityID: APW20001001.2021.0521-E6; extent: Gaza Strip
+T18	ACE-Mention 610 619	Jerusalem
+#18	ACE T18	entityID: APW20001001.2021.0521-E7; extent: Jerusalem
+T19	ACE-Mention 630 662	more than two dozen Palestinians
+#19	ACE T19	entityID: APW20001001.2021.0521-E8; extent: more than two dozen Palestinians
+T20	ACE-Mention 712 719	Mubarak
+#20	ACE T20	entityID: APW20001001.2021.0521-E49; extent: Mubarak
+T21	ACE-Mention 724 729	Assad
+#21	ACE T21	entityID: APW20001001.2021.0521-E14; extent: Assad
+T22	ACE-Mention 901 907	Moussa
+#22	ACE T22	entityID: APW20001001.2021.0521-E2; extent: Moussa
+T23	ACE-Mention 916 926	Assad , 35
+#23	ACE T23	entityID: APW20001001.2021.0521-E14; extent: Assad , 35
+T24	ACE-Mention 966 976	his father
+#24	ACE T24	entityID: APW20001001.2021.0521-E9; extent: his father
+T25	ACE-Mention 979 990	Hafez Assad
+#25	ACE T25	entityID: APW20001001.2021.0521-E9; extent: Hafez Assad
+T26	ACE-Mention 1033 1035	He
+#26	ACE T26	entityID: APW20001001.2021.0521-E14; extent: He
+T27	ACE-Mention 1065 1090	his nation 's bureaucracy
+#27	ACE T27	entityID: APW20001001.2021.0521-E11; extent: his nation 's bureaucracy
+T28	ACE-Mention 1102 1105	its
+#28	ACE T28	entityID: APW20001001.2021.0521-E4; extent: its
+T29	ACE-Mention 1178 1200	President Bashar Assad
+#29	ACE T29	entityID: APW20001001.2021.0521-E14; extent: President Bashar Assad
+T30	ACE-Mention 1222 1232	his father
+#30	ACE T30	entityID: APW20001001.2021.0521-E9; extent: his father
+T31	ACE-Mention 1362 1376	both countries
+#31	ACE T31	entityID: APW20001001.2021.0521-E12; extent: both countries
+T32	ACE-Mention 1381 1395	the Arab world
+#32	ACE T32	entityID: APW20001001.2021.0521-E13; extent: the Arab world
+T33	ACE-Mention 1401 1407	Moussa
+#33	ACE T33	entityID: APW20001001.2021.0521-E2; extent: Moussa
+T34	ACE-Mention 1416 1441	The late Syrian president
+#34	ACE T34	entityID: APW20001001.2021.0521-E9; extent: The late Syrian president
+T35	ACE-Mention 1458 1464	abroad
+#35	ACE T35	entityID: APW20001001.2021.0521-E22; extent: abroad
+T36	ACE-Mention 1471 1474	his
+#36	ACE T36	entityID: APW20001001.2021.0521-E9; extent: his
+T37	ACE-Mention 1502 1504	he
+#37	ACE T37	entityID: APW20001001.2021.0521-E9; extent: he
+T38	ACE-Mention 1514 1548	Bashar , educated as an eye doctor
+#38	ACE T38	entityID: APW20001001.2021.0521-E14; extent: Bashar , educated as an eye doctor
+T39	ACE-Mention 1579 1582	his
+#39	ACE T39	entityID: APW20001001.2021.0521-E14; extent: his
+T40	ACE-Mention 1602 1611	president
+#40	ACE T40	entityID: APW20001001.2021.0521-E14; extent: president
+T41	ACE-Mention 1663 1669	Syrian
+#41	ACE T41	entityID: APW20001001.2021.0521-E4; extent: Syrian
+T42	ACE-Mention 1673 1684	Palestinian
+#42	ACE T42	entityID: APW20001001.2021.0521-E54; extent: Palestinian
+T43	ACE-Mention 1716 1735	Palestinian-Israeli
+#43	ACE T43	entityID: APW20001001.2021.0521-E54; extent: Palestinian-Israeli
+T44	ACE-Mention 1796 1825	Syria 's government-run media
+#44	ACE T44	entityID: APW20001001.2021.0521-E17; extent: Syria 's government-run media
+T45	ACE-Mention 1895 1899	U.S.
+#45	ACE T45	entityID: APW20001001.2021.0521-E19; extent: U.S.
+T46	ACE-Mention 1914 1947	Israeli Prime Minister Ehud Barak
+#46	ACE T46	entityID: APW20001001.2021.0521-E20; extent: Israeli Prime Minister Ehud Barak
+T47	ACE-Mention 1975 2006	leader of a minority government
+#47	ACE T47	entityID: APW20001001.2021.0521-E20; extent: leader of a minority government
+T48	ACE-Mention 2010 2024	Syrian-Israeli
+#48	ACE T48	entityID: APW20001001.2021.0521-E16; extent: Syrian-Israeli
+T49	ACE-Mention 2073 2078	Syria
+#49	ACE T49	entityID: APW20001001.2021.0521-E4; extent: Syria
+T50	ACE-Mention 2112 2129	the Golan Heights
+#50	ACE T50	entityID: APW20001001.2021.0521-E25; extent: the Golan Heights
+T51	ACE-Mention 2132 2178	a strategic plateau captured by Israel in 1967
+#51	ACE T51	entityID: APW20001001.2021.0521-E25; extent: a strategic plateau captured by Israel in 1967
+T52	ACE-Mention 2182 2188	Israel
+#52	ACE T52	entityID: APW20001001.2021.0521-E16; extent: Israel
+T53	ACE-Mention 2218 2225	borders
+#53	ACE T53	entityID: APW20001001.2021.0521-E28; extent: borders
+T54	ACE-Mention 2232 2234	it
+#54	ACE T54	entityID: APW20001001.2021.0521-E16; extent: it
+T55	ACE-Mention 2246 2248	it
+#55	ACE T55	entityID: APW20001001.2021.0521-E16; extent: it
+T56	ACE-Mention 2272 2282	Golan land
+#56	ACE T56	entityID: APW20001001.2021.0521-E30; extent: Golan land
+T57	ACE-Mention 2286 2291	Assad
+#57	ACE T57	entityID: APW20001001.2021.0521-E14; extent: Assad
+T58	ACE-Mention 2310 2312	he
+#58	ACE T58	entityID: APW20001001.2021.0521-E14; extent: he
+T59	ACE-Mention 2331 2341	his father
+#59	ACE T59	entityID: APW20001001.2021.0521-E9; extent: his father
+T60	ACE-Mention 2377 2383	Israel
+#60	ACE T60	entityID: APW20001001.2021.0521-E16; extent: Israel
+T61	ACE-Mention 2387 2394	Mubarak
+#61	ACE T61	entityID: APW20001001.2021.0521-E49; extent: Mubarak
+T62	ACE-Mention 2399 2404	Assad
+#62	ACE T62	entityID: APW20001001.2021.0521-E14; extent: Assad
+T63	ACE-Mention 2427 2433	Russia
+#63	ACE T63	entityID: APW20001001.2021.0521-E31; extent: Russia
+T64	ACE-Mention 2436 2442	France
+#64	ACE T64	entityID: APW20001001.2021.0521-E32; extent: France
+T65	ACE-Mention 2445 2451	Jordan
+#65	ACE T65	entityID: APW20001001.2021.0521-E33; extent: Jordan
+T66	ACE-Mention 2456 2461	Yemen
+#66	ACE T66	entityID: APW20001001.2021.0521-E34; extent: Yemen
+T67	ACE-Mention 2467 2473	planes
+#67	ACE T67	entityID: APW20001001.2021.0521-E35; extent: planes
+T68	ACE-Mention 2477 2484	Baghdad
+#68	ACE T68	entityID: APW20001001.2021.0521-E36; extent: Baghdad
+T69	ACE-Mention 2499 2503	U.N.
+#69	ACE T69	entityID: APW20001001.2021.0521-E37; extent: U.N.
+T70	ACE-Mention 2525 2529	Iraq
+#70	ACE T70	entityID: APW20001001.2021.0521-E1; extent: Iraq
+T71	ACE-Mention 2536 2539	its
+#71	ACE T71	entityID: APW20001001.2021.0521-E1; extent: its
+T72	ACE-Mention 2557 2563	Kuwait
+#72	ACE T72	entityID: APW20001001.2021.0521-E38; extent: Kuwait
+T73	ACE-Mention 2567 2571	Iraq
+#73	ACE T73	entityID: APW20001001.2021.0521-E1; extent: Iraq
+T74	ACE-Mention 2582 2602	other Arab countries
+#74	ACE T74	entityID: APW20001001.2021.0521-E39; extent: other Arab countries
+T75	ACE-Mention 2625 2629	U.S.
+#75	ACE T75	entityID: APW20001001.2021.0521-E19; extent: U.S.
+T76	ACE-Mention 2650 2653	its
+#76	ACE T76	entityID: APW20001001.2021.0521-E1; extent: its
+T77	ACE-Mention 2667 2673	Moussa
+#77	ACE T77	entityID: APW20001001.2021.0521-E2; extent: Moussa
+T78	ACE-Mention 2679 2693	the presidents
+#78	ACE T78	entityID: APW20001001.2021.0521-E40; extent: the presidents
+T79	ACE-Mention 2721 2725	Iraq
+#79	ACE T79	entityID: APW20001001.2021.0521-E1; extent: Iraq
+T80	ACE-Mention 2769 2771	he
+#80	ACE T80	entityID: APW20001001.2021.0521-E2; extent: he
+T81	ACE-Mention 2801 2806	Syria
+#81	ACE T81	entityID: APW20001001.2021.0521-E4; extent: Syria
+T82	ACE-Mention 2811 2816	Egypt
+#82	ACE T82	entityID: APW20001001.2021.0521-E43; extent: Egypt
+T83	ACE-Mention 2839 2845	planes
+#83	ACE T83	entityID: APW20001001.2021.0521-E41; extent: planes
+T84	ACE-Mention 2849 2856	Baghdad
+#84	ACE T84	entityID: APW20001001.2021.0521-E36; extent: Baghdad
+T85	ACE-Mention 2860 2865	Egypt
+#85	ACE T85	entityID: APW20001001.2021.0521-E43; extent: Egypt
+T86	ACE-Mention 2870 2875	Syria
+#86	ACE T86	entityID: APW20001001.2021.0521-E4; extent: Syria
+T87	ACE-Mention 2900 2904	they
+#87	ACE T87	entityID: APW20001001.2021.0521-E12; extent: they
+T88	ACE-Mention 2914 2919	their
+#88	ACE T88	entityID: APW20001001.2021.0521-E12; extent: their
+T89	ACE-Mention 2935 2946	Hafez Assad
+#89	ACE T89	entityID: APW20001001.2021.0521-E9; extent: Hafez Assad
+T90	ACE-Mention 2968 2980	Arab leaders
+#90	ACE T90	entityID: APW20001001.2021.0521-E42; extent: Arab leaders
+T91	ACE-Mention 3016 3022	Israel
+#91	ACE T91	entityID: APW20001001.2021.0521-E16; extent: Israel
+T92	ACE-Mention 3047 3049	He
+#92	ACE T92	entityID: APW20001001.2021.0521-E9; extent: He
+T93	ACE-Mention 3058 3063	Egypt
+#93	ACE T93	entityID: APW20001001.2021.0521-E43; extent: Egypt
+T94	ACE-Mention 3096 3102	Israel
+#94	ACE T94	entityID: APW20001001.2021.0521-E16; extent: Israel

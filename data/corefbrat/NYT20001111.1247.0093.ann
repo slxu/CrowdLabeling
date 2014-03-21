@@ -1,0 +1,198 @@
+T0	ACE-Mention 305 314	JERUSALEM
+#0	ACE T0	entityID: NYT20001111.1247.0093-E23; extent: JERUSALEM
+T1	ACE-Mention 317 365	The commander of Israeli troops in the West Bank
+#1	ACE T1	entityID: NYT20001111.1247.0093-E67; extent: The commander of Israeli troops in the West Bank
+T2	ACE-Mention 402 412	helicopter
+#2	ACE T2	entityID: NYT20001111.1247.0093-E99; extent: helicopter
+T3	ACE-Mention 442 481	a gun-wielding local Palestinian leader
+#3	ACE T3	entityID: NYT20001111.1247.0093-E66; extent: a gun-wielding local Palestinian leader
+T4	ACE-Mention 488 489	I
+#4	ACE T4	entityID: NYT20001111.1247.0093-E67; extent: I
+T5	ACE-Mention 548 557	this area
+#5	ACE T5	entityID: NYT20001111.1247.0093-E94; extent: this area
+T6	ACE-Mention 563 586	Maj. Gen. Yitzhak Eitan
+#6	ACE T6	entityID: NYT20001111.1247.0093-E67; extent: Maj. Gen. Yitzhak Eitan
+T7	ACE-Mention 592 601	reporters
+#7	ACE T7	entityID: NYT20001111.1247.0093-E103; extent: reporters
+T8	ACE-Mention 628 674	three missiles fired from an Apache helicopter
+#8	ACE T8	entityID: NYT20001111.1247.0093-E104; extent: three missiles fired from an Apache helicopter
+T9	ACE-Mention 682 697	Hussein Obaiyat
+#9	ACE T9	entityID: NYT20001111.1247.0093-E66; extent: Hussein Obaiyat
+T10	ACE-Mention 711 785	two middle-aged women standing near his van in Beit Sahur , near Bethlehem
+#10	ACE T10	entityID: NYT20001111.1247.0093-E1; extent: two middle-aged women standing near his van in Beit Sahur , near Bethlehem
+T11	ACE-Mention 947 956	West Bank
+#11	ACE T11	entityID: NYT20001111.1247.0093-E97; extent: West Bank
+T12	ACE-Mention 961 971	Gaza Strip
+#12	ACE T12	entityID: NYT20001111.1247.0093-E6; extent: Gaza Strip
+T13	ACE-Mention 975 992	Five Palestinians
+#13	ACE T13	entityID: NYT20001111.1247.0093-E7; extent: Five Palestinians
+T14	ACE-Mention 997 1015	an Israeli soldier
+#14	ACE T14	entityID: NYT20001111.1247.0093-E8; extent: an Israeli soldier
+T15	ACE-Mention 1060 1081	Palestinian positions
+#15	ACE T15	entityID: NYT20001111.1247.0093-E9; extent: Palestinian positions
+T16	ACE-Mention 1086 1099	Israeli areas
+#16	ACE T16	entityID: NYT20001111.1247.0093-E10; extent: Israeli areas
+T17	ACE-Mention 1135 1143	Ramallah
+#17	ACE T17	entityID: NYT20001111.1247.0093-E100; extent: Ramallah
+T18	ACE-Mention 1148 1157	Bethlehem
+#18	ACE T18	entityID: NYT20001111.1247.0093-E4; extent: Bethlehem
+T19	ACE-Mention 1189 1206	more Palestinians
+#19	ACE T19	entityID: NYT20001111.1247.0093-E11; extent: more Palestinians
+T20	ACE-Mention 1221 1239	an Israeli soldier
+#20	ACE T20	entityID: NYT20001111.1247.0093-E12; extent: an Israeli soldier
+T21	ACE-Mention 1365 1377	Palestinians
+#21	ACE T21	entityID: NYT20001111.1247.0093-E13; extent: Palestinians
+T22	ACE-Mention 1382 1390	Israelis
+#22	ACE T22	entityID: NYT20001111.1247.0093-E14; extent: Israelis
+T23	ACE-Mention 1472 1488	Two Palestinians
+#23	ACE T23	entityID: NYT20001111.1247.0093-E15; extent: Two Palestinians
+T24	ACE-Mention 1504 1508	they
+#24	ACE T24	entityID: NYT20001111.1247.0093-E15; extent: they
+T25	ACE-Mention 1537 1612	an Israeli jeep in the Gaza Strip near the Israeli settlement of Gush Katif
+#25	ACE T25	entityID: NYT20001111.1247.0093-E16; extent: an Israeli jeep in the Gaza Strip near the Israeli settlement of Gush Katif
+T26	ACE-Mention 1638 1658	two Israeli soldiers
+#26	ACE T26	entityID: NYT20001111.1247.0093-E18; extent: two Israeli soldiers
+T27	ACE-Mention 1674 1677	one
+#27	ACE T27	entityID: NYT20001111.1247.0093-E19; extent: one
+T28	ACE-Mention 1695 1707	the Israelis
+#28	ACE T28	entityID: NYT20001111.1247.0093-E20; extent: the Israelis
+T29	ACE-Mention 1733 1747	the two bodies
+#29	ACE T29	entityID: NYT20001111.1247.0093-E15; extent: the two bodies
+T30	ACE-Mention 1750 1779	a large crowd of Palestinians
+#30	ACE T30	entityID: NYT20001111.1247.0093-E21; extent: a large crowd of Palestinians
+T31	ACE-Mention 1792 1828	Men in civilian clothes in the crowd
+#31	ACE T31	entityID: NYT20001111.1247.0093-E22; extent: Men in civilian clothes in the crowd
+T32	ACE-Mention 1847 1867	AK-47 assault rifles
+#32	ACE T32	entityID: NYT20001111.1247.0093-E24; extent: AK-47 assault rifles
+T33	ACE-Mention 1884 1887	gun
+#33	ACE T33	entityID: NYT20001111.1247.0093-E95; extent: gun
+T34	ACE-Mention 1957 1975	an army helicopter
+#34	ACE T34	entityID: NYT20001111.1247.0093-E26; extent: an army helicopter
+T35	ACE-Mention 1997 2015	Palestinian police
+#35	ACE T35	entityID: NYT20001111.1247.0093-E27; extent: Palestinian police
+T36	ACE-Mention 2026 2036	their post
+#36	ACE T36	entityID: NYT20001111.1247.0093-E28; extent: their post
+T37	ACE-Mention 2046 2048	it
+#37	ACE T37	entityID: NYT20001111.1247.0093-E28; extent: it
+T38	ACE-Mention 2070 2077	rockets
+#38	ACE T38	entityID: NYT20001111.1247.0093-E29; extent: rockets
+T39	ACE-Mention 2110 2114	Gaza
+#39	ACE T39	entityID: NYT20001111.1247.0093-E6; extent: Gaza
+T40	ACE-Mention 2118 2147	A 12-year-old Palestinian boy
+#40	ACE T40	entityID: NYT20001111.1247.0093-E30; extent: A 12-year-old Palestinian boy
+T41	ACE-Mention 2167 2173	troops
+#41	ACE T41	entityID: NYT20001111.1247.0093-E31; extent: troops
+T42	ACE-Mention 2189 2239	a crowd of stone throwers near the Erez checkpoint
+#42	ACE T42	entityID: NYT20001111.1247.0093-E32; extent: a crowd of stone throwers near the Erez checkpoint
+T43	ACE-Mention 2246 2270	Jenin , on the West Bank
+#43	ACE T43	entityID: NYT20001111.1247.0093-E36; extent: Jenin , on the West Bank
+T44	ACE-Mention 2273 2318	a Palestinian identified as Hani Marzouq , 37
+#44	ACE T44	entityID: NYT20001111.1247.0093-E37; extent: a Palestinian identified as Hani Marzouq , 37
+T45	ACE-Mention 2329 2339	a hospital
+#45	ACE T45	entityID: NYT20001111.1247.0093-E39; extent: a hospital
+T46	ACE-Mention 2418 2424	Hebron
+#46	ACE T46	entityID: NYT20001111.1247.0093-E40; extent: Hebron
+T47	ACE-Mention 2427 2448	thousands of mourners
+#47	ACE T47	entityID: NYT20001111.1247.0093-E41; extent: thousands of mourners
+T48	ACE-Mention 2457 2468	the streets
+#48	ACE T48	entityID: NYT20001111.1247.0093-E42; extent: the streets
+T49	ACE-Mention 2488 2506	Raed Mohtaseb , 27
+#49	ACE T49	entityID: NYT20001111.1247.0093-E43; extent: Raed Mohtaseb , 27
+T50	ACE-Mention 2534 2545	the martyrs
+#50	ACE T50	entityID: NYT20001111.1247.0093-E44; extent: the martyrs
+T51	ACE-Mention 2557 2559	us
+#51	ACE T51	entityID: NYT20001111.1247.0093-E41; extent: us
+T52	ACE-Mention 2566 2574	Mohtaseb
+#52	ACE T52	entityID: NYT20001111.1247.0093-E43; extent: Mohtaseb
+T53	ACE-Mention 2600 2855	a car driven by his father , Saedi Mohtaseb , who is a senior official in Yasser Arafat 's Fatah organization in the tense , embattled city where a handful of Jewish settlers are surrounded by Palestinian residents who have been kept under frequent curfew
+#53	ACE T53	entityID: NYT20001111.1247.0093-E45; extent: a car driven by his father , Saedi Mohtaseb , who is a senior official in Yasser Arafat 's Fatah organization in the tense , embattled city where a handful of Jewish settlers are surrounded by Palestinian residents who have been kept under frequent curfew
+T54	ACE-Mention 2859 2875	The Palestinians
+#54	ACE T54	entityID: NYT20001111.1247.0093-E53; extent: The Palestinians
+T55	ACE-Mention 2931 2953	a Palestinian official
+#55	ACE T55	entityID: NYT20001111.1247.0093-E54; extent: a Palestinian official
+T56	ACE-Mention 2957 2965	The army
+#56	ACE T56	entityID: NYT20001111.1247.0093-E55; extent: The army
+T57	ACE-Mention 2992 2994	it
+#57	ACE T57	entityID: NYT20001111.1247.0093-E55; extent: it
+T58	ACE-Mention 3032 3046	a Fatah member
+#58	ACE T58	entityID: NYT20001111.1247.0093-E56; extent: a Fatah member
+T59	ACE-Mention 3050 3096	a senior official of the Palestinian authority
+#59	ACE T59	entityID: NYT20001111.1247.0093-E57; extent: a senior official of the Palestinian authority
+T60	ACE-Mention 3103 3132	An American news photographer
+#60	ACE T60	entityID: NYT20001111.1247.0093-E59; extent: An American news photographer
+T61	ACE-Mention 3135 3148	Yola Monakhov
+#61	ACE T61	entityID: NYT20001111.1247.0093-E59; extent: Yola Monakhov
+T62	ACE-Mention 3175 3189	Israeli troops
+#62	ACE T62	entityID: NYT20001111.1247.0093-E61; extent: Israeli troops
+T63	ACE-Mention 3207 3221	stone-throwing
+#63	ACE T63	entityID: NYT20001111.1247.0093-E96; extent: stone-throwing
+T64	ACE-Mention 3239 3270	Rachel 's Tomb , near Bethlehem
+#64	ACE T64	entityID: NYT20001111.1247.0093-E62; extent: Rachel 's Tomb , near Bethlehem
+T65	ACE-Mention 3273 3303	Palestinian hospital officials
+#65	ACE T65	entityID: NYT20001111.1247.0093-E63; extent: Palestinian hospital officials
+T66	ACE-Mention 3312 3320	Monakhov
+#66	ACE T66	entityID: NYT20001111.1247.0093-E59; extent: Monakhov
+T67	ACE-Mention 3323 3387	a 26-year-old free-lancer on assignment for The Associated Press
+#67	ACE T67	entityID: NYT20001111.1247.0093-E59; extent: a 26-year-old free-lancer on assignment for The Associated Press
+T68	ACE-Mention 3420 3438	hospital officials
+#68	ACE T68	entityID: NYT20001111.1247.0093-E63; extent: hospital officials
+T69	ACE-Mention 3468 3508	the once-relatively obscure Fatah leader
+#69	ACE T69	entityID: NYT20001111.1247.0093-E66; extent: the once-relatively obscure Fatah leader
+T70	ACE-Mention 3509 3516	Obaiyat
+#70	ACE T70	entityID: NYT20001111.1247.0093-E66; extent: Obaiyat
+T71	ACE-Mention 3519 3523	whom
+#71	ACE T71	entityID: NYT20001111.1247.0093-E66; extent: whom
+T72	ACE-Mention 3524 3532	the army
+#72	ACE T72	entityID: NYT20001111.1247.0093-E55; extent: the army
+T73	ACE-Mention 3587 3591	Gilo
+#73	ACE T73	entityID: NYT20001111.1247.0093-E68; extent: Gilo
+T74	ACE-Mention 3594 3634	a neighborhood in southeastern Jerusalem
+#74	ACE T74	entityID: NYT20001111.1247.0093-E68; extent: a neighborhood in southeastern Jerusalem
+T75	ACE-Mention 3669 3689	Israeli commentators
+#75	ACE T75	entityID: NYT20001111.1247.0093-E71; extent: Israeli commentators
+T76	ACE-Mention 3762 3773	Palestinian
+#76	ACE T76	entityID: NYT20001111.1247.0093-E58; extent: Palestinian
+T77	ACE-Mention 3784 3793	Amir Oren
+#77	ACE T77	entityID: NYT20001111.1247.0093-E72; extent: Amir Oren
+T78	ACE-Mention 3923 3934	Roni Shaked
+#78	ACE T78	entityID: NYT20001111.1247.0093-E73; extent: Roni Shaked
+T79	ACE-Mention 3957 3976	helicopter missiles
+#79	ACE T79	entityID: NYT20001111.1247.0093-E74; extent: helicopter missiles
+T80	ACE-Mention 4054 4069	the territories
+#80	ACE T80	entityID: NYT20001111.1247.0093-E75; extent: the territories
+T81	ACE-Mention 4076 4082	Shaked
+#81	ACE T81	entityID: NYT20001111.1247.0093-E73; extent: Shaked
+T82	ACE-Mention 4150 4167	the General Staff
+#82	ACE T82	entityID: NYT20001111.1247.0093-E76; extent: the General Staff
+T83	ACE-Mention 4170 4186	the Palestinians
+#83	ACE T83	entityID: NYT20001111.1247.0093-E77; extent: the Palestinians
+T84	ACE-Mention 4200 4205	their
+#84	ACE T84	entityID: NYT20001111.1247.0093-E77; extent: their
+T85	ACE-Mention 4252 4260	the army
+#85	ACE T85	entityID: NYT20001111.1247.0093-E55; extent: the army
+T86	ACE-Mention 4385 4410	Prime Minister Ehud Barak
+#86	ACE T86	entityID: NYT20001111.1247.0093-E78; extent: Prime Minister Ehud Barak
+T87	ACE-Mention 4449 4466	President Clinton
+#87	ACE T87	entityID: NYT20001111.1247.0093-E80; extent: President Clinton
+T88	ACE-Mention 4470 4480	Washington
+#88	ACE T88	entityID: NYT20001111.1247.0093-E82; extent: Washington
+T89	ACE-Mention 4488 4499	no one here
+#89	ACE T89	entityID: NYT20001111.1247.0093-E83; extent: no one here
+T90	ACE-Mention 4573 4578	Barak
+#90	ACE T90	entityID: NYT20001111.1247.0093-E78; extent: Barak
+T91	ACE-Mention 4611 4617	Israel
+#91	ACE T91	entityID: NYT20001111.1247.0093-E84; extent: Israel
+T92	ACE-Mention 4714 4716	he
+#92	ACE T92	entityID: NYT20001111.1247.0093-E78; extent: he
+T93	ACE-Mention 4837 4866	one senior Palestinian figure
+#93	ACE T93	entityID: NYT20001111.1247.0093-E85; extent: one senior Palestinian figure
+T94	ACE-Mention 4869 4918	Parliament speaker Ahmed Korei , known as Abu Ala
+#94	ACE T94	entityID: NYT20001111.1247.0093-E85; extent: Parliament speaker Ahmed Korei , known as Abu Ala
+T95	ACE-Mention 4935 4941	Israel
+#95	ACE T95	entityID: NYT20001111.1247.0093-E84; extent: Israel
+T96	ACE-Mention 5032 5044	Palestinians
+#96	ACE T96	entityID: NYT20001111.1247.0093-E88; extent: Palestinians
+T97	ACE-Mention 5055 5073	the United Nations
+#97	ACE T97	entityID: NYT20001111.1247.0093-E89; extent: the United Nations
+T98	ACE-Mention 5179 5191	the Israelis
+#98	ACE T98	entityID: NYT20001111.1247.0093-E84; extent: the Israelis

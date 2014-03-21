@@ -1,0 +1,92 @@
+T0	ACE-Mention 108 137	WHITE SULPHUR SPRINGS , W.Va.
+#0	ACE T0	entityID: APW20001203.1456.0329-E23; extent: WHITE SULPHUR SPRINGS , W.Va.
+T1	ACE-Mention 138 142	(AP)
+#1	ACE T1	entityID: APW20001203.1456.0329-E27; extent: (AP)
+T2	ACE-Mention 145 171	Republican Rep. J.C. Watts
+#2	ACE T2	entityID: APW20001203.1456.0329-E17; extent: Republican Rep. J.C. Watts
+T3	ACE-Mention 198 200	he
+#3	ACE T3	entityID: APW20001203.1456.0329-E17; extent: he
+T4	ACE-Mention 255 262	Al Gore
+#4	ACE T4	entityID: APW20001203.1456.0329-E1; extent: Al Gore
+T5	ACE-Mention 283 297	George W. Bush
+#5	ACE T5	entityID: APW20001203.1456.0329-E2; extent: George W. Bush
+T6	ACE-Mention 312 317	Watts
+#6	ACE T6	entityID: APW20001203.1456.0329-E17; extent: Watts
+T7	ACE-Mention 320 363	chairman of the House Republican Conference
+#7	ACE T7	entityID: APW20001203.1456.0329-E17; extent: chairman of the House Republican Conference
+T8	ACE-Mention 385 392	Florida
+#8	ACE T8	entityID: APW20001203.1456.0329-E4; extent: Florida
+T9	ACE-Mention 447 488	The Gridiron Club at the Greenbrier Hotel
+#9	ACE T9	entityID: APW20001203.1456.0329-E5; extent: The Gridiron Club at the Greenbrier Hotel
+T10	ACE-Mention 495 496	I
+#10	ACE T10	entityID: APW20001203.1456.0329-E17; extent: I
+T11	ACE-Mention 538 551	Yasser Arafat
+#11	ACE T11	entityID: APW20001203.1456.0329-E7; extent: Yasser Arafat
+T12	ACE-Mention 586 590	Bush
+#12	ACE T12	entityID: APW20001203.1456.0329-E2; extent: Bush
+T13	ACE-Mention 595 599	Gore
+#13	ACE T13	entityID: APW20001203.1456.0329-E1; extent: Gore
+T14	ACE-Mention 605 610	Watts
+#14	ACE T14	entityID: APW20001203.1456.0329-E17; extent: Watts
+T15	ACE-Mention 619 636	The Gridiron Club
+#15	ACE T15	entityID: APW20001203.1456.0329-E5; extent: The Gridiron Club
+T16	ACE-Mention 640 684	an organization of 60 Washington journalists
+#16	ACE T16	entityID: APW20001203.1456.0329-E5; extent: an organization of 60 Washington journalists
+T17	ACE-Mention 688 691	Its
+#17	ACE T17	entityID: APW20001203.1456.0329-E5; extent: Its
+T18	ACE-Mention 733 743	government
+#18	ACE T18	entityID: APW20001203.1456.0329-E11; extent: government
+T19	ACE-Mention 771 788	political figures
+#19	ACE T19	entityID: APW20001203.1456.0329-E12; extent: political figures
+T20	ACE-Mention 792 797	Watts
+#20	ACE T20	entityID: APW20001203.1456.0329-E17; extent: Watts
+T21	ACE-Mention 864 890	a congressional commission
+#21	ACE T21	entityID: APW20001203.1456.0329-E13; extent: a congressional commission
+T22	ACE-Mention 922 923	I
+#22	ACE T22	entityID: APW20001203.1456.0329-E17; extent: I
+T23	ACE-Mention 948 962	Strom Thurmond
+#23	ACE T23	entityID: APW20001203.1456.0329-E15; extent: Strom Thurmond
+T24	ACE-Mention 968 970	me
+#24	ACE T24	entityID: APW20001203.1456.0329-E17; extent: me
+T25	ACE-Mention 971 973	he
+#25	ACE T25	entityID: APW20001203.1456.0329-E15; extent: he
+T26	ACE-Mention 1003 1008	Strom
+#26	ACE T26	entityID: APW20001203.1456.0329-E15; extent: Strom
+T27	ACE-Mention 1038 1043	Watts
+#27	ACE T27	entityID: APW20001203.1456.0329-E17; extent: Watts
+T28	ACE-Mention 1067 1069	he
+#28	ACE T28	entityID: APW20001203.1456.0329-E15; extent: he
+T29	ACE-Mention 1102 1109	Florida
+#29	ACE T29	entityID: APW20001203.1456.0329-E4; extent: Florida
+T30	ACE-Mention 1130 1135	Watts
+#30	ACE T30	entityID: APW20001203.1456.0329-E17; extent: Watts
+T31	ACE-Mention 1141 1143	he
+#31	ACE T31	entityID: APW20001203.1456.0329-E17; extent: he
+T32	ACE-Mention 1165 1172	Florida
+#32	ACE T32	entityID: APW20001203.1456.0329-E4; extent: Florida
+T33	ACE-Mention 1181 1183	he
+#33	ACE T33	entityID: APW20001203.1456.0329-E17; extent: he
+T34	ACE-Mention 1188 1278	the quarterback when the University of Oklahoma won the Orange Bowl there in 1980 and 1981
+#34	ACE T34	entityID: APW20001203.1456.0329-E17; extent: the quarterback when the University of Oklahoma won the Orange Bowl there in 1980 and 1981
+T35	ACE-Mention 1289 1292	our
+#35	ACE T35	entityID: APW20001203.1456.0329-E18; extent: our
+T36	ACE-Mention 1376 1378	he
+#36	ACE T36	entityID: APW20001203.1456.0329-E17; extent: he
+T37	ACE-Mention 1403 1404	I
+#37	ACE T37	entityID: APW20001203.1456.0329-E17; extent: I
+T38	ACE-Mention 1422 1429	Al Gore
+#38	ACE T38	entityID: APW20001203.1456.0329-E1; extent: Al Gore
+T39	ACE-Mention 1446 1459	Florida State
+#39	ACE T39	entityID: APW20001203.1456.0329-E19; extent: Florida State
+T40	ACE-Mention 1510 1518	Gridiron
+#40	ACE T40	entityID: APW20001203.1456.0329-E5; extent: Gridiron
+T41	ACE-Mention 1530 1535	Watts
+#41	ACE T41	entityID: APW20001203.1456.0329-E17; extent: Watts
+T42	ACE-Mention 1722 1724	he
+#42	ACE T42	entityID: APW20001203.1456.0329-E17; extent: he
+T43	ACE-Mention 1763 1781	an army of lawyers
+#43	ACE T43	entityID: APW20001203.1456.0329-E21; extent: an army of lawyers
+T44	ACE-Mention 1805 1822	an army with guns
+#44	ACE T44	entityID: APW20001203.1456.0329-E24; extent: an army with guns
+T45	ACE-Mention 1828 1830	he
+#45	ACE T45	entityID: APW20001203.1456.0329-E17; extent: he

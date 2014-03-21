@@ -1,0 +1,220 @@
+T0	ACE-Mention 286 303	FIFE LAKE , Mich.
+#0	ACE T0	entityID: NYT20001210.1847.0092-E20; extent: FIFE LAKE , Mich.
+T1	ACE-Mention 316 335	no teams of lawyers
+#1	ACE T1	entityID: NYT20001210.1847.0092-E52; extent: no teams of lawyers
+T2	ACE-Mention 339 364	this sleepy little hamlet
+#2	ACE T2	entityID: NYT20001210.1847.0092-E20; extent: this sleepy little hamlet
+T3	ACE-Mention 378 399	no television anchors
+#3	ACE T3	entityID: NYT20001210.1847.0092-E53; extent: no television anchors
+T4	ACE-Mention 412 422	courthouse
+#4	ACE T4	entityID: NYT20001210.1847.0092-E54; extent: courthouse
+T5	ACE-Mention 580 587	Florida
+#5	ACE T5	entityID: NYT20001210.1847.0092-E55; extent: Florida
+T6	ACE-Mention 630 649	the chief executive
+#6	ACE T6	entityID: NYT20001210.1847.0092-E56; extent: the chief executive
+T7	ACE-Mention 720 727	Florida
+#7	ACE T7	entityID: NYT20001210.1847.0092-E55; extent: Florida
+T8	ACE-Mention 732 783	this former logging town 250 miles north of Detroit
+#8	ACE T8	entityID: NYT20001210.1847.0092-E20; extent: this former logging town 250 miles north of Detroit
+T9	ACE-Mention 828 857	Fife Lake Township supervisor
+#9	ACE T9	entityID: NYT20001210.1847.0092-E58; extent: Fife Lake Township supervisor
+T10	ACE-Mention 967 980	the incumbent
+#10	ACE T10	entityID: NYT20001210.1847.0092-E16; extent: the incumbent
+T11	ACE-Mention 983 996	Dave Stremlow
+#11	ACE T11	entityID: NYT20001210.1847.0092-E16; extent: Dave Stremlow
+T12	ACE-Mention 1003 1028	the Republican challenger
+#12	ACE T12	entityID: NYT20001210.1847.0092-E2; extent: the Republican challenger
+T13	ACE-Mention 1031 1042	Toni Larson
+#13	ACE T13	entityID: NYT20001210.1847.0092-E2; extent: Toni Larson
+T14	ACE-Mention 1046 1052	Nobody
+#14	ACE T14	entityID: NYT20001210.1847.0092-E3; extent: Nobody
+T15	ACE-Mention 1077 1082	court
+#15	ACE T15	entityID: NYT20001210.1847.0092-E4; extent: court
+T16	ACE-Mention 1151 1159	Michigan
+#16	ACE T16	entityID: NYT20001210.1847.0092-E5; extent: Michigan
+T17	ACE-Mention 1196 1259	up the road a few miles at the county building in Traverse City
+#17	ACE T17	entityID: NYT20001210.1847.0092-E6; extent: up the road a few miles at the county building in Traverse City
+T18	ACE-Mention 1263 1268	There
+#18	ACE T18	entityID: NYT20001210.1847.0092-E6; extent: There
+T19	ACE-Mention 1271 1311	Grand Traverse County Clerk Linda Coburn
+#19	ACE T19	entityID: NYT20001210.1847.0092-E10; extent: Grand Traverse County Clerk Linda Coburn
+T20	ACE-Mention 1422 1436	The candidates
+#20	ACE T20	entityID: NYT20001210.1847.0092-E12; extent: The candidates
+T21	ACE-Mention 1517 1518	I
+#21	ACE T21	entityID: NYT20001210.1847.0092-E2; extent: I
+T22	ACE-Mention 1549 1550	I
+#22	ACE T22	entityID: NYT20001210.1847.0092-E2; extent: I
+T23	ACE-Mention 1572 1578	Larson
+#23	ACE T23	entityID: NYT20001210.1847.0092-E2; extent: Larson
+T24	ACE-Mention 1593 1596	she
+#24	ACE T24	entityID: NYT20001210.1847.0092-E2; extent: she
+T25	ACE-Mention 1681 1684	you
+#25	ACE T25	entityID: NYT20001210.1847.0092-E13; extent: you
+T26	ACE-Mention 1723 1729	Coburn
+#26	ACE T26	entityID: NYT20001210.1847.0092-E10; extent: Coburn
+T27	ACE-Mention 1772 1775	She
+#27	ACE T27	entityID: NYT20001210.1847.0092-E10; extent: She
+T28	ACE-Mention 1798 1801	her
+#28	ACE T28	entityID: NYT20001210.1847.0092-E10; extent: her
+T29	ACE-Mention 1838 1857	township supervisor
+#29	ACE T29	entityID: NYT20001210.1847.0092-E58; extent: township supervisor
+T30	ACE-Mention 1910 1918	Stremlow
+#30	ACE T30	entityID: NYT20001210.1847.0092-E16; extent: Stremlow
+T31	ACE-Mention 1923 1929	Larson
+#31	ACE T31	entityID: NYT20001210.1847.0092-E2; extent: Larson
+T32	ACE-Mention 1945 1978	the township 's Board of Trustees
+#32	ACE T32	entityID: NYT20001210.1847.0092-E15; extent: the township 's Board of Trustees
+T33	ACE-Mention 1981 1989	Stremlow
+#33	ACE T33	entityID: NYT20001210.1847.0092-E16; extent: Stremlow
+T34	ACE-Mention 1993 2003	supervisor
+#34	ACE T34	entityID: NYT20001210.1847.0092-E16; extent: supervisor
+T35	ACE-Mention 2008 2014	Larson
+#35	ACE T35	entityID: NYT20001210.1847.0092-E2; extent: Larson
+T36	ACE-Mention 2018 2032	township clerk
+#36	ACE T36	entityID: NYT20001210.1847.0092-E2; extent: township clerk
+T37	ACE-Mention 2087 2090	her
+#37	ACE T37	entityID: NYT20001210.1847.0092-E2; extent: her
+T38	ACE-Mention 2107 2110	him
+#38	ACE T38	entityID: NYT20001210.1847.0092-E16; extent: him
+T39	ACE-Mention 2115 2124	them both
+#39	ACE T39	entityID: NYT20001210.1847.0092-E12; extent: them both
+T40	ACE-Mention 2158 2168	Pat Gibson
+#40	ACE T40	entityID: NYT20001210.1847.0092-E18; extent: Pat Gibson
+T41	ACE-Mention 2171 2240	owner of Gibson 's Hardware Store , who occasionally attends meetings
+#41	ACE T41	entityID: NYT20001210.1847.0092-E18; extent: owner of Gibson 's Hardware Store , who occasionally attends meetings
+T42	ACE-Mention 2286 2295	Fife Lake
+#42	ACE T42	entityID: NYT20001210.1847.0092-E20; extent: Fife Lake
+T43	ACE-Mention 2325 2348	a thriving logging town
+#43	ACE T43	entityID: NYT20001210.1847.0092-E20; extent: a thriving logging town
+T44	ACE-Mention 2383 2398	the frozen lake
+#44	ACE T44	entityID: NYT20001210.1847.0092-E23; extent: the frozen lake
+T45	ACE-Mention 2444 2453	downstate
+#45	ACE T45	entityID: NYT20001210.1847.0092-E24; extent: downstate
+T46	ACE-Mention 2474 2550	a bedroom community for Traverse City to the north and Cadillac to the south
+#46	ACE T46	entityID: NYT20001210.1847.0092-E20; extent: a bedroom community for Traverse City to the north and Cadillac to the south
+T47	ACE-Mention 2560 2571	some people
+#47	ACE T47	entityID: NYT20001210.1847.0092-E26; extent: some people
+T48	ACE-Mention 2636 2650	The population
+#48	ACE T48	entityID: NYT20001210.1847.0092-E27; extent: The population
+T49	ACE-Mention 2680 2688	Stremlow
+#49	ACE T49	entityID: NYT20001210.1847.0092-E16; extent: Stremlow
+T50	ACE-Mention 2697 2716	Township government
+#50	ACE T50	entityID: NYT20001210.1847.0092-E20; extent: Township government
+T51	ACE-Mention 2717 2721	here
+#51	ACE T51	entityID: NYT20001210.1847.0092-E20; extent: here
+T52	ACE-Mention 2747 2756	volunteer
+#52	ACE T52	entityID: NYT20001210.1847.0092-E51; extent: volunteer
+T53	ACE-Mention 2757 2772	fire department
+#53	ACE T53	entityID: NYT20001210.1847.0092-E29; extent: fire department
+T54	ACE-Mention 2777 2794	ambulance service
+#54	ACE T54	entityID: NYT20001210.1847.0092-E30; extent: ambulance service
+T55	ACE-Mention 2865 2889	the part-time supervisor
+#55	ACE T55	entityID: NYT20001210.1847.0092-E58; extent: the part-time supervisor
+T56	ACE-Mention 2892 2900	Stremlow
+#56	ACE T56	entityID: NYT20001210.1847.0092-E16; extent: Stremlow
+T57	ACE-Mention 2918 2920	he
+#57	ACE T57	entityID: NYT20001210.1847.0092-E16; extent: he
+T58	ACE-Mention 2974 2987	his own clerk
+#58	ACE T58	entityID: NYT20001210.1847.0092-E32; extent: his own clerk
+T59	ACE-Mention 2990 2998	Stremlow
+#59	ACE T59	entityID: NYT20001210.1847.0092-E16; extent: Stremlow
+T60	ACE-Mention 3079 3080	I
+#60	ACE T60	entityID: NYT20001210.1847.0092-E16; extent: I
+T61	ACE-Mention 3087 3088	I
+#61	ACE T61	entityID: NYT20001210.1847.0092-E16; extent: I
+T62	ACE-Mention 3108 3120	the township
+#62	ACE T62	entityID: NYT20001210.1847.0092-E20; extent: the township
+T63	ACE-Mention 3131 3139	Stremlow
+#63	ACE T63	entityID: NYT20001210.1847.0092-E16; extent: Stremlow
+T64	ACE-Mention 3147 3179	a retired auto worker from Flint
+#64	ACE T64	entityID: NYT20001210.1847.0092-E16; extent: a retired auto worker from Flint
+T65	ACE-Mention 3186 3188	We
+#65	ACE T65	entityID: NYT20001210.1847.0092-E20; extent: We
+T66	ACE-Mention 3194 3209	a new ambulance
+#66	ACE T66	entityID: NYT20001210.1847.0092-E31; extent: a new ambulance
+T67	ACE-Mention 3214 3230	a new fire wagon
+#67	ACE T67	entityID: NYT20001210.1847.0092-E34; extent: a new fire wagon
+T68	ACE-Mention 3288 3289	I
+#68	ACE T68	entityID: NYT20001210.1847.0092-E16; extent: I
+T69	ACE-Mention 3307 3318	Both people
+#69	ACE T69	entityID: NYT20001210.1847.0092-E12; extent: Both people
+T70	ACE-Mention 3344 3356	Gary Gilmore
+#70	ACE T70	entityID: NYT20001210.1847.0092-E35; extent: Gary Gilmore
+T71	ACE-Mention 3367 3369	he
+#71	ACE T71	entityID: NYT20001210.1847.0092-E35; extent: he
+T72	ACE-Mention 3377 3380	his
+#72	ACE T72	entityID: NYT20001210.1847.0092-E35; extent: his
+T73	ACE-Mention 3408 3433	the Sugar Bowl Restaurant
+#73	ACE T73	entityID: NYT20001210.1847.0092-E36; extent: the Sugar Bowl Restaurant
+T74	ACE-Mention 3440 3449	Everybody
+#74	ACE T74	entityID: NYT20001210.1847.0092-E37; extent: Everybody
+T75	ACE-Mention 3456 3465	everybody
+#75	ACE T75	entityID: NYT20001210.1847.0092-E37; extent: everybody
+T76	ACE-Mention 3466 3470	here
+#76	ACE T76	entityID: NYT20001210.1847.0092-E20; extent: here
+T77	ACE-Mention 3477 3487	Carl Fales
+#77	ACE T77	entityID: NYT20001210.1847.0092-E38; extent: Carl Fales
+T78	ACE-Mention 3490 3532	a 74-year-old retiree who voted for Larson
+#78	ACE T78	entityID: NYT20001210.1847.0092-E38; extent: a 74-year-old retiree who voted for Larson
+T79	ACE-Mention 3548 3552	They
+#79	ACE T79	entityID: NYT20001210.1847.0092-E12; extent: They
+T80	ACE-Mention 3557 3573	both good people
+#80	ACE T80	entityID: NYT20001210.1847.0092-E12; extent: both good people
+T81	ACE-Mention 3579 3584	Fales
+#81	ACE T81	entityID: NYT20001210.1847.0092-E38; extent: Fales
+T82	ACE-Mention 3596 3606	Either one
+#82	ACE T82	entityID: NYT20001210.1847.0092-E41; extent: Either one
+T83	ACE-Mention 3730 3736	Larson
+#83	ACE T83	entityID: NYT20001210.1847.0092-E2; extent: Larson
+T84	ACE-Mention 3739 3773	a 66-year-old retired school clerk
+#84	ACE T84	entityID: NYT20001210.1847.0092-E2; extent: a 66-year-old retired school clerk
+T85	ACE-Mention 3802 3808	Larson
+#85	ACE T85	entityID: NYT20001210.1847.0092-E2; extent: Larson
+T86	ACE-Mention 3814 3819	clerk
+#86	ACE T86	entityID: NYT20001210.1847.0092-E2; extent: clerk
+T87	ACE-Mention 3851 3854	she
+#87	ACE T87	entityID: NYT20001210.1847.0092-E2; extent: she
+T88	ACE-Mention 3969 3977	Stremlow
+#88	ACE T88	entityID: NYT20001210.1847.0092-E16; extent: Stremlow
+T89	ACE-Mention 4004 4010	Larson
+#89	ACE T89	entityID: NYT20001210.1847.0092-E2; extent: Larson
+T90	ACE-Mention 4117 4123	Voters
+#90	ACE T90	entityID: NYT20001210.1847.0092-E43; extent: Voters
+T91	ACE-Mention 4124 4128	here
+#91	ACE T91	entityID: NYT20001210.1847.0092-E20; extent: here
+T92	ACE-Mention 4181 4210	the candidate of their choice
+#92	ACE T92	entityID: NYT20001210.1847.0092-E44; extent: the candidate of their choice
+T93	ACE-Mention 4218 4224	Coburn
+#93	ACE T93	entityID: NYT20001210.1847.0092-E10; extent: Coburn
+T94	ACE-Mention 4276 4284	Stremlow
+#94	ACE T94	entityID: NYT20001210.1847.0092-E16; extent: Stremlow
+T95	ACE-Mention 4323 4329	Larson
+#95	ACE T95	entityID: NYT20001210.1847.0092-E2; extent: Larson
+T96	ACE-Mention 4333 4356	The board of canvassers
+#96	ACE T96	entityID: NYT20001210.1847.0092-E45; extent: The board of canvassers
+T97	ACE-Mention 4370 4385	two Republicans
+#97	ACE T97	entityID: NYT20001210.1847.0092-E46; extent: two Republicans
+T98	ACE-Mention 4390 4403	two Democrats
+#98	ACE T98	entityID: NYT20001210.1847.0092-E47; extent: two Democrats
+T99	ACE-Mention 4406 4409	all
+#99	ACE T99	entityID: NYT20001210.1847.0092-E45; extent: all
+T100	ACE-Mention 4435 4441	Larson
+#100	ACE T100	entityID: NYT20001210.1847.0092-E2; extent: Larson
+T101	ACE-Mention 4463 4469	Coburn
+#101	ACE T101	entityID: NYT20001210.1847.0092-E10; extent: Coburn
+T102	ACE-Mention 4481 4482	I
+#102	ACE T102	entityID: NYT20001210.1847.0092-E16; extent: I
+T103	ACE-Mention 4511 4512	I
+#103	ACE T103	entityID: NYT20001210.1847.0092-E16; extent: I
+T104	ACE-Mention 4545 4553	Stremlow
+#104	ACE T104	entityID: NYT20001210.1847.0092-E16; extent: Stremlow
+T105	ACE-Mention 4583 4585	he
+#105	ACE T105	entityID: NYT20001210.1847.0092-E16; extent: he
+T106	ACE-Mention 4591 4593	he
+#106	ACE T106	entityID: NYT20001210.1847.0092-E16; extent: he
+T107	ACE-Mention 4645 4653	Stremlow
+#107	ACE T107	entityID: NYT20001210.1847.0092-E16; extent: Stremlow
+T108	ACE-Mention 4686 4688	he
+#108	ACE T108	entityID: NYT20001210.1847.0092-E16; extent: he
+T109	ACE-Mention 4703 4711	a lawyer
+#109	ACE T109	entityID: NYT20001210.1847.0092-E48; extent: a lawyer

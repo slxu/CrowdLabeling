@@ -1,0 +1,136 @@
+T0	ACE-Mention 108 119	LOS ANGELES
+#0	ACE T0	entityID: APW20001006.0338.0184-E18; extent: LOS ANGELES
+T1	ACE-Mention 120 124	(AP)
+#1	ACE T1	entityID: APW20001006.0338.0184-E56; extent: (AP)
+T2	ACE-Mention 131 146	Dick Cheney-Joe
+#2	ACE T2	entityID: APW20001006.0338.0184-E26; extent: Dick Cheney-Joe
+T3	ACE-Mention 179 199	some TV commentators
+#3	ACE T3	entityID: APW20001006.0338.0184-E61; extent: some TV commentators
+T4	ACE-Mention 248 254	others
+#4	ACE T4	entityID: APW20001006.0338.0184-E62; extent: others
+T5	ACE-Mention 309 313	they
+#5	ACE T5	entityID: APW20001006.0338.0184-E63; extent: they
+T6	ACE-Mention 343 358	their campaigns
+#6	ACE T6	entityID: APW20001006.0338.0184-E7; extent: their campaigns
+T7	ACE-Mention 392 397	their
+#7	ACE T7	entityID: APW20001006.0338.0184-E63; extent: their
+T8	ACE-Mention 410 414	they
+#8	ACE T8	entityID: APW20001006.0338.0184-E3; extent: they
+T9	ACE-Mention 422 428	Boston
+#9	ACE T9	entityID: APW20001006.0338.0184-E64; extent: Boston
+T10	ACE-Mention 434 444	Tom Brokaw
+#10	ACE T10	entityID: APW20001006.0338.0184-E65; extent: Tom Brokaw
+T11	ACE-Mention 481 502	CBS anchor Dan Rather
+#11	ACE T11	entityID: APW20001006.0338.0184-E66; extent: CBS anchor Dan Rather
+T12	ACE-Mention 613 657	presidential and vice presidential campaigns
+#12	ACE T12	entityID: APW20001006.0338.0184-E8; extent: presidential and vice presidential campaigns
+T13	ACE-Mention 670 683	His colleague
+#13	ACE T13	entityID: APW20001006.0338.0184-E1; extent: His colleague
+T14	ACE-Mention 686 699	Bob Schieffer
+#14	ACE T14	entityID: APW20001006.0338.0184-E1; extent: Bob Schieffer
+T15	ACE-Mention 719 734	their `` bosses
+#15	ACE T15	entityID: APW20001006.0338.0184-E3; extent: their `` bosses
+T16	ACE-Mention 740 754	George W. Bush
+#16	ACE T16	entityID: APW20001006.0338.0184-E5; extent: George W. Bush
+T17	ACE-Mention 759 766	Al Gore
+#17	ACE T17	entityID: APW20001006.0338.0184-E6; extent: Al Gore
+T18	ACE-Mention 804 823	in-studio audiences
+#18	ACE T18	entityID: APW20001006.0338.0184-E9; extent: in-studio audiences
+T19	ACE-Mention 834 866	the vice presidential candidates
+#19	ACE T19	entityID: APW20001006.0338.0184-E63; extent: the vice presidential candidates
+T20	ACE-Mention 885 899	some observers
+#20	ACE T20	entityID: APW20001006.0338.0184-E10; extent: some observers
+T21	ACE-Mention 911 921	themselves
+#21	ACE T21	entityID: APW20001006.0338.0184-E10; extent: themselves
+T22	ACE-Mention 950 984	Fox News Channel 's Mort Kondracke
+#22	ACE T22	entityID: APW20001006.0338.0184-E12; extent: Fox News Channel 's Mort Kondracke
+T23	ACE-Mention 1023 1029	Cheney
+#23	ACE T23	entityID: APW20001006.0338.0184-E26; extent: Cheney
+T24	ACE-Mention 1042 1046	Gore
+#24	ACE T24	entityID: APW20001006.0338.0184-E6; extent: Gore
+T25	ACE-Mention 1062 1070	somebody
+#25	ACE T25	entityID: APW20001006.0338.0184-E13; extent: somebody
+T26	ACE-Mention 1088 1102	the candidates
+#26	ACE T26	entityID: APW20001006.0338.0184-E63; extent: the candidates
+T27	ACE-Mention 1137 1142	their
+#27	ACE T27	entityID: APW20001006.0338.0184-E63; extent: their
+T28	ACE-Mention 1158 1171	his colleague
+#28	ACE T28	entityID: APW20001006.0338.0184-E14; extent: his colleague
+T29	ACE-Mention 1174 1185	Fred Barnes
+#29	ACE T29	entityID: APW20001006.0338.0184-E14; extent: Fred Barnes
+T30	ACE-Mention 1189 1240	Conservative commentator Bill Kristol , also on FNC
+#30	ACE T30	entityID: APW20001006.0338.0184-E16; extent: Conservative commentator Bill Kristol , also on FNC
+T31	ACE-Mention 1251 1268	the Bush campaign
+#31	ACE T31	entityID: APW20001006.0338.0184-E20; extent: the Bush campaign
+T32	ACE-Mention 1287 1289	it
+#32	ACE T32	entityID: APW20001006.0338.0184-E20; extent: it
+T33	ACE-Mention 1321 1328	al Gore
+#33	ACE T33	entityID: APW20001006.0338.0184-E6; extent: al Gore
+T34	ACE-Mention 1367 1387	ABC 's Sam Donaldson
+#34	ACE T34	entityID: APW20001006.0338.0184-E22; extent: ABC 's Sam Donaldson
+T35	ACE-Mention 1431 1442	campaigners
+#35	ACE T35	entityID: APW20001006.0338.0184-E23; extent: campaigners
+T36	ACE-Mention 1462 1471	gentlemen
+#36	ACE T36	entityID: APW20001006.0338.0184-E25; extent: gentlemen
+T37	ACE-Mention 1476 1482	ladies
+#37	ACE T37	entityID: APW20001006.0338.0184-E24; extent: ladies
+T38	ACE-Mention 1492 1493	I
+#38	ACE T38	entityID: APW20001006.0338.0184-E22; extent: I
+T39	ACE-Mention 1522 1531	Donaldson
+#39	ACE T39	entityID: APW20001006.0338.0184-E22; extent: Donaldson
+T40	ACE-Mention 1576 1710	ABC anchorman Peter Jennings , who noted that `` bottom of the ticket '' does n't necessarily have that much affect on voter decisions
+#40	ACE T40	entityID: APW20001006.0338.0184-E28; extent: ABC anchorman Peter Jennings , who noted that `` bottom of the ticket '' does n't necessarily have that much affect on voter decisions
+T41	ACE-Mention 1714 1732	NBC 's Tim Russert
+#41	ACE T41	entityID: APW20001006.0338.0184-E32; extent: NBC 's Tim Russert
+T42	ACE-Mention 1750 1754	veep
+#42	ACE T42	entityID: APW20001006.0338.0184-E63; extent: veep
+T43	ACE-Mention 1829 1889	A group of undecided voters recruited by NBC in Tampa , Fla.
+#43	ACE T43	entityID: APW20001006.0338.0184-E33; extent: A group of undecided voters recruited by NBC in Tampa , Fla.
+T44	ACE-Mention 1912 1927	both candidates
+#44	ACE T44	entityID: APW20001006.0338.0184-E63; extent: both candidates
+T45	ACE-Mention 1977 1981	they
+#45	ACE T45	entityID: APW20001006.0338.0184-E33; extent: they
+T46	ACE-Mention 2020 2052	an estimated 46.5 million people
+#46	ACE T46	entityID: APW20001006.0338.0184-E37; extent: an estimated 46.5 million people
+T47	ACE-Mention 2099 2103	Gore
+#47	ACE T47	entityID: APW20001006.0338.0184-E6; extent: Gore
+T48	ACE-Mention 2108 2112	Bush
+#48	ACE T48	entityID: APW20001006.0338.0184-E5; extent: Bush
+T49	ACE-Mention 2121 2138	some commentators
+#49	ACE T49	entityID: APW20001006.0338.0184-E38; extent: some commentators
+T50	ACE-Mention 2159 2168	Lieberman
+#50	ACE T50	entityID: APW20001006.0338.0184-E57; extent: Lieberman
+T51	ACE-Mention 2173 2179	Cheney
+#51	ACE T51	entityID: APW20001006.0338.0184-E26; extent: Cheney
+T52	ACE-Mention 2197 2202	their
+#52	ACE T52	entityID: APW20001006.0338.0184-E63; extent: their
+T53	ACE-Mention 2225 2237	focus groups
+#53	ACE T53	entityID: APW20001006.0338.0184-E39; extent: focus groups
+T54	ACE-Mention 2243 2256	the campaigns
+#54	ACE T54	entityID: APW20001006.0338.0184-E7; extent: the campaigns
+T55	ACE-Mention 2286 2298	commentators
+#55	ACE T55	entityID: APW20001006.0338.0184-E40; extent: commentators
+T56	ACE-Mention 2308 2331	That Gore-Bush audience
+#56	ACE T56	entityID: APW20001006.0338.0184-E37; extent: That Gore-Bush audience
+T57	ACE-Mention 2350 2454	the 46.1 million people who watched the first duel between President Clinton and Bob Dole four years ago
+#57	ACE T57	entityID: APW20001006.0338.0184-E42; extent: the 46.1 million people who watched the first duel between President Clinton and Bob Dole four years ago
+T58	ACE-Mention 2497 2514	80 million people
+#58	ACE T58	entityID: APW20001006.0338.0184-E46; extent: 80 million people
+T59	ACE-Mention 2523 2539	President Carter
+#59	ACE T59	entityID: APW20001006.0338.0184-E47; extent: President Carter
+T60	ACE-Mention 2544 2557	Ronald Reagan
+#60	ACE T60	entityID: APW20001006.0338.0184-E49; extent: Ronald Reagan
+T61	ACE-Mention 2580 2586	Cheney
+#61	ACE T61	entityID: APW20001006.0338.0184-E26; extent: Cheney
+T62	ACE-Mention 2591 2600	Lieberman
+#62	ACE T62	entityID: APW20001006.0338.0184-E57; extent: Lieberman
+T63	ACE-Mention 2608 2629	moderator Bernie Shaw
+#63	ACE T63	entityID: APW20001006.0338.0184-E50; extent: moderator Bernie Shaw
+T64	ACE-Mention 2639 2671	Centre College in Danville , Ky.
+#64	ACE T64	entityID: APW20001006.0338.0184-E52; extent: Centre College in Danville , Ky.
+T65	ACE-Mention 2678 2683	their
+#65	ACE T65	entityID: APW20001006.0338.0184-E63; extent: their
+T66	ACE-Mention 2699 2703	Bush
+#66	ACE T66	entityID: APW20001006.0338.0184-E5; extent: Bush
+T67	ACE-Mention 2708 2712	Gore
+#67	ACE T67	entityID: APW20001006.0338.0184-E6; extent: Gore

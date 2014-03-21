@@ -1,0 +1,138 @@
+T0	ACE-Mention 109 127	DORTMUND , Germany
+#0	ACE T0	entityID: APW20001021.1730.0351-E1; extent: DORTMUND , Germany
+T1	ACE-Mention 128 132	(AP)
+#1	ACE T1	entityID: APW20001021.1730.0351-E34; extent: (AP)
+T2	ACE-Mention 135 155	Thousands of Germans
+#2	ACE T2	entityID: APW20001021.1730.0351-E56; extent: Thousands of Germans
+T3	ACE-Mention 175 192	this western city
+#3	ACE T3	entityID: APW20001021.1730.0351-E1; extent: this western city
+T4	ACE-Mention 213 222	foreigner
+#4	ACE T4	entityID: APW20001021.1730.0351-E20; extent: foreigner
+T5	ACE-Mention 230 247	the extreme right
+#5	ACE T5	entityID: APW20001021.1730.0351-E58; extent: the extreme right
+T6	ACE-Mention 254 262	neo-Nazi
+#6	ACE T6	entityID: APW20001021.1730.0351-E59; extent: neo-Nazi
+T7	ACE-Mention 338 354	concerned people
+#7	ACE T7	entityID: APW20001021.1730.0351-E60; extent: concerned people
+T8	ACE-Mention 365 413	North Rhine-Westphalia governor Wolfgang Clement
+#8	ACE T8	entityID: APW20001021.1730.0351-E61; extent: North Rhine-Westphalia governor Wolfgang Clement
+T9	ACE-Mention 428 456	Chancellor Gerhard Schroeder
+#9	ACE T9	entityID: APW20001021.1730.0351-E64; extent: Chancellor Gerhard Schroeder
+T10	ACE-Mention 469 485	ordinary Germans
+#10	ACE T10	entityID: APW20001021.1730.0351-E49; extent: ordinary Germans
+T11	ACE-Mention 532 542	Organizers
+#11	ACE T11	entityID: APW20001021.1730.0351-E66; extent: Organizers
+T12	ACE-Mention 548 561	20,000 people
+#12	ACE T12	entityID: APW20001021.1730.0351-E67; extent: 20,000 people
+T13	ACE-Mention 584 592	Dortmund
+#13	ACE T13	entityID: APW20001021.1730.0351-E1; extent: Dortmund
+T14	ACE-Mention 595 674	an industrial center in North Rhine-Westphalia , Germany 's most populous state
+#14	ACE T14	entityID: APW20001021.1730.0351-E1; extent: an industrial center in North Rhine-Westphalia , Germany 's most populous state
+T15	ACE-Mention 686 705	about 600 neo-Nazis
+#15	ACE T15	entityID: APW20001021.1730.0351-E4; extent: about 600 neo-Nazis
+T16	ACE-Mention 722 740	the middle of town
+#16	ACE T16	entityID: APW20001021.1730.0351-E5; extent: the middle of town
+T17	ACE-Mention 753 759	police
+#17	ACE T17	entityID: APW20001021.1730.0351-E6; extent: police
+T18	ACE-Mention 769 783	Three officers
+#18	ACE T18	entityID: APW20001021.1730.0351-E7; extent: Three officers
+T19	ACE-Mention 800 829	leftist counter-demonstrators
+#19	ACE T19	entityID: APW20001021.1730.0351-E8; extent: leftist counter-demonstrators
+T20	ACE-Mention 853 859	police
+#20	ACE T20	entityID: APW20001021.1730.0351-E9; extent: police
+T21	ACE-Mention 872 884	two leftists
+#21	ACE T21	entityID: APW20001021.1730.0351-E10; extent: two leftists
+T22	ACE-Mention 889 902	two neo-Nazis
+#22	ACE T22	entityID: APW20001021.1730.0351-E11; extent: two neo-Nazis
+T23	ACE-Mention 981 988	Germany
+#23	ACE T23	entityID: APW20001021.1730.0351-E55; extent: Germany
+T24	ACE-Mention 1158 1191	North Rhine-Westphalia 's capital
+#24	ACE T24	entityID: APW20001021.1730.0351-E12; extent: North Rhine-Westphalia 's capital
+T25	ACE-Mention 1192 1203	Duesseldorf
+#25	ACE T25	entityID: APW20001021.1730.0351-E12; extent: Duesseldorf
+T26	ACE-Mention 1224 1244	10 recent immigrants
+#26	ACE T26	entityID: APW20001021.1730.0351-E14; extent: 10 recent immigrants
+T27	ACE-Mention 1255 1280	at least six of them Jews
+#27	ACE T27	entityID: APW20001021.1730.0351-E15; extent: at least six of them Jews
+T28	ACE-Mention 1287 1308	at least three people
+#28	ACE T28	entityID: APW20001021.1730.0351-E17; extent: at least three people
+T29	ACE-Mention 1398 1423	an Algerian asylum-seeker
+#29	ACE T29	entityID: APW20001021.1730.0351-E18; extent: an Algerian asylum-seeker
+T30	ACE-Mention 1475 1482	Germans
+#30	ACE T30	entityID: APW20001021.1730.0351-E55; extent: Germans
+T31	ACE-Mention 1487 1497	foreigners
+#31	ACE T31	entityID: APW20001021.1730.0351-E20; extent: foreigners
+T32	ACE-Mention 1503 1528	two men , aged 19 and 20.
+#32	ACE T32	entityID: APW20001021.1730.0351-E21; extent: two men , aged 19 and 20.
+T33	ACE-Mention 1529 1549	Dortmund authorities
+#33	ACE T33	entityID: APW20001021.1730.0351-E22; extent: Dortmund authorities
+T34	ACE-Mention 1580 1588	neo-Nazi
+#34	ACE T34	entityID: APW20001021.1730.0351-E59; extent: neo-Nazi
+T35	ACE-Mention 1601 1608	a court
+#35	ACE T35	entityID: APW20001021.1730.0351-E25; extent: a court
+T36	ACE-Mention 1658 1665	Clement
+#36	ACE T36	entityID: APW20001021.1730.0351-E61; extent: Clement
+T37	ACE-Mention 1712 1729	citizens ' groups
+#37	ACE T37	entityID: APW20001021.1730.0351-E26; extent: citizens ' groups
+T38	ACE-Mention 1732 1749	political parties
+#38	ACE T38	entityID: APW20001021.1730.0351-E27; extent: political parties
+T39	ACE-Mention 1752 1763	sport clubs
+#39	ACE T39	entityID: APW20001021.1730.0351-E28; extent: sport clubs
+T40	ACE-Mention 1766 1774	students
+#40	ACE T40	entityID: APW20001021.1730.0351-E29; extent: students
+T41	ACE-Mention 1779 1787	teachers
+#41	ACE T41	entityID: APW20001021.1730.0351-E30; extent: teachers
+T42	ACE-Mention 1867 1878	our country
+#42	ACE T42	entityID: APW20001021.1730.0351-E55; extent: our country
+T43	ACE-Mention 1933 1938	Nazis
+#43	ACE T43	entityID: APW20001021.1730.0351-E31; extent: Nazis
+T44	ACE-Mention 1965 1975	Government
+#44	ACE T44	entityID: APW20001021.1730.0351-E1; extent: Government
+T45	ACE-Mention 1992 2001	neo-Nazis
+#45	ACE T45	entityID: APW20001021.1730.0351-E32; extent: neo-Nazis
+T46	ACE-Mention 2026 2115	the small , far-right National Democratic Party , blamed for fueling some of the violence
+#46	ACE T46	entityID: APW20001021.1730.0351-E33; extent: the small , far-right National Democratic Party , blamed for fueling some of the violence
+T47	ACE-Mention 2131 2167	interior ministers meeting in Berlin
+#47	ACE T47	entityID: APW20001021.1730.0351-E35; extent: interior ministers meeting in Berlin
+T48	ACE-Mention 2211 2235	Germany 's highest court
+#48	ACE T48	entityID: APW20001021.1730.0351-E37; extent: Germany 's highest court
+T49	ACE-Mention 2239 2283	Bavaria Interior Minister Guenther Beckstein
+#49	ACE T49	entityID: APW20001021.1730.0351-E38; extent: Bavaria Interior Minister Guenther Beckstein
+T50	ACE-Mention 2286 2324	one of the leading proponents of a ban
+#50	ACE T50	entityID: APW20001021.1730.0351-E38; extent: one of the leading proponents of a ban
+T51	ACE-Mention 2332 2350	Focus newsmagazine
+#51	ACE T51	entityID: APW20001021.1730.0351-E43; extent: Focus newsmagazine
+T52	ACE-Mention 2381 2383	he
+#52	ACE T52	entityID: APW20001021.1730.0351-E38; extent: he
+T53	ACE-Mention 2460 2462	He
+#53	ACE T53	entityID: APW20001021.1730.0351-E38; extent: He
+T54	ACE-Mention 2513 2547	Germany 's other far-right parties
+#54	ACE T54	entityID: APW20001021.1730.0351-E44; extent: Germany 's other far-right parties
+T55	ACE-Mention 2550 2565	the Republicans
+#55	ACE T55	entityID: APW20001021.1730.0351-E44; extent: the Republicans
+T56	ACE-Mention 2570 2590	German Peoples Union
+#56	ACE T56	entityID: APW20001021.1730.0351-E44; extent: German Peoples Union
+T57	ACE-Mention 2593 2606	both of which
+#57	ACE T57	entityID: APW20001021.1730.0351-E44; extent: both of which
+T58	ACE-Mention 2648 2681	the politically insignificant NPD
+#58	ACE T58	entityID: APW20001021.1730.0351-E33; extent: the politically insignificant NPD
+T59	ACE-Mention 2685 2689	Some
+#59	ACE T59	entityID: APW20001021.1730.0351-E47; extent: Some
+T60	ACE-Mention 2718 2723	party
+#60	ACE T60	entityID: APW20001021.1730.0351-E48; extent: party
+T61	ACE-Mention 2757 2770	party members
+#61	ACE T61	entityID: APW20001021.1730.0351-E50; extent: party members
+T62	ACE-Mention 2792 2796	them
+#62	ACE T62	entityID: APW20001021.1730.0351-E50; extent: them
+T63	ACE-Mention 2818 2833	Christian Worch
+#63	ACE T63	entityID: APW20001021.1730.0351-E51; extent: Christian Worch
+T64	ACE-Mention 2837 2844	Hamburg
+#64	ACE T64	entityID: APW20001021.1730.0351-E53; extent: Hamburg
+T65	ACE-Mention 2847 2894	the neo-Nazi who led the Saturday demonstration
+#65	ACE T65	entityID: APW20001021.1730.0351-E51; extent: the neo-Nazi who led the Saturday demonstration
+T66	ACE-Mention 2945 2947	us
+#66	ACE T66	entityID: APW20001021.1730.0351-E33; extent: us
+T67	ACE-Mention 2977 2979	he
+#67	ACE T67	entityID: APW20001021.1730.0351-E51; extent: he
+T68	ACE-Mention 2985 2995	protesters
+#68	ACE T68	entityID: APW20001021.1730.0351-E67; extent: protesters

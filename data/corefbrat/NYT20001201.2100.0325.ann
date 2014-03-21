@@ -1,0 +1,122 @@
+T0	ACE-Mention 341 359	TALLAHASSEE , Fla.
+#0	ACE T0	entityID: NYT20001201.2100.0325-E22; extent: TALLAHASSEE , Fla.
+T1	ACE-Mention 362 387	The Florida Supreme Court
+#1	ACE T1	entityID: NYT20001201.2100.0325-E41; extent: The Florida Supreme Court
+T2	ACE-Mention 417 439	Vice President Al Gore
+#2	ACE T2	entityID: NYT20001201.2100.0325-E23; extent: Vice President Al Gore
+T3	ACE-Mention 445 447	it
+#3	ACE T3	entityID: NYT20001201.2100.0325-E41; extent: it
+T4	ACE-Mention 515 528	South Florida
+#4	ACE T4	entityID: NYT20001201.2100.0325-E45; extent: South Florida
+T5	ACE-Mention 539 543	Gore
+#5	ACE T5	entityID: NYT20001201.2100.0325-E23; extent: Gore
+T6	ACE-Mention 562 574	presidential
+#6	ACE T6	entityID: NYT20001201.2100.0325-E46; extent: presidential
+T7	ACE-Mention 591 602	lower-court
+#7	ACE T7	entityID: NYT20001201.2100.0325-E7; extent: lower-court
+T8	ACE-Mention 657 683	the state 's highest court
+#8	ACE T8	entityID: NYT20001201.2100.0325-E41; extent: the state 's highest court
+T9	ACE-Mention 706 745	supporters of Gore in Palm Beach County
+#9	ACE T9	entityID: NYT20001201.2100.0325-E1; extent: supporters of Gore in Palm Beach County
+T10	ACE-Mention 786 797	many voters
+#10	ACE T10	entityID: NYT20001201.2100.0325-E3; extent: many voters
+T11	ACE-Mention 893 904	Tallahassee
+#11	ACE T11	entityID: NYT20001201.2100.0325-E22; extent: Tallahassee
+T12	ACE-Mention 933 959	the vice president 's camp
+#12	ACE T12	entityID: NYT20001201.2100.0325-E4; extent: the vice president 's camp
+T13	ACE-Mention 973 1068	Judge N. Sanders Sauls of Leon County Circuit Court , who is presiding over the contest lawsuit
+#13	ACE T13	entityID: NYT20001201.2100.0325-E5; extent: Judge N. Sanders Sauls of Leon County Circuit Court , who is presiding over the contest lawsuit
+T14	ACE-Mention 1228 1237	the judge
+#14	ACE T14	entityID: NYT20001201.2100.0325-E5; extent: the judge
+T15	ACE-Mention 1266 1270	Gore
+#15	ACE T15	entityID: NYT20001201.2100.0325-E23; extent: Gore
+T16	ACE-Mention 1311 1330	the Democratic team
+#16	ACE T16	entityID: NYT20001201.2100.0325-E4; extent: the Democratic team
+T17	ACE-Mention 1381 1398	the Supreme Court
+#17	ACE T17	entityID: NYT20001201.2100.0325-E41; extent: the Supreme Court
+T18	ACE-Mention 1427 1458	Lawyers for Gov. George W. Bush
+#18	ACE T18	entityID: NYT20001201.2100.0325-E10; extent: Lawyers for Gov. George W. Bush
+T19	ACE-Mention 1495 1500	their
+#19	ACE T19	entityID: NYT20001201.2100.0325-E10; extent: their
+T20	ACE-Mention 1605 1609	they
+#20	ACE T20	entityID: NYT20001201.2100.0325-E10; extent: they
+T21	ACE-Mention 1713 1735	three Florida counties
+#21	ACE T21	entityID: NYT20001201.2100.0325-E13; extent: three Florida counties
+T22	ACE-Mention 1765 1776	Tallahassee
+#22	ACE T22	entityID: NYT20001201.2100.0325-E22; extent: Tallahassee
+T23	ACE-Mention 1824 1858	Palm Beach and Miami-Dade counties
+#23	ACE T23	entityID: NYT20001201.2100.0325-E14; extent: Palm Beach and Miami-Dade counties
+T24	ACE-Mention 1882 1886	here
+#24	ACE T24	entityID: NYT20001201.2100.0325-E22; extent: here
+T25	ACE-Mention 1907 1923	the Bush lawyers
+#25	ACE T25	entityID: NYT20001201.2100.0325-E10; extent: the Bush lawyers
+T26	ACE-Mention 1950 1955	Sauls
+#26	ACE T26	entityID: NYT20001201.2100.0325-E5; extent: Sauls
+T27	ACE-Mention 1976 2015	Volusia , Broward and Pinellas counties
+#27	ACE T27	entityID: NYT20001201.2100.0325-E18; extent: Volusia , Broward and Pinellas counties
+T28	ACE-Mention 2100 2115	Bush 's lawyers
+#28	ACE T28	entityID: NYT20001201.2100.0325-E10; extent: Bush 's lawyers
+T29	ACE-Mention 2126 2130	they
+#29	ACE T29	entityID: NYT20001201.2100.0325-E10; extent: they
+T30	ACE-Mention 2211 2215	they
+#30	ACE T30	entityID: NYT20001201.2100.0325-E10; extent: they
+T31	ACE-Mention 2284 2288	Gore
+#31	ACE T31	entityID: NYT20001201.2100.0325-E23; extent: Gore
+T32	ACE-Mention 2299 2346	a candidate entitled to bring a contest lawsuit
+#32	ACE T32	entityID: NYT20001201.2100.0325-E23; extent: a candidate entitled to bring a contest lawsuit
+T33	ACE-Mention 2368 2396	the electors for a candidate
+#33	ACE T33	entityID: NYT20001201.2100.0325-E24; extent: the electors for a candidate
+T34	ACE-Mention 2406 2418	presidential
+#34	ACE T34	entityID: NYT20001201.2100.0325-E46; extent: presidential
+T35	ACE-Mention 2444 2456	presidential
+#35	ACE T35	entityID: NYT20001201.2100.0325-E46; extent: presidential
+T36	ACE-Mention 2495 2502	Florida
+#36	ACE T36	entityID: NYT20001201.2100.0325-E40; extent: Florida
+T37	ACE-Mention 2510 2523	The Bush team
+#37	ACE T37	entityID: NYT20001201.2100.0325-E10; extent: The Bush team
+T38	ACE-Mention 2544 2569	no more than 20 witnesses
+#38	ACE T38	entityID: NYT20001201.2100.0325-E26; extent: no more than 20 witnesses
+T39	ACE-Mention 2589 2595	the 93
+#39	ACE T39	entityID: NYT20001201.2100.0325-E27; extent: the 93
+T40	ACE-Mention 2607 2614	witness
+#40	ACE T40	entityID: NYT20001201.2100.0325-E28; extent: witness
+T41	ACE-Mention 2648 2663	Gore 's lawyers
+#41	ACE T41	entityID: NYT20001201.2100.0325-E29; extent: Gore 's lawyers
+T42	ACE-Mention 2677 2690	two witnesses
+#42	ACE T42	entityID: NYT20001201.2100.0325-E30; extent: two witnesses
+T43	ACE-Mention 2713 2726	the Bush team
+#43	ACE T43	entityID: NYT20001201.2100.0325-E10; extent: the Bush team
+T44	ACE-Mention 2740 2743	its
+#44	ACE T44	entityID: NYT20001201.2100.0325-E10; extent: its
+T45	ACE-Mention 2792 2797	Sauls
+#45	ACE T45	entityID: NYT20001201.2100.0325-E5; extent: Sauls
+T46	ACE-Mention 2863 2872	The judge
+#46	ACE T46	entityID: NYT20001201.2100.0325-E5; extent: The judge
+T47	ACE-Mention 2878 2880	he
+#47	ACE T47	entityID: NYT20001201.2100.0325-E5; extent: he
+T48	ACE-Mention 2896 2900	Gore
+#48	ACE T48	entityID: NYT20001201.2100.0325-E23; extent: Gore
+T49	ACE-Mention 3020 3043	the Florida Legislature
+#49	ACE T49	entityID: NYT20001201.2100.0325-E31; extent: the Florida Legislature
+T50	ACE-Mention 3054 3070	Bush 's electors
+#50	ACE T50	entityID: NYT20001201.2100.0325-E32; extent: Bush 's electors
+T51	ACE-Mention 3074 3095	the Electoral College
+#51	ACE T51	entityID: NYT20001201.2100.0325-E33; extent: the Electoral College
+T52	ACE-Mention 3191 3196	Sauls
+#52	ACE T52	entityID: NYT20001201.2100.0325-E5; extent: Sauls
+T53	ACE-Mention 3211 3213	he
+#53	ACE T53	entityID: NYT20001201.2100.0325-E5; extent: he
+T54	ACE-Mention 3264 3307	Lawyers for the various parties to the suit
+#54	ACE T54	entityID: NYT20001201.2100.0325-E34; extent: Lawyers for the various parties to the suit
+T55	ACE-Mention 3364 3366	he
+#55	ACE T55	entityID: NYT20001201.2100.0325-E5; extent: he
+T56	ACE-Mention 3419 3450	multiple defendants in the suit
+#56	ACE T56	entityID: NYT20001201.2100.0325-E36; extent: multiple defendants in the suit
+T57	ACE-Mention 3453 3457	Bush
+#57	ACE T57	entityID: NYT20001201.2100.0325-E11; extent: Bush
+T58	ACE-Mention 3460 3476	Katherine Harris
+#58	ACE T58	entityID: NYT20001201.2100.0325-E37; extent: Katherine Harris
+T59	ACE-Mention 3479 3509	the Florida secretary of state
+#59	ACE T59	entityID: NYT20001201.2100.0325-E37; extent: the Florida secretary of state
+T60	ACE-Mention 3516 3553	the election boards of three counties
+#60	ACE T60	entityID: NYT20001201.2100.0325-E39; extent: the election boards of three counties

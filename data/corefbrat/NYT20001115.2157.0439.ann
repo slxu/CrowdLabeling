@@ -1,0 +1,80 @@
+T0	ACE-Mention 216 234	The New York Times
+#0	ACE T0	entityID: NYT20001115.2157.0439-E19; extent: The New York Times
+T1	ACE-Mention 293 306	Photo clients
+#1	ACE T1	entityID: NYT20001115.2157.0439-E23; extent: Photo clients
+T2	ACE-Mention 334 337	our
+#2	ACE T2	entityID: NYT20001115.2157.0439-E19; extent: our
+T3	ACE-Mention 349 351	AP
+#3	ACE T3	entityID: NYT20001115.2157.0439-E24; extent: AP
+T4	ACE-Mention 429 435	Dallas
+#4	ACE T4	entityID: NYT20001115.2157.0439-E25; extent: Dallas
+T5	ACE-Mention 529 540	Non-clients
+#5	ACE T5	entityID: NYT20001115.2157.0439-E26; extent: Non-clients
+T6	ACE-Mention 626 643	CAMBRIDGE , Mass.
+#6	ACE T6	entityID: NYT20001115.2157.0439-E27; extent: CAMBRIDGE , Mass.
+T7	ACE-Mention 683 696	Rodney Brooks
+#7	ACE T7	entityID: NYT20001115.2157.0439-E29; extent: Rodney Brooks
+T8	ACE-Mention 699 810	the 45-year-old director of the Artificial Intelligence Laboratory at the Massachusetts Institute of Technology
+#8	ACE T8	entityID: NYT20001115.2157.0439-E29; extent: the 45-year-old director of the Artificial Intelligence Laboratory at the Massachusetts Institute of Technology
+T9	ACE-Mention 831 834	his
+#9	ACE T9	entityID: NYT20001115.2157.0439-E29; extent: his
+T10	ACE-Mention 906 912	Brooks
+#10	ACE T10	entityID: NYT20001115.2157.0439-E29; extent: Brooks
+T11	ACE-Mention 916 924	chairman
+#11	ACE T11	entityID: NYT20001115.2157.0439-E29; extent: chairman
+T12	ACE-Mention 929 952	chief technical officer
+#12	ACE T12	entityID: NYT20001115.2157.0439-E29; extent: chief technical officer
+T13	ACE-Mention 956 962	iRobot
+#13	ACE T13	entityID: NYT20001115.2157.0439-E1; extent: iRobot
+T14	ACE-Mention 965 1091	a 10-year-old robotics company in Cambridge , Mass. , that started out making robots for private missions to the moon and Mars
+#14	ACE T14	entityID: NYT20001115.2157.0439-E1; extent: a 10-year-old robotics company in Cambridge , Mass. , that started out making robots for private missions to the moon and Mars
+T15	ACE-Mention 1095 1101	Brooks
+#15	ACE T15	entityID: NYT20001115.2157.0439-E29; extent: Brooks
+T16	ACE-Mention 1176 1199	Quan/The New York Times
+#16	ACE T16	entityID: NYT20001115.2157.0439-E19; extent: Quan/The New York Times
+T17	ACE-Mention 1550 1577	Cenicola/The New York Times
+#17	ACE T17	entityID: NYT20001115.2157.0439-E19; extent: Cenicola/The New York Times
+T18	ACE-Mention 1659 1667	children
+#18	ACE T18	entityID: NYT20001115.2157.0439-E7; extent: children
+T19	ACE-Mention 2052 2079	Cenicola/The New York Times
+#19	ACE T19	entityID: NYT20001115.2157.0439-E19; extent: Cenicola/The New York Times
+T20	ACE-Mention 2092 2102	WASHINGTON
+#20	ACE T20	entityID: NYT20001115.2157.0439-E8; extent: WASHINGTON
+T21	ACE-Mention 2124 2141	GINGRICH-PORTRAIT
+#21	ACE T21	entityID: NYT20001115.2157.0439-E9; extent: GINGRICH-PORTRAIT
+T22	ACE-Mention 2145 2158	Newt Gingrich
+#22	ACE T22	entityID: NYT20001115.2157.0439-E9; extent: Newt Gingrich
+T23	ACE-Mention 2161 2220	the most divisive figure in the recent history of the House
+#23	ACE T23	entityID: NYT20001115.2157.0439-E9; extent: the most divisive figure in the recent history of the House
+T24	ACE-Mention 2245 2257	both parties
+#24	ACE T24	entityID: NYT20001115.2157.0439-E12; extent: both parties
+T25	ACE-Mention 2305 2334	each other 's political bases
+#25	ACE T25	entityID: NYT20001115.2157.0439-E13; extent: each other 's political bases
+T26	ACE-Mention 2367 2370	his
+#26	ACE T26	entityID: NYT20001115.2157.0439-E9; extent: his
+T27	ACE-Mention 2391 2409	the former speaker
+#27	ACE T27	entityID: NYT20001115.2157.0439-E9; extent: the former speaker
+T28	ACE-Mention 2435 2437	we
+#28	ACE T28	entityID: NYT20001115.2157.0439-E12; extent: we
+T29	ACE-Mention 2460 2515	two warring camps , each fearing and loathing the other
+#29	ACE T29	entityID: NYT20001115.2157.0439-E14; extent: two warring camps , each fearing and loathing the other
+T30	ACE-Mention 2522 2530	Gingrich
+#30	ACE T30	entityID: NYT20001115.2157.0439-E9; extent: Gingrich
+T31	ACE-Mention 2545 2565	speaker of the House
+#31	ACE T31	entityID: NYT20001115.2157.0439-E9; extent: speaker of the House
+T32	ACE-Mention 2572 2587	the Republicans
+#32	ACE T32	entityID: NYT20001115.2157.0439-E15; extent: the Republicans
+T33	ACE-Mention 2610 2619	his party
+#33	ACE T33	entityID: NYT20001115.2157.0439-E15; extent: his party
+T34	ACE-Mention 2638 2655	President Clinton
+#34	ACE T34	entityID: NYT20001115.2157.0439-E16; extent: President Clinton
+T35	ACE-Mention 2659 2667	Gingrich
+#35	ACE T35	entityID: NYT20001115.2157.0439-E9; extent: Gingrich
+T36	ACE-Mention 2688 2691	his
+#36	ACE T36	entityID: NYT20001115.2157.0439-E9; extent: his
+T37	ACE-Mention 2704 2746	Statuary Hall at the Capitol in Washington
+#37	ACE T37	entityID: NYT20001115.2157.0439-E18; extent: Statuary Hall at the Capitol in Washington
+T38	ACE-Mention 2759 2782	Lane/The New York Times
+#38	ACE T38	entityID: NYT20001115.2157.0439-E19; extent: Lane/The New York Times
+T39	ACE-Mention 2785 2803	The New York Times
+#39	ACE T39	entityID: NYT20001115.2157.0439-E19; extent: The New York Times

@@ -1,0 +1,110 @@
+T0	ACE-Mention 109 131	BANDA ACEH , Indonesia
+#0	ACE T0	entityID: APW20001112.0900.0305-E24; extent: BANDA ACEH , Indonesia
+T1	ACE-Mention 132 136	(AP)
+#1	ACE T1	entityID: APW20001112.0900.0305-E49; extent: (AP)
+T2	ACE-Mention 139 145	Police
+#2	ACE T2	entityID: APW20001112.0900.0305-E50; extent: Police
+T3	ACE-Mention 159 179	separatist activists
+#3	ACE T3	entityID: APW20001112.0900.0305-E51; extent: separatist activists
+T4	ACE-Mention 183 218	Indonesia 's war-torn Aceh province
+#4	ACE T4	entityID: APW20001112.0900.0305-E53; extent: Indonesia 's war-torn Aceh province
+T5	ACE-Mention 232 259	tens of thousands of people
+#5	ACE T5	entityID: APW20001112.0900.0305-E1; extent: tens of thousands of people
+T6	ACE-Mention 308 332	The bodies of six people
+#6	ACE T6	entityID: APW20001112.0900.0305-E2; extent: The bodies of six people
+T7	ACE-Mention 347 377	the eastern part of the region
+#7	ACE T7	entityID: APW20001112.0900.0305-E3; extent: the eastern part of the region
+T8	ACE-Mention 445 480	local hospital officials and police
+#8	ACE T8	entityID: APW20001112.0900.0305-E7; extent: local hospital officials and police
+T9	ACE-Mention 489 492	Two
+#9	ACE T9	entityID: APW20001112.0900.0305-E5; extent: Two
+T10	ACE-Mention 498 506	soldiers
+#10	ACE T10	entityID: APW20001112.0900.0305-E5; extent: soldiers
+T11	ACE-Mention 509 513	they
+#11	ACE T11	entityID: APW20001112.0900.0305-E7; extent: they
+T12	ACE-Mention 522 550	Most of the civilian victims
+#12	ACE T12	entityID: APW20001112.0900.0305-E8; extent: Most of the civilian victims
+T13	ACE-Mention 564 579	security forces
+#13	ACE T13	entityID: APW20001112.0900.0305-E10; extent: security forces
+T14	ACE-Mention 583 640	Indonesia 's reformist-minded President Abdurrahman Wahid
+#14	ACE T14	entityID: APW20001112.0900.0305-E11; extent: Indonesia 's reformist-minded President Abdurrahman Wahid
+T15	ACE-Mention 652 671	the army and police
+#15	ACE T15	entityID: APW20001112.0900.0305-E13; extent: the army and police
+T16	ACE-Mention 693 715	the provincial capital
+#16	ACE T16	entityID: APW20001112.0900.0305-E24; extent: the provincial capital
+T17	ACE-Mention 716 726	Banda Aceh
+#17	ACE T17	entityID: APW20001112.0900.0305-E24; extent: Banda Aceh
+T18	ACE-Mention 729 755	Indonesian security forces
+#18	ACE T18	entityID: APW20001112.0900.0305-E14; extent: Indonesian security forces
+T19	ACE-Mention 771 779	two cars
+#19	ACE T19	entityID: APW20001112.0900.0305-E15; extent: two cars
+T20	ACE-Mention 822 841	six local residents
+#20	ACE T20	entityID: APW20001112.0900.0305-E16; extent: six local residents
+T21	ACE-Mention 845 860	Security forces
+#21	ACE T21	entityID: APW20001112.0900.0305-E17; extent: Security forces
+T22	ACE-Mention 871 879	the city
+#22	ACE T22	entityID: APW20001112.0900.0305-E24; extent: the city
+T23	ACE-Mention 883 899	armored vehicles
+#23	ACE T23	entityID: APW20001112.0900.0305-E18; extent: armored vehicles
+T24	ACE-Mention 906 914	officers
+#24	ACE T24	entityID: APW20001112.0900.0305-E19; extent: officers
+T25	ACE-Mention 970 988	separatist leaders
+#25	ACE T25	entityID: APW20001112.0900.0305-E20; extent: separatist leaders
+T26	ACE-Mention 992 998	Police
+#26	ACE T26	entityID: APW20001112.0900.0305-E21; extent: Police
+T27	ACE-Mention 1011 1016	roads
+#27	ACE T27	entityID: APW20001112.0900.0305-E22; extent: roads
+T28	ACE-Mention 1031 1040	thousands
+#28	ACE T28	entityID: APW20001112.0900.0305-E23; extent: thousands
+T29	ACE-Mention 1064 1079	Intercity buses
+#29	ACE T29	entityID: APW20001112.0900.0305-E25; extent: Intercity buses
+T30	ACE-Mention 1098 1109	Local media
+#30	ACE T30	entityID: APW20001112.0900.0305-E26; extent: Local media
+T31	ACE-Mention 1133 1153	up to 100,000 people
+#31	ACE T31	entityID: APW20001112.0900.0305-E27; extent: up to 100,000 people
+T32	ACE-Mention 1174 1184	Banda Aceh
+#32	ACE T32	entityID: APW20001112.0900.0305-E24; extent: Banda Aceh
+T33	ACE-Mention 1199 1203	U.N.
+#33	ACE T33	entityID: APW20001112.0900.0305-E28; extent: U.N.
+T34	ACE-Mention 1242 1251	Witnesses
+#34	ACE T34	entityID: APW20001112.0900.0305-E29; extent: Witnesses
+T35	ACE-Mention 1286 1309	The rally 's organizers
+#35	ACE T35	entityID: APW20001112.0900.0305-E30; extent: The rally 's organizers
+T36	ACE-Mention 1318 1333	security forces
+#36	ACE T36	entityID: APW20001112.0900.0305-E31; extent: security forces
+T37	ACE-Mention 1348 1374	pro-independence residents
+#37	ACE T37	entityID: APW20001112.0900.0305-E32; extent: pro-independence residents
+T38	ACE-Mention 1389 1400	the capital
+#38	ACE T38	entityID: APW20001112.0900.0305-E24; extent: the capital
+T39	ACE-Mention 1443 1470	an estimated 250,000 people
+#39	ACE T39	entityID: APW20001112.0900.0305-E33; extent: an estimated 250,000 people
+T40	ACE-Mention 1474 1485	Separatists
+#40	ACE T40	entityID: APW20001112.0900.0305-E34; extent: Separatists
+T41	ACE-Mention 1529 1613	Aceh , which is rich in oil and gas and has a population of about 4.1 million people
+#41	ACE T41	entityID: APW20001112.0900.0305-E53; extent: Aceh , which is rich in oil and gas and has a population of about 4.1 million people
+T42	ACE-Mention 1617 1638	At least 5,500 people
+#42	ACE T42	entityID: APW20001112.0900.0305-E35; extent: At least 5,500 people
+T43	ACE-Mention 1656 1661	there
+#43	ACE T43	entityID: APW20001112.0900.0305-E53; extent: there
+T44	ACE-Mention 1684 1698	The government
+#44	ACE T44	entityID: APW20001112.0900.0305-E53; extent: The government
+T45	ACE-Mention 1718 1733	the rebel group
+#45	ACE T45	entityID: APW20001112.0900.0305-E36; extent: the rebel group
+T46	ACE-Mention 1736 1758	the Free Aceh Movement
+#46	ACE T46	entityID: APW20001112.0900.0305-E36; extent: the Free Aceh Movement
+T47	ACE-Mention 1764 1775	Switzerland
+#47	ACE T47	entityID: APW20001112.0900.0305-E38; extent: Switzerland
+T48	ACE-Mention 1839 1849	Both sides
+#48	ACE T48	entityID: APW20001112.0900.0305-E39; extent: Both sides
+T49	ACE-Mention 1868 1874	Geneva
+#49	ACE T49	entityID: APW20001112.0900.0305-E40; extent: Geneva
+T50	ACE-Mention 1928 1947	at least 227 people
+#50	ACE T50	entityID: APW20001112.0900.0305-E41; extent: at least 227 people
+T51	ACE-Mention 1974 2015	a U.N. Security Council fact-finding team
+#51	ACE T51	entityID: APW20001112.0900.0305-E42; extent: a U.N. Security Council fact-finding team
+T52	ACE-Mention 2034 2087	East Timor , which won broke from Indonesia last year
+#52	ACE T52	entityID: APW20001112.0900.0305-E44; extent: East Timor , which won broke from Indonesia last year
+T53	ACE-Mention 2143 2153	the island
+#53	ACE T53	entityID: APW20001112.0900.0305-E45; extent: the island
+T54	ACE-Mention 2174 2221	three U.N. aid workers in Indonesian West Timor
+#54	ACE T54	entityID: APW20001112.0900.0305-E46; extent: three U.N. aid workers in Indonesian West Timor

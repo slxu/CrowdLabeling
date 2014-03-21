@@ -1,0 +1,66 @@
+T0	ACE-Mention 236 255	A computer intruder
+#0	ACE T0	entityID: NYT20001212.2027.0351-E14; extent: A computer intruder
+T1	ACE-Mention 306 319	Creditcards .
+#1	ACE T1	entityID: NYT20001212.2027.0351-E15; extent: Creditcards .
+T2	ACE-Mention 327 391	a company that serves dozens of small and medium-sized merchants
+#2	ACE T2	entityID: NYT20001212.2027.0351-E16; extent: a company that serves dozens of small and medium-sized merchants
+T3	ACE-Mention 506 533	A spokesman for the company
+#3	ACE T3	entityID: NYT20001212.2027.0351-E18; extent: A spokesman for the company
+T4	ACE-Mention 536 548	Laurent Jean
+#4	ACE T4	entityID: NYT20001212.2027.0351-E18; extent: Laurent Jean
+T5	ACE-Mention 569 571	We
+#5	ACE T5	entityID: NYT20001212.2027.0351-E15; extent: We
+T6	ACE-Mention 657 664	the FBI
+#6	ACE T6	entityID: NYT20001212.2027.0351-E20; extent: the FBI
+T7	ACE-Mention 671 681	The bureau
+#7	ACE T7	entityID: NYT20001212.2027.0351-E20; extent: The bureau
+T8	ACE-Mention 697 699	it
+#8	ACE T8	entityID: NYT20001212.2027.0351-E20; extent: it
+T9	ACE-Mention 763 769	Cnet .
+#9	ACE T9	entityID: NYT20001212.2027.0351-E21; extent: Cnet .
+T10	ACE-Mention 778 813	A person close to the investigation
+#10	ACE T10	entityID: NYT20001212.2027.0351-E22; extent: A person close to the investigation
+T11	ACE-Mention 819 831	the intruder
+#11	ACE T11	entityID: NYT20001212.2027.0351-E14; extent: the intruder
+T12	ACE-Mention 842 853	the company
+#12	ACE T12	entityID: NYT20001212.2027.0351-E15; extent: the company
+T13	ACE-Mention 988 999	the company
+#13	ACE T13	entityID: NYT20001212.2027.0351-E15; extent: the company
+T14	ACE-Mention 1014 1027	Creditcards .
+#14	ACE T14	entityID: NYT20001212.2027.0351-E16; extent: Creditcards .
+T15	ACE-Mention 1029 1040	com clients
+#15	ACE T15	entityID: NYT20001212.2027.0351-E24; extent: com clients
+T16	ACE-Mention 1049 1072	the online fitness site
+#16	ACE T16	entityID: NYT20001212.2027.0351-E1; extent: the online fitness site
+T17	ACE-Mention 1073 1090	Premier Solutions
+#17	ACE T17	entityID: NYT20001212.2027.0351-E1; extent: Premier Solutions
+T18	ACE-Mention 1093 1106	Rock the Vote
+#18	ACE T18	entityID: NYT20001212.2027.0351-E3; extent: Rock the Vote
+T19	ACE-Mention 1109 1136	Christian Concert Authority
+#19	ACE T19	entityID: NYT20001212.2027.0351-E4; extent: Christian Concert Authority
+T20	ACE-Mention 1141 1149	Spy Gate
+#20	ACE T20	entityID: NYT20001212.2027.0351-E5; extent: Spy Gate
+T21	ACE-Mention 1156 1158	We
+#21	ACE T21	entityID: NYT20001212.2027.0351-E15; extent: We
+T22	ACE-Mention 1164 1168	your
+#22	ACE T22	entityID: NYT20001212.2027.0351-E6; extent: your
+T23	ACE-Mention 1196 1199	its
+#23	ACE T23	entityID: NYT20001212.2027.0351-E15; extent: its
+T24	ACE-Mention 1233 1236	its
+#24	ACE T24	entityID: NYT20001212.2027.0351-E15; extent: its
+T25	ACE-Mention 1277 1290	Creditcards .
+#25	ACE T25	entityID: NYT20001212.2027.0351-E7; extent: Creditcards .
+T26	ACE-Mention 1427 1452	An online security expert
+#26	ACE T26	entityID: NYT20001212.2027.0351-E8; extent: An online security expert
+T27	ACE-Mention 1499 1508	companies
+#27	ACE T27	entityID: NYT20001212.2027.0351-E9; extent: companies
+T28	ACE-Mention 1570 1575	their
+#28	ACE T28	entityID: NYT20001212.2027.0351-E9; extent: their
+T29	ACE-Mention 1592 1596	Your
+#29	ACE T29	entityID: NYT20001212.2027.0351-E10; extent: Your
+T30	ACE-Mention 1668 1678	the expert
+#30	ACE T30	entityID: NYT20001212.2027.0351-E8; extent: the expert
+T31	ACE-Mention 1681 1707	B.K. DeLong of Attrition .
+#31	ACE T31	entityID: NYT20001212.2027.0351-E8; extent: B.K. DeLong of Attrition .
+T32	ACE-Mention 1715 1749	a nonprofit computer security site
+#32	ACE T32	entityID: NYT20001212.2027.0351-E12; extent: a nonprofit computer security site

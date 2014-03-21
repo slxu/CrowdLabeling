@@ -1,0 +1,234 @@
+T0	ACE-Mention 464 483	LONGBOAT KEY , Fla.
+#0	ACE T0	entityID: NYT20001008.2100.0120-E21; extent: LONGBOAT KEY , Fla.
+T1	ACE-Mention 489 511	Vice President Al Gore
+#1	ACE T1	entityID: NYT20001008.2100.0120-E68; extent: Vice President Al Gore
+T2	ACE-Mention 545 548	his
+#2	ACE T2	entityID: NYT20001008.2100.0120-E68; extent: his
+T3	ACE-Mention 563 575	his campaign
+#3	ACE T3	entityID: NYT20001008.2100.0120-E70; extent: his campaign
+T4	ACE-Mention 580 601	Democratic surrogates
+#4	ACE T4	entityID: NYT20001008.2100.0120-E71; extent: Democratic surrogates
+T5	ACE-Mention 661 665	Bush
+#5	ACE T5	entityID: NYT20001008.2100.0120-E32; extent: Bush
+T6	ACE-Mention 670 673	his
+#6	ACE T6	entityID: NYT20001008.2100.0120-E32; extent: his
+T7	ACE-Mention 684 689	Texas
+#7	ACE T7	entityID: NYT20001008.2100.0120-E41; extent: Texas
+T8	ACE-Mention 694 697	his
+#8	ACE T8	entityID: NYT20001008.2100.0120-E32; extent: his
+T9	ACE-Mention 731 741	Gore aides
+#9	ACE T9	entityID: NYT20001008.2100.0120-E75; extent: Gore aides
+T10	ACE-Mention 761 771	Democratic
+#10	ACE T10	entityID: NYT20001008.2100.0120-E76; extent: Democratic
+T11	ACE-Mention 791 795	Gore
+#11	ACE T11	entityID: NYT20001008.2100.0120-E68; extent: Gore
+T12	ACE-Mention 823 832	his aides
+#12	ACE T12	entityID: NYT20001008.2100.0120-E77; extent: his aides
+T13	ACE-Mention 836 838	he
+#13	ACE T13	entityID: NYT20001008.2100.0120-E68; extent: he
+T14	ACE-Mention 852 855	his
+#14	ACE T14	entityID: NYT20001008.2100.0120-E68; extent: his
+T15	ACE-Mention 908 917	his aides
+#15	ACE T15	entityID: NYT20001008.2100.0120-E77; extent: his aides
+T16	ACE-Mention 944 949	their
+#16	ACE T16	entityID: NYT20001008.2100.0120-E77; extent: their
+T17	ACE-Mention 960 964	Gore
+#17	ACE T17	entityID: NYT20001008.2100.0120-E68; extent: Gore
+T18	ACE-Mention 975 978	his
+#18	ACE T18	entityID: NYT20001008.2100.0120-E68; extent: his
+T19	ACE-Mention 1024 1032	teachers
+#19	ACE T19	entityID: NYT20001008.2100.0120-E1; extent: teachers
+T20	ACE-Mention 1035 1043	students
+#20	ACE T20	entityID: NYT20001008.2100.0120-E2; extent: students
+T21	ACE-Mention 1048 1055	parents
+#21	ACE T21	entityID: NYT20001008.2100.0120-E3; extent: parents
+T22	ACE-Mention 1086 1113	his residence in Washington
+#22	ACE T22	entityID: NYT20001008.2100.0120-E4; extent: his residence in Washington
+T23	ACE-Mention 1117 1119	He
+#23	ACE T23	entityID: NYT20001008.2100.0120-E68; extent: He
+T24	ACE-Mention 1133 1164	this beach resort near Sarasota
+#24	ACE T24	entityID: NYT20001008.2100.0120-E6; extent: this beach resort near Sarasota
+T25	ACE-Mention 1230 1234	Bush
+#25	ACE T25	entityID: NYT20001008.2100.0120-E32; extent: Bush
+T26	ACE-Mention 1238 1258	Winston-Salem , N.C.
+#26	ACE T26	entityID: NYT20001008.2100.0120-E9; extent: Winston-Salem , N.C.
+T27	ACE-Mention 1315 1460	Gore 's surrogates , including his running mate , Sen. Joseph Lieberman , and the Democratic National Committee 's national chairman , Joe Andrew
+#27	ACE T27	entityID: NYT20001008.2100.0120-E11; extent: Gore 's surrogates , including his running mate , Sen. Joseph Lieberman , and the Democratic National Committee 's national chairman , Joe Andrew
+T28	ACE-Mention 1513 1536	Gore 's press secretary
+#28	ACE T28	entityID: NYT20001008.2100.0120-E18; extent: Gore 's press secretary
+T29	ACE-Mention 1539 1551	Chris Lehane
+#29	ACE T29	entityID: NYT20001008.2100.0120-E18; extent: Chris Lehane
+T30	ACE-Mention 1589 1599	Gore aides
+#30	ACE T30	entityID: NYT20001008.2100.0120-E20; extent: Gore aides
+T31	ACE-Mention 1621 1636	their candidate
+#31	ACE T31	entityID: NYT20001008.2100.0120-E68; extent: their candidate
+T32	ACE-Mention 1653 1665	The governor
+#32	ACE T32	entityID: NYT20001008.2100.0120-E32; extent: The governor
+T33	ACE-Mention 1733 1736	his
+#33	ACE T33	entityID: NYT20001008.2100.0120-E32; extent: his
+T34	ACE-Mention 1755 1761	Lehane
+#34	ACE T34	entityID: NYT20001008.2100.0120-E18; extent: Lehane
+T35	ACE-Mention 1784 1786	he
+#35	ACE T35	entityID: NYT20001008.2100.0120-E32; extent: he
+T36	ACE-Mention 1803 1809	Quayle
+#36	ACE T36	entityID: NYT20001008.2100.0120-E22; extent: Quayle
+T37	ACE-Mention 1849 1956	former Vice President Dan Quayle , who was renowned for his verbal slips while serving under Bush 's father
+#37	ACE T37	entityID: NYT20001008.2100.0120-E22; extent: former Vice President Dan Quayle , who was renowned for his verbal slips while serving under Bush 's father
+T38	ACE-Mention 1972 1987	Mark D. Fabiani
+#38	ACE T38	entityID: NYT20001008.2100.0120-E26; extent: Mark D. Fabiani
+T39	ACE-Mention 1990 2021	Gore 's deputy campaign manager
+#39	ACE T39	entityID: NYT20001008.2100.0120-E26; extent: Gore 's deputy campaign manager
+T40	ACE-Mention 2029 2032	CNN
+#40	ACE T40	entityID: NYT20001008.2100.0120-E28; extent: CNN
+T41	ACE-Mention 2067 2071	Bush
+#41	ACE T41	entityID: NYT20001008.2100.0120-E32; extent: Bush
+T42	ACE-Mention 2092 2094	he
+#42	ACE T42	entityID: NYT20001008.2100.0120-E32; extent: he
+T43	ACE-Mention 2132 2135	his
+#43	ACE T43	entityID: NYT20001008.2100.0120-E32; extent: his
+T44	ACE-Mention 2188 2195	Florida
+#44	ACE T44	entityID: NYT20001008.2100.0120-E58; extent: Florida
+T45	ACE-Mention 2199 2209	Gore aides
+#45	ACE T45	entityID: NYT20001008.2100.0120-E29; extent: Gore aides
+T46	ACE-Mention 2215 2227	the campaign
+#46	ACE T46	entityID: NYT20001008.2100.0120-E70; extent: the campaign
+T47	ACE-Mention 2267 2271	Bush
+#47	ACE T47	entityID: NYT20001008.2100.0120-E32; extent: Bush
+T48	ACE-Mention 2432 2446	the candidates
+#48	ACE T48	entityID: NYT20001008.2100.0120-E30; extent: the candidates
+T49	ACE-Mention 2487 2504	the Bush campaign
+#49	ACE T49	entityID: NYT20001008.2100.0120-E31; extent: the Bush campaign
+T50	ACE-Mention 2525 2529	Gore
+#50	ACE T50	entityID: NYT20001008.2100.0120-E68; extent: Gore
+T51	ACE-Mention 2533 2558	a `` serial exaggerator .
+#51	ACE T51	entityID: NYT20001008.2100.0120-E33; extent: a `` serial exaggerator .
+T52	ACE-Mention 2595 2619	Bush 's chief strategist
+#52	ACE T52	entityID: NYT20001008.2100.0120-E34; extent: Bush 's chief strategist
+T53	ACE-Mention 2622 2631	Karl Rove
+#53	ACE T53	entityID: NYT20001008.2100.0120-E34; extent: Karl Rove
+T54	ACE-Mention 2653 2656	CNN
+#54	ACE T54	entityID: NYT20001008.2100.0120-E28; extent: CNN
+T55	ACE-Mention 2668 2672	Gore
+#55	ACE T55	entityID: NYT20001008.2100.0120-E68; extent: Gore
+T56	ACE-Mention 2696 2725	Democratic National Committee
+#56	ACE T56	entityID: NYT20001008.2100.0120-E17; extent: Democratic National Committee
+T57	ACE-Mention 2758 2762	Bush
+#57	ACE T57	entityID: NYT20001008.2100.0120-E32; extent: Bush
+T58	ACE-Mention 2846 2874	individual cities and states
+#58	ACE T58	entityID: NYT20001008.2100.0120-E37; extent: individual cities and states
+T59	ACE-Mention 2945 2978	environmentally conscious Seattle
+#59	ACE T59	entityID: NYT20001008.2100.0120-E38; extent: environmentally conscious Seattle
+T60	ACE-Mention 3033 3040	Houston
+#60	ACE T60	entityID: NYT20001008.2100.0120-E39; extent: Houston
+T61	ACE-Mention 3054 3061	viewers
+#61	ACE T61	entityID: NYT20001008.2100.0120-E40; extent: viewers
+T62	ACE-Mention 3099 3106	Seattle
+#62	ACE T62	entityID: NYT20001008.2100.0120-E38; extent: Seattle
+T63	ACE-Mention 3112 3116	Bush
+#63	ACE T63	entityID: NYT20001008.2100.0120-E32; extent: Bush
+T64	ACE-Mention 3120 3131	Texas-style
+#64	ACE T64	entityID: NYT20001008.2100.0120-E41; extent: Texas-style
+T65	ACE-Mention 3195 3199	Iowa
+#65	ACE T65	entityID: NYT20001008.2100.0120-E42; extent: Iowa
+T66	ACE-Mention 3209 3214	Texas
+#66	ACE T66	entityID: NYT20001008.2100.0120-E41; extent: Texas
+T67	ACE-Mention 3257 3264	student
+#67	ACE T67	entityID: NYT20001008.2100.0120-E43; extent: student
+T68	ACE-Mention 3282 3286	Iowa
+#68	ACE T68	entityID: NYT20001008.2100.0120-E42; extent: Iowa
+T69	ACE-Mention 3323 3332	Lieberman
+#69	ACE T69	entityID: NYT20001008.2100.0120-E12; extent: Lieberman
+T70	ACE-Mention 3355 3360	Texas
+#70	ACE T70	entityID: NYT20001008.2100.0120-E41; extent: Texas
+T71	ACE-Mention 3412 3418	Andrew
+#71	ACE T71	entityID: NYT20001008.2100.0120-E15; extent: Andrew
+T72	ACE-Mention 3462 3466	here
+#72	ACE T72	entityID: NYT20001008.2100.0120-E21; extent: here
+T73	ACE-Mention 3480 3528	Other surrogates , including members of Congress
+#73	ACE T73	entityID: NYT20001008.2100.0120-E44; extent: Other surrogates , including members of Congress
+T74	ACE-Mention 3556 3572	Douglas Hattaway
+#74	ACE T74	entityID: NYT20001008.2100.0120-E47; extent: Douglas Hattaway
+T75	ACE-Mention 3575 3591	a Gore spokesman
+#75	ACE T75	entityID: NYT20001008.2100.0120-E47; extent: a Gore spokesman
+T76	ACE-Mention 3674 3683	Lieberman
+#76	ACE T76	entityID: NYT20001008.2100.0120-E12; extent: Lieberman
+T77	ACE-Mention 3687 3689	He
+#77	ACE T77	entityID: NYT20001008.2100.0120-E12; extent: He
+T78	ACE-Mention 3702 3709	Houston
+#78	ACE T78	entityID: NYT20001008.2100.0120-E39; extent: Houston
+T79	ACE-Mention 3738 3742	Bush
+#79	ACE T79	entityID: NYT20001008.2100.0120-E32; extent: Bush
+T80	ACE-Mention 3770 3809	a park in the shadow of an oil refinery
+#80	ACE T80	entityID: NYT20001008.2100.0120-E49; extent: a park in the shadow of an oil refinery
+T81	ACE-Mention 3813 3822	Lieberman
+#81	ACE T81	entityID: NYT20001008.2100.0120-E12; extent: Lieberman
+T82	ACE-Mention 3861 3865	Bush
+#82	ACE T82	entityID: NYT20001008.2100.0120-E32; extent: Bush
+T83	ACE-Mention 3926 3929	CNN
+#83	ACE T83	entityID: NYT20001008.2100.0120-E28; extent: CNN
+T84	ACE-Mention 3953 3964	George Bush
+#84	ACE T84	entityID: NYT20001008.2100.0120-E32; extent: George Bush
+T85	ACE-Mention 3997 4002	Texas
+#85	ACE T85	entityID: NYT20001008.2100.0120-E41; extent: Texas
+T86	ACE-Mention 4020 4022	he
+#86	ACE T86	entityID: NYT20001008.2100.0120-E12; extent: he
+T87	ACE-Mention 4034 4038	They
+#87	ACE T87	entityID: NYT20001008.2100.0120-E41; extent: They
+T88	ACE-Mention 4075 4082	America
+#88	ACE T88	entityID: NYT20001008.2100.0120-E51; extent: America
+T89	ACE-Mention 4086 4093	Houston
+#89	ACE T89	entityID: NYT20001008.2100.0120-E39; extent: Houston
+T90	ACE-Mention 4097 4114	the dirtiest city
+#90	ACE T90	entityID: NYT20001008.2100.0120-E39; extent: the dirtiest city
+T91	ACE-Mention 4118 4133	Kids in Houston
+#91	ACE T91	entityID: NYT20001008.2100.0120-E53; extent: Kids in Houston
+T92	ACE-Mention 4154 4158	they
+#92	ACE T92	entityID: NYT20001008.2100.0120-E53; extent: they
+T93	ACE-Mention 4194 4214	the school officials
+#93	ACE T93	entityID: NYT20001008.2100.0120-E54; extent: the school officials
+T94	ACE-Mention 4218 4237	the local officials
+#94	ACE T94	entityID: NYT20001008.2100.0120-E56; extent: the local officials
+T95	ACE-Mention 4302 4306	Bush
+#95	ACE T95	entityID: NYT20001008.2100.0120-E32; extent: Bush
+T96	ACE-Mention 4354 4373	the Gore surrogates
+#96	ACE T96	entityID: NYT20001008.2100.0120-E57; extent: the Gore surrogates
+T97	ACE-Mention 4403 4407	Bush
+#97	ACE T97	entityID: NYT20001008.2100.0120-E32; extent: Bush
+T98	ACE-Mention 4462 4479	concealed weapons
+#98	ACE T98	entityID: NYT20001008.2100.0120-E59; extent: concealed weapons
+T99	ACE-Mention 4483 4491	churches
+#99	ACE T99	entityID: NYT20001008.2100.0120-E60; extent: churches
+T100	ACE-Mention 4494 4503	hospitals
+#100	ACE T100	entityID: NYT20001008.2100.0120-E61; extent: hospitals
+T101	ACE-Mention 4508 4521	nursing homes
+#101	ACE T101	entityID: NYT20001008.2100.0120-E62; extent: nursing homes
+T102	ACE-Mention 4524 4534	Gore aides
+#102	ACE T102	entityID: NYT20001008.2100.0120-E63; extent: Gore aides
+T103	ACE-Mention 4543 4560	The Gore campaign
+#103	ACE T103	entityID: NYT20001008.2100.0120-E70; extent: The Gore campaign
+T104	ACE-Mention 4576 4581	aides
+#104	ACE T104	entityID: NYT20001008.2100.0120-E64; extent: aides
+T105	ACE-Mention 4631 4635	Bush
+#105	ACE T105	entityID: NYT20001008.2100.0120-E32; extent: Bush
+T106	ACE-Mention 4691 4694	its
+#106	ACE T106	entityID: NYT20001008.2100.0120-E70; extent: its
+T107	ACE-Mention 4711 4714	his
+#107	ACE T107	entityID: NYT20001008.2100.0120-E32; extent: his
+T108	ACE-Mention 4741 4744	his
+#108	ACE T108	entityID: NYT20001008.2100.0120-E32; extent: his
+T109	ACE-Mention 4769 4802	The Democratic National Committee
+#109	ACE T109	entityID: NYT20001008.2100.0120-E17; extent: The Democratic National Committee
+T110	ACE-Mention 4890 4905	Jennifer Backus
+#110	ACE T110	entityID: NYT20001008.2100.0120-E65; extent: Jennifer Backus
+T111	ACE-Mention 4908 4927	a party spokeswoman
+#111	ACE T111	entityID: NYT20001008.2100.0120-E65; extent: a party spokeswoman
+T112	ACE-Mention 4931 4937	Lehane
+#112	ACE T112	entityID: NYT20001008.2100.0120-E18; extent: Lehane
+T113	ACE-Mention 4985 4989	Bush
+#113	ACE T113	entityID: NYT20001008.2100.0120-E32; extent: Bush
+T114	ACE-Mention 5007 5017	a reporter
+#114	ACE T114	entityID: NYT20001008.2100.0120-E67; extent: a reporter
+T115	ACE-Mention 5044 5048	Bush
+#115	ACE T115	entityID: NYT20001008.2100.0120-E32; extent: Bush
+T116	ACE-Mention 5138 5141	his
+#116	ACE T116	entityID: NYT20001008.2100.0120-E32; extent: his
