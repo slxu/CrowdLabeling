@@ -1,0 +1,22 @@
+T0	ACE-Mention 114 124	WASHINGTON
+#0	ACE T0	entityID: APW20001124.1445.0280-E1; extent: WASHINGTON
+T1	ACE-Mention 125 129	(AP)
+#1	ACE T1	entityID: APW20001124.1445.0280-E2; extent: (AP)
+T2	ACE-Mention 132 182	Republican vice presidential candidate Dick Cheney
+#2	ACE T2	entityID: APW20001124.1445.0280-E3; extent: Republican vice presidential candidate Dick Cheney
+T3	ACE-Mention 193 203	his doctor
+#3	ACE T3	entityID: APW20001124.1445.0280-E6; extent: his doctor
+T4	ACE-Mention 277 289	the hospital
+#4	ACE T4	entityID: APW20001124.1445.0280-E7; extent: the hospital
+T5	ACE-Mention 303 305	He
+#5	ACE T5	entityID: APW20001124.1445.0280-E3; extent: He
+T6	ACE-Mention 330 369	Cheney chief of staff Kathleen Shanahan
+#6	ACE T6	entityID: APW20001124.1445.0280-E8; extent: Cheney chief of staff Kathleen Shanahan
+T7	ACE-Mention 373 418	The 59-year-old Cheney 's examining physician
+#7	ACE T7	entityID: APW20001124.1445.0280-E6; extent: The 59-year-old Cheney 's examining physician
+T8	ACE-Mention 433 444	the patient
+#8	ACE T8	entityID: APW20001124.1445.0280-E3; extent: the patient
+T9	ACE-Mention 476 478	he
+#9	ACE T9	entityID: APW20001124.1445.0280-E3; extent: he
+T10	ACE-Mention 538 575	George Washington University Hospital
+#10	ACE T10	entityID: APW20001124.1445.0280-E7; extent: George Washington University Hospital

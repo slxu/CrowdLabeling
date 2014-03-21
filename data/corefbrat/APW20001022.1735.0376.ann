@@ -1,0 +1,40 @@
+T0	ACE-Mention 107 119	ROME , Italy
+#0	ACE T0	entityID: APW20001022.1735.0376-E21; extent: ROME , Italy
+T1	ACE-Mention 120 124	(AP)
+#1	ACE T1	entityID: APW20001022.1735.0376-E23; extent: (AP)
+T2	ACE-Mention 127 170	A little mountain village in northern Italy
+#2	ACE T2	entityID: APW20001022.1735.0376-E24; extent: A little mountain village in northern Italy
+T3	ACE-Mention 178 243	five victims of last week 's devastating high water and mudslides
+#3	ACE T3	entityID: APW20001022.1735.0376-E26; extent: five victims of last week 's devastating high water and mudslides
+T4	ACE-Mention 327 369	the region , including the raging Po River
+#4	ACE T4	entityID: APW20001022.1735.0376-E27; extent: the region , including the raging Po River
+T5	ACE-Mention 399 411	the Adriatic
+#5	ACE T5	entityID: APW20001022.1735.0376-E29; extent: the Adriatic
+T6	ACE-Mention 453 475	Some roads and bridges
+#6	ACE T6	entityID: APW20001022.1735.0376-E30; extent: Some roads and bridges
+T7	ACE-Mention 529 538	officials
+#7	ACE T7	entityID: APW20001022.1735.0376-E31; extent: officials
+T8	ACE-Mention 636 696	the Alpine region of northern Italy and southern Switzerland
+#8	ACE T8	entityID: APW20001022.1735.0376-E32; extent: the Alpine region of northern Italy and southern Switzerland
+T9	ACE-Mention 700 717	Eighteen of those
+#9	ACE T9	entityID: APW20001022.1735.0376-E1; extent: Eighteen of those
+T10	ACE-Mention 728 766	the Valle d 'Aosta in the Italian Alps
+#10	ACE T10	entityID: APW20001022.1735.0376-E2; extent: the Valle d 'Aosta in the Italian Alps
+T11	ACE-Mention 773 851	the church of San Maurizio in Fenis , a mountain hamlet near the city of Aosta
+#11	ACE T11	entityID: APW20001022.1735.0376-E4; extent: the church of San Maurizio in Fenis , a mountain hamlet near the city of Aosta
+T12	ACE-Mention 854 863	villagers
+#12	ACE T12	entityID: APW20001022.1735.0376-E9; extent: villagers
+T13	ACE-Mention 893 911	five local victims
+#13	ACE T13	entityID: APW20001022.1735.0376-E10; extent: five local victims
+T14	ACE-Mention 921 925	them
+#14	ACE T14	entityID: APW20001022.1735.0376-E10; extent: them
+T15	ACE-Mention 928 1019	double losses for two families _ a father and son in one , a mother and daughter in another
+#15	ACE T15	entityID: APW20001022.1735.0376-E11; extent: double losses for two families _ a father and son in one , a mother and daughter in another
+T16	ACE-Mention 1041 1081	communities throughout the stricken area
+#16	ACE T16	entityID: APW20001022.1735.0376-E17; extent: communities throughout the stricken area
+T17	ACE-Mention 1148 1157	thousands
+#17	ACE T17	entityID: APW20001022.1735.0376-E18; extent: thousands
+T18	ACE-Mention 1190 1221	their drenched or damaged homes
+#18	ACE T18	entityID: APW20001022.1735.0376-E19; extent: their drenched or damaged homes
+T19	ACE-Mention 1265 1276	Authorities
+#19	ACE T19	entityID: APW20001022.1735.0376-E20; extent: Authorities

@@ -1,0 +1,162 @@
+T0	ACE-Mention 105 111	MOSCOW
+#0	ACE T0	entityID: APW20001208.1126.0362-E24; extent: MOSCOW
+T1	ACE-Mention 112 116	(AP)
+#1	ACE T1	entityID: APW20001208.1126.0362-E48; extent: (AP)
+T2	ACE-Mention 119 136	Russian lawmakers
+#2	ACE T2	entityID: APW20001208.1126.0362-E49; extent: Russian lawmakers
+T3	ACE-Mention 175 181	Soviet
+#3	ACE T3	entityID: APW20001208.1126.0362-E51; extent: Soviet
+T4	ACE-Mention 192 198	Russia
+#4	ACE T4	entityID: APW20001208.1126.0362-E50; extent: Russia
+T5	ACE-Mention 236 240	some
+#5	ACE T5	entityID: APW20001208.1126.0362-E53; extent: some
+T6	ACE-Mention 289 295	others
+#6	ACE T6	entityID: APW20001208.1126.0362-E54; extent: others
+T7	ACE-Mention 322 332	the nation
+#7	ACE T7	entityID: APW20001208.1126.0362-E50; extent: the nation
+T8	ACE-Mention 357 402	The State Duma , or lower house of parliament
+#8	ACE T8	entityID: APW20001208.1126.0362-E41; extent: The State Duma , or lower house of parliament
+T9	ACE-Mention 469 493	President Vladimir Putin
+#9	ACE T9	entityID: APW20001208.1126.0362-E57; extent: President Vladimir Putin
+T10	ACE-Mention 542 571	composer Alexander Alexandrov
+#10	ACE T10	entityID: APW20001208.1126.0362-E1; extent: composer Alexander Alexandrov
+T11	ACE-Mention 623 640	Communist leaders
+#11	ACE T11	entityID: APW20001208.1126.0362-E4; extent: Communist leaders
+T12	ACE-Mention 641 655	Vladimir Lenin
+#12	ACE T12	entityID: APW20001208.1126.0362-E3; extent: Vladimir Lenin
+T13	ACE-Mention 660 672	Josef Stalin
+#13	ACE T13	entityID: APW20001208.1126.0362-E47; extent: Josef Stalin
+T14	ACE-Mention 706 714	the Duma
+#14	ACE T14	entityID: APW20001208.1126.0362-E41; extent: the Duma
+T15	ACE-Mention 755 766	the country
+#15	ACE T15	entityID: APW20001208.1126.0362-E50; extent: the country
+T16	ACE-Mention 805 811	Russia
+#16	ACE T16	entityID: APW20001208.1126.0362-E50; extent: Russia
+T17	ACE-Mention 870 880	Soviet-era
+#17	ACE T17	entityID: APW20001208.1126.0362-E51; extent: Soviet-era
+T18	ACE-Mention 895 907	the military
+#18	ACE T18	entityID: APW20001208.1126.0362-E5; extent: the military
+T19	ACE-Mention 967 972	state
+#19	ACE T19	entityID: APW20001208.1126.0362-E50; extent: state
+T20	ACE-Mention 983 988	Putin
+#20	ACE T20	entityID: APW20001208.1126.0362-E57; extent: Putin
+T21	ACE-Mention 1017 1024	Russian
+#21	ACE T21	entityID: APW20001208.1126.0362-E50; extent: Russian
+T22	ACE-Mention 1029 1035	Soviet
+#22	ACE T22	entityID: APW20001208.1126.0362-E51; extent: Soviet
+T23	ACE-Mention 1141 1143	He
+#23	ACE T23	entityID: APW20001208.1126.0362-E57; extent: He
+T24	ACE-Mention 1183 1194	most people
+#24	ACE T24	entityID: APW20001208.1126.0362-E6; extent: most people
+T25	ACE-Mention 1202 1212	Alexandrov
+#25	ACE T25	entityID: APW20001208.1126.0362-E1; extent: Alexandrov
+T26	ACE-Mention 1237 1273	19th-century composer Mikhail Glinka
+#26	ACE T26	entityID: APW20001208.1126.0362-E7; extent: 19th-century composer Mikhail Glinka
+T27	ACE-Mention 1291 1297	Russia
+#27	ACE T27	entityID: APW20001208.1126.0362-E50; extent: Russia
+T28	ACE-Mention 1323 1329	Soviet
+#28	ACE T28	entityID: APW20001208.1126.0362-E51; extent: Soviet
+T29	ACE-Mention 1342 1361	Liberal politicians
+#29	ACE T29	entityID: APW20001208.1126.0362-E9; extent: Liberal politicians
+T30	ACE-Mention 1366 1395	many leading cultural figures
+#30	ACE T30	entityID: APW20001208.1126.0362-E10; extent: many leading cultural figures
+T31	ACE-Mention 1443 1449	Soviet
+#31	ACE T31	entityID: APW20001208.1126.0362-E51; extent: Soviet
+T32	ACE-Mention 1507 1509	We
+#32	ACE T32	entityID: APW20001208.1126.0362-E11; extent: We
+T33	ACE-Mention 1591 1610	millions of victims
+#33	ACE T33	entityID: APW20001208.1126.0362-E12; extent: millions of victims
+T34	ACE-Mention 1621 1638	Grigory Yavlinsky
+#34	ACE T34	entityID: APW20001208.1126.0362-E13; extent: Grigory Yavlinsky
+T35	ACE-Mention 1641 1680	the head of the liberal Yabloko faction
+#35	ACE T35	entityID: APW20001208.1126.0362-E13; extent: the head of the liberal Yabloko faction
+T36	ACE-Mention 1684 1691	Yabloko
+#36	ACE T36	entityID: APW20001208.1126.0362-E15; extent: Yabloko
+T37	ACE-Mention 1696 1719	another liberal faction
+#37	ACE T37	entityID: APW20001208.1126.0362-E17; extent: another liberal faction
+T38	ACE-Mention 1722 1747	the Union of Right Forces
+#38	ACE T38	entityID: APW20001208.1126.0362-E17; extent: the Union of Right Forces
+T39	ACE-Mention 1755 1759	they
+#39	ACE T39	entityID: APW20001208.1126.0362-E19; extent: they
+T40	ACE-Mention 1791 1815	the Constitutional Court
+#40	ACE T40	entityID: APW20001208.1126.0362-E20; extent: the Constitutional Court
+T41	ACE-Mention 1819 1827	The Duma
+#41	ACE T41	entityID: APW20001208.1126.0362-E41; extent: The Duma
+T42	ACE-Mention 1854 1869	faction leaders
+#42	ACE T42	entityID: APW20001208.1126.0362-E21; extent: faction leaders
+T43	ACE-Mention 1900 1909	lawmakers
+#43	ACE T43	entityID: APW20001208.1126.0362-E22; extent: lawmakers
+T44	ACE-Mention 1938 1950	the liberals
+#44	ACE T44	entityID: APW20001208.1126.0362-E23; extent: the liberals
+T45	ACE-Mention 2014 2028	the opposition
+#45	ACE T45	entityID: APW20001208.1126.0362-E25; extent: the opposition
+T46	ACE-Mention 2069 2078	Yavlinsky
+#46	ACE T46	entityID: APW20001208.1126.0362-E13; extent: Yavlinsky
+T47	ACE-Mention 2090 2121	The presidential administration
+#47	ACE T47	entityID: APW20001208.1126.0362-E26; extent: The presidential administration
+T48	ACE-Mention 2126 2136	Communists
+#48	ACE T48	entityID: APW20001208.1126.0362-E27; extent: Communists
+T49	ACE-Mention 2152 2155	our
+#49	ACE T49	entityID: APW20001208.1126.0362-E19; extent: our
+T50	ACE-Mention 2178 2184	Soviet
+#50	ACE T50	entityID: APW20001208.1126.0362-E51; extent: Soviet
+T51	ACE-Mention 2198 2228	Former President Boris Yeltsin
+#51	ACE T51	entityID: APW20001208.1126.0362-E28; extent: Former President Boris Yeltsin
+T52	ACE-Mention 2240 2287	other critics of the move to restore the anthem
+#52	ACE T52	entityID: APW20001208.1126.0362-E30; extent: other critics of the move to restore the anthem
+T53	ACE-Mention 2291 2293	He
+#53	ACE T53	entityID: APW20001208.1126.0362-E28; extent: He
+T54	ACE-Mention 2335 2365	the daily Komsomolskaya Pravda
+#54	ACE T54	entityID: APW20001208.1126.0362-E31; extent: the daily Komsomolskaya Pravda
+T55	ACE-Mention 2396 2422	Communist Party congresses
+#55	ACE T55	entityID: APW20001208.1126.0362-E32; extent: Communist Party congresses
+T56	ACE-Mention 2429 2435	Soviet
+#56	ACE T56	entityID: APW20001208.1126.0362-E51; extent: Soviet
+T57	ACE-Mention 2473 2478	space
+#57	ACE T57	entityID: APW20001208.1126.0362-E34; extent: space
+T58	ACE-Mention 2484 2489	Putin
+#58	ACE T58	entityID: APW20001208.1126.0362-E57; extent: Putin
+T59	ACE-Mention 2505 2506	I
+#59	ACE T59	entityID: APW20001208.1126.0362-E28; extent: I
+T60	ACE-Mention 2555 2561	Soviet
+#60	ACE T60	entityID: APW20001208.1126.0362-E51; extent: Soviet
+T61	ACE-Mention 2574 2581	Yeltsin
+#61	ACE T61	entityID: APW20001208.1126.0362-E28; extent: Yeltsin
+T62	ACE-Mention 2590 2600	Communists
+#62	ACE T62	entityID: APW20001208.1126.0362-E27; extent: Communists
+T63	ACE-Mention 2605 2622	other hard-liners
+#63	ACE T63	entityID: APW20001208.1126.0362-E35; extent: other hard-liners
+T64	ACE-Mention 2683 2692	the Czars
+#64	ACE T64	entityID: APW20001208.1126.0362-E36; extent: the Czars
+T65	ACE-Mention 2703 2710	Yeltsin
+#65	ACE T65	entityID: APW20001208.1126.0362-E28; extent: Yeltsin
+T66	ACE-Mention 2744 2748	they
+#66	ACE T66	entityID: APW20001208.1126.0362-E37; extent: they
+T67	ACE-Mention 2767 2772	their
+#67	ACE T67	entityID: APW20001208.1126.0362-E37; extent: their
+T68	ACE-Mention 2865 2871	Soviet
+#68	ACE T68	entityID: APW20001208.1126.0362-E51; extent: Soviet
+T69	ACE-Mention 2961 2969	The Duma
+#69	ACE T69	entityID: APW20001208.1126.0362-E41; extent: The Duma
+T70	ACE-Mention 2976 2981	Putin
+#70	ACE T70	entityID: APW20001208.1126.0362-E57; extent: Putin
+T71	ACE-Mention 2992 2999	a panel
+#71	ACE T71	entityID: APW20001208.1126.0362-E38; extent: a panel
+T72	ACE-Mention 3054 3057	its
+#72	ACE T72	entityID: APW20001208.1126.0362-E41; extent: its
+T73	ACE-Mention 3096 3126	Duma speaker Gennady Seleznyov
+#73	ACE T73	entityID: APW20001208.1126.0362-E39; extent: Duma speaker Gennady Seleznyov
+T74	ACE-Mention 3132 3141	officials
+#74	ACE T74	entityID: APW20001208.1126.0362-E42; extent: officials
+T75	ACE-Mention 3190 3196	a bomb
+#75	ACE T75	entityID: APW20001208.1126.0362-E43; extent: a bomb
+T76	ACE-Mention 3217 3229	the building
+#76	ACE T76	entityID: APW20001208.1126.0362-E44; extent: the building
+T77	ACE-Mention 3233 3242	Lawmakers
+#77	ACE T77	entityID: APW20001208.1126.0362-E45; extent: Lawmakers
+T78	ACE-Mention 3268 3273	their
+#78	ACE T78	entityID: APW20001208.1126.0362-E45; extent: their
+T79	ACE-Mention 3285 3318	police officers with sniffer dogs
+#79	ACE T79	entityID: APW20001208.1126.0362-E46; extent: police officers with sniffer dogs
+T80	ACE-Mention 3328 3340	the premises
+#80	ACE T80	entityID: APW20001208.1126.0362-E44; extent: the premises

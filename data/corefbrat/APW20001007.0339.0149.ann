@@ -1,0 +1,252 @@
+T0	ACE-Mention 119 129	WASHINGTON
+#0	ACE T0	entityID: APW20001007.0339.0149-E12; extent: WASHINGTON
+T1	ACE-Mention 130 134	(AP)
+#1	ACE T1	entityID: APW20001007.0339.0149-E50; extent: (AP)
+T2	ACE-Mention 137 148	Republicans
+#2	ACE T2	entityID: APW20001007.0339.0149-E64; extent: Republicans
+T3	ACE-Mention 154 168	George W. Bush
+#3	ACE T3	entityID: APW20001007.0339.0149-E43; extent: George W. Bush
+T4	ACE-Mention 192 199	Russian
+#4	ACE T4	entityID: APW20001007.0339.0149-E66; extent: Russian
+T5	ACE-Mention 238 244	despot
+#5	ACE T5	entityID: APW20001007.0339.0149-E1; extent: despot
+T6	ACE-Mention 248 256	democrat
+#6	ACE T6	entityID: APW20001007.0339.0149-E6; extent: democrat
+T7	ACE-Mention 260 270	Yugoslavia
+#7	ACE T7	entityID: APW20001007.0339.0149-E69; extent: Yugoslavia
+T8	ACE-Mention 313 320	Al Gore
+#8	ACE T8	entityID: APW20001007.0339.0149-E11; extent: Al Gore
+T9	ACE-Mention 329 337	his boss
+#9	ACE T9	entityID: APW20001007.0339.0149-E53; extent: his boss
+T10	ACE-Mention 356 362	Moscow
+#10	ACE T10	entityID: APW20001007.0339.0149-E66; extent: Moscow
+T11	ACE-Mention 450 462	presidential
+#11	ACE T11	entityID: APW20001007.0339.0149-E22; extent: presidential
+T12	ACE-Mention 480 559	two candidates who have sharply different views of America 's role in the world
+#12	ACE T12	entityID: APW20001007.0339.0149-E73; extent: two candidates who have sharply different views of America 's role in the world
+T13	ACE-Mention 610 618	Russians
+#13	ACE T13	entityID: APW20001007.0339.0149-E66; extent: Russians
+T14	ACE-Mention 628 633	their
+#14	ACE T14	entityID: APW20001007.0339.0149-E66; extent: their
+T15	ACE-Mention 646 659	Mr. Milosevic
+#15	ACE T15	entityID: APW20001007.0339.0149-E1; extent: Mr. Milosevic
+T16	ACE-Mention 673 675	he
+#16	ACE T16	entityID: APW20001007.0339.0149-E1; extent: he
+T17	ACE-Mention 700 704	Bush
+#17	ACE T17	entityID: APW20001007.0339.0149-E43; extent: Bush
+T18	ACE-Mention 720 739	Cedar Rapids , Iowa
+#18	ACE T18	entityID: APW20001007.0339.0149-E2; extent: Cedar Rapids , Iowa
+T19	ACE-Mention 757 759	he
+#19	ACE T19	entityID: APW20001007.0339.0149-E1; extent: he
+T20	ACE-Mention 785 797	presidential
+#20	ACE T20	entityID: APW20001007.0339.0149-E22; extent: presidential
+T21	ACE-Mention 811 813	he
+#21	ACE T21	entityID: APW20001007.0339.0149-E1; extent: he
+T22	ACE-Mention 822 853	Russian Foreign Minister Ivanov
+#22	ACE T22	entityID: APW20001007.0339.0149-E4; extent: Russian Foreign Minister Ivanov
+T23	ACE-Mention 861 871	Yugoslavia
+#23	ACE T23	entityID: APW20001007.0339.0149-E69; extent: Yugoslavia
+T24	ACE-Mention 887 919	ousted leader Slobodan Milosevic
+#24	ACE T24	entityID: APW20001007.0339.0149-E1; extent: ousted leader Slobodan Milosevic
+T25	ACE-Mention 936 972	opposition leader Vojislav Kostunica
+#25	ACE T25	entityID: APW20001007.0339.0149-E6; extent: opposition leader Vojislav Kostunica
+T26	ACE-Mention 976 1007	winner of the Sept. 24 election
+#26	ACE T26	entityID: APW20001007.0339.0149-E6; extent: winner of the Sept. 24 election
+T27	ACE-Mention 1027 1031	Gore
+#27	ACE T27	entityID: APW20001007.0339.0149-E11; extent: Gore
+T28	ACE-Mention 1042 1046	Bush
+#28	ACE T28	entityID: APW20001007.0339.0149-E43; extent: Bush
+T29	ACE-Mention 1060 1063	his
+#29	ACE T29	entityID: APW20001007.0339.0149-E43; extent: his
+T30	ACE-Mention 1084 1096	the Russians
+#30	ACE T30	entityID: APW20001007.0339.0149-E66; extent: the Russians
+T31	ACE-Mention 1115 1119	they
+#31	ACE T31	entityID: APW20001007.0339.0149-E66; extent: they
+T32	ACE-Mention 1139 1148	Kostunica
+#32	ACE T32	entityID: APW20001007.0339.0149-E6; extent: Kostunica
+T33	ACE-Mention 1152 1158	victor
+#33	ACE T33	entityID: APW20001007.0339.0149-E6; extent: victor
+T34	ACE-Mention 1165 1166	I
+#34	ACE T34	entityID: APW20001007.0339.0149-E11; extent: I
+T35	ACE-Mention 1200 1202	us
+#35	ACE T35	entityID: APW20001007.0339.0149-E8; extent: us
+T36	ACE-Mention 1213 1236	the president of Russia
+#36	ACE T36	entityID: APW20001007.0339.0149-E7; extent: the president of Russia
+T37	ACE-Mention 1261 1266	there
+#37	ACE T37	entityID: APW20001007.0339.0149-E69; extent: there
+T38	ACE-Mention 1277 1279	we
+#38	ACE T38	entityID: APW20001007.0339.0149-E8; extent: we
+T39	ACE-Mention 1334 1338	Gore
+#39	ACE T39	entityID: APW20001007.0339.0149-E11; extent: Gore
+T40	ACE-Mention 1359 1363	Bush
+#40	ACE T40	entityID: APW20001007.0339.0149-E43; extent: Bush
+T41	ACE-Mention 1375 1387	his opponent
+#41	ACE T41	entityID: APW20001007.0339.0149-E11; extent: his opponent
+T42	ACE-Mention 1414 1416	he
+#42	ACE T42	entityID: APW20001007.0339.0149-E11; extent: he
+T43	ACE-Mention 1435 1448	the president
+#43	ACE T43	entityID: APW20001007.0339.0149-E53; extent: the president
+T44	ACE-Mention 1462 1464	he
+#44	ACE T44	entityID: APW20001007.0339.0149-E11; extent: he
+T45	ACE-Mention 1479 1492	the president
+#45	ACE T45	entityID: APW20001007.0339.0149-E53; extent: the president
+T46	ACE-Mention 1542 1561	the American people
+#46	ACE T46	entityID: APW20001007.0339.0149-E8; extent: the American people
+T47	ACE-Mention 1567 1571	Bush
+#47	ACE T47	entityID: APW20001007.0339.0149-E43; extent: Bush
+T48	ACE-Mention 1580 1614	Florida , where he was campaigning
+#48	ACE T48	entityID: APW20001007.0339.0149-E9; extent: Florida , where he was campaigning
+T49	ACE-Mention 1618 1637	Gore campaign aides
+#49	ACE T49	entityID: APW20001007.0339.0149-E10; extent: Gore campaign aides
+T50	ACE-Mention 1647 1649	he
+#50	ACE T50	entityID: APW20001007.0339.0149-E11; extent: he
+T51	ACE-Mention 1663 1677	administration
+#51	ACE T51	entityID: APW20001007.0339.0149-E13; extent: administration
+T52	ACE-Mention 1698 1710	the Russians
+#52	ACE T52	entityID: APW20001007.0339.0149-E66; extent: the Russians
+T53	ACE-Mention 1723 1732	Milosevic
+#53	ACE T53	entityID: APW20001007.0339.0149-E1; extent: Milosevic
+T54	ACE-Mention 1763 1780	vice presidential
+#54	ACE T54	entityID: APW20001007.0339.0149-E59; extent: vice presidential
+T55	ACE-Mention 1793 1813	Kostunica supporters
+#55	ACE T55	entityID: APW20001007.0339.0149-E15; extent: Kostunica supporters
+T56	ACE-Mention 1822 1830	Belgrade
+#56	ACE T56	entityID: APW20001007.0339.0149-E16; extent: Belgrade
+T57	ACE-Mention 1844 1853	Milosevic
+#57	ACE T57	entityID: APW20001007.0339.0149-E1; extent: Milosevic
+T58	ACE-Mention 1856 1878	Republican Dick Cheney
+#58	ACE T58	entityID: APW20001007.0339.0149-E17; extent: Republican Dick Cheney
+T59	ACE-Mention 1884 1888	Gore
+#59	ACE T59	entityID: APW20001007.0339.0149-E11; extent: Gore
+T60	ACE-Mention 1929 1936	Russian
+#60	ACE T60	entityID: APW20001007.0339.0149-E66; extent: Russian
+T61	ACE-Mention 1955 1973	the administration
+#61	ACE T61	entityID: APW20001007.0339.0149-E13; extent: the administration
+T62	ACE-Mention 2000 2004	Bush
+#62	ACE T62	entityID: APW20001007.0339.0149-E43; extent: Bush
+T63	ACE-Mention 2021 2027	Cheney
+#63	ACE T63	entityID: APW20001007.0339.0149-E17; extent: Cheney
+T64	ACE-Mention 2033 2037	Bush
+#64	ACE T64	entityID: APW20001007.0339.0149-E43; extent: Bush
+T65	ACE-Mention 2081 2094	Marc Thiessen
+#65	ACE T65	entityID: APW20001007.0339.0149-E20; extent: Marc Thiessen
+T66	ACE-Mention 2097 2164	spokesman for the GOP-controlled Senate Foreign Relations Committee
+#66	ACE T66	entityID: APW20001007.0339.0149-E20; extent: spokesman for the GOP-controlled Senate Foreign Relations Committee
+T67	ACE-Mention 2172 2196	administration officials
+#67	ACE T67	entityID: APW20001007.0339.0149-E25; extent: administration officials
+T68	ACE-Mention 2202 2221	members of Congress
+#68	ACE T68	entityID: APW20001007.0339.0149-E26; extent: members of Congress
+T69	ACE-Mention 2251 2258	Clinton
+#69	ACE T69	entityID: APW20001007.0339.0149-E53; extent: Clinton
+T70	ACE-Mention 2276 2308	Russian President Vladimir Putin
+#70	ACE T70	entityID: APW20001007.0339.0149-E7; extent: Russian President Vladimir Putin
+T71	ACE-Mention 2335 2338	him
+#71	ACE T71	entityID: APW20001007.0339.0149-E7; extent: him
+T72	ACE-Mention 2370 2374	Bush
+#72	ACE T72	entityID: APW20001007.0339.0149-E43; extent: Bush
+T73	ACE-Mention 2421 2426	Putin
+#73	ACE T73	entityID: APW20001007.0339.0149-E7; extent: Putin
+T74	ACE-Mention 2462 2523	Bush who was completely informed , whose instincts were right
+#74	ACE T74	entityID: APW20001007.0339.0149-E43; extent: Bush who was completely informed , whose instincts were right
+T75	ACE-Mention 2537 2608	Gore who was uninformed and did n't even know the administration policy
+#75	ACE T75	entityID: APW20001007.0339.0149-E11; extent: Gore who was uninformed and did n't even know the administration policy
+T76	ACE-Mention 2614 2622	Thiessen
+#76	ACE T76	entityID: APW20001007.0339.0149-E20; extent: Thiessen
+T77	ACE-Mention 2631 2635	Gore
+#77	ACE T77	entityID: APW20001007.0339.0149-E11; extent: Gore
+T78	ACE-Mention 2655 2665	Yugoslavia
+#78	ACE T78	entityID: APW20001007.0339.0149-E69; extent: Yugoslavia
+T79	ACE-Mention 2695 2706	the country
+#79	ACE T79	entityID: APW20001007.0339.0149-E69; extent: the country
+T80	ACE-Mention 2720 2744	the community of nations
+#80	ACE T80	entityID: APW20001007.0339.0149-E60; extent: the community of nations
+T81	ACE-Mention 2751 2753	He
+#81	ACE T81	entityID: APW20001007.0339.0149-E11; extent: He
+T82	ACE-Mention 2826 2833	Russian
+#82	ACE T82	entityID: APW20001007.0339.0149-E66; extent: Russian
+T83	ACE-Mention 2843 2858	The White House
+#83	ACE T83	entityID: APW20001007.0339.0149-E30; extent: The White House
+T84	ACE-Mention 2879 2882	his
+#84	ACE T84	entityID: APW20001007.0339.0149-E11; extent: his
+T85	ACE-Mention 2902 2920	the vice president
+#85	ACE T85	entityID: APW20001007.0339.0149-E11; extent: the vice president
+T86	ACE-Mention 2939 2952	the president
+#86	ACE T86	entityID: APW20001007.0339.0149-E53; extent: the president
+T87	ACE-Mention 2987 3004	the United States
+#87	ACE T87	entityID: APW20001007.0339.0149-E8; extent: the United States
+T88	ACE-Mention 3039 3045	Russia
+#88	ACE T88	entityID: APW20001007.0339.0149-E66; extent: Russia
+T89	ACE-Mention 3068 3077	Milosevic
+#89	ACE T89	entityID: APW20001007.0339.0149-E1; extent: Milosevic
+T90	ACE-Mention 3082 3091	Kostunica
+#90	ACE T90	entityID: APW20001007.0339.0149-E6; extent: Kostunica
+T91	ACE-Mention 3102 3213	presidential spokesman Jake Siewert , who confirmed that Clinton spoke with Putin about Yugoslavia last weekend
+#91	ACE T91	entityID: APW20001007.0339.0149-E31; extent: presidential spokesman Jake Siewert , who confirmed that Clinton spoke with Putin about Yugoslavia last weekend
+T92	ACE-Mention 3419 3431	the military
+#92	ACE T92	entityID: APW20001007.0339.0149-E33; extent: the military
+T93	ACE-Mention 3435 3439	Bush
+#93	ACE T93	entityID: APW20001007.0339.0149-E43; extent: Bush
+T94	ACE-Mention 3461 3473	the military
+#94	ACE T94	entityID: APW20001007.0339.0149-E33; extent: the military
+T95	ACE-Mention 3512 3518	abroad
+#95	ACE T95	entityID: APW20001007.0339.0149-E61; extent: abroad
+T96	ACE-Mention 3522 3526	Gore
+#96	ACE T96	entityID: APW20001007.0339.0149-E11; extent: Gore
+T97	ACE-Mention 3543 3551	military
+#97	ACE T97	entityID: APW20001007.0339.0149-E33; extent: military
+T98	ACE-Mention 3588 3596	national
+#98	ACE T98	entityID: APW20001007.0339.0149-E8; extent: national
+T99	ACE-Mention 3668 3674	global
+#99	ACE T99	entityID: APW20001007.0339.0149-E62; extent: global
+T100	ACE-Mention 3685 3699	The candidates
+#100	ACE T100	entityID: APW20001007.0339.0149-E73; extent: The candidates
+T101	ACE-Mention 3725 3732	missile
+#101	ACE T101	entityID: APW20001007.0339.0149-E35; extent: missile
+T102	ACE-Mention 3743 3755	nuclear arms
+#102	ACE T102	entityID: APW20001007.0339.0149-E36; extent: nuclear arms
+T103	ACE-Mention 3763 3769	global
+#103	ACE T103	entityID: APW20001007.0339.0149-E62; extent: global
+T104	ACE-Mention 3863 3867	Gore
+#104	ACE T104	entityID: APW20001007.0339.0149-E11; extent: Gore
+T105	ACE-Mention 3906 3920	vice president
+#105	ACE T105	entityID: APW20001007.0339.0149-E11; extent: vice president
+T106	ACE-Mention 3934 4035	commissions with key countries , including one with former Russian Prime Minister Viktor Chernomyrdin
+#106	ACE T106	entityID: APW20001007.0339.0149-E38; extent: commissions with key countries , including one with former Russian Prime Minister Viktor Chernomyrdin
+T107	ACE-Mention 4039 4057	Bush 's supporters
+#107	ACE T107	entityID: APW20001007.0339.0149-E42; extent: Bush 's supporters
+T108	ACE-Mention 4075 4078	his
+#108	ACE T108	entityID: APW20001007.0339.0149-E43; extent: his
+T109	ACE-Mention 4122 4125	his
+#109	ACE T109	entityID: APW20001007.0339.0149-E43; extent: his
+T110	ACE-Mention 4136 4150	Texas governor
+#110	ACE T110	entityID: APW20001007.0339.0149-E43; extent: Texas governor
+T111	ACE-Mention 4177 4192	neighbor Mexico
+#111	ACE T111	entityID: APW20001007.0339.0149-E45; extent: neighbor Mexico
+T112	ACE-Mention 4200 4202	he
+#112	ACE T112	entityID: APW20001007.0339.0149-E43; extent: he
+T113	ACE-Mention 4228 4234	allies
+#113	ACE T113	entityID: APW20001007.0339.0149-E47; extent: allies
+T114	ACE-Mention 4254 4265	adversaries
+#114	ACE T114	entityID: APW20001007.0339.0149-E48; extent: adversaries
+T115	ACE-Mention 4269 4275	Cheney
+#115	ACE T115	entityID: APW20001007.0339.0149-E17; extent: Cheney
+T116	ACE-Mention 4278 4331	defense secretary for four years under President Bush
+#116	ACE T116	entityID: APW20001007.0339.0149-E17; extent: defense secretary for four years under President Bush
+T117	ACE-Mention 4370 4384	candidate Bush
+#117	ACE T117	entityID: APW20001007.0339.0149-E43; extent: candidate Bush
+T118	ACE-Mention 4400 4426	the Clinton administration
+#118	ACE T118	entityID: APW20001007.0339.0149-E13; extent: the Clinton administration
+T119	ACE-Mention 4444 4456	the military
+#119	ACE T119	entityID: APW20001007.0339.0149-E33; extent: the military
+T120	ACE-Mention 4461 4464	GOP
+#120	ACE T120	entityID: APW20001007.0339.0149-E18; extent: GOP
+T121	ACE-Mention 4503 4528	Democrat Joseph Lieberman
+#121	ACE T121	entityID: APW20001007.0339.0149-E54; extent: Democrat Joseph Lieberman
+T122	ACE-Mention 4545 4551	Cheney
+#122	ACE T122	entityID: APW20001007.0339.0149-E17; extent: Cheney
+T123	ACE-Mention 4586 4621	his Senate Armed Services Committee
+#123	ACE T123	entityID: APW20001007.0339.0149-E56; extent: his Senate Armed Services Committee
+T124	ACE-Mention 4691 4694	his
+#124	ACE T124	entityID: APW20001007.0339.0149-E54; extent: his
+T125	ACE-Mention 4710 4720	the Senate
+#125	ACE T125	entityID: APW20001007.0339.0149-E57; extent: the Senate

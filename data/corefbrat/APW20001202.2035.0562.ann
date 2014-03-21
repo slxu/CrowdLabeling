@@ -1,0 +1,168 @@
+T0	ACE-Mention 111 130	BROWNSVILLE , Texas
+#0	ACE T0	entityID: APW20001202.2035.0562-E22; extent: BROWNSVILLE , Texas
+T1	ACE-Mention 163 191	Mexico President Vicente Fox
+#1	ACE T1	entityID: APW20001202.2035.0562-E66; extent: Mexico President Vicente Fox
+T2	ACE-Mention 203 206	his
+#2	ACE T2	entityID: APW20001202.2035.0562-E66; extent: his
+T3	ACE-Mention 230 237	workers
+#3	ACE T3	entityID: APW20001202.2035.0562-E69; extent: workers
+T4	ACE-Mention 245 259	an open border
+#4	ACE T4	entityID: APW20001202.2035.0562-E70; extent: an open border
+T5	ACE-Mention 262 315	an international boundary that ceases to be a barrier
+#5	ACE T5	entityID: APW20001202.2035.0562-E70; extent: an international boundary that ceases to be a barrier
+T6	ACE-Mention 323 383	the 2,000-mile frontier between Mexico and the United States
+#6	ACE T6	entityID: APW20001202.2035.0562-E6; extent: the 2,000-mile frontier between Mexico and the United States
+T7	ACE-Mention 401 412	steel walls
+#7	ACE T7	entityID: APW20001202.2035.0562-E76; extent: steel walls
+T8	ACE-Mention 417 428	barbed wire
+#8	ACE T8	entityID: APW20001202.2035.0562-E1; extent: barbed wire
+T9	ACE-Mention 447 486	uniformed guards from the Border Patrol
+#9	ACE T9	entityID: APW20001202.2035.0562-E2; extent: uniformed guards from the Border Patrol
+T10	ACE-Mention 519 570	Rosalinda Arebalo of neighboring Matamoros , Mexico
+#10	ACE T10	entityID: APW20001202.2035.0562-E4; extent: Rosalinda Arebalo of neighboring Matamoros , Mexico
+T11	ACE-Mention 588 591	Fox
+#11	ACE T11	entityID: APW20001202.2035.0562-E66; extent: Fox
+T12	ACE-Mention 661 671	the border
+#12	ACE T12	entityID: APW20001202.2035.0562-E6; extent: the border
+T13	ACE-Mention 691 708	The United States
+#13	ACE T13	entityID: APW20001202.2035.0562-E12; extent: The United States
+T14	ACE-Mention 746 752	border
+#14	ACE T14	entityID: APW20001202.2035.0562-E6; extent: border
+T15	ACE-Mention 767 796	1,300 miles of road and fence
+#15	ACE T15	entityID: APW20001202.2035.0562-E7; extent: 1,300 miles of road and fence
+T16	ACE-Mention 887 907	Border Patrol agents
+#16	ACE T16	entityID: APW20001202.2035.0562-E8; extent: Border Patrol agents
+T17	ACE-Mention 942 943	I
+#17	ACE T17	entityID: APW20001202.2035.0562-E10; extent: I
+T18	ACE-Mention 960 972	your country
+#18	ACE T18	entityID: APW20001202.2035.0562-E12; extent: your country
+T19	ACE-Mention 1003 1024	Fernando Kleinfingher
+#19	ACE T19	entityID: APW20001202.2035.0562-E10; extent: Fernando Kleinfingher
+T20	ACE-Mention 1027 1068	a computer consultant in Tijuana , Mexico
+#20	ACE T20	entityID: APW20001202.2035.0562-E10; extent: a computer consultant in Tijuana , Mexico
+T21	ACE-Mention 1101 1108	America
+#21	ACE T21	entityID: APW20001202.2035.0562-E12; extent: America
+T22	ACE-Mention 1128 1145	The United States
+#22	ACE T22	entityID: APW20001202.2035.0562-E12; extent: The United States
+T23	ACE-Mention 1163 1177	an open border
+#23	ACE T23	entityID: APW20001202.2035.0562-E23; extent: an open border
+T24	ACE-Mention 1193 1208	Faustino Avalos
+#24	ACE T24	entityID: APW20001202.2035.0562-E14; extent: Faustino Avalos
+T25	ACE-Mention 1211 1259	a 65-year-old farmer strolling home to Matamoros
+#25	ACE T25	entityID: APW20001202.2035.0562-E14; extent: a 65-year-old farmer strolling home to Matamoros
+T26	ACE-Mention 1266 1270	They
+#26	ACE T26	entityID: APW20001202.2035.0562-E12; extent: They
+T27	ACE-Mention 1281 1289	Mexicans
+#27	ACE T27	entityID: APW20001202.2035.0562-E26; extent: Mexicans
+T28	ACE-Mention 1317 1341	The undocumented workers
+#28	ACE T28	entityID: APW20001202.2035.0562-E16; extent: The undocumented workers
+T29	ACE-Mention 1374 1384	Economists
+#29	ACE T29	entityID: APW20001202.2035.0562-E17; extent: Economists
+T30	ACE-Mention 1473 1486	Steve Bronars
+#30	ACE T30	entityID: APW20001202.2035.0562-E18; extent: Steve Bronars
+T31	ACE-Mention 1489 1550	a professor of economics at the University of Texas at Austin
+#31	ACE T31	entityID: APW20001202.2035.0562-E18; extent: a professor of economics at the University of Texas at Austin
+T32	ACE-Mention 1612 1650	Fox , who was sworn into office Friday
+#32	ACE T32	entityID: APW20001202.2035.0562-E66; extent: Fox , who was sworn into office Friday
+T33	ACE-Mention 1675 1685	the border
+#33	ACE T33	entityID: APW20001202.2035.0562-E6; extent: the border
+T34	ACE-Mention 1723 1767	the ruling Institutional Revolutionary Party
+#34	ACE T34	entityID: APW20001202.2035.0562-E21; extent: the ruling Institutional Revolutionary Party
+T35	ACE-Mention 1797 1800	his
+#35	ACE T35	entityID: APW20001202.2035.0562-E66; extent: his
+T36	ACE-Mention 1817 1847	the former Coca-Cola executive
+#36	ACE T36	entityID: APW20001202.2035.0562-E70; extent: the former Coca-Cola executive
+T37	ACE-Mention 1856 1859	his
+#37	ACE T37	entityID: APW20001202.2035.0562-E66; extent: his
+T38	ACE-Mention 1888 1895	Mexican
+#38	ACE T38	entityID: APW20001202.2035.0562-E26; extent: Mexican
+T39	ACE-Mention 1908 1912	U.S.
+#39	ACE T39	entityID: APW20001202.2035.0562-E12; extent: U.S.
+T40	ACE-Mention 1932 1942	the border
+#40	ACE T40	entityID: APW20001202.2035.0562-E6; extent: the border
+T41	ACE-Mention 1970 1972	he
+#41	ACE T41	entityID: APW20001202.2035.0562-E66; extent: he
+T42	ACE-Mention 2007 2017	Economists
+#42	ACE T42	entityID: APW20001202.2035.0562-E17; extent: Economists
+T43	ACE-Mention 2044 2059	Mexican workers
+#43	ACE T43	entityID: APW20001202.2035.0562-E69; extent: Mexican workers
+T44	ACE-Mention 2150 2163	border states
+#44	ACE T44	entityID: APW20001202.2035.0562-E27; extent: border states
+T45	ACE-Mention 2189 2217	El Paso Mayor Carlos Ramirez
+#45	ACE T45	entityID: APW20001202.2035.0562-E28; extent: El Paso Mayor Carlos Ramirez
+T46	ACE-Mention 2258 2268	terrorists
+#46	ACE T46	entityID: APW20001202.2035.0562-E31; extent: terrorists
+T47	ACE-Mention 2290 2307	President Clinton
+#47	ACE T47	entityID: APW20001202.2035.0562-E32; extent: President Clinton
+T48	ACE-Mention 2312 2334	Vice President Al Gore
+#48	ACE T48	entityID: APW20001202.2035.0562-E34; extent: Vice President Al Gore
+T49	ACE-Mention 2377 2380	Fox
+#49	ACE T49	entityID: APW20001202.2035.0562-E66; extent: Fox
+T50	ACE-Mention 2388 2413	Texas Gov. George W. Bush
+#50	ACE T50	entityID: APW20001202.2035.0562-E36; extent: Texas Gov. George W. Bush
+T51	ACE-Mention 2419 2421	he
+#51	ACE T51	entityID: APW20001202.2035.0562-E36; extent: he
+T52	ACE-Mention 2489 2523	our friendly neighbor to the south
+#52	ACE T52	entityID: APW20001202.2035.0562-E26; extent: our friendly neighbor to the south
+T53	ACE-Mention 2533 2534	I
+#53	ACE T53	entityID: APW20001202.2035.0562-E36; extent: I
+T54	ACE-Mention 2548 2551	Fox
+#54	ACE T54	entityID: APW20001202.2035.0562-E66; extent: Fox
+T55	ACE-Mention 2580 2584	Bush
+#55	ACE T55	entityID: APW20001202.2035.0562-E36; extent: Bush
+T56	ACE-Mention 2593 2607	Mark Krikorian
+#56	ACE T56	entityID: APW20001202.2035.0562-E39; extent: Mark Krikorian
+T57	ACE-Mention 2610 2687	director of the nonpartisan , Washington-based Center for Immigration Studies
+#57	ACE T57	entityID: APW20001202.2035.0562-E39; extent: director of the nonpartisan , Washington-based Center for Immigration Studies
+T58	ACE-Mention 2699 2702	Fox
+#58	ACE T58	entityID: APW20001202.2035.0562-E66; extent: Fox
+T59	ACE-Mention 2715 2729	an open border
+#59	ACE T59	entityID: APW20001202.2035.0562-E23; extent: an open border
+T60	ACE-Mention 2760 2763	Fox
+#60	ACE T60	entityID: APW20001202.2035.0562-E66; extent: Fox
+T61	ACE-Mention 2776 2793	a porous boundary
+#61	ACE T61	entityID: APW20001202.2035.0562-E23; extent: a porous boundary
+T62	ACE-Mention 2847 2849	he
+#62	ACE T62	entityID: APW20001202.2035.0562-E39; extent: he
+T63	ACE-Mention 2866 2868	He
+#63	ACE T63	entityID: APW20001202.2035.0562-E66; extent: He
+T64	ACE-Mention 2879 2896	the United States
+#64	ACE T64	entityID: APW20001202.2035.0562-E12; extent: the United States
+T65	ACE-Mention 2928 2937	Krikorian
+#65	ACE T65	entityID: APW20001202.2035.0562-E39; extent: Krikorian
+T66	ACE-Mention 2981 2985	U.S.
+#66	ACE T66	entityID: APW20001202.2035.0562-E12; extent: U.S.
+T67	ACE-Mention 3047 3121	fewer people to fill low-skilled jobs in farms , restaurants and factories
+#67	ACE T67	entityID: APW20001202.2035.0562-E43; extent: fewer people to fill low-skilled jobs in farms , restaurants and factories
+T68	ACE-Mention 3157 3259	Arebalo , 49 , who went from Matamoros to North Carolina to work in soybean fields when she was a girl
+#68	ACE T68	entityID: APW20001202.2035.0562-E47; extent: Arebalo , 49 , who went from Matamoros to North Carolina to work in soybean fields when she was a girl
+T69	ACE-Mention 3263 3273	Her family
+#69	ACE T69	entityID: APW20001202.2035.0562-E51; extent: Her family
+T70	ACE-Mention 3295 3304	the farms
+#70	ACE T70	entityID: APW20001202.2035.0562-E52; extent: the farms
+T71	ACE-Mention 3412 3442	thousands of Mexican nationals
+#71	ACE T71	entityID: APW20001202.2035.0562-E54; extent: thousands of Mexican nationals
+T72	ACE-Mention 3456 3483	a dwindling U.S. labor pool
+#72	ACE T72	entityID: APW20001202.2035.0562-E55; extent: a dwindling U.S. labor pool
+T73	ACE-Mention 3499 3513	military-style
+#73	ACE T73	entityID: APW20001202.2035.0562-E53; extent: military-style
+T74	ACE-Mention 3514 3552	Immigration and Naturalization Service
+#74	ACE T74	entityID: APW20001202.2035.0562-E56; extent: Immigration and Naturalization Service
+T75	ACE-Mention 3599 3633	about 1 million illegal immigrants
+#75	ACE T75	entityID: APW20001202.2035.0562-E57; extent: about 1 million illegal immigrants
+T76	ACE-Mention 3644 3650	Mexico
+#76	ACE T76	entityID: APW20001202.2035.0562-E26; extent: Mexico
+T77	ACE-Mention 3756 3760	here
+#77	ACE T77	entityID: APW20001202.2035.0562-E12; extent: here
+T78	ACE-Mention 3767 3770	you
+#78	ACE T78	entityID: APW20001202.2035.0562-E58; extent: you
+T79	ACE-Mention 3799 3806	Arebalo
+#79	ACE T79	entityID: APW20001202.2035.0562-E47; extent: Arebalo
+T80	ACE-Mention 3815 3818	she
+#80	ACE T80	entityID: APW20001202.2035.0562-E47; extent: she
+T81	ACE-Mention 3831 3855	the international bridge
+#81	ACE T81	entityID: APW20001202.2035.0562-E65; extent: the international bridge
+T82	ACE-Mention 3861 3893	Brownsville 's shopping district
+#82	ACE T82	entityID: APW20001202.2035.0562-E60; extent: Brownsville 's shopping district
+T83	ACE-Mention 3951 3989	Immigration and Naturalization Service
+#83	ACE T83	entityID: APW20001202.2035.0562-E56; extent: Immigration and Naturalization Service

@@ -1,0 +1,128 @@
+T0	ACE-Mention 338 346	NEW YORK
+#0	ACE T0	entityID: NYT20001107.1907.0300-E18; extent: NEW YORK
+T1	ACE-Mention 382 400	a former president
+#1	ACE T1	entityID: NYT20001107.1907.0300-E27; extent: a former president
+T2	ACE-Mention 417 435	A research company
+#2	ACE T2	entityID: NYT20001107.1907.0300-E28; extent: A research company
+T3	ACE-Mention 543 554	The company
+#3	ACE T3	entityID: NYT20001107.1907.0300-E28; extent: The company
+T4	ACE-Mention 557 568	Word of Net
+#4	ACE T4	entityID: NYT20001107.1907.0300-E28; extent: Word of Net
+T5	ACE-Mention 640 654	computer users
+#5	ACE T5	entityID: NYT20001107.1907.0300-E30; extent: computer users
+T6	ACE-Mention 1044 1055	advertisers
+#6	ACE T6	entityID: NYT20001107.1907.0300-E31; extent: advertisers
+T7	ACE-Mention 1065 1070	their
+#7	ACE T7	entityID: NYT20001107.1907.0300-E31; extent: their
+T8	ACE-Mention 1460 1476	Astrid van Dorst
+#8	ACE T8	entityID: NYT20001107.1907.0300-E32; extent: Astrid van Dorst
+T9	ACE-Mention 1479 1574	senior analyst for the e-marketing intelligence group at the Gartner Group in San Jose , Calif.
+#9	ACE T9	entityID: NYT20001107.1907.0300-E32; extent: senior analyst for the e-marketing intelligence group at the Gartner Group in San Jose , Calif.
+T10	ACE-Mention 1577 1580	who
+#10	ACE T10	entityID: NYT20001107.1907.0300-E32; extent: who
+T11	ACE-Mention 1612 1623	Word of Net
+#11	ACE T11	entityID: NYT20001107.1907.0300-E28; extent: Word of Net
+T12	ACE-Mention 1661 1664	You
+#12	ACE T12	entityID: NYT20001107.1907.0300-E1; extent: You
+T13	ACE-Mention 1747 1750	she
+#13	ACE T13	entityID: NYT20001107.1907.0300-E32; extent: she
+T14	ACE-Mention 2056 2070	America Online
+#14	ACE T14	entityID: NYT20001107.1907.0300-E2; extent: America Online
+T15	ACE-Mention 2130 2134	CNet
+#15	ACE T15	entityID: NYT20001107.1907.0300-E3; extent: CNet
+T16	ACE-Mention 2194 2208	America Online
+#16	ACE T16	entityID: NYT20001107.1907.0300-E2; extent: America Online
+T17	ACE-Mention 2242 2251	Microsoft
+#17	ACE T17	entityID: NYT20001107.1907.0300-E4; extent: Microsoft
+T18	ACE-Mention 2288 2307	the Walt Disney Co.
+#18	ACE T18	entityID: NYT20001107.1907.0300-E5; extent: the Walt Disney Co.
+T19	ACE-Mention 2338 2341	our
+#19	ACE T19	entityID: NYT20001107.1907.0300-E28; extent: our
+T20	ACE-Mention 2415 2419	your
+#20	ACE T20	entityID: NYT20001107.1907.0300-E6; extent: your
+T21	ACE-Mention 2450 2462	Eric Sanders
+#21	ACE T21	entityID: NYT20001107.1907.0300-E7; extent: Eric Sanders
+T22	ACE-Mention 2465 2520	chief executive at Word of Net in Sherman Oaks , Calif.
+#22	ACE T22	entityID: NYT20001107.1907.0300-E7; extent: chief executive at Word of Net in Sherman Oaks , Calif.
+T23	ACE-Mention 2631 2633	he
+#23	ACE T23	entityID: NYT20001107.1907.0300-E7; extent: he
+T24	ACE-Mention 2646 2649	You
+#24	ACE T24	entityID: NYT20001107.1907.0300-E6; extent: You
+T25	ACE-Mention 2658 2661	our
+#25	ACE T25	entityID: NYT20001107.1907.0300-E28; extent: our
+T26	ACE-Mention 2689 2693	your
+#26	ACE T26	entityID: NYT20001107.1907.0300-E6; extent: your
+T27	ACE-Mention 2769 2780	advertisers
+#27	ACE T27	entityID: NYT20001107.1907.0300-E31; extent: advertisers
+T28	ACE-Mention 2844 2850	rivals
+#28	ACE T28	entityID: NYT20001107.1907.0300-E10; extent: rivals
+T29	ACE-Mention 2911 2914	you
+#29	ACE T29	entityID: NYT20001107.1907.0300-E6; extent: you
+T30	ACE-Mention 2930 2933	you
+#30	ACE T30	entityID: NYT20001107.1907.0300-E6; extent: you
+T31	ACE-Mention 2950 2966	your competitors
+#31	ACE T31	entityID: NYT20001107.1907.0300-E11; extent: your competitors
+T32	ACE-Mention 2977 2993	Michele Chaboudy
+#32	ACE T32	entityID: NYT20001107.1907.0300-E12; extent: Michele Chaboudy
+T33	ACE-Mention 2996 3041	vice president for marketing at MarketWatch .
+#33	ACE T33	entityID: NYT20001107.1907.0300-E12; extent: vice president for marketing at MarketWatch .
+T34	ACE-Mention 3050 3063	San Francisco
+#34	ACE T34	entityID: NYT20001107.1907.0300-E15; extent: San Francisco
+T35	ACE-Mention 3066 3071	which
+#35	ACE T35	entityID: NYT20001107.1907.0300-E14; extent: which
+T36	ACE-Mention 3153 3156	you
+#36	ACE T36	entityID: NYT20001107.1907.0300-E6; extent: you
+T37	ACE-Mention 3162 3166	your
+#37	ACE T37	entityID: NYT20001107.1907.0300-E6; extent: your
+T38	ACE-Mention 3192 3195	she
+#38	ACE T38	entityID: NYT20001107.1907.0300-E12; extent: she
+T39	ACE-Mention 3215 3218	you
+#39	ACE T39	entityID: NYT20001107.1907.0300-E6; extent: you
+T40	ACE-Mention 3242 3248	people
+#40	ACE T40	entityID: NYT20001107.1907.0300-E16; extent: people
+T41	ACE-Mention 3284 3292	Chaboudy
+#41	ACE T41	entityID: NYT20001107.1907.0300-E12; extent: Chaboudy
+T42	ACE-Mention 3371 3372	I
+#42	ACE T42	entityID: NYT20001107.1907.0300-E12; extent: I
+T43	ACE-Mention 3416 3427	Word of Net
+#43	ACE T43	entityID: NYT20001107.1907.0300-E28; extent: Word of Net
+T44	ACE-Mention 3444 3447	her
+#44	ACE T44	entityID: NYT20001107.1907.0300-E12; extent: her
+T45	ACE-Mention 3499 3501	we
+#45	ACE T45	entityID: NYT20001107.1907.0300-E14; extent: we
+T46	ACE-Mention 3537 3550	MarketWatch .
+#46	ACE T46	entityID: NYT20001107.1907.0300-E14; extent: MarketWatch .
+T47	ACE-Mention 3581 3584	she
+#47	ACE T47	entityID: NYT20001107.1907.0300-E12; extent: she
+T48	ACE-Mention 3608 3621	MarketWatch .
+#48	ACE T48	entityID: NYT20001107.1907.0300-E14; extent: MarketWatch .
+T49	ACE-Mention 3649 3673	a Word of Net subscriber
+#49	ACE T49	entityID: NYT20001107.1907.0300-E17; extent: a Word of Net subscriber
+T50	ACE-Mention 3676 3684	Chaboudy
+#50	ACE T50	entityID: NYT20001107.1907.0300-E12; extent: Chaboudy
+T51	ACE-Mention 3729 3731	we
+#51	ACE T51	entityID: NYT20001107.1907.0300-E14; extent: we
+T52	ACE-Mention 3785 3792	Sanders
+#52	ACE T52	entityID: NYT20001107.1907.0300-E7; extent: Sanders
+T53	ACE-Mention 3803 3814	Word of Net
+#53	ACE T53	entityID: NYT20001107.1907.0300-E28; extent: Word of Net
+T54	ACE-Mention 3857 3866	investors
+#54	ACE T54	entityID: NYT20001107.1907.0300-E19; extent: investors
+T55	ACE-Mention 3924 3950	the clients of Word of Net
+#55	ACE T55	entityID: NYT20001107.1907.0300-E17; extent: the clients of Word of Net
+T56	ACE-Mention 3953 3955	he
+#56	ACE T56	entityID: NYT20001107.1907.0300-E7; extent: he
+T57	ACE-Mention 3963 3970	DirecTV
+#57	ACE T57	entityID: NYT20001107.1907.0300-E20; extent: DirecTV
+T58	ACE-Mention 3973 3979	Forbes
+#58	ACE T58	entityID: NYT20001107.1907.0300-E21; extent: Forbes
+T59	ACE-Mention 3982 4006	Park Place Entertainment
+#59	ACE T59	entityID: NYT20001107.1907.0300-E22; extent: Park Place Entertainment
+T60	ACE-Mention 4009 4018	Tickets .
+#60	ACE T60	entityID: NYT20001107.1907.0300-E23; extent: Tickets .
+T61	ACE-Mention 4026 4030	Sony
+#61	ACE T61	entityID: NYT20001107.1907.0300-E24; extent: Sony
+T62	ACE-Mention 4033 4042	Universal
+#62	ACE T62	entityID: NYT20001107.1907.0300-E25; extent: Universal
+T63	ACE-Mention 4047 4054	Variety
+#63	ACE T63	entityID: NYT20001107.1907.0300-E26; extent: Variety

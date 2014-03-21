@@ -1,0 +1,64 @@
+T0	ACE-Mention 109 114	TOKYO
+#0	ACE T0	entityID: APW20001031.0325.0168-E11; extent: TOKYO
+T1	ACE-Mention 115 119	(AP)
+#1	ACE T1	entityID: APW20001031.0325.0168-E12; extent: (AP)
+T2	ACE-Mention 122 143	Japan 's central bank
+#2	ACE T2	entityID: APW20001031.0325.0168-E3; extent: Japan 's central bank
+T3	ACE-Mention 294 308	the government
+#3	ACE T3	entityID: APW20001031.0325.0168-E5; extent: the government
+T4	ACE-Mention 395 425	the Bank of Japan policy board
+#4	ACE T4	entityID: APW20001031.0325.0168-E2; extent: the Bank of Japan policy board
+T5	ACE-Mention 431 442	the country
+#5	ACE T5	entityID: APW20001031.0325.0168-E5; extent: the country
+T6	ACE-Mention 523 531	The bank
+#6	ACE T6	entityID: APW20001031.0325.0168-E3; extent: The bank
+T7	ACE-Mention 667 687	the corporate sector
+#7	ACE T7	entityID: APW20001031.0325.0168-E17; extent: the corporate sector
+T8	ACE-Mention 709 729	the household sector
+#8	ACE T8	entityID: APW20001031.0325.0168-E18; extent: the household sector
+T9	ACE-Mention 762 769	the BOJ
+#9	ACE T9	entityID: APW20001031.0325.0168-E3; extent: the BOJ
+T10	ACE-Mention 842 856	the government
+#10	ACE T10	entityID: APW20001031.0325.0168-E5; extent: the government
+T11	ACE-Mention 863 891	The Economic Planning Agency
+#11	ACE T11	entityID: APW20001031.0325.0168-E19; extent: The Economic Planning Agency
+T12	ACE-Mention 987 992	Japan
+#12	ACE T12	entityID: APW20001031.0325.0168-E5; extent: Japan
+T13	ACE-Mention 1022 1025	its
+#13	ACE T13	entityID: APW20001031.0325.0168-E5; extent: its
+T14	ACE-Mention 1210 1224	The government
+#14	ACE T14	entityID: APW20001031.0325.0168-E5; extent: The government
+T15	ACE-Mention 1421 1424	its
+#15	ACE T15	entityID: APW20001031.0325.0168-E3; extent: its
+T16	ACE-Mention 1442 1449	the BOJ
+#16	ACE T16	entityID: APW20001031.0325.0168-E3; extent: the BOJ
+T17	ACE-Mention 1548 1594	information and communications-related sectors
+#17	ACE T17	entityID: APW20001031.0325.0168-E20; extent: information and communications-related sectors
+T18	ACE-Mention 1650 1657	The BOJ
+#18	ACE T18	entityID: APW20001031.0325.0168-E3; extent: The BOJ
+T19	ACE-Mention 1825 1842	the board members
+#19	ACE T19	entityID: APW20001031.0325.0168-E1; extent: the board members
+T20	ACE-Mention 1934 1941	the BOJ
+#20	ACE T20	entityID: APW20001031.0325.0168-E3; extent: the BOJ
+T21	ACE-Mention 2171 2184	the BOJ board
+#21	ACE T21	entityID: APW20001031.0325.0168-E2; extent: the BOJ board
+T22	ACE-Mention 2236 2249	The BOJ board
+#22	ACE T22	entityID: APW20001031.0325.0168-E2; extent: The BOJ board
+T23	ACE-Mention 2309 2317	Japanese
+#23	ACE T23	entityID: APW20001031.0325.0168-E5; extent: Japanese
+T24	ACE-Mention 2384 2399	other countries
+#24	ACE T24	entityID: APW20001031.0325.0168-E6; extent: other countries
+T25	ACE-Mention 2424 2429	Japan
+#25	ACE T25	entityID: APW20001031.0325.0168-E5; extent: Japan
+T26	ACE-Mention 2433 2442	The board
+#26	ACE T26	entityID: APW20001031.0325.0168-E2; extent: The board
+T27	ACE-Mention 2476 2485	companies
+#27	ACE T27	entityID: APW20001031.0325.0168-E7; extent: companies
+T28	ACE-Mention 2490 2512	financial institutions
+#28	ACE T28	entityID: APW20001031.0325.0168-E8; extent: financial institutions
+T29	ACE-Mention 2679 2699	the financial sector
+#29	ACE T29	entityID: APW20001031.0325.0168-E9; extent: the financial sector
+T30	ACE-Mention 2702 2711	the board
+#30	ACE T30	entityID: APW20001031.0325.0168-E2; extent: the board
+T31	ACE-Mention 2722 2726	bank
+#31	ACE T31	entityID: APW20001031.0325.0168-E10; extent: bank

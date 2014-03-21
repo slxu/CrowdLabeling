@@ -1,0 +1,126 @@
+T0	ACE-Mention 304 323	SPRINGFIELD , Mass.
+#0	ACE T0	entityID: NYT20001122.2009.0341-E20; extent: SPRINGFIELD , Mass.
+T1	ACE-Mention 353 359	Ward C
+#1	ACE T1	entityID: NYT20001122.2009.0341-E33; extent: Ward C
+T2	ACE-Mention 365 379	the prosecutor
+#2	ACE T2	entityID: NYT20001122.2009.0341-E34; extent: the prosecutor
+T3	ACE-Mention 386 389	his
+#3	ACE T3	entityID: NYT20001122.2009.0341-E34; extent: his
+T4	ACE-Mention 544 584	Assistant U.S. Attorney William Welch II
+#4	ACE T4	entityID: NYT20001122.2009.0341-E34; extent: Assistant U.S. Attorney William Welch II
+T5	ACE-Mention 596 604	Patients
+#5	ACE T5	entityID: NYT20001122.2009.0341-E37; extent: Patients
+T6	ACE-Mention 694 696	he
+#6	ACE T6	entityID: NYT20001122.2009.0341-E34; extent: he
+T7	ACE-Mention 726 749	three registered nurses
+#7	ACE T7	entityID: NYT20001122.2009.0341-E38; extent: three registered nurses
+T8	ACE-Mention 773 782	a patient
+#8	ACE T8	entityID: NYT20001122.2009.0341-E39; extent: a patient
+T9	ACE-Mention 788 814	a health care professional
+#9	ACE T9	entityID: NYT20001122.2009.0341-E40; extent: a health care professional
+T10	ACE-Mention 820 830	a hospital
+#10	ACE T10	entityID: NYT20001122.2009.0341-E41; extent: a hospital
+T11	ACE-Mention 862 870	a killer
+#11	ACE T11	entityID: NYT20001122.2009.0341-E42; extent: a killer
+T12	ACE-Mention 879 883	them
+#12	ACE T12	entityID: NYT20001122.2009.0341-E30; extent: them
+T13	ACE-Mention 890 901	That killer
+#13	ACE T13	entityID: NYT20001122.2009.0341-E42; extent: That killer
+T14	ACE-Mention 904 915	prosecutors
+#14	ACE T14	entityID: NYT20001122.2009.0341-E13; extent: prosecutors
+T15	ACE-Mention 928 948	Kristen Gilbert , 33
+#15	ACE T15	entityID: NYT20001122.2009.0341-E1; extent: Kristen Gilbert , 33
+T16	ACE-Mention 951 1168	a former nurse , who is on trial in federal court here , accused of murdering four patients and trying to kill three others by poisoning them with epinephrine , a stimulant that sent their hearts racing out of control
+#16	ACE T16	entityID: NYT20001122.2009.0341-E1; extent: a former nurse , who is on trial in federal court here , accused of murdering four patients and trying to kill three others by poisoning them with epinephrine , a stimulant that sent their hearts racing out of control
+T17	ACE-Mention 1172 1185	Massachusetts
+#17	ACE T17	entityID: NYT20001122.2009.0341-E6; extent: Massachusetts
+T18	ACE-Mention 1189 1233	one of 12 states that lack the death penalty
+#18	ACE T18	entityID: NYT20001122.2009.0341-E6; extent: one of 12 states that lack the death penalty
+T19	ACE-Mention 1240 1247	Gilbert
+#19	ACE T19	entityID: NYT20001122.2009.0341-E1; extent: Gilbert
+T20	ACE-Mention 1322 1338	federal property
+#20	ACE T20	entityID: NYT20001122.2009.0341-E9; extent: federal property
+T21	ACE-Mention 1341 1399	the Veterans Affairs Medical Center in Northampton , Mass.
+#21	ACE T21	entityID: NYT20001122.2009.0341-E9; extent: the Veterans Affairs Medical Center in Northampton , Mass.
+T22	ACE-Mention 1434 1516	federal court , where prosecutors can , and say they will , seek the death penalty
+#22	ACE T22	entityID: NYT20001122.2009.0341-E12; extent: federal court , where prosecutors can , and say they will , seek the death penalty
+T23	ACE-Mention 1555 1573	the defense lawyer
+#23	ACE T23	entityID: NYT20001122.2009.0341-E14; extent: the defense lawyer
+T24	ACE-Mention 1576 1590	David P. Hoose
+#24	ACE T24	entityID: NYT20001122.2009.0341-E14; extent: David P. Hoose
+T25	ACE-Mention 1609 1615	no one
+#25	ACE T25	entityID: NYT20001122.2009.0341-E16; extent: no one
+T26	ACE-Mention 1625 1632	Gilbert
+#26	ACE T26	entityID: NYT20001122.2009.0341-E1; extent: Gilbert
+T27	ACE-Mention 1640 1652	the patients
+#27	ACE T27	entityID: NYT20001122.2009.0341-E5; extent: the patients
+T28	ACE-Mention 1656 1658	He
+#28	ACE T28	entityID: NYT20001122.2009.0341-E14; extent: He
+T29	ACE-Mention 1669 1681	the patients
+#29	ACE T29	entityID: NYT20001122.2009.0341-E5; extent: the patients
+T30	ACE-Mention 1706 1721	the prosecution
+#30	ACE T30	entityID: NYT20001122.2009.0341-E13; extent: the prosecution
+T31	ACE-Mention 1784 1814	the exhumed bodies of patients
+#31	ACE T31	entityID: NYT20001122.2009.0341-E17; extent: the exhumed bodies of patients
+T32	ACE-Mention 1974 1976	he
+#32	ACE T32	entityID: NYT20001122.2009.0341-E14; extent: he
+T33	ACE-Mention 2008 2012	they
+#33	ACE T33	entityID: NYT20001122.2009.0341-E13; extent: they
+T34	ACE-Mention 2035 2041	people
+#34	ACE T34	entityID: NYT20001122.2009.0341-E18; extent: people
+T35	ACE-Mention 2079 2094	Kristen Gilbert
+#35	ACE T35	entityID: NYT20001122.2009.0341-E1; extent: Kristen Gilbert
+T36	ACE-Mention 2111 2116	Welch
+#36	ACE T36	entityID: NYT20001122.2009.0341-E34; extent: Welch
+T37	ACE-Mention 2126 2129	her
+#37	ACE T37	entityID: NYT20001122.2009.0341-E1; extent: her
+T38	ACE-Mention 2132 2139	Gilbert
+#38	ACE T38	entityID: NYT20001122.2009.0341-E1; extent: Gilbert
+T39	ACE-Mention 2270 2273	her
+#39	ACE T39	entityID: NYT20001122.2009.0341-E1; extent: her
+T40	ACE-Mention 2313 2321	patients
+#40	ACE T40	entityID: NYT20001122.2009.0341-E19; extent: patients
+T41	ACE-Mention 2342 2345	She
+#41	ACE T41	entityID: NYT20001122.2009.0341-E1; extent: She
+T42	ACE-Mention 2396 2398	he
+#42	ACE T42	entityID: NYT20001122.2009.0341-E34; extent: he
+T43	ACE-Mention 2425 2447	the mother of two boys
+#43	ACE T43	entityID: NYT20001122.2009.0341-E1; extent: the mother of two boys
+T44	ACE-Mention 2450 2453	she
+#44	ACE T44	entityID: NYT20001122.2009.0341-E1; extent: she
+T45	ACE-Mention 2488 2526	one of the hospital 's security police
+#45	ACE T45	entityID: NYT20001122.2009.0341-E23; extent: one of the hospital 's security police
+T46	ACE-Mention 2529 2543	James Perrault
+#46	ACE T46	entityID: NYT20001122.2009.0341-E23; extent: James Perrault
+T47	ACE-Mention 2550 2552	he
+#47	ACE T47	entityID: NYT20001122.2009.0341-E23; extent: he
+T48	ACE-Mention 2618 2623	Welch
+#48	ACE T48	entityID: NYT20001122.2009.0341-E34; extent: Welch
+T49	ACE-Mention 2634 2641	Gilbert
+#49	ACE T49	entityID: NYT20001122.2009.0341-E1; extent: Gilbert
+T50	ACE-Mention 2659 2687	Perrault , who would testify
+#50	ACE T50	entityID: NYT20001122.2009.0341-E23; extent: Perrault , who would testify
+T51	ACE-Mention 2691 2696	Welch
+#51	ACE T51	entityID: NYT20001122.2009.0341-E34; extent: Welch
+T52	ACE-Mention 2749 2785	a suspicious colleague of Gilbert 's
+#52	ACE T52	entityID: NYT20001122.2009.0341-E27; extent: a suspicious colleague of Gilbert 's
+T53	ACE-Mention 2788 2797	Kathy Rix
+#53	ACE T53	entityID: NYT20001122.2009.0341-E27; extent: Kathy Rix
+T54	ACE-Mention 2825 2848	the intensive care unit
+#54	ACE T54	entityID: NYT20001122.2009.0341-E29; extent: the intensive care unit
+T55	ACE-Mention 2935 2942	Gilbert
+#55	ACE T55	entityID: NYT20001122.2009.0341-E1; extent: Gilbert
+T56	ACE-Mention 2945 2948	she
+#56	ACE T56	entityID: NYT20001122.2009.0341-E27; extent: she
+T57	ACE-Mention 3050 3053	She
+#57	ACE T57	entityID: NYT20001122.2009.0341-E27; extent: She
+T58	ACE-Mention 3067 3070	her
+#58	ACE T58	entityID: NYT20001122.2009.0341-E27; extent: her
+T59	ACE-Mention 3083 3086	her
+#59	ACE T59	entityID: NYT20001122.2009.0341-E27; extent: her
+T60	ACE-Mention 3112 3117	Welch
+#60	ACE T60	entityID: NYT20001122.2009.0341-E34; extent: Welch
+T61	ACE-Mention 3136 3139	she
+#61	ACE T61	entityID: NYT20001122.2009.0341-E27; extent: she
+T62	ACE-Mention 3176 3183	Ward C.
+#62	ACE T62	entityID: NYT20001122.2009.0341-E33; extent: Ward C.

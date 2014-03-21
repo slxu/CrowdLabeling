@@ -1,0 +1,254 @@
+T0	ACE-Mention 108 127	JAKARTA , Indonesia
+#0	ACE T0	entityID: APW20001030.1921.0538-E19; extent: JAKARTA , Indonesia
+T1	ACE-Mention 128 132	(AP)
+#1	ACE T1	entityID: APW20001030.1921.0538-E87; extent: (AP)
+T2	ACE-Mention 135 154	The U.S. ambassador
+#2	ACE T2	entityID: APW20001030.1921.0538-E2; extent: The U.S. ambassador
+T3	ACE-Mention 174 183	Indonesia
+#3	ACE T3	entityID: APW20001030.1921.0538-E60; extent: Indonesia
+T4	ACE-Mention 205 223	Indonesian leaders
+#4	ACE T4	entityID: APW20001030.1921.0538-E1; extent: Indonesian leaders
+T5	ACE-Mention 234 237	him
+#5	ACE T5	entityID: APW20001030.1921.0538-E2; extent: him
+T6	ACE-Mention 259 262	him
+#6	ACE T6	entityID: APW20001030.1921.0538-E2; extent: him
+T7	ACE-Mention 263 283	an interfering bully
+#7	ACE T7	entityID: APW20001030.1921.0538-E2; extent: an interfering bully
+T8	ACE-Mention 287 304	Angry Indonesians
+#8	ACE T8	entityID: APW20001030.1921.0538-E3; extent: Angry Indonesians
+T9	ACE-Mention 312 318	hotels
+#9	ACE T9	entityID: APW20001030.1921.0538-E4; extent: hotels
+T10	ACE-Mention 323 332	Americans
+#10	ACE T10	entityID: APW20001030.1921.0538-E5; extent: Americans
+T11	ACE-Mention 336 352	The U.S. Embassy
+#11	ACE T11	entityID: APW20001030.1921.0538-E6; extent: The U.S. Embassy
+T12	ACE-Mention 360 363	its
+#12	ACE T12	entityID: APW20001030.1921.0538-E6; extent: its
+T13	ACE-Mention 373 383	the public
+#13	ACE T13	entityID: APW20001030.1921.0538-E7; extent: the public
+T14	ACE-Mention 405 422	the United States
+#14	ACE T14	entityID: APW20001030.1921.0538-E8; extent: the United States
+T15	ACE-Mention 427 464	this sprawling southeast Asian nation
+#15	ACE T15	entityID: APW20001030.1921.0538-E60; extent: this sprawling southeast Asian nation
+T16	ACE-Mention 541 560	the U.S. ambassador
+#16	ACE T16	entityID: APW20001030.1921.0538-E2; extent: the U.S. ambassador
+T17	ACE-Mention 565 580	local officials
+#17	ACE T17	entityID: APW20001030.1921.0538-E10; extent: local officials
+T18	ACE-Mention 628 637	Indonesia
+#18	ACE T18	entityID: APW20001030.1921.0538-E60; extent: Indonesia
+T19	ACE-Mention 640 681	the world 's most populous Muslim country
+#19	ACE T19	entityID: APW20001030.1921.0538-E60; extent: the world 's most populous Muslim country
+T20	ACE-Mention 689 699	Washington
+#20	ACE T20	entityID: APW20001030.1921.0538-E8; extent: Washington
+T21	ACE-Mention 717 736	Israeli-Palestinian
+#21	ACE T21	entityID: APW20001030.1921.0538-E13; extent: Israeli-Palestinian
+T22	ACE-Mention 748 757	many here
+#22	ACE T22	entityID: APW20001030.1921.0538-E15; extent: many here
+T23	ACE-Mention 762 779	the United States
+#23	ACE T23	entityID: APW20001030.1921.0538-E8; extent: the United States
+T24	ACE-Mention 790 796	Israel
+#24	ACE T24	entityID: APW20001030.1921.0538-E13; extent: Israel
+T25	ACE-Mention 839 853	U.S. officials
+#25	ACE T25	entityID: APW20001030.1921.0538-E17; extent: U.S. officials
+T26	ACE-Mention 871 875	they
+#26	ACE T26	entityID: APW20001030.1921.0538-E17; extent: they
+T27	ACE-Mention 882 886	They
+#27	ACE T27	entityID: APW20001030.1921.0538-E17; extent: They
+T28	ACE-Mention 900 926	U.S. citizens in Indonesia
+#28	ACE T28	entityID: APW20001030.1921.0538-E18; extent: U.S. citizens in Indonesia
+T29	ACE-Mention 953 969	the U.S. Embassy
+#29	ACE T29	entityID: APW20001030.1921.0538-E6; extent: the U.S. Embassy
+T30	ACE-Mention 985 987	it
+#30	ACE T30	entityID: APW20001030.1921.0538-E6; extent: it
+T31	ACE-Mention 1037 1045	American
+#31	ACE T31	entityID: APW20001030.1921.0538-E8; extent: American
+T32	ACE-Mention 1140 1157	Islamic militants
+#32	ACE T32	entityID: APW20001030.1921.0538-E21; extent: Islamic militants
+T33	ACE-Mention 1166 1209	hotels in the central Javanese city of Solo
+#33	ACE T33	entityID: APW20001030.1921.0538-E22; extent: hotels in the central Javanese city of Solo
+T34	ACE-Mention 1227 1244	American tourists
+#34	ACE T34	entityID: APW20001030.1921.0538-E25; extent: American tourists
+T35	ACE-Mention 1251 1262	the country
+#35	ACE T35	entityID: APW20001030.1921.0538-E60; extent: the country
+T36	ACE-Mention 1284 1362	The embassy , located across Jakarta 's main park from the presidential palace
+#36	ACE T36	entityID: APW20001030.1921.0538-E26; extent: The embassy , located across Jakarta 's main park from the presidential palace
+T37	ACE-Mention 1375 1378	its
+#37	ACE T37	entityID: APW20001030.1921.0538-E6; extent: its
+T38	ACE-Mention 1458 1471	Muslim youths
+#38	ACE T38	entityID: APW20001030.1921.0538-E30; extent: Muslim youths
+T39	ACE-Mention 1521 1532	the embassy
+#39	ACE T39	entityID: APW20001030.1921.0538-E26; extent: the embassy
+T40	ACE-Mention 1544 1554	Washington
+#40	ACE T40	entityID: APW20001030.1921.0538-E8; extent: Washington
+T41	ACE-Mention 1585 1591	Israel
+#41	ACE T41	entityID: APW20001030.1921.0538-E13; extent: Israel
+T42	ACE-Mention 1597 1662	The U.S. consulate in Indonesia 's second-largest city , Surabaya
+#42	ACE T42	entityID: APW20001030.1921.0538-E31; extent: The U.S. consulate in Indonesia 's second-largest city , Surabaya
+T43	ACE-Mention 1694 1702	American
+#43	ACE T43	entityID: APW20001030.1921.0538-E8; extent: American
+T44	ACE-Mention 1707 1714	Israeli
+#44	ACE T44	entityID: APW20001030.1921.0538-E13; extent: Israeli
+T45	ACE-Mention 1745 1756	the streets
+#45	ACE T45	entityID: APW20001030.1921.0538-E34; extent: the streets
+T46	ACE-Mention 1762 1776	A U.S. tourist
+#46	ACE T46	entityID: APW20001030.1921.0538-E35; extent: A U.S. tourist
+T47	ACE-Mention 1842 1868	the province of Irian Jaya
+#47	ACE T47	entityID: APW20001030.1921.0538-E36; extent: the province of Irian Jaya
+T48	ACE-Mention 1890 1900	Washington
+#48	ACE T48	entityID: APW20001030.1921.0538-E8; extent: Washington
+T49	ACE-Mention 1939 1948	Indonesia
+#49	ACE T49	entityID: APW20001030.1921.0538-E60; extent: Indonesia
+T50	ACE-Mention 2123 2149	several Indonesian regions
+#50	ACE T50	entityID: APW20001030.1921.0538-E37; extent: several Indonesian regions
+T51	ACE-Mention 2154 2177	pro-Indonesian militias
+#51	ACE T51	entityID: APW20001030.1921.0538-E38; extent: pro-Indonesian militias
+T52	ACE-Mention 2197 2289	peacekeepers in East Timor , the territory that gained independence from Indonesia last year
+#52	ACE T52	entityID: APW20001030.1921.0538-E39; extent: peacekeepers in East Timor , the territory that gained independence from Indonesia last year
+T53	ACE-Mention 2343 2363	Indonesian officials
+#53	ACE T53	entityID: APW20001030.1921.0538-E42; extent: Indonesian officials
+T54	ACE-Mention 2368 2398	U.S. Ambassador Robert Gelbard
+#54	ACE T54	entityID: APW20001030.1921.0538-E2; extent: U.S. Ambassador Robert Gelbard
+T55	ACE-Mention 2402 2409	Gelbard
+#55	ACE T55	entityID: APW20001030.1921.0538-E2; extent: Gelbard
+T56	ACE-Mention 2421 2428	Jakarta
+#56	ACE T56	entityID: APW20001030.1921.0538-E19; extent: Jakarta
+T57	ACE-Mention 2469 2483	a tough talker
+#57	ACE T57	entityID: APW20001030.1921.0538-E2; extent: a tough talker
+T58	ACE-Mention 2487 2528	President Clinton 's envoy to the Balkans
+#58	ACE T58	entityID: APW20001030.1921.0538-E2; extent: President Clinton 's envoy to the Balkans
+T59	ACE-Mention 2553 2555	he
+#59	ACE T59	entityID: APW20001030.1921.0538-E2; extent: he
+T60	ACE-Mention 2583 2606	Indonesia 's government
+#60	ACE T60	entityID: APW20001030.1921.0538-E60; extent: Indonesia 's government
+T61	ACE-Mention 2693 2779	those responsible for the bloody destruction of East Timor after the independence vote
+#61	ACE T61	entityID: APW20001030.1921.0538-E52; extent: those responsible for the bloody destruction of East Timor after the independence vote
+T62	ACE-Mention 2783 2803	Indonesian lawmakers
+#62	ACE T62	entityID: APW20001030.1921.0538-E47; extent: Indonesian lawmakers
+T63	ACE-Mention 2827 2834	Gelbard
+#63	ACE T63	entityID: APW20001030.1921.0538-E2; extent: Gelbard
+T64	ACE-Mention 2852 2856	They
+#64	ACE T64	entityID: APW20001030.1921.0538-E47; extent: They
+T65	ACE-Mention 2955 2978	the main island of Java
+#65	ACE T65	entityID: APW20001030.1921.0538-E24; extent: the main island of Java
+T66	ACE-Mention 2992 3033	some members of a parliamentary committee
+#66	ACE T66	entityID: APW20001030.1921.0538-E49; extent: some members of a parliamentary committee
+T67	ACE-Mention 3040 3054	the government
+#67	ACE T67	entityID: APW20001030.1921.0538-E60; extent: the government
+T68	ACE-Mention 3066 3073	Gelbard
+#68	ACE T68	entityID: APW20001030.1921.0538-E2; extent: Gelbard
+T69	ACE-Mention 3077 3094	persona non grata
+#69	ACE T69	entityID: APW20001030.1921.0538-E44; extent: persona non grata
+T70	ACE-Mention 3126 3153	President Abdurrahman Wahid
+#70	ACE T70	entityID: APW20001030.1921.0538-E53; extent: President Abdurrahman Wahid
+T71	ACE-Mention 3160 3162	We
+#71	ACE T71	entityID: APW20001030.1921.0538-E55; extent: We
+T72	ACE-Mention 3175 3182	America
+#72	ACE T72	entityID: APW20001030.1921.0538-E8; extent: America
+T73	ACE-Mention 3186 3194	a nation
+#73	ACE T73	entityID: APW20001030.1921.0538-E8; extent: a nation
+T74	ACE-Mention 3201 3203	we
+#74	ACE T74	entityID: APW20001030.1921.0538-E55; extent: we
+T75	ACE-Mention 3211 3225	the ambassador
+#75	ACE T75	entityID: APW20001030.1921.0538-E2; extent: the ambassador
+T76	ACE-Mention 3231 3268	commission chairman Ananta Baharuddin
+#76	ACE T76	entityID: APW20001030.1921.0538-E57; extent: commission chairman Ananta Baharuddin
+T77	ACE-Mention 3279 3288	committee
+#77	ACE T77	entityID: APW20001030.1921.0538-E50; extent: committee
+T78	ACE-Mention 3300 3311	Legislators
+#78	ACE T78	entityID: APW20001030.1921.0538-E61; extent: Legislators
+T79	ACE-Mention 3319 3326	Gelbard
+#79	ACE T79	entityID: APW20001030.1921.0538-E2; extent: Gelbard
+T80	ACE-Mention 3331 3341	Washington
+#80	ACE T80	entityID: APW20001030.1921.0538-E8; extent: Washington
+T81	ACE-Mention 3354 3368	the government
+#81	ACE T81	entityID: APW20001030.1921.0538-E60; extent: the government
+T82	ACE-Mention 3372 3388	Military leaders
+#82	ACE T82	entityID: APW20001030.1921.0538-E63; extent: Military leaders
+T83	ACE-Mention 3396 3400	them
+#83	ACE T83	entityID: APW20001030.1921.0538-E64; extent: them
+T84	ACE-Mention 3419 3428	Indonesia
+#84	ACE T84	entityID: APW20001030.1921.0538-E60; extent: Indonesia
+T85	ACE-Mention 3467 3516	three of the U.N. workers stationed in East Timor
+#85	ACE T85	entityID: APW20001030.1921.0538-E65; extent: three of the U.N. workers stationed in East Timor
+T86	ACE-Mention 3532 3564	Indonesian-controlled West Timor
+#86	ACE T86	entityID: APW20001030.1921.0538-E68; extent: Indonesian-controlled West Timor
+T87	ACE-Mention 3568 3585	The United States
+#87	ACE T87	entityID: APW20001030.1921.0538-E8; extent: The United States
+T88	ACE-Mention 3597 3657	the driving force behind international pressure on Indonesia
+#88	ACE T88	entityID: APW20001030.1921.0538-E8; extent: the driving force behind international pressure on Indonesia
+T89	ACE-Mention 3693 3711	Dewi Fortuna Anwar
+#89	ACE T89	entityID: APW20001030.1921.0538-E70; extent: Dewi Fortuna Anwar
+T90	ACE-Mention 3714 3763	an adviser to Wahid 's predecessor , B.J. Habibie
+#90	ACE T90	entityID: APW20001030.1921.0538-E70; extent: an adviser to Wahid 's predecessor , B.J. Habibie
+T91	ACE-Mention 3770 3776	People
+#91	ACE T91	entityID: APW20001030.1921.0538-E74; extent: People
+T92	ACE-Mention 3802 3819	the United States
+#92	ACE T92	entityID: APW20001030.1921.0538-E8; extent: the United States
+T93	ACE-Mention 3839 3848	Indonesia
+#93	ACE T93	entityID: APW20001030.1921.0538-E60; extent: Indonesia
+T94	ACE-Mention 3868 3886	three U.N. workers
+#94	ACE T94	entityID: APW20001030.1921.0538-E65; extent: three U.N. workers
+T95	ACE-Mention 3913 3919	Israel
+#95	ACE T95	entityID: APW20001030.1921.0538-E13; extent: Israel
+T96	ACE-Mention 3939 3965	more than 100 Palestinians
+#96	ACE T96	entityID: APW20001030.1921.0538-E77; extent: more than 100 Palestinians
+T97	ACE-Mention 3971 3974	she
+#97	ACE T97	entityID: APW20001030.1921.0538-E70; extent: she
+T98	ACE-Mention 3986 4020	Countries going through transition
+#98	ACE T98	entityID: APW20001030.1921.0538-E78; extent: Countries going through transition
+T99	ACE-Mention 4136 4141	Anwar
+#99	ACE T99	entityID: APW20001030.1921.0538-E70; extent: Anwar
+T100	ACE-Mention 4158 4165	Gelbard
+#100	ACE T100	entityID: APW20001030.1921.0538-E2; extent: Gelbard
+T101	ACE-Mention 4240 4247	Gelbard
+#101	ACE T101	entityID: APW20001030.1921.0538-E2; extent: Gelbard
+T102	ACE-Mention 4323 4340	the United States
+#102	ACE T102	entityID: APW20001030.1921.0538-E8; extent: the United States
+T103	ACE-Mention 4387 4396	Indonesia
+#103	ACE T103	entityID: APW20001030.1921.0538-E60; extent: Indonesia
+T104	ACE-Mention 4400 4405	Anwar
+#104	ACE T104	entityID: APW20001030.1921.0538-E70; extent: Anwar
+T105	ACE-Mention 4427 4440	anti-American
+#105	ACE T105	entityID: APW20001030.1921.0538-E8; extent: anti-American
+T106	ACE-Mention 4483 4550	Wahid 's political opponents , who are pressing for his resignation
+#106	ACE T106	entityID: APW20001030.1921.0538-E79; extent: Wahid 's political opponents , who are pressing for his resignation
+T107	ACE-Mention 4631 4640	Indonesia
+#107	ACE T107	entityID: APW20001030.1921.0538-E60; extent: Indonesia
+T108	ACE-Mention 4645 4655	its people
+#108	ACE T108	entityID: APW20001030.1921.0538-E60; extent: its people
+T109	ACE-Mention 4683 4700	the United States
+#109	ACE T109	entityID: APW20001030.1921.0538-E8; extent: the United States
+T110	ACE-Mention 4711 4727	The Jakarta Post
+#110	ACE T110	entityID: APW20001030.1921.0538-E80; extent: The Jakarta Post
+T111	ACE-Mention 4759 4776	The United States
+#111	ACE T111	entityID: APW20001030.1921.0538-E8; extent: The United States
+T112	ACE-Mention 4783 4792	Indonesia
+#112	ACE T112	entityID: APW20001030.1921.0538-E60; extent: Indonesia
+T113	ACE-Mention 4827 4868	a major market for the country 's exports
+#113	ACE T113	entityID: APW20001030.1921.0538-E8; extent: a major market for the country 's exports
+T114	ACE-Mention 4872 4887	President Wahid
+#114	ACE T114	entityID: APW20001030.1921.0538-E53; extent: President Wahid
+T115	ACE-Mention 4926 4943	the United States
+#115	ACE T115	entityID: APW20001030.1921.0538-E8; extent: the United States
+T116	ACE-Mention 4950 5020	Indonesia 's first democratically chosen head of state in four decades
+#116	ACE T116	entityID: APW20001030.1921.0538-E53; extent: Indonesia 's first democratically chosen head of state in four decades
+T117	ACE-Mention 5023 5025	he
+#117	ACE T117	entityID: APW20001030.1921.0538-E53; extent: he
+T118	ACE-Mention 5034 5041	Clinton
+#118	ACE T118	entityID: APW20001030.1921.0538-E81; extent: Clinton
+T119	ACE-Mention 5051 5066	the White House
+#119	ACE T119	entityID: APW20001030.1921.0538-E82; extent: the White House
+T120	ACE-Mention 5073 5083	Washington
+#120	ACE T120	entityID: APW20001030.1921.0538-E8; extent: Washington
+T121	ACE-Mention 5093 5159	a strong supporter of International Monetary Fund aid to Indonesia
+#121	ACE T121	entityID: APW20001030.1921.0538-E8; extent: a strong supporter of International Monetary Fund aid to Indonesia
+T122	ACE-Mention 5205 5210	Wahid
+#122	ACE T122	entityID: APW20001030.1921.0538-E53; extent: Wahid
+T123	ACE-Mention 5287 5292	Wahid
+#123	ACE T123	entityID: APW20001030.1921.0538-E53; extent: Wahid
+T124	ACE-Mention 5319 5323	Cuba
+#124	ACE T124	entityID: APW20001030.1921.0538-E85; extent: Cuba
+T125	ACE-Mention 5327 5329	He
+#125	ACE T125	entityID: APW20001030.1921.0538-E53; extent: He
+T126	ACE-Mention 5368 5372	Iraq
+#126	ACE T126	entityID: APW20001030.1921.0538-E86; extent: Iraq

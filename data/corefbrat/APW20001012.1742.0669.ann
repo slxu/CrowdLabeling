@@ -1,0 +1,114 @@
+T0	ACE-Mention 122 132	WASHINGTON
+#0	ACE T0	entityID: APW20001012.1742.0669-E24; extent: WASHINGTON
+T1	ACE-Mention 133 137	(AP)
+#1	ACE T1	entityID: APW20001012.1742.0669-E33; extent: (AP)
+T2	ACE-Mention 177 197	the people of Serbia
+#2	ACE T2	entityID: APW20001012.1742.0669-E14; extent: the people of Serbia
+T3	ACE-Mention 200 217	President Clinton
+#3	ACE T3	entityID: APW20001012.1742.0669-E35; extent: President Clinton
+T4	ACE-Mention 285 323	Belgrade 's newly installed government
+#4	ACE T4	entityID: APW20001012.1742.0669-E37; extent: Belgrade 's newly installed government
+T5	ACE-Mention 356 362	Serbia
+#5	ACE T5	entityID: APW20001012.1742.0669-E14; extent: Serbia
+T6	ACE-Mention 406 412	Europe
+#6	ACE T6	entityID: APW20001012.1742.0669-E40; extent: Europe
+T7	ACE-Mention 431 446	the Berlin Wall
+#7	ACE T7	entityID: APW20001012.1742.0669-E41; extent: the Berlin Wall
+T8	ACE-Mention 452 465	the president
+#8	ACE T8	entityID: APW20001012.1742.0669-E35; extent: the president
+T9	ACE-Mention 496 510	a dictatorship
+#9	ACE T9	entityID: APW20001012.1742.0669-E42; extent: a dictatorship
+T10	ACE-Mention 531 547	an entire region
+#10	ACE T10	entityID: APW20001012.1742.0669-E43; extent: an entire region
+T11	ACE-Mention 641 648	borders
+#11	ACE T11	entityID: APW20001012.1742.0669-E44; extent: borders
+T12	ACE-Mention 655 662	Clinton
+#12	ACE T12	entityID: APW20001012.1742.0669-E35; extent: Clinton
+T13	ACE-Mention 776 827	the regime of Yugoslav President Slobodan Milosevic
+#13	ACE T13	entityID: APW20001012.1742.0669-E42; extent: the regime of Yugoslav President Slobodan Milosevic
+T14	ACE-Mention 891 897	Serbia
+#14	ACE T14	entityID: APW20001012.1742.0669-E14; extent: Serbia
+T15	ACE-Mention 916 923	Clinton
+#15	ACE T15	entityID: APW20001012.1742.0669-E35; extent: Clinton
+T16	ACE-Mention 955 972	James C. O 'Brien
+#16	ACE T16	entityID: APW20001012.1742.0669-E4; extent: James C. O 'Brien
+T17	ACE-Mention 975 1038	the senior U.S. official overseeing developments in the Balkans
+#17	ACE T17	entityID: APW20001012.1742.0669-E4; extent: the senior U.S. official overseeing developments in the Balkans
+T18	ACE-Mention 1050 1103	new Yugoslav President Vojislav Kostunica in Belgrade
+#18	ACE T18	entityID: APW20001012.1742.0669-E8; extent: new Yugoslav President Vojislav Kostunica in Belgrade
+T19	ACE-Mention 1144 1153	Kostunica
+#19	ACE T19	entityID: APW20001012.1742.0669-E8; extent: Kostunica
+T20	ACE-Mention 1240 1247	Clinton
+#20	ACE T20	entityID: APW20001012.1742.0669-E35; extent: Clinton
+T21	ACE-Mention 1270 1288	the European Union
+#21	ACE T21	entityID: APW20001012.1742.0669-E12; extent: the European Union
+T22	ACE-Mention 1296 1299	its
+#22	ACE T22	entityID: APW20001012.1742.0669-E12; extent: its
+T23	ACE-Mention 1358 1364	Serbia
+#23	ACE T23	entityID: APW20001012.1742.0669-E14; extent: Serbia
+T24	ACE-Mention 1367 1398	the principal Yugoslav republic
+#24	ACE T24	entityID: APW20001012.1742.0669-E14; extent: the principal Yugoslav republic
+T25	ACE-Mention 1405 1407	We
+#25	ACE T25	entityID: APW20001012.1742.0669-E15; extent: We
+T26	ACE-Mention 1445 1480	Yugoslavia 's newly elected leaders
+#26	ACE T26	entityID: APW20001012.1742.0669-E16; extent: Yugoslavia 's newly elected leaders
+T27	ACE-Mention 1503 1529	a truly democratic society
+#27	ACE T27	entityID: APW20001012.1742.0669-E18; extent: a truly democratic society
+T28	ACE-Mention 1535 1542	Clinton
+#28	ACE T28	entityID: APW20001012.1742.0669-E35; extent: Clinton
+T29	ACE-Mention 1551 1557	The EU
+#29	ACE T29	entityID: APW20001012.1742.0669-E12; extent: The EU
+T30	ACE-Mention 1613 1622	Milosevic
+#30	ACE T30	entityID: APW20001012.1742.0669-E1; extent: Milosevic
+T31	ACE-Mention 1627 1637	his allies
+#31	ACE T31	entityID: APW20001012.1742.0669-E19; extent: his allies
+T32	ACE-Mention 1653 1657	them
+#32	ACE T32	entityID: APW20001012.1742.0669-E20; extent: them
+T33	ACE-Mention 1676 1689	15 EU nations
+#33	ACE T33	entityID: APW20001012.1742.0669-E12; extent: 15 EU nations
+T34	ACE-Mention 1693 1700	Clinton
+#34	ACE T34	entityID: APW20001012.1742.0669-E35; extent: Clinton
+T35	ACE-Mention 1706 1723	the United States
+#35	ACE T35	entityID: APW20001012.1742.0669-E7; extent: the United States
+T36	ACE-Mention 1787 1810	Milosevic 's supporters
+#36	ACE T36	entityID: APW20001012.1742.0669-E23; extent: Milosevic 's supporters
+T37	ACE-Mention 1930 1950	the Milosevic regime
+#37	ACE T37	entityID: APW20001012.1742.0669-E25; extent: the Milosevic regime
+T38	ACE-Mention 1957 2031	the people of Serbia who have suffered under the regime 's brutal policies
+#38	ACE T38	entityID: APW20001012.1742.0669-E27; extent: the people of Serbia who have suffered under the regime 's brutal policies
+T39	ACE-Mention 2037 2050	the president
+#39	ACE T39	entityID: APW20001012.1742.0669-E35; extent: the president
+T40	ACE-Mention 2075 2077	we
+#40	ACE T40	entityID: APW20001012.1742.0669-E28; extent: we
+T41	ACE-Mention 2122 2139	the United States
+#41	ACE T41	entityID: APW20001012.1742.0669-E7; extent: the United States
+T42	ACE-Mention 2143 2178	top members of the Milosevic regime
+#42	ACE T42	entityID: APW20001012.1742.0669-E29; extent: top members of the Milosevic regime
+T43	ACE-Mention 2216 2234	the new government
+#43	ACE T43	entityID: APW20001012.1742.0669-E32; extent: the new government
+T44	ACE-Mention 2320 2330	Yugoslavia
+#44	ACE T44	entityID: APW20001012.1742.0669-E3; extent: Yugoslavia
+T45	ACE-Mention 2336 2349	the president
+#45	ACE T45	entityID: APW20001012.1742.0669-E35; extent: the president
+T46	ACE-Mention 2358 2360	He
+#46	ACE T46	entityID: APW20001012.1742.0669-E35; extent: He
+T47	ACE-Mention 2366 2384	the administration
+#47	ACE T47	entityID: APW20001012.1742.0669-E30; extent: the administration
+T48	ACE-Mention 2419 2425	Serbia
+#48	ACE T48	entityID: APW20001012.1742.0669-E14; extent: Serbia
+T49	ACE-Mention 2446 2482	international financial institutions
+#49	ACE T49	entityID: APW20001012.1742.0669-E31; extent: international financial institutions
+T50	ACE-Mention 2489 2495	Serbia
+#50	ACE T50	entityID: APW20001012.1742.0669-E14; extent: Serbia
+T51	ACE-Mention 2502 2505	its
+#51	ACE T51	entityID: APW20001012.1742.0669-E14; extent: its
+T52	ACE-Mention 2538 2541	its
+#52	ACE T52	entityID: APW20001012.1742.0669-E14; extent: its
+T53	ACE-Mention 2612 2631	the Yugoslav people
+#53	ACE T53	entityID: APW20001012.1742.0669-E3; extent: the Yugoslav people
+T54	ACE-Mention 2636 2656	their new government
+#54	ACE T54	entityID: APW20001012.1742.0669-E32; extent: their new government
+T55	ACE-Mention 2796 2803	Clinton
+#55	ACE T55	entityID: APW20001012.1742.0669-E35; extent: Clinton
+T56	ACE-Mention 2913 2932	the American people
+#56	ACE T56	entityID: APW20001012.1742.0669-E7; extent: the American people

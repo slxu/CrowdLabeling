@@ -1,0 +1,14 @@
+T0	ACE-Mention 101 111	WASHINGTON
+#0	ACE T0	entityID: APW20001221.1133.0465-E1; extent: WASHINGTON
+T1	ACE-Mention 112 116	(AP)
+#1	ACE T1	entityID: APW20001221.1133.0465-E2; extent: (AP)
+T2	ACE-Mention 123 127	U.S.
+#2	ACE T2	entityID: APW20001221.1133.0465-E3; extent: U.S.
+T3	ACE-Mention 252 266	the government
+#3	ACE T3	entityID: APW20001221.1133.0465-E3; extent: the government
+T4	ACE-Mention 326 333	America
+#4	ACE T4	entityID: APW20001221.1133.0465-E3; extent: America
+T5	ACE-Mention 371 394	The Commerce Department
+#5	ACE T5	entityID: APW20001221.1133.0465-E5; extent: The Commerce Department
+T6	ACE-Mention 984 991	America
+#6	ACE T6	entityID: APW20001221.1133.0465-E3; extent: America

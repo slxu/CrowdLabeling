@@ -1,0 +1,218 @@
+T0	ACE-Mention 415 419	ROME
+#0	ACE T0	entityID: NYT20001216.1856.0177-E12; extent: ROME
+T1	ACE-Mention 490 507	Pope John Paul II
+#1	ACE T1	entityID: NYT20001216.1856.0177-E63; extent: Pope John Paul II
+T2	ACE-Mention 535 546	the Vatican
+#2	ACE T2	entityID: NYT20001216.1856.0177-E90; extent: the Vatican
+T3	ACE-Mention 552 564	Joerg Haider
+#3	ACE T3	entityID: NYT20001216.1856.0177-E1; extent: Joerg Haider
+T4	ACE-Mention 567 645	the far-right Austrian politician , who is persona non grata to many Europeans
+#4	ACE T4	entityID: NYT20001216.1856.0177-E1; extent: the far-right Austrian politician , who is persona non grata to many Europeans
+T5	ACE-Mention 649 792	Haider , leading a group of 250 Austrians and presenting a gift of an 80-foot Christmas tree from Carinthia , the state of which he is governor
+#5	ACE T5	entityID: NYT20001216.1856.0177-E1; extent: Haider , leading a group of 250 Austrians and presenting a gift of an 80-foot Christmas tree from Carinthia , the state of which he is governor
+T6	ACE-Mention 835 843	the pope
+#6	ACE T6	entityID: NYT20001216.1856.0177-E63; extent: the pope
+T7	ACE-Mention 847 868	The Vatican spokesman
+#7	ACE T7	entityID: NYT20001216.1856.0177-E8; extent: The Vatican spokesman
+T8	ACE-Mention 871 892	Joaquin Navarro-Valls
+#8	ACE T8	entityID: NYT20001216.1856.0177-E8; extent: Joaquin Navarro-Valls
+T9	ACE-Mention 910 916	Haider
+#9	ACE T9	entityID: NYT20001216.1856.0177-E1; extent: Haider
+T10	ACE-Mention 921 955	Bishop Egon Kapellari of Carinthia
+#10	ACE T10	entityID: NYT20001216.1856.0177-E11; extent: Bishop Egon Kapellari of Carinthia
+T11	ACE-Mention 967 975	the pope
+#11	ACE T11	entityID: NYT20001216.1856.0177-E63; extent: the pope
+T12	ACE-Mention 1047 1098	Haider , who seems to relish even hostile attention
+#12	ACE T12	entityID: NYT20001216.1856.0177-E1; extent: Haider , who seems to relish even hostile attention
+T13	ACE-Mention 1115 1134	St. Peter 's Square
+#13	ACE T13	entityID: NYT20001216.1856.0177-E14; extent: St. Peter 's Square
+T14	ACE-Mention 1138 1149	the Vatican
+#14	ACE T14	entityID: NYT20001216.1856.0177-E90; extent: the Vatican
+T15	ACE-Mention 1155 1171	his nearby hotel
+#15	ACE T15	entityID: NYT20001216.1856.0177-E15; extent: his nearby hotel
+T16	ACE-Mention 1188 1257	the rest of the delegation , which included his wife and two children
+#16	ACE T16	entityID: NYT20001216.1856.0177-E16; extent: the rest of the delegation , which included his wife and two children
+T17	ACE-Mention 1261 1263	He
+#17	ACE T17	entityID: NYT20001216.1856.0177-E1; extent: He
+T18	ACE-Mention 1282 1341	a tense phalanx of security officers and jostling cameramen
+#18	ACE T18	entityID: NYT20001216.1856.0177-E18; extent: a tense phalanx of security officers and jostling cameramen
+T19	ACE-Mention 1355 1376	Italian Jewish groups
+#19	ACE T19	entityID: NYT20001216.1856.0177-E23; extent: Italian Jewish groups
+T20	ACE-Mention 1379 1400	World War II veterans
+#20	ACE T20	entityID: NYT20001216.1856.0177-E24; extent: World War II veterans
+T21	ACE-Mention 1405 1430	leftist political parties
+#21	ACE T21	entityID: NYT20001216.1856.0177-E25; extent: leftist political parties
+T22	ACE-Mention 1478 1486	the pope
+#22	ACE T22	entityID: NYT20001216.1856.0177-E63; extent: the pope
+T23	ACE-Mention 1491 1497	Haider
+#23	ACE T23	entityID: NYT20001216.1856.0177-E1; extent: Haider
+T24	ACE-Mention 1542 1565	the Austrian politician
+#24	ACE T24	entityID: NYT20001216.1856.0177-E1; extent: the Austrian politician
+T25	ACE-Mention 1594 1614	about 1,000 students
+#25	ACE T25	entityID: NYT20001216.1856.0177-E26; extent: about 1,000 students
+T26	ACE-Mention 1626 1657	another section of central Rome
+#26	ACE T26	entityID: NYT20001216.1856.0177-E27; extent: another section of central Rome
+T27	ACE-Mention 1690 1696	Haider
+#27	ACE T27	entityID: NYT20001216.1856.0177-E1; extent: Haider
+T28	ACE-Mention 1709 1712	you
+#28	ACE T28	entityID: NYT20001216.1856.0177-E29; extent: you
+T29	ACE-Mention 1755 1767	St. Peter 's
+#29	ACE T29	entityID: NYT20001216.1856.0177-E30; extent: St. Peter 's
+T30	ACE-Mention 1836 1855	St. Peter 's Square
+#30	ACE T30	entityID: NYT20001216.1856.0177-E14; extent: St. Peter 's Square
+T31	ACE-Mention 1892 1898	Haider
+#31	ACE T31	entityID: NYT20001216.1856.0177-E1; extent: Haider
+T32	ACE-Mention 1904 1912	the area
+#32	ACE T32	entityID: NYT20001216.1856.0177-E31; extent: the area
+T33	ACE-Mention 1915 1935	scores of protesters
+#33	ACE T33	entityID: NYT20001216.1856.0177-E32; extent: scores of protesters
+T34	ACE-Mention 1949 2004	riot police , who fired tear gas to disperse the crowds
+#34	ACE T34	entityID: NYT20001216.1856.0177-E33; extent: riot police , who fired tear gas to disperse the crowds
+T35	ACE-Mention 2008 2019	Four people
+#35	ACE T35	entityID: NYT20001216.1856.0177-E36; extent: Four people
+T36	ACE-Mention 2046 2049	two
+#36	ACE T36	entityID: NYT20001216.1856.0177-E37; extent: two
+T37	ACE-Mention 2066 2089	the Italian news agency
+#37	ACE T37	entityID: NYT20001216.1856.0177-E38; extent: the Italian news agency
+T38	ACE-Mention 2090 2094	ANSA
+#38	ACE T38	entityID: NYT20001216.1856.0177-E38; extent: ANSA
+T39	ACE-Mention 2103 2127	Jewish merchants in Rome
+#39	ACE T39	entityID: NYT20001216.1856.0177-E40; extent: Jewish merchants in Rome
+T40	ACE-Mention 2138 2142	they
+#40	ACE T40	entityID: NYT20001216.1856.0177-E40; extent: they
+T41	ACE-Mention 2182 2188	Haider
+#41	ACE T41	entityID: NYT20001216.1856.0177-E1; extent: Haider
+T42	ACE-Mention 2204 2208	Rome
+#42	ACE T42	entityID: NYT20001216.1856.0177-E12; extent: Rome
+T43	ACE-Mention 2217 2226	reporters
+#43	ACE T43	entityID: NYT20001216.1856.0177-E41; extent: reporters
+T44	ACE-Mention 2233 2239	Haider
+#44	ACE T44	entityID: NYT20001216.1856.0177-E1; extent: Haider
+T45	ACE-Mention 2260 2262	he
+#45	ACE T45	entityID: NYT20001216.1856.0177-E1; extent: he
+T46	ACE-Mention 2280 2284	they
+#46	ACE T46	entityID: NYT20001216.1856.0177-E40; extent: they
+T47	ACE-Mention 2316 2320	them
+#47	ACE T47	entityID: NYT20001216.1856.0177-E40; extent: them
+T48	ACE-Mention 2334 2382	an ornate reception room in the papal apartments
+#48	ACE T48	entityID: NYT20001216.1856.0177-E42; extent: an ornate reception room in the papal apartments
+T49	ACE-Mention 2385 2391	Haider
+#49	ACE T49	entityID: NYT20001216.1856.0177-E1; extent: Haider
+T50	ACE-Mention 2394 2410	a Roman Catholic
+#50	ACE T50	entityID: NYT20001216.1856.0177-E1; extent: a Roman Catholic
+T51	ACE-Mention 2420 2428	the pope
+#51	ACE T51	entityID: NYT20001216.1856.0177-E63; extent: the pope
+T52	ACE-Mention 2467 2484	other dignitaries
+#52	ACE T52	entityID: NYT20001216.1856.0177-E44; extent: other dignitaries
+T53	ACE-Mention 2492 2500	the pope
+#53	ACE T53	entityID: NYT20001216.1856.0177-E63; extent: the pope
+T54	ACE-Mention 2516 2522	Haider
+#54	ACE T54	entityID: NYT20001216.1856.0177-E1; extent: Haider
+T55	ACE-Mention 2555 2572	many in his group
+#55	ACE T55	entityID: NYT20001216.1856.0177-E45; extent: many in his group
+T56	ACE-Mention 2628 2636	The pope
+#56	ACE T56	entityID: NYT20001216.1856.0177-E63; extent: The pope
+T57	ACE-Mention 2645 2657	the visitors
+#57	ACE T57	entityID: NYT20001216.1856.0177-E46; extent: the visitors
+T58	ACE-Mention 2753 2759	Haider
+#58	ACE T58	entityID: NYT20001216.1856.0177-E1; extent: Haider
+T59	ACE-Mention 2778 2783	Italy
+#59	ACE T59	entityID: NYT20001216.1856.0177-E21; extent: Italy
+T60	ACE-Mention 2797 2805	the pope
+#60	ACE T60	entityID: NYT20001216.1856.0177-E63; extent: the pope
+T61	ACE-Mention 2878 2887	countries
+#61	ACE T61	entityID: NYT20001216.1856.0177-E48; extent: countries
+T62	ACE-Mention 2899 2909	immigrants
+#62	ACE T62	entityID: NYT20001216.1856.0177-E49; extent: immigrants
+T63	ACE-Mention 2953 2978	leaders of the delegation
+#63	ACE T63	entityID: NYT20001216.1856.0177-E50; extent: leaders of the delegation
+T64	ACE-Mention 3002 3008	Haider
+#64	ACE T64	entityID: NYT20001216.1856.0177-E1; extent: Haider
+T65	ACE-Mention 3014 3023	reporters
+#65	ACE T65	entityID: NYT20001216.1856.0177-E51; extent: reporters
+T66	ACE-Mention 3029 3031	he
+#66	ACE T66	entityID: NYT20001216.1856.0177-E1; extent: he
+T67	ACE-Mention 3072 3080	the pope
+#67	ACE T67	entityID: NYT20001216.1856.0177-E63; extent: the pope
+T68	ACE-Mention 3088 3100	John Paul II
+#68	ACE T68	entityID: NYT20001216.1856.0177-E63; extent: John Paul II
+T69	ACE-Mention 3111 3120	the group
+#69	ACE T69	entityID: NYT20001216.1856.0177-E4; extent: the group
+T70	ACE-Mention 3154 3156	he
+#70	ACE T70	entityID: NYT20001216.1856.0177-E63; extent: he
+T71	ACE-Mention 3216 3224	the pope
+#71	ACE T71	entityID: NYT20001216.1856.0177-E63; extent: the pope
+T72	ACE-Mention 3265 3363	former U.N. secretary-general Kurt Waldheim , whose activities in the Nazi era came under question
+#72	ACE T72	entityID: NYT20001216.1856.0177-E52; extent: former U.N. secretary-general Kurt Waldheim , whose activities in the Nazi era came under question
+T73	ACE-Mention 3370 3382	Fidel Castro
+#73	ACE T73	entityID: NYT20001216.1856.0177-E56; extent: Fidel Castro
+T74	ACE-Mention 3415 3421	Haider
+#74	ACE T74	entityID: NYT20001216.1856.0177-E1; extent: Haider
+T75	ACE-Mention 3433 3439	Venice
+#75	ACE T75	entityID: NYT20001216.1856.0177-E57; extent: Venice
+T76	ACE-Mention 3460 3479	protesters on boats
+#76	ACE T76	entityID: NYT20001216.1856.0177-E58; extent: protesters on boats
+T77	ACE-Mention 3486 3492	stones
+#77	ACE T77	entityID: NYT20001216.1856.0177-E60; extent: stones
+T78	ACE-Mention 3497 3506	fireworks
+#78	ACE T78	entityID: NYT20001216.1856.0177-E61; extent: fireworks
+T79	ACE-Mention 3513 3523	the canals
+#79	ACE T79	entityID: NYT20001216.1856.0177-E62; extent: the canals
+T80	ACE-Mention 3527 3533	Haider
+#80	ACE T80	entityID: NYT20001216.1856.0177-E1; extent: Haider
+T81	ACE-Mention 3558 3563	Italy
+#81	ACE T81	entityID: NYT20001216.1856.0177-E21; extent: Italy
+T82	ACE-Mention 3626 3656	President Carlo Azeglio Ciampi
+#82	ACE T82	entityID: NYT20001216.1856.0177-E64; extent: President Carlo Azeglio Ciampi
+T83	ACE-Mention 3713 3753	leaders of Italy 's left-wing government
+#83	ACE T83	entityID: NYT20001216.1856.0177-E66; extent: leaders of Italy 's left-wing government
+T84	ACE-Mention 3779 3785	Haider
+#84	ACE T84	entityID: NYT20001216.1856.0177-E1; extent: Haider
+T85	ACE-Mention 3806 3837	Italy 's own right-wing parties
+#85	ACE T85	entityID: NYT20001216.1856.0177-E67; extent: Italy 's own right-wing parties
+T86	ACE-Mention 3841 3890	The coalition of Italy 's center-right opposition
+#86	ACE T86	entityID: NYT20001216.1856.0177-E72; extent: The coalition of Italy 's center-right opposition
+T87	ACE-Mention 3900 3959	the formerly separatist and still fiercely right-wing party
+#87	ACE T87	entityID: NYT20001216.1856.0177-E69; extent: the formerly separatist and still fiercely right-wing party
+T88	ACE-Mention 3962 4042	the Northern League , which , like Haider 's Freedom Party , opposes immigration
+#88	ACE T88	entityID: NYT20001216.1856.0177-E69; extent: the Northern League , which , like Haider 's Freedom Party , opposes immigration
+T89	ACE-Mention 4058 4087	Prime Minister Giuliano Amato
+#89	ACE T89	entityID: NYT20001216.1856.0177-E73; extent: Prime Minister Giuliano Amato
+T90	ACE-Mention 4098 4104	Haider
+#90	ACE T90	entityID: NYT20001216.1856.0177-E1; extent: Haider
+T91	ACE-Mention 4148 4150	he
+#91	ACE T91	entityID: NYT20001216.1856.0177-E73; extent: he
+T92	ACE-Mention 4169 4209	Chancellor Wolfgang Schuessel of Austria
+#92	ACE T92	entityID: NYT20001216.1856.0177-E75; extent: Chancellor Wolfgang Schuessel of Austria
+T93	ACE-Mention 4213 4218	Italy
+#93	ACE T93	entityID: NYT20001216.1856.0177-E21; extent: Italy
+T94	ACE-Mention 4226 4292	the only European country to have fierce reservations about Haider
+#94	ACE T94	entityID: NYT20001216.1856.0177-E77; extent: the only European country to have fierce reservations about Haider
+T95	ACE-Mention 4299 4301	it
+#95	ACE T95	entityID: NYT20001216.1856.0177-E21; extent: it
+T96	ACE-Mention 4334 4353	The Austrian leader
+#96	ACE T96	entityID: NYT20001216.1856.0177-E1; extent: The Austrian leader
+T97	ACE-Mention 4381 4599	northern Italy , where his friendship with some right-wing mayors _ and suggestions that southern Austria and parts of northern Italy should merge into a `` maxi-region '' _ have enraged Italy 's center-left government
+#97	ACE T97	entityID: NYT20001216.1856.0177-E68; extent: northern Italy , where his friendship with some right-wing mayors _ and suggestions that southern Austria and parts of northern Italy should merge into a `` maxi-region '' _ have enraged Italy 's center-left government
+T98	ACE-Mention 4625 4660	Some people in Haider 's delegation
+#98	ACE T98	entityID: NYT20001216.1856.0177-E83; extent: Some people in Haider 's delegation
+T99	ACE-Mention 4666 4670	they
+#99	ACE T99	entityID: NYT20001216.1856.0177-E83; extent: they
+T100	ACE-Mention 4800 4813	Frank Telsnig
+#100	ACE T100	entityID: NYT20001216.1856.0177-E84; extent: Frank Telsnig
+T101	ACE-Mention 4821 4847	a teacher from Weitensfeld
+#101	ACE T101	entityID: NYT20001216.1856.0177-E84; extent: a teacher from Weitensfeld
+T102	ACE-Mention 4853 4855	he
+#102	ACE T102	entityID: NYT20001216.1856.0177-E84; extent: he
+T103	ACE-Mention 4886 4908	the delegation 's band
+#103	ACE T103	entityID: NYT20001216.1856.0177-E88; extent: the delegation 's band
+T104	ACE-Mention 4915 4916	I
+#104	ACE T104	entityID: NYT20001216.1856.0177-E84; extent: I
+T105	ACE-Mention 4934 4940	Haider
+#105	ACE T105	entityID: NYT20001216.1856.0177-E1; extent: Haider
+T106	ACE-Mention 4965 4968	him
+#106	ACE T106	entityID: NYT20001216.1856.0177-E1; extent: him
+T107	ACE-Mention 5000 5004	this
+#107	ACE T107	entityID: NYT20001216.1856.0177-E31; extent: this
+T108	ACE-Mention 5012 5027	the right place
+#108	ACE T108	entityID: NYT20001216.1856.0177-E87; extent: the right place

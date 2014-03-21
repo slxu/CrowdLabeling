@@ -1,0 +1,116 @@
+T0	ACE-Mention 112 133	ABIDJAN , Ivory Coast
+#0	ACE T0	entityID: APW20001021.1258.0261-E22; extent: ABIDJAN , Ivory Coast
+T1	ACE-Mention 134 138	(AP)
+#1	ACE T1	entityID: APW20001021.1258.0261-E51; extent: (AP)
+T2	ACE-Mention 141 165	Long processions of cars
+#2	ACE T2	entityID: APW20001021.1258.0261-E52; extent: Long processions of cars
+T3	ACE-Mention 183 193	candidates
+#3	ACE T3	entityID: APW20001021.1258.0261-E53; extent: candidates
+T4	ACE-Mention 245 262	this coastal city
+#4	ACE T4	entityID: APW20001021.1258.0261-E22; extent: this coastal city
+T5	ACE-Mention 332 340	military
+#5	ACE T5	entityID: APW20001021.1258.0261-E47; extent: military
+T6	ACE-Mention 349 372	The display of vehicles
+#6	ACE T6	entityID: APW20001021.1258.0261-E52; extent: The display of vehicles
+T7	ACE-Mention 380 399	shouting supporters
+#7	ACE T7	entityID: APW20001021.1258.0261-E54; extent: shouting supporters
+T8	ACE-Mention 534 545	Ivory Coast
+#8	ACE T8	entityID: APW20001021.1258.0261-E43; extent: Ivory Coast
+T9	ACE-Mention 562 632	an oasis of stability amid the unrest that plagues much of West Africa
+#9	ACE T9	entityID: APW20001021.1258.0261-E43; extent: an oasis of stability amid the unrest that plagues much of West Africa
+T10	ACE-Mention 653 736	Most candidates _ including those from the country 's two largest political parties
+#10	ACE T10	entityID: APW20001021.1258.0261-E57; extent: Most candidates _ including those from the country 's two largest political parties
+T11	ACE-Mention 770 787	the Supreme Court
+#11	ACE T11	entityID: APW20001021.1258.0261-E1; extent: the Supreme Court
+T12	ACE-Mention 791 979	Junta leader Gen. Robert Guei , who took control during a December coup promising he would quickly give up power , and who has close personal ties to the chief justice of the Supreme Court
+#12	ACE T12	entityID: APW20001021.1258.0261-E2; extent: Junta leader Gen. Robert Guei , who took control during a December coup promising he would quickly give up power , and who has close personal ties to the chief justice of the Supreme Court
+T13	ACE-Mention 1049 1060	people here
+#13	ACE T13	entityID: APW20001021.1258.0261-E48; extent: people here
+T14	ACE-Mention 1090 1102	Ali Ouattara
+#14	ACE T14	entityID: APW20001021.1258.0261-E6; extent: Ali Ouattara
+T15	ACE-Mention 1105 1231	a journalist in the northern city of Korhogo , where a few torn and defaced posters were the only sign of the approaching vote
+#15	ACE T15	entityID: APW20001021.1258.0261-E6; extent: a journalist in the northern city of Korhogo , where a few torn and defaced posters were the only sign of the approaching vote
+T16	ACE-Mention 1251 1277	a total of five candidates
+#16	ACE T16	entityID: APW20001021.1258.0261-E9; extent: a total of five candidates
+T17	ACE-Mention 1280 1312	the only other serious contender
+#17	ACE T17	entityID: APW20001021.1258.0261-E10; extent: the only other serious contender
+T18	ACE-Mention 1316 1330	Laurent Gbagbo
+#18	ACE T18	entityID: APW20001021.1258.0261-E10; extent: Laurent Gbagbo
+T19	ACE-Mention 1333 1352	a history professor
+#19	ACE T19	entityID: APW20001021.1258.0261-E10; extent: a history professor
+T20	ACE-Mention 1357 1383	longtime opposition leader
+#20	ACE T20	entityID: APW20001021.1258.0261-E10; extent: longtime opposition leader
+T21	ACE-Mention 1387 1433	The country 's best-known opposition candidate
+#21	ACE T21	entityID: APW20001021.1258.0261-E13; extent: The country 's best-known opposition candidate
+T22	ACE-Mention 1436 1461	Alassane Dramane Ouattara
+#22	ACE T22	entityID: APW20001021.1258.0261-E13; extent: Alassane Dramane Ouattara
+T23	ACE-Mention 1480 1489	the court
+#23	ACE T23	entityID: APW20001021.1258.0261-E1; extent: the court
+T24	ACE-Mention 1506 1508	it
+#24	ACE T24	entityID: APW20001021.1258.0261-E1; extent: it
+T25	ACE-Mention 1543 1559	both his parents
+#25	ACE T25	entityID: APW20001021.1258.0261-E15; extent: both his parents
+T26	ACE-Mention 1571 1578	Ivorian
+#26	ACE T26	entityID: APW20001021.1258.0261-E43; extent: Ivorian
+T27	ACE-Mention 1600 1612	junta-backed
+#27	ACE T27	entityID: APW20001021.1258.0261-E16; extent: junta-backed
+T28	ACE-Mention 1638 1655	Ouattara 's party
+#28	ACE T28	entityID: APW20001021.1258.0261-E17; extent: Ouattara 's party
+T29	ACE-Mention 1658 1686	the Rally of the Republicans
+#29	ACE T29	entityID: APW20001021.1258.0261-E17; extent: the Rally of the Republicans
+T30	ACE-Mention 1693 1784	the former ruling Democratic Party of the Ivory Coast , whose candidates were also excluded
+#30	ACE T30	entityID: APW20001021.1258.0261-E19; extent: the former ruling Democratic Party of the Ivory Coast , whose candidates were also excluded
+T31	ACE-Mention 1792 1796	both
+#31	ACE T31	entityID: APW20001021.1258.0261-E21; extent: both
+T32	ACE-Mention 1834 1877	Representatives of Rally of the Republicans
+#32	ACE T32	entityID: APW20001021.1258.0261-E23; extent: Representatives of Rally of the Republicans
+T33	ACE-Mention 1889 1899	motorbikes
+#33	ACE T33	entityID: APW20001021.1258.0261-E24; extent: motorbikes
+T34	ACE-Mention 1917 1962	villagers in the party 's northern stronghold
+#34	ACE T34	entityID: APW20001021.1258.0261-E25; extent: villagers in the party 's northern stronghold
+T35	ACE-Mention 1997 2007	your homes
+#35	ACE T35	entityID: APW20001021.1258.0261-E46; extent: your homes
+T36	ACE-Mention 2066 2103	party representative Lacina Coulibaly
+#36	ACE T36	entityID: APW20001021.1258.0261-E28; extent: party representative Lacina Coulibaly
+T37	ACE-Mention 2109 2184	about 30 youths gathered in the northern village of Lanviara , near Korhogo
+#37	ACE T37	entityID: APW20001021.1258.0261-E31; extent: about 30 youths gathered in the northern village of Lanviara , near Korhogo
+T38	ACE-Mention 2188 2192	Guei
+#38	ACE T38	entityID: APW20001021.1258.0261-E2; extent: Guei
+T39	ACE-Mention 2240 2242	he
+#39	ACE T39	entityID: APW20001021.1258.0261-E2; extent: he
+T40	ACE-Mention 2297 2300	his
+#40	ACE T40	entityID: APW20001021.1258.0261-E2; extent: his
+T41	ACE-Mention 2301 2309	military
+#41	ACE T41	entityID: APW20001021.1258.0261-E47; extent: military
+T42	ACE-Mention 2348 2371	several smaller parties
+#42	ACE T42	entityID: APW20001021.1258.0261-E34; extent: several smaller parties
+T43	ACE-Mention 2379 2382	his
+#43	ACE T43	entityID: APW20001021.1258.0261-E2; extent: his
+T44	ACE-Mention 2396 2414	The United Nations
+#44	ACE T44	entityID: APW20001021.1258.0261-E35; extent: The United Nations
+T45	ACE-Mention 2417 2450	the Organization of African Unity
+#45	ACE T45	entityID: APW20001021.1258.0261-E36; extent: the Organization of African Unity
+T46	ACE-Mention 2453 2471	the European Union
+#46	ACE T46	entityID: APW20001021.1258.0261-E37; extent: the European Union
+T47	ACE-Mention 2476 2522	countries such as the United States and Canada
+#47	ACE T47	entityID: APW20001021.1258.0261-E38; extent: countries such as the United States and Canada
+T48	ACE-Mention 2538 2556	election observers
+#48	ACE T48	entityID: APW20001021.1258.0261-E41; extent: election observers
+T49	ACE-Mention 2579 2583	Guei
+#49	ACE T49	entityID: APW20001021.1258.0261-E2; extent: Guei
+T50	ACE-Mention 2624 2639	major opponents
+#50	ACE T50	entityID: APW20001021.1258.0261-E42; extent: major opponents
+T51	ACE-Mention 2643 2654	Ivory Coast
+#51	ACE T51	entityID: APW20001021.1258.0261-E43; extent: Ivory Coast
+T52	ACE-Mention 2672 2713	a haven for stability and relative wealth
+#52	ACE T52	entityID: APW20001021.1258.0261-E43; extent: a haven for stability and relative wealth
+T53	ACE-Mention 2758 2761	Its
+#53	ACE T53	entityID: APW20001021.1258.0261-E43; extent: Its
+T54	ACE-Mention 2820 2823	its
+#54	ACE T54	entityID: APW20001021.1258.0261-E43; extent: its
+T55	ACE-Mention 2904 2912	military
+#55	ACE T55	entityID: APW20001021.1258.0261-E47; extent: military
+T56	ACE-Mention 2938 2946	Ivorians
+#56	ACE T56	entityID: APW20001021.1258.0261-E43; extent: Ivorians
+T57	ACE-Mention 2951 2968	foreign investors
+#57	ACE T57	entityID: APW20001021.1258.0261-E45; extent: foreign investors

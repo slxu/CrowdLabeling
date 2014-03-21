@@ -1,0 +1,80 @@
+T0	ACE-Mention 118 137	SEOUL , South Korea
+#0	ACE T0	entityID: APW20001126.1818.0460-E23; extent: SEOUL , South Korea
+T1	ACE-Mention 138 142	(AP)
+#1	ACE T1	entityID: APW20001126.1818.0460-E30; extent: (AP)
+T2	ACE-Mention 145 180	Two major South Korean labor groups
+#2	ACE T2	entityID: APW20001126.1818.0460-E31; extent: Two major South Korean labor groups
+T3	ACE-Mention 189 226	about 15,000 workers in central Seoul
+#3	ACE T3	entityID: APW20001126.1818.0460-E33; extent: about 15,000 workers in central Seoul
+T4	ACE-Mention 248 262	government-led
+#4	ACE T4	entityID: APW20001126.1818.0460-E8; extent: government-led
+T5	ACE-Mention 263 272	corporate
+#5	ACE T5	entityID: APW20001126.1818.0460-E36; extent: corporate
+T6	ACE-Mention 287 291	they
+#6	ACE T6	entityID: APW20001126.1818.0460-E31; extent: they
+T7	ACE-Mention 379 416	the Federation of Korean Trade Unions
+#7	ACE T7	entityID: APW20001126.1818.0460-E37; extent: the Federation of Korean Trade Unions
+T8	ACE-Mention 421 470	the militant Korean Confederation of Trade Unions
+#8	ACE T8	entityID: APW20001126.1818.0460-E38; extent: the militant Korean Confederation of Trade Unions
+T9	ACE-Mention 474 481	The two
+#9	ACE T9	entityID: APW20001126.1818.0460-E31; extent: The two
+T10	ACE-Mention 487 523	a combined membership of 1.8 million
+#10	ACE T10	entityID: APW20001126.1818.0460-E39; extent: a combined membership of 1.8 million
+T11	ACE-Mention 527 668	The protesters , many carrying signs or wearing red headbands and vests with slogans such as `` Fight '' and `` Solidarity '' printed on them
+#11	ACE T11	entityID: APW20001126.1818.0460-E33; extent: The protesters , many carrying signs or wearing red headbands and vests with slogans such as `` Fight '' and `` Solidarity '' printed on them
+T12	ACE-Mention 690 695	their
+#12	ACE T12	entityID: APW20001126.1818.0460-E33; extent: their
+T13	ACE-Mention 722 724	we
+#13	ACE T13	entityID: APW20001126.1818.0460-E1; extent: we
+T14	ACE-Mention 747 758	the streets
+#14	ACE T14	entityID: APW20001126.1818.0460-E2; extent: the streets
+T15	ACE-Mention 787 789	's
+#15	ACE T15	entityID: APW20001126.1818.0460-E1; extent: 's
+T16	ACE-Mention 806 808	's
+#16	ACE T16	entityID: APW20001126.1818.0460-E1; extent: 's
+T17	ACE-Mention 827 839	Kim Yon-hwan
+#17	ACE T17	entityID: APW20001126.1818.0460-E3; extent: Kim Yon-hwan
+T18	ACE-Mention 842 898	head of an umbrella group for state utility labor unions
+#18	ACE T18	entityID: APW20001126.1818.0460-E3; extent: head of an umbrella group for state utility labor unions
+T19	ACE-Mention 902 913	The workers
+#19	ACE T19	entityID: APW20001126.1818.0460-E33; extent: The workers
+T20	ACE-Mention 927 946	Seoul train station
+#20	ACE T20	entityID: APW20001126.1818.0460-E9; extent: Seoul train station
+T21	ACE-Mention 950 978	a cathedral a few miles away
+#21	ACE T21	entityID: APW20001126.1818.0460-E10; extent: a cathedral a few miles away
+T22	ACE-Mention 1004 1008	They
+#22	ACE T22	entityID: APW20001126.1818.0460-E33; extent: They
+T23	ACE-Mention 1065 1123	Thousands of uniformed police officers , some with shields
+#23	ACE T23	entityID: APW20001126.1818.0460-E11; extent: Thousands of uniformed police officers , some with shields
+T24	ACE-Mention 1139 1153	the protesters
+#24	ACE T24	entityID: APW20001126.1818.0460-E33; extent: the protesters
+T25	ACE-Mention 1266 1395	workers at Korea Electric Power Corp. , a state-run power company which the government plans to break into several units and sell
+#25	ACE T25	entityID: APW20001126.1818.0460-E13; extent: workers at Korea Electric Power Corp. , a state-run power company which the government plans to break into several units and sell
+T26	ACE-Mention 1399 1456	A 950-megawatt electric power plant belonging to the firm
+#26	ACE T26	entityID: APW20001126.1818.0460-E17; extent: A 950-megawatt electric power plant belonging to the firm
+T27	ACE-Mention 1482 1521	a consortium of local and foreign firms
+#27	ACE T27	entityID: APW20001126.1818.0460-E18; extent: a consortium of local and foreign firms
+T28	ACE-Mention 1525 1532	Experts
+#28	ACE T28	entityID: APW20001126.1818.0460-E19; extent: Experts
+T29	ACE-Mention 1537 1547	the nation
+#29	ACE T29	entityID: APW20001126.1818.0460-E8; extent: the nation
+T30	ACE-Mention 1583 1597	the government
+#30	ACE T30	entityID: APW20001126.1818.0460-E8; extent: the government
+T31	ACE-Mention 1630 1667	heavily indebted businesses and banks
+#31	ACE T31	entityID: APW20001126.1818.0460-E20; extent: heavily indebted businesses and banks
+T32	ACE-Mention 1713 1749	government-controlled creditor banks
+#32	ACE T32	entityID: APW20001126.1818.0460-E21; extent: government-controlled creditor banks
+T33	ACE-Mention 1756 1829	52 financially weak companies that should be shut down or merged for sale
+#33	ACE T33	entityID: APW20001126.1818.0460-E22; extent: 52 financially weak companies that should be shut down or merged for sale
+T34	ACE-Mention 1850 1987	tens of thousands of workers who work for those and other financially shaky companies , which have been surviving on emergency bank loans
+#34	ACE T34	entityID: APW20001126.1818.0460-E24; extent: tens of thousands of workers who work for those and other financially shaky companies , which have been surviving on emergency bank loans
+T35	ACE-Mention 1991 2002	South Korea
+#35	ACE T35	entityID: APW20001126.1818.0460-E8; extent: South Korea
+T36	ACE-Mention 2057 2088	the International Monetary Fund
+#36	ACE T36	entityID: APW20001126.1818.0460-E27; extent: the International Monetary Fund
+T37	ACE-Mention 2110 2113	its
+#37	ACE T37	entityID: APW20001126.1818.0460-E8; extent: its
+T38	ACE-Mention 2137 2139	it
+#38	ACE T38	entityID: APW20001126.1818.0460-E8; extent: it
+T39	ACE-Mention 2164 2219	its bloated businesses and inefficient financial sector
+#39	ACE T39	entityID: APW20001126.1818.0460-E28; extent: its bloated businesses and inefficient financial sector

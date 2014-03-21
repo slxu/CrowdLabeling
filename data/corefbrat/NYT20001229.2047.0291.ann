@@ -1,0 +1,148 @@
+T0	ACE-Mention 459 469	WASHINGTON
+#0	ACE T0	entityID: NYT20001229.2047.0291-E23; extent: WASHINGTON
+T1	ACE-Mention 472 494	Vice President Al Gore
+#1	ACE T1	entityID: NYT20001229.2047.0291-E48; extent: Vice President Al Gore
+T2	ACE-Mention 614 635	the Electoral College
+#2	ACE T2	entityID: NYT20001229.2047.0291-E15; extent: the Electoral College
+T3	ACE-Mention 643 646	his
+#3	ACE T3	entityID: NYT20001229.2047.0291-E48; extent: his
+T4	ACE-Mention 661 680	Gov. George W. Bush
+#4	ACE T4	entityID: NYT20001229.2047.0291-E50; extent: Gov. George W. Bush
+T5	ACE-Mention 681 720	the 43rd president of the United States
+#5	ACE T5	entityID: NYT20001229.2047.0291-E50; extent: the 43rd president of the United States
+T6	ACE-Mention 726 740	state-by-state
+#6	ACE T6	entityID: NYT20001229.2047.0291-E54; extent: state-by-state
+T7	ACE-Mention 751 771	The Associated Press
+#7	ACE T7	entityID: NYT20001229.2047.0291-E56; extent: The Associated Press
+T8	ACE-Mention 807 811	Gore
+#8	ACE T8	entityID: NYT20001229.2047.0291-E48; extent: Gore
+T9	ACE-Mention 998 1002	Gore
+#9	ACE T9	entityID: NYT20001229.2047.0291-E48; extent: Gore
+T10	ACE-Mention 1022 1026	Bush
+#10	ACE T10	entityID: NYT20001229.2047.0291-E50; extent: Bush
+T11	ACE-Mention 1059 1069	California
+#11	ACE T11	entityID: NYT20001229.2047.0291-E42; extent: California
+T12	ACE-Mention 1072 1080	New York
+#12	ACE T12	entityID: NYT20001229.2047.0291-E1; extent: New York
+T13	ACE-Mention 1087 1128	other , smaller states that went for Gore
+#13	ACE T13	entityID: NYT20001229.2047.0291-E2; extent: other , smaller states that went for Gore
+T14	ACE-Mention 1136 1302	Curtis B. Gans of the Committee for the Study of the American Electorate , a nonpartisan research group that has followed presidential elections for a quarter-century
+#14	ACE T14	entityID: NYT20001229.2047.0291-E3; extent: Curtis B. Gans of the Committee for the Study of the American Electorate , a nonpartisan research group that has followed presidential elections for a quarter-century
+T15	ACE-Mention 1306 1351	Election officials in California and New York
+#15	ACE T15	entityID: NYT20001229.2047.0291-E6; extent: Election officials in California and New York
+T16	ACE-Mention 1392 1396	Gore
+#16	ACE T16	entityID: NYT20001229.2047.0291-E48; extent: Gore
+T17	ACE-Mention 1425 1429	Gore
+#17	ACE T17	entityID: NYT20001229.2047.0291-E48; extent: Gore
+T18	ACE-Mention 1438 1453	both big states
+#18	ACE T18	entityID: NYT20001229.2047.0291-E7; extent: both big states
+T19	ACE-Mention 1464 1475	Both states
+#19	ACE T19	entityID: NYT20001229.2047.0291-E7; extent: Both states
+T20	ACE-Mention 1484 1499	absentee-ballot
+#20	ACE T20	entityID: NYT20001229.2047.0291-E8; extent: absentee-ballot
+T21	ACE-Mention 1559 1567	absentee
+#21	ACE T21	entityID: NYT20001229.2047.0291-E8; extent: absentee
+T22	ACE-Mention 1658 1671	the absentees
+#22	ACE T22	entityID: NYT20001229.2047.0291-E8; extent: the absentees
+T23	ACE-Mention 1684 1702	the vice president
+#23	ACE T23	entityID: NYT20001229.2047.0291-E48; extent: the vice president
+T24	ACE-Mention 1714 1718	Gans
+#24	ACE T24	entityID: NYT20001229.2047.0291-E3; extent: Gans
+T25	ACE-Mention 1739 1756	President Clinton
+#25	ACE T25	entityID: NYT20001229.2047.0291-E10; extent: President Clinton
+T26	ACE-Mention 1770 1778	Bob Dole
+#26	ACE T26	entityID: NYT20001229.2047.0291-E12; extent: Bob Dole
+T27	ACE-Mention 1836 1844	absentee
+#27	ACE T27	entityID: NYT20001229.2047.0291-E8; extent: absentee
+T28	ACE-Mention 1931 1953	political trivia buffs
+#28	ACE T28	entityID: NYT20001229.2047.0291-E14; extent: political trivia buffs
+T29	ACE-Mention 1987 1991	Gans
+#29	ACE T29	entityID: NYT20001229.2047.0291-E3; extent: Gans
+T30	ACE-Mention 2014 2027	the incumbent
+#30	ACE T30	entityID: NYT20001229.2047.0291-E10; extent: the incumbent
+T31	ACE-Mention 2099 2134	the all-important Electoral College
+#31	ACE T31	entityID: NYT20001229.2047.0291-E47; extent: the all-important Electoral College
+T32	ACE-Mention 2159 2174	John F. Kennedy
+#32	ACE T32	entityID: NYT20001229.2047.0291-E16; extent: John F. Kennedy
+T33	ACE-Mention 2254 2267	Richard Nixon
+#33	ACE T33	entityID: NYT20001229.2047.0291-E17; extent: Richard Nixon
+T34	ACE-Mention 2315 2324	president
+#34	ACE T34	entityID: NYT20001229.2047.0291-E18; extent: president
+T35	ACE-Mention 2346 2351	Nixon
+#35	ACE T35	entityID: NYT20001229.2047.0291-E17; extent: Nixon
+T36	ACE-Mention 2356 2377	the Electoral College
+#36	ACE T36	entityID: NYT20001229.2047.0291-E19; extent: the Electoral College
+T37	ACE-Mention 2450 2459	president
+#37	ACE T37	entityID: NYT20001229.2047.0291-E18; extent: president
+T38	ACE-Mention 2549 2579	the leader in the popular vote
+#38	ACE T38	entityID: NYT20001229.2047.0291-E20; extent: the leader in the popular vote
+T39	ACE-Mention 2585 2600	the White House
+#39	ACE T39	entityID: NYT20001229.2047.0291-E18; extent: the White House
+T40	ACE-Mention 2609 2621	his opponent
+#40	ACE T40	entityID: NYT20001229.2047.0291-E22; extent: his opponent
+T41	ACE-Mention 2635 2656	the Electoral College
+#41	ACE T41	entityID: NYT20001229.2047.0291-E21; extent: the Electoral College
+T42	ACE-Mention 2660 2664	Bush
+#42	ACE T42	entityID: NYT20001229.2047.0291-E50; extent: Bush
+T43	ACE-Mention 2705 2707	he
+#43	ACE T43	entityID: NYT20001229.2047.0291-E50; extent: he
+T44	ACE-Mention 2749 2927	Gore , who lost one vote in the Electoral College when a Washington , D.C. , elector left her ballot blank to protest the District of Columbia 's lack of voting power in Congress
+#44	ACE T44	entityID: NYT20001229.2047.0291-E48; extent: Gore , who lost one vote in the Electoral College when a Washington , D.C. , elector left her ballot blank to protest the District of Columbia 's lack of voting power in Congress
+T45	ACE-Mention 2931 2935	Gore
+#45	ACE T45	entityID: NYT20001229.2047.0291-E48; extent: Gore
+T46	ACE-Mention 2940 2954	New York state
+#46	ACE T46	entityID: NYT20001229.2047.0291-E1; extent: New York state
+T47	ACE-Mention 3011 3023	Lee Daghlian
+#47	ACE T47	entityID: NYT20001229.2047.0291-E27; extent: Lee Daghlian
+T48	ACE-Mention 3026 3081	the chief spokesman for the state 's Board of Elections
+#48	ACE T48	entityID: NYT20001229.2047.0291-E27; extent: the chief spokesman for the state 's Board of Elections
+T49	ACE-Mention 3115 3123	absentee
+#49	ACE T49	entityID: NYT20001229.2047.0291-E30; extent: absentee
+T50	ACE-Mention 3214 3222	New York
+#50	ACE T50	entityID: NYT20001229.2047.0291-E1; extent: New York
+T51	ACE-Mention 3225 3233	absentee
+#51	ACE T51	entityID: NYT20001229.2047.0291-E30; extent: absentee
+T52	ACE-Mention 3359 3367	Daghlian
+#52	ACE T52	entityID: NYT20001229.2047.0291-E27; extent: Daghlian
+T53	ACE-Mention 3373 3381	absentee
+#53	ACE T53	entityID: NYT20001229.2047.0291-E30; extent: absentee
+T54	ACE-Mention 3446 3448	He
+#54	ACE T54	entityID: NYT20001229.2047.0291-E27; extent: He
+T55	ACE-Mention 3481 3517	Sen. Joseph Lieberman of Connecticut
+#55	ACE T55	entityID: NYT20001229.2047.0291-E31; extent: Sen. Joseph Lieberman of Connecticut
+T56	ACE-Mention 3521 3542	the Democratic ticket
+#56	ACE T56	entityID: NYT20001229.2047.0291-E34; extent: the Democratic ticket
+T57	ACE-Mention 3561 3579	more American Jews
+#57	ACE T57	entityID: NYT20001229.2047.0291-E36; extent: more American Jews
+T58	ACE-Mention 3601 3607	Israel
+#58	ACE T58	entityID: NYT20001229.2047.0291-E38; extent: Israel
+T59	ACE-Mention 3647 3651	Gore
+#59	ACE T59	entityID: NYT20001229.2047.0291-E48; extent: Gore
+T60	ACE-Mention 3664 3674	California
+#60	ACE T60	entityID: NYT20001229.2047.0291-E42; extent: California
+T61	ACE-Mention 3739 3747	absentee
+#61	ACE T61	entityID: NYT20001229.2047.0291-E8; extent: absentee
+T62	ACE-Mention 3814 3817	his
+#62	ACE T62	entityID: NYT20001229.2047.0291-E48; extent: his
+T63	ACE-Mention 3874 3884	California
+#63	ACE T63	entityID: NYT20001229.2047.0291-E42; extent: California
+T64	ACE-Mention 3904 3908	Gore
+#64	ACE T64	entityID: NYT20001229.2047.0291-E48; extent: Gore
+T65	ACE-Mention 3927 3931	Bush
+#65	ACE T65	entityID: NYT20001229.2047.0291-E50; extent: Bush
+T66	ACE-Mention 3935 3948	Alfie Charles
+#66	ACE T66	entityID: NYT20001229.2047.0291-E39; extent: Alfie Charles
+T67	ACE-Mention 3951 4013	a spokesman for the California secretary of state , Bill Jones
+#67	ACE T67	entityID: NYT20001229.2047.0291-E39; extent: a spokesman for the California secretary of state , Bill Jones
+T68	ACE-Mention 4039 4051	Californians
+#68	ACE T68	entityID: NYT20001229.2047.0291-E42; extent: Californians
+T69	ACE-Mention 4062 4070	absentee
+#69	ACE T69	entityID: NYT20001229.2047.0291-E8; extent: absentee
+T70	ACE-Mention 4115 4126	one-quarter
+#70	ACE T70	entityID: NYT20001229.2047.0291-E44; extent: one-quarter
+T71	ACE-Mention 4139 4182	Californians , unlike people in some states
+#71	ACE T71	entityID: NYT20001229.2047.0291-E42; extent: Californians , unlike people in some states
+T72	ACE-Mention 4194 4202	absentee
+#72	ACE T72	entityID: NYT20001229.2047.0291-E8; extent: absentee
+T73	ACE-Mention 4242 4247	Their
+#73	ACE T73	entityID: NYT20001229.2047.0291-E42; extent: Their

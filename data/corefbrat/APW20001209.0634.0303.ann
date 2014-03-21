@@ -1,0 +1,186 @@
+T0	ACE-Mention 104 117	NICE , France
+#0	ACE T0	entityID: APW20001209.0634.0303-E17; extent: NICE , France
+T1	ACE-Mention 118 122	(AP)
+#1	ACE T1	entityID: APW20001209.0634.0303-E43; extent: (AP)
+T2	ACE-Mention 125 128	One
+#2	ACE T2	entityID: APW20001209.0634.0303-E44; extent: One
+T3	ACE-Mention 135 142	another
+#3	ACE T3	entityID: APW20001209.0634.0303-E45; extent: another
+T4	ACE-Mention 167 188	the leaders of Europe
+#4	ACE T4	entityID: APW20001209.0634.0303-E46; extent: the leaders of Europe
+T5	ACE-Mention 200 225	a small , windowless room
+#5	ACE T5	entityID: APW20001209.0634.0303-E48; extent: a small , windowless room
+T6	ACE-Mention 249 280	French President Jacques Chirac
+#6	ACE T6	entityID: APW20001209.0634.0303-E49; extent: French President Jacques Chirac
+T7	ACE-Mention 316 334	the European Union
+#7	ACE T7	entityID: APW20001209.0634.0303-E3; extent: the European Union
+T8	ACE-Mention 338 344	Chirac
+#8	ACE T8	entityID: APW20001209.0634.0303-E49; extent: Chirac
+T9	ACE-Mention 397 413	the 15-nation EU
+#9	ACE T9	entityID: APW20001209.0634.0303-E3; extent: the 15-nation EU
+T10	ACE-Mention 457 460	its
+#10	ACE T10	entityID: APW20001209.0634.0303-E3; extent: its
+T11	ACE-Mention 484 509	the former communist East
+#11	ACE T11	entityID: APW20001209.0634.0303-E1; extent: the former communist East
+T12	ACE-Mention 541 543	he
+#12	ACE T12	entityID: APW20001209.0634.0303-E49; extent: he
+T13	ACE-Mention 563 586	the other 14 EU leaders
+#13	ACE T13	entityID: APW20001209.0634.0303-E46; extent: the other 14 EU leaders
+T14	ACE-Mention 589 595	Chirac
+#14	ACE T14	entityID: APW20001209.0634.0303-E49; extent: Chirac
+T15	ACE-Mention 618 622	them
+#15	ACE T15	entityID: APW20001209.0634.0303-E46; extent: them
+T16	ACE-Mention 672 702	the bloc of 370 million people
+#16	ACE T16	entityID: APW20001209.0634.0303-E3; extent: the bloc of 370 million people
+T17	ACE-Mention 706 708	it
+#17	ACE T17	entityID: APW20001209.0634.0303-E3; extent: it
+T18	ACE-Mention 722 741	a dozen new members
+#18	ACE T18	entityID: APW20001209.0634.0303-E4; extent: a dozen new members
+T19	ACE-Mention 745 748	His
+#19	ACE T19	entityID: APW20001209.0634.0303-E49; extent: His
+T20	ACE-Mention 812 814	EU
+#20	ACE T20	entityID: APW20001209.0634.0303-E3; extent: EU
+T21	ACE-Mention 825 848	this French resort city
+#21	ACE T21	entityID: APW20001209.0634.0303-E17; extent: this French resort city
+T22	ACE-Mention 889 911	everyone gathered here
+#22	ACE T22	entityID: APW20001209.0634.0303-E5; extent: everyone gathered here
+T23	ACE-Mention 936 942	nobody
+#23	ACE T23	entityID: APW20001209.0634.0303-E6; extent: nobody
+T24	ACE-Mention 969 978	Everybody
+#24	ACE T24	entityID: APW20001209.0634.0303-E5; extent: Everybody
+T25	ACE-Mention 1036 1042	Chirac
+#25	ACE T25	entityID: APW20001209.0634.0303-E49; extent: Chirac
+T26	ACE-Mention 1069 1071	he
+#26	ACE T26	entityID: APW20001209.0634.0303-E49; extent: he
+T27	ACE-Mention 1165 1171	the EU
+#27	ACE T27	entityID: APW20001209.0634.0303-E3; extent: the EU
+T28	ACE-Mention 1218 1223	Poles
+#28	ACE T28	entityID: APW20001209.0634.0303-E7; extent: Poles
+T29	ACE-Mention 1226 1236	Hungarians
+#29	ACE T29	entityID: APW20001209.0634.0303-E8; extent: Hungarians
+T30	ACE-Mention 1239 1245	Czechs
+#30	ACE T30	entityID: APW20001209.0634.0303-E9; extent: Czechs
+T31	ACE-Mention 1250 1256	others
+#31	ACE T31	entityID: APW20001209.0634.0303-E10; extent: others
+T32	ACE-Mention 1273 1279	the EU
+#32	ACE T32	entityID: APW20001209.0634.0303-E3; extent: the EU
+T33	ACE-Mention 1353 1360	leaders
+#33	ACE T33	entityID: APW20001209.0634.0303-E5; extent: leaders
+T34	ACE-Mention 1480 1481	I
+#34	ACE T34	entityID: APW20001209.0634.0303-E11; extent: I
+T35	ACE-Mention 1526 1563	Swedish Prime Minister Goeran Persson
+#35	ACE T35	entityID: APW20001209.0634.0303-E11; extent: Swedish Prime Minister Goeran Persson
+T36	ACE-Mention 1569 1578	reporters
+#36	ACE T36	entityID: APW20001209.0634.0303-E14; extent: reporters
+T37	ACE-Mention 1585 1588	his
+#37	ACE T37	entityID: APW20001209.0634.0303-E11; extent: his
+T38	ACE-Mention 1612 1618	Chirac
+#38	ACE T38	entityID: APW20001209.0634.0303-E49; extent: Chirac
+T39	ACE-Mention 1625 1626	I
+#39	ACE T39	entityID: APW20001209.0634.0303-E11; extent: I
+T40	ACE-Mention 1690 1692	me
+#40	ACE T40	entityID: APW20001209.0634.0303-E11; extent: me
+T41	ACE-Mention 1761 1767	Chirac
+#41	ACE T41	entityID: APW20001209.0634.0303-E49; extent: Chirac
+T42	ACE-Mention 1799 1825	the EU 's current chairman
+#42	ACE T42	entityID: APW20001209.0634.0303-E49; extent: the EU 's current chairman
+T43	ACE-Mention 1828 1830	he
+#43	ACE T43	entityID: APW20001209.0634.0303-E49; extent: he
+T44	ACE-Mention 1873 1875	he
+#44	ACE T44	entityID: APW20001209.0634.0303-E49; extent: he
+T45	ACE-Mention 1894 1900	France
+#45	ACE T45	entityID: APW20001209.0634.0303-E42; extent: France
+T46	ACE-Mention 1927 1934	Germany
+#46	ACE T46	entityID: APW20001209.0634.0303-E15; extent: Germany
+T47	ACE-Mention 1981 1993	every nation
+#47	ACE T47	entityID: APW20001209.0634.0303-E16; extent: every nation
+T48	ACE-Mention 2018 2021	its
+#48	ACE T48	entityID: APW20001209.0634.0303-E16; extent: its
+T49	ACE-Mention 2031 2049	the reformed union
+#49	ACE T49	entityID: APW20001209.0634.0303-E3; extent: the reformed union
+T50	ACE-Mention 2052 2065	other leaders
+#50	ACE T50	entityID: APW20001209.0634.0303-E18; extent: other leaders
+T51	ACE-Mention 2129 2134	Paris
+#51	ACE T51	entityID: APW20001209.0634.0303-E42; extent: Paris
+T52	ACE-Mention 2139 2145	Berlin
+#52	ACE T52	entityID: APW20001209.0634.0303-E15; extent: Berlin
+T53	ACE-Mention 2151 2215	who controls the most votes in the EU 's policy-setting councils
+#53	ACE T53	entityID: APW20001209.0634.0303-E19; extent: who controls the most votes in the EU 's policy-setting councils
+T54	ACE-Mention 2219 2282	Germany , its population swollen to 82 million by reunification
+#54	ACE T54	entityID: APW20001209.0634.0303-E15; extent: Germany , its population swollen to 82 million by reunification
+T55	ACE-Mention 2291 2294	its
+#55	ACE T55	entityID: APW20001209.0634.0303-E15; extent: its
+T56	ACE-Mention 2330 2333	its
+#56	ACE T56	entityID: APW20001209.0634.0303-E15; extent: its
+T57	ACE-Mention 2346 2370	the EU 's biggest nation
+#57	ACE T57	entityID: APW20001209.0634.0303-E15; extent: the EU 's biggest nation
+T58	ACE-Mention 2374 2380	France
+#58	ACE T58	entityID: APW20001209.0634.0303-E42; extent: France
+T59	ACE-Mention 2423 2436	Franco-German
+#59	ACE T59	entityID: APW20001209.0634.0303-E42; extent: Franco-German
+T60	ACE-Mention 2477 2483	Europe
+#60	ACE T60	entityID: APW20001209.0634.0303-E47; extent: Europe
+T61	ACE-Mention 2506 2511	Paris
+#61	ACE T61	entityID: APW20001209.0634.0303-E42; extent: Paris
+T62	ACE-Mention 2544 2551	Germany
+#62	ACE T62	entityID: APW20001209.0634.0303-E15; extent: Germany
+T63	ACE-Mention 2577 2583	France
+#63	ACE T63	entityID: APW20001209.0634.0303-E42; extent: France
+T64	ACE-Mention 2586 2591	Italy
+#64	ACE T64	entityID: APW20001209.0634.0303-E22; extent: Italy
+T65	ACE-Mention 2596 2603	Britain
+#65	ACE T65	entityID: APW20001209.0634.0303-E23; extent: Britain
+T66	ACE-Mention 2616 2620	they
+#66	ACE T66	entityID: APW20001209.0634.0303-E24; extent: they
+T67	ACE-Mention 2642 2661	60 million citizens
+#67	ACE T67	entityID: APW20001209.0634.0303-E25; extent: 60 million citizens
+T68	ACE-Mention 2677 2692	smaller nations
+#68	ACE T68	entityID: APW20001209.0634.0303-E26; extent: smaller nations
+T69	ACE-Mention 2724 2729	their
+#69	ACE T69	entityID: APW20001209.0634.0303-E26; extent: their
+T70	ACE-Mention 2769 2784	the `` big four
+#70	ACE T70	entityID: APW20001209.0634.0303-E27; extent: the `` big four
+T71	ACE-Mention 2837 2844	leaders
+#71	ACE T71	entityID: APW20001209.0634.0303-E28; extent: leaders
+T72	ACE-Mention 2852 2861	the group
+#72	ACE T72	entityID: APW20001209.0634.0303-E5; extent: the group
+T73	ACE-Mention 2893 2894	I
+#73	ACE T73	entityID: APW20001209.0634.0303-E29; extent: I
+T74	ACE-Mention 2932 2967	French Prime Minister Lionel Jospin
+#74	ACE T74	entityID: APW20001209.0634.0303-E29; extent: French Prime Minister Lionel Jospin
+T75	ACE-Mention 3013 3015	We
+#75	ACE T75	entityID: APW20001209.0634.0303-E5; extent: We
+T76	ACE-Mention 3174 3185	each nation
+#76	ACE T76	entityID: APW20001209.0634.0303-E36; extent: each nation
+T77	ACE-Mention 3193 3217	the EU 's executive body
+#77	ACE T77	entityID: APW20001209.0634.0303-E31; extent: the EU 's executive body
+T78	ACE-Mention 3220 3243	the European Commission
+#78	ACE T78	entityID: APW20001209.0634.0303-E31; extent: the European Commission
+T79	ACE-Mention 3258 3272	the Commission
+#79	ACE T79	entityID: APW20001209.0634.0303-E31; extent: the Commission
+T80	ACE-Mention 3319 3333	bigger nations
+#80	ACE T80	entityID: APW20001209.0634.0303-E33; extent: bigger nations
+T81	ACE-Mention 3357 3362	their
+#81	ACE T81	entityID: APW20001209.0634.0303-E33; extent: their
+T82	ACE-Mention 3380 3383	all
+#82	ACE T82	entityID: APW20001209.0634.0303-E34; extent: all
+T83	ACE-Mention 3462 3466	some
+#83	ACE T83	entityID: APW20001209.0634.0303-E35; extent: some
+T84	ACE-Mention 3895 3906	the leaders
+#84	ACE T84	entityID: APW20001209.0634.0303-E46; extent: the leaders
+T85	ACE-Mention 4010 4014	they
+#85	ACE T85	entityID: APW20001209.0634.0303-E46; extent: they
+T86	ACE-Mention 4023 4029	Chirac
+#86	ACE T86	entityID: APW20001209.0634.0303-E49; extent: Chirac
+T87	ACE-Mention 4051 4056	their
+#87	ACE T87	entityID: APW20001209.0634.0303-E46; extent: their
+T88	ACE-Mention 4102 4105	few
+#88	ACE T88	entityID: APW20001209.0634.0303-E37; extent: few
+T89	ACE-Mention 4185 4187	We
+#89	ACE T89	entityID: APW20001209.0634.0303-E5; extent: We
+T90	ACE-Mention 4216 4219	You
+#90	ACE T90	entityID: APW20001209.0634.0303-E38; extent: You
+T91	ACE-Mention 4271 4272	I
+#91	ACE T91	entityID: APW20001209.0634.0303-E39; extent: I
+T92	ACE-Mention 4293 4329	Spanish Foreign Minister Josep Pique
+#92	ACE T92	entityID: APW20001209.0634.0303-E39; extent: Spanish Foreign Minister Josep Pique

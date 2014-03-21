@@ -1,0 +1,108 @@
+T0	ACE-Mention 280 293	SAN FRANCISCO
+#0	ACE T0	entityID: NYT20001127.2214.0372-E26; extent: SAN FRANCISCO
+T1	ACE-Mention 296 309	ReplayTV Inc.
+#1	ACE T1	entityID: NYT20001127.2214.0372-E37; extent: ReplayTV Inc.
+T2	ACE-Mention 312 357	a pioneering maker of digital video recorders
+#2	ACE T2	entityID: NYT20001127.2214.0372-E37; extent: a pioneering maker of digital video recorders
+T3	ACE-Mention 382 404	its leader of one year
+#3	ACE T3	entityID: NYT20001127.2214.0372-E1; extent: its leader of one year
+T4	ACE-Mention 425 427	it
+#4	ACE T4	entityID: NYT20001127.2214.0372-E37; extent: it
+T5	ACE-Mention 442 477	up to half of its work force of 260
+#5	ACE T5	entityID: NYT20001127.2214.0372-E2; extent: up to half of its work force of 260
+T6	ACE-Mention 487 489	it
+#6	ACE T6	entityID: NYT20001127.2214.0372-E37; extent: it
+T7	ACE-Mention 507 510	its
+#7	ACE T7	entityID: NYT20001127.2214.0372-E37; extent: its
+T8	ACE-Mention 543 552	TiVo Inc.
+#8	ACE T8	entityID: NYT20001127.2214.0372-E4; extent: TiVo Inc.
+T9	ACE-Mention 555 597	a competing Silicon Valley startup company
+#9	ACE T9	entityID: NYT20001127.2214.0372-E4; extent: a competing Silicon Valley startup company
+T10	ACE-Mention 600 606	Replay
+#10	ACE T10	entityID: NYT20001127.2214.0372-E37; extent: Replay
+T11	ACE-Mention 724 742	television viewers
+#11	ACE T11	entityID: NYT20001127.2214.0372-E7; extent: television viewers
+T12	ACE-Mention 825 828	its
+#12	ACE T12	entityID: NYT20001127.2214.0372-E37; extent: its
+T13	ACE-Mention 849 866	Replay 's founder
+#13	ACE T13	entityID: NYT20001127.2214.0372-E8; extent: Replay 's founder
+T14	ACE-Mention 869 881	Anthony Wood
+#14	ACE T14	entityID: NYT20001127.2214.0372-E8; extent: Anthony Wood
+T15	ACE-Mention 896 930	the company 's new chief executive
+#15	ACE T15	entityID: NYT20001127.2214.0372-E8; extent: the company 's new chief executive
+T16	ACE-Mention 943 955	Kim LeMaster
+#16	ACE T16	entityID: NYT20001127.2214.0372-E1; extent: Kim LeMaster
+T17	ACE-Mention 959 970	The company
+#17	ACE T17	entityID: NYT20001127.2214.0372-E37; extent: The company
+T18	ACE-Mention 981 983	it
+#18	ACE T18	entityID: NYT20001127.2214.0372-E37; extent: it
+T19	ACE-Mention 1004 1007	its
+#19	ACE T19	entityID: NYT20001127.2214.0372-E37; extent: its
+T20	ACE-Mention 1062 1140	partners , including cable service providers and makers of cable set-top boxes
+#20	ACE T20	entityID: NYT20001127.2214.0372-E11; extent: partners , including cable service providers and makers of cable set-top boxes
+T21	ACE-Mention 1198 1216	the cable industry
+#21	ACE T21	entityID: NYT20001127.2214.0372-E14; extent: the cable industry
+T22	ACE-Mention 1227 1240	Steve Shannon
+#22	ACE T22	entityID: NYT20001127.2214.0372-E15; extent: Steve Shannon
+T23	ACE-Mention 1243 1280	Replay 's vice president of marketing
+#23	ACE T23	entityID: NYT20001127.2214.0372-E15; extent: Replay 's vice president of marketing
+T24	ACE-Mention 1284 1286	He
+#24	ACE T24	entityID: NYT20001127.2214.0372-E15; extent: He
+T25	ACE-Mention 1292 1303	the company
+#25	ACE T25	entityID: NYT20001127.2214.0372-E37; extent: the company
+T26	ACE-Mention 1323 1334	Time Warner
+#26	ACE T26	entityID: NYT20001127.2214.0372-E17; extent: Time Warner
+T27	ACE-Mention 1337 1344	Comcast
+#27	ACE T27	entityID: NYT20001127.2214.0372-E18; extent: Comcast
+T28	ACE-Mention 1347 1369	Charter Communications
+#28	ACE T28	entityID: NYT20001127.2214.0372-E19; extent: Charter Communications
+T29	ACE-Mention 1379 1390	AT&AMP ; T.
+#29	ACE T29	entityID: NYT20001127.2214.0372-E20; extent: AT&AMP ; T.
+T30	ACE-Mention 1391 1393	It
+#30	ACE T30	entityID: NYT20001127.2214.0372-E37; extent: It
+T31	ACE-Mention 1442 1460	the Motorola Corp.
+#31	ACE T31	entityID: NYT20001127.2214.0372-E21; extent: the Motorola Corp.
+T32	ACE-Mention 1470 1473	its
+#32	ACE T32	entityID: NYT20001127.2214.0372-E37; extent: its
+T33	ACE-Mention 1531 1539	Analysts
+#33	ACE T33	entityID: NYT20001127.2214.0372-E22; extent: Analysts
+T34	ACE-Mention 1608 1612	TiVo
+#34	ACE T34	entityID: NYT20001127.2214.0372-E4; extent: TiVo
+T35	ACE-Mention 1639 1647	ReplayTV
+#35	ACE T35	entityID: NYT20001127.2214.0372-E37; extent: ReplayTV
+T36	ACE-Mention 1667 1675	consumer
+#36	ACE T36	entityID: NYT20001127.2214.0372-E36; extent: consumer
+T37	ACE-Mention 1686 1690	TiVo
+#37	ACE T37	entityID: NYT20001127.2214.0372-E4; extent: TiVo
+T38	ACE-Mention 1738 1742	Sony
+#38	ACE T38	entityID: NYT20001127.2214.0372-E24; extent: Sony
+T39	ACE-Mention 1747 1755	Phillips
+#39	ACE T39	entityID: NYT20001127.2214.0372-E23; extent: Phillips
+T40	ACE-Mention 1764 1772	ReplayTV
+#40	ACE T40	entityID: NYT20001127.2214.0372-E37; extent: ReplayTV
+T41	ACE-Mention 1802 1811	Panasonic
+#41	ACE T41	entityID: NYT20001127.2214.0372-E25; extent: Panasonic
+T42	ACE-Mention 1815 1869	The company , which is based in Mountain View , Calif.
+#42	ACE T42	entityID: NYT20001127.2214.0372-E37; extent: The company , which is based in Mountain View , Calif.
+T43	ACE-Mention 1882 1884	it
+#43	ACE T43	entityID: NYT20001127.2214.0372-E37; extent: it
+T44	ACE-Mention 1934 1938	TiVo
+#44	ACE T44	entityID: NYT20001127.2214.0372-E4; extent: TiVo
+T45	ACE-Mention 1976 1988	Josh Bernoff
+#45	ACE T45	entityID: NYT20001127.2214.0372-E29; extent: Josh Bernoff
+T46	ACE-Mention 1991 2083	an industry analyst at Forrester Research , a computer industry research and consulting firm
+#46	ACE T46	entityID: NYT20001127.2214.0372-E29; extent: an industry analyst at Forrester Research , a computer industry research and consulting firm
+T47	ACE-Mention 2109 2115	Replay
+#47	ACE T47	entityID: NYT20001127.2214.0372-E37; extent: Replay
+T48	ACE-Mention 2266 2274	ReplayTV
+#48	ACE T48	entityID: NYT20001127.2214.0372-E37; extent: ReplayTV
+T49	ACE-Mention 2311 2329	the cable industry
+#49	ACE T49	entityID: NYT20001127.2214.0372-E14; extent: the cable industry
+T50	ACE-Mention 2332 2334	he
+#50	ACE T50	entityID: NYT20001127.2214.0372-E29; extent: he
+T51	ACE-Mention 2344 2348	TiVo
+#51	ACE T51	entityID: NYT20001127.2214.0372-E4; extent: TiVo
+T52	ACE-Mention 2392 2473	cable companies , who are not generally interested in showcasing competing brands
+#52	ACE T52	entityID: NYT20001127.2214.0372-E34; extent: cable companies , who are not generally interested in showcasing competing brands
+T53	ACE-Mention 2495 2619	Microsoft , which has also recently entered the market for personal video recorders with its own system , called Ultimate TV
+#53	ACE T53	entityID: NYT20001127.2214.0372-E35; extent: Microsoft , which has also recently entered the market for personal video recorders with its own system , called Ultimate TV

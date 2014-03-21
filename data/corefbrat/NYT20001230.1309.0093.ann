@@ -1,0 +1,56 @@
+T0	ACE-Mention 296 303	SEATTLE
+#0	ACE T0	entityID: NYT20001230.1309.0093-E5; extent: SEATTLE
+T1	ACE-Mention 364 396	the Woodland Park Zoo in Seattle
+#1	ACE T1	entityID: NYT20001230.1309.0093-E17; extent: the Woodland Park Zoo in Seattle
+T2	ACE-Mention 490 499	the world
+#2	ACE T2	entityID: NYT20001230.1309.0093-E18; extent: the world
+T3	ACE-Mention 607 615	Missouri
+#3	ACE T3	entityID: NYT20001230.1309.0093-E19; extent: Missouri
+T4	ACE-Mention 648 653	Asian
+#4	ACE T4	entityID: NYT20001230.1309.0093-E20; extent: Asian
+T5	ACE-Mention 687 694	the zoo
+#5	ACE T5	entityID: NYT20001230.1309.0093-E17; extent: the zoo
+T6	ACE-Mention 698 701	its
+#6	ACE T6	entityID: NYT20001230.1309.0093-E10; extent: its
+T7	ACE-Mention 857 870	some visitors
+#7	ACE T7	entityID: NYT20001230.1309.0093-E21; extent: some visitors
+T8	ACE-Mention 1143 1381	elephant experts around the world , who consider any successful experiment in breeding an important victory because elephants are endangered , especially the Asian species , whose numbers have declined steadily to about 40,000 in the wild
+#8	ACE T8	entityID: NYT20001230.1309.0093-E22; extent: elephant experts around the world , who consider any successful experiment in breeding an important victory because elephants are endangered , especially the Asian species , whose numbers have declined steadily to about 40,000 in the wild
+T9	ACE-Mention 1406 1413	Seattle
+#9	ACE T9	entityID: NYT20001230.1309.0093-E5; extent: Seattle
+T10	ACE-Mention 1430 1435	Asian
+#10	ACE T10	entityID: NYT20001230.1309.0093-E20; extent: Asian
+T11	ACE-Mention 1454 1473	North American zoos
+#11	ACE T11	entityID: NYT20001230.1309.0093-E23; extent: North American zoos
+T12	ACE-Mention 1531 1541	Mike Keele
+#12	ACE T12	entityID: NYT20001230.1309.0093-E2; extent: Mike Keele
+T13	ACE-Mention 1544 1642	the coordinator for the elephant species survival program of American Zoo and Aquarium Association
+#13	ACE T13	entityID: NYT20001230.1309.0093-E2; extent: the coordinator for the elephant species survival program of American Zoo and Aquarium Association
+T14	ACE-Mention 1646 1651	Keele
+#14	ACE T14	entityID: NYT20001230.1309.0093-E2; extent: Keele
+T15	ACE-Mention 1654 1705	an assistant director at the Oregon Zoo in Portland
+#15	ACE T15	entityID: NYT20001230.1309.0093-E2; extent: an assistant director at the Oregon Zoo in Portland
+T16	ACE-Mention 1796 1811	the Seattle zoo
+#16	ACE T16	entityID: NYT20001230.1309.0093-E17; extent: the Seattle zoo
+T17	ACE-Mention 1863 1868	Asian
+#17	ACE T17	entityID: NYT20001230.1309.0093-E20; extent: Asian
+T18	ACE-Mention 1950 1957	the zoo
+#18	ACE T18	entityID: NYT20001230.1309.0093-E10; extent: the zoo
+T19	ACE-Mention 2004 2019	a flatbed truck
+#19	ACE T19	entityID: NYT20001230.1309.0093-E6; extent: a flatbed truck
+T20	ACE-Mention 2036 2079	the Dickerson Park Zoo in Springfield , Mo.
+#20	ACE T20	entityID: NYT20001230.1309.0093-E7; extent: the Dickerson Park Zoo in Springfield , Mo.
+T21	ACE-Mention 2278 2291	zoo officials
+#21	ACE T21	entityID: NYT20001230.1309.0093-E9; extent: zoo officials
+T22	ACE-Mention 2609 2624	the Seattle zoo
+#22	ACE T22	entityID: NYT20001230.1309.0093-E10; extent: the Seattle zoo
+T23	ACE-Mention 2736 2743	The zoo
+#23	ACE T23	entityID: NYT20001230.1309.0093-E10; extent: The zoo
+T24	ACE-Mention 2809 2823	David L. Towne
+#24	ACE T24	entityID: NYT20001230.1309.0093-E12; extent: David L. Towne
+T25	ACE-Mention 2826 2859	president and director of the zoo
+#25	ACE T25	entityID: NYT20001230.1309.0093-E12; extent: president and director of the zoo
+T26	ACE-Mention 2870 2972	The person who submits the winning name , which Towne said should evoke the elephant 's Asian heritage
+#26	ACE T26	entityID: NYT20001230.1309.0093-E14; extent: The person who submits the winning name , which Towne said should evoke the elephant 's Asian heritage
+T27	ACE-Mention 3006 3035	Thailand , where Chai is from
+#27	ACE T27	entityID: NYT20001230.1309.0093-E15; extent: Thailand , where Chai is from

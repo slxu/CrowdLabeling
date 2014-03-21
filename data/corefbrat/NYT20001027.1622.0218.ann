@@ -1,0 +1,108 @@
+T0	ACE-Mention 314 332	Computer intruders
+#0	ACE T0	entityID: NYT20001027.1622.0218-E19; extent: Computer intruders
+T1	ACE-Mention 344 359	Microsoft Corp.
+#1	ACE T1	entityID: NYT20001027.1622.0218-E6; extent: Microsoft Corp.
+T2	ACE-Mention 390 401	the company
+#2	ACE T2	entityID: NYT20001027.1622.0218-E6; extent: the company
+T3	ACE-Mention 484 495	the company
+#3	ACE T3	entityID: NYT20001027.1622.0218-E6; extent: the company
+T4	ACE-Mention 515 615	the unknown culprits , who had access to some of the company 's computers for an undetermined period
+#4	ACE T4	entityID: NYT20001027.1622.0218-E19; extent: the unknown culprits , who had access to some of the company 's computers for an undetermined period
+T5	ACE-Mention 649 660	the company
+#5	ACE T5	entityID: NYT20001027.1622.0218-E6; extent: the company
+T6	ACE-Mention 721 740	a company spokesman
+#6	ACE T6	entityID: NYT20001027.1622.0218-E21; extent: a company spokesman
+T7	ACE-Mention 840 853	the spokesman
+#7	ACE T7	entityID: NYT20001027.1622.0218-E21; extent: the spokesman
+T8	ACE-Mention 856 867	Mark Murray
+#8	ACE T8	entityID: NYT20001027.1622.0218-E21; extent: Mark Murray
+T9	ACE-Mention 915 927	the intruder
+#9	ACE T9	entityID: NYT20001027.1622.0218-E19; extent: the intruder
+T10	ACE-Mention 949 952	our
+#10	ACE T10	entityID: NYT20001027.1622.0218-E6; extent: our
+T11	ACE-Mention 986 997	The company
+#11	ACE T11	entityID: NYT20001027.1622.0218-E6; extent: The company
+T12	ACE-Mention 1015 1017	it
+#12	ACE T12	entityID: NYT20001027.1622.0218-E6; extent: it
+T13	ACE-Mention 1032 1039	the FBI
+#13	ACE T13	entityID: NYT20001027.1622.0218-E24; extent: the FBI
+T14	ACE-Mention 1054 1070	the perpetrators
+#14	ACE T14	entityID: NYT20001027.1622.0218-E19; extent: the perpetrators
+T15	ACE-Mention 1074 1097	The Wall Street Journal
+#15	ACE T15	entityID: NYT20001027.1622.0218-E25; extent: The Wall Street Journal
+T16	ACE-Mention 1160 1173	the intruders
+#16	ACE T16	entityID: NYT20001027.1622.0218-E19; extent: the intruders
+T17	ACE-Mention 1224 1230	Russia
+#17	ACE T17	entityID: NYT20001027.1622.0218-E26; extent: Russia
+T18	ACE-Mention 1237 1239	We
+#18	ACE T18	entityID: NYT20001027.1622.0218-E24; extent: We
+T19	ACE-Mention 1270 1279	Microsoft
+#19	ACE T19	entityID: NYT20001027.1622.0218-E6; extent: Microsoft
+T20	ACE-Mention 1285 1287	we
+#20	ACE T20	entityID: NYT20001027.1622.0218-E24; extent: we
+T21	ACE-Mention 1369 1386	Roberta Burroughs
+#21	ACE T21	entityID: NYT20001027.1622.0218-E1; extent: Roberta Burroughs
+T22	ACE-Mention 1389 1440	spokeswoman for the Seattle field office of the FBI
+#22	ACE T22	entityID: NYT20001027.1622.0218-E1; extent: spokeswoman for the Seattle field office of the FBI
+T23	ACE-Mention 1464 1485	Microsoft programmers
+#23	ACE T23	entityID: NYT20001027.1622.0218-E5; extent: Microsoft programmers
+T24	ACE-Mention 1490 1499	reporters
+#24	ACE T24	entityID: NYT20001027.1622.0218-E7; extent: reporters
+T25	ACE-Mention 1516 1534	Stockholm , Sweden
+#25	ACE T25	entityID: NYT20001027.1622.0218-E8; extent: Stockholm , Sweden
+T26	ACE-Mention 1537 1551	Steven Ballmer
+#26	ACE T26	entityID: NYT20001027.1622.0218-E10; extent: Steven Ballmer
+T27	ACE-Mention 1554 1584	the company 's chief executive
+#27	ACE T27	entityID: NYT20001027.1622.0218-E10; extent: the company 's chief executive
+T28	ACE-Mention 1614 1621	hackers
+#28	ACE T28	entityID: NYT20001027.1622.0218-E19; extent: hackers
+T29	ACE-Mention 1638 1641	our
+#29	ACE T29	entityID: NYT20001027.1622.0218-E6; extent: our
+T30	ACE-Mention 1659 1666	Reuters
+#30	ACE T30	entityID: NYT20001027.1622.0218-E12; extent: Reuters
+T31	ACE-Mention 1671 1691	The Associated Press
+#31	ACE T31	entityID: NYT20001027.1622.0218-E13; extent: The Associated Press
+T32	ACE-Mention 1704 1711	Ballmer
+#32	ACE T32	entityID: NYT20001027.1622.0218-E10; extent: Ballmer
+T33	ACE-Mention 1717 1729	the burglars
+#33	ACE T33	entityID: NYT20001027.1622.0218-E19; extent: the burglars
+T34	ACE-Mention 1856 1857	I
+#34	ACE T34	entityID: NYT20001027.1622.0218-E10; extent: I
+T35	ACE-Mention 1869 1872	you
+#35	ACE T35	entityID: NYT20001027.1622.0218-E14; extent: you
+T36	ACE-Mention 1878 1880	we
+#36	ACE T36	entityID: NYT20001027.1622.0218-E6; extent: we
+T37	ACE-Mention 2021 2023	he
+#37	ACE T37	entityID: NYT20001027.1622.0218-E10; extent: he
+T38	ACE-Mention 2033 2042	Microsoft
+#38	ACE T38	entityID: NYT20001027.1622.0218-E6; extent: Microsoft
+T39	ACE-Mention 2083 2100	partner companies
+#39	ACE T39	entityID: NYT20001027.1622.0218-E15; extent: partner companies
+T40	ACE-Mention 2118 2120	it
+#40	ACE T40	entityID: NYT20001027.1622.0218-E6; extent: it
+T41	ACE-Mention 2161 2170	outsiders
+#41	ACE T41	entityID: NYT20001027.1622.0218-E16; extent: outsiders
+T42	ACE-Mention 2219 2228	Microsoft
+#42	ACE T42	entityID: NYT20001027.1622.0218-E6; extent: Microsoft
+T43	ACE-Mention 2279 2285	anyone
+#43	ACE T43	entityID: NYT20001027.1622.0218-E17; extent: anyone
+T44	ACE-Mention 2335 2344	Microsoft
+#44	ACE T44	entityID: NYT20001027.1622.0218-E6; extent: Microsoft
+T45	ACE-Mention 2390 2393	its
+#45	ACE T45	entityID: NYT20001027.1622.0218-E6; extent: its
+T46	ACE-Mention 2412 2422	the public
+#46	ACE T46	entityID: NYT20001027.1622.0218-E18; extent: the public
+T47	ACE-Mention 2454 2457	its
+#47	ACE T47	entityID: NYT20001027.1622.0218-E6; extent: its
+T48	ACE-Mention 2479 2482	its
+#48	ACE T48	entityID: NYT20001027.1622.0218-E6; extent: its
+T49	ACE-Mention 2521 2544	The Wall Street Journal
+#49	ACE T49	entityID: NYT20001027.1622.0218-E25; extent: The Wall Street Journal
+T50	ACE-Mention 2578 2585	hackers
+#50	ACE T50	entityID: NYT20001027.1622.0218-E19; extent: hackers
+T51	ACE-Mention 2685 2696	the company
+#51	ACE T51	entityID: NYT20001027.1622.0218-E6; extent: the company
+T52	ACE-Mention 2721 2732	the hackers
+#52	ACE T52	entityID: NYT20001027.1622.0218-E19; extent: the hackers
+T53	ACE-Mention 2773 2782	Microsoft
+#53	ACE T53	entityID: NYT20001027.1622.0218-E6; extent: Microsoft

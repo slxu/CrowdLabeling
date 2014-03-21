@@ -1,0 +1,172 @@
+T0	ACE-Mention 92 99	CHICAGO
+#0	ACE T0	entityID: APW20001028.2128.0472-E20; extent: CHICAGO
+T1	ACE-Mention 100 104	(AP)
+#1	ACE T1	entityID: APW20001028.2128.0472-E68; extent: (AP)
+T2	ACE-Mention 110 136	Stone Cold '' Steve Austin
+#2	ACE T2	entityID: APW20001028.2128.0472-E70; extent: Stone Cold '' Steve Austin
+T3	ACE-Mention 139 147	The Rock
+#3	ACE T3	entityID: APW20001028.2128.0472-E71; extent: The Rock
+T4	ACE-Mention 152 160	Triple H
+#4	ACE T4	entityID: APW20001028.2128.0472-E72; extent: Triple H
+T5	ACE-Mention 176 190	the selections
+#5	ACE T5	entityID: APW20001028.2128.0472-E69; extent: the selections
+T6	ACE-Mention 252 255	XFL
+#6	ACE T6	entityID: APW20001028.2128.0472-E74; extent: XFL
+T7	ACE-Mention 286 292	Austin
+#7	ACE T7	entityID: APW20001028.2128.0472-E70; extent: Austin
+T8	ACE-Mention 341 347	league
+#8	ACE T8	entityID: APW20001028.2128.0472-E74; extent: league
+T9	ACE-Mention 362 376	The new league
+#9	ACE T9	entityID: APW20001028.2128.0472-E74; extent: The new league
+T10	ACE-Mention 379 436	a joint venture of the World Wrestling Federation and NBC
+#10	ACE T10	entityID: APW20001028.2128.0472-E74; extent: a joint venture of the World Wrestling Federation and NBC
+T11	ACE-Mention 448 478	some former NFL first-rounders
+#11	ACE T11	entityID: APW20001028.2128.0472-E78; extent: some former NFL first-rounders
+T12	ACE-Mention 549 551	it
+#12	ACE T12	entityID: APW20001028.2128.0472-E74; extent: it
+T13	ACE-Mention 648 672	quarterback-in-the-grasp
+#13	ACE T13	entityID: APW20001028.2128.0472-E4; extent: quarterback-in-the-grasp
+T14	ACE-Mention 722 734	the sideline
+#14	ACE T14	entityID: APW20001028.2128.0472-E1; extent: the sideline
+T15	ACE-Mention 740 752	locker rooms
+#15	ACE T15	entityID: APW20001028.2128.0472-E2; extent: locker rooms
+T16	ACE-Mention 775 791	selected players
+#16	ACE T16	entityID: APW20001028.2128.0472-E3; extent: selected players
+T17	ACE-Mention 798 800	We
+#17	ACE T17	entityID: APW20001028.2128.0472-E74; extent: We
+T18	ACE-Mention 830 846	millions of kids
+#18	ACE T18	entityID: APW20001028.2128.0472-E5; extent: millions of kids
+T19	ACE-Mention 857 872	the school yard
+#19	ACE T19	entityID: APW20001028.2128.0472-E6; extent: the school yard
+T20	ACE-Mention 905 960	people who 've enjoyed the game on all different levels
+#20	ACE T20	entityID: APW20001028.2128.0472-E7; extent: people who 've enjoyed the game on all different levels
+T21	ACE-Mention 966 995	league president Basil DeVito
+#21	ACE T21	entityID: APW20001028.2128.0472-E8; extent: league president Basil DeVito
+T22	ACE-Mention 1071 1085	about 100 fans
+#22	ACE T22	entityID: APW20001028.2128.0472-E10; extent: about 100 fans
+T23	ACE-Mention 1089 1131	a hotel near O 'Hare International Airport
+#23	ACE T23	entityID: APW20001028.2128.0472-E11; extent: a hotel near O 'Hare International Airport
+T24	ACE-Mention 1156 1162	DeVito
+#24	ACE T24	entityID: APW20001028.2128.0472-E8; extent: DeVito
+T25	ACE-Mention 1171 1181	his league
+#25	ACE T25	entityID: APW20001028.2128.0472-E74; extent: his league
+T26	ACE-Mention 1199 1205	Nobody
+#26	ACE T26	entityID: APW20001028.2128.0472-E13; extent: Nobody
+T27	ACE-Mention 1217 1223	Nobody
+#27	ACE T27	entityID: APW20001028.2128.0472-E13; extent: Nobody
+T28	ACE-Mention 1257 1267	the league
+#28	ACE T28	entityID: APW20001028.2128.0472-E74; extent: the league
+T29	ACE-Mention 1282 1295	a quarterback
+#29	ACE T29	entityID: APW20001028.2128.0472-E14; extent: a quarterback
+T30	ACE-Mention 1365 1372	players
+#30	ACE T30	entityID: APW20001028.2128.0472-E15; extent: players
+T31	ACE-Mention 1471 1508	at least one of the league 's coaches
+#31	ACE T31	entityID: APW20001028.2128.0472-E16; extent: at least one of the league 's coaches
+T32	ACE-Mention 1515 1517	We
+#32	ACE T32	entityID: APW20001028.2128.0472-E74; extent: We
+T33	ACE-Mention 1541 1544	you
+#33	ACE T33	entityID: APW20001028.2128.0472-E18; extent: you
+T34	ACE-Mention 1550 1568	no owners in there
+#34	ACE T34	entityID: APW20001028.2128.0472-E19; extent: no owners in there
+T35	ACE-Mention 1572 1575	You
+#35	ACE T35	entityID: APW20001028.2128.0472-E18; extent: You
+T36	ACE-Mention 1581 1654	no owners in there in who are going to disrupt the progress of the league
+#36	ACE T36	entityID: APW20001028.2128.0472-E19; extent: no owners in there in who are going to disrupt the progress of the league
+T37	ACE-Mention 1663 1665	it
+#37	ACE T37	entityID: APW20001028.2128.0472-E74; extent: it
+T38	ACE-Mention 1700 1733	Chicago Enforcers coach Ron Meyer
+#38	ACE T38	entityID: APW20001028.2128.0472-E21; extent: Chicago Enforcers coach Ron Meyer
+T39	ACE-Mention 1736 1779	former head coach of the Patriots and Colts
+#39	ACE T39	entityID: APW20001028.2128.0472-E21; extent: former head coach of the Patriots and Colts
+T40	ACE-Mention 1782 1785	who
+#40	ACE T40	entityID: APW20001028.2128.0472-E21; extent: who
+T41	ACE-Mention 1804 1832	Chicago favorite Dick Butkus
+#41	ACE T41	entityID: APW20001028.2128.0472-E26; extent: Chicago favorite Dick Butkus
+T42	ACE-Mention 1859 1876	the league office
+#42	ACE T42	entityID: APW20001028.2128.0472-E28; extent: the league office
+T43	ACE-Mention 1883 1884	I
+#43	ACE T43	entityID: APW20001028.2128.0472-E21; extent: I
+T44	ACE-Mention 1933 1934	I
+#44	ACE T44	entityID: APW20001028.2128.0472-E21; extent: I
+T45	ACE-Mention 1958 1963	Meyer
+#45	ACE T45	entityID: APW20001028.2128.0472-E21; extent: Meyer
+T46	ACE-Mention 2019 2021	we
+#46	ACE T46	entityID: APW20001028.2128.0472-E74; extent: we
+T47	ACE-Mention 2052 2053	I
+#47	ACE T47	entityID: APW20001028.2128.0472-E21; extent: I
+T48	ACE-Mention 2071 2077	DeVito
+#48	ACE T48	entityID: APW20001028.2128.0472-E8; extent: DeVito
+T49	ACE-Mention 2083 2093	the league
+#49	ACE T49	entityID: APW20001028.2128.0472-E74; extent: the league
+T50	ACE-Mention 2228 2256	LA Xtreme coach Al Luginbill
+#50	ACE T50	entityID: APW20001028.2128.0472-E30; extent: LA Xtreme coach Al Luginbill
+T51	ACE-Mention 2272 2274	we
+#51	ACE T51	entityID: APW20001028.2128.0472-E32; extent: we
+T52	ACE-Mention 2294 2305	some people
+#52	ACE T52	entityID: APW20001028.2128.0472-E33; extent: some people
+T53	ACE-Mention 2339 2354	the eight teams
+#53	ACE T53	entityID: APW20001028.2128.0472-E34; extent: the eight teams
+T54	ACE-Mention 2390 2404	three colleges
+#54	ACE T54	entityID: APW20001028.2128.0472-E35; extent: three colleges
+T55	ACE-Mention 2419 2435	those designated
+#55	ACE T55	entityID: APW20001028.2128.0472-E36; extent: those designated
+T56	ACE-Mention 2441 2466	former NFL first-rounders
+#56	ACE T56	entityID: APW20001028.2128.0472-E36; extent: former NFL first-rounders
+T57	ACE-Mention 2467 2477	Mike Croel
+#57	ACE T57	entityID: APW20001028.2128.0472-E39; extent: Mike Croel
+T58	ACE-Mention 2480 2492	Alvin Harper
+#58	ACE T58	entityID: APW20001028.2128.0472-E40; extent: Alvin Harper
+T59	ACE-Mention 2495 2507	Tommy Maddox
+#59	ACE T59	entityID: APW20001028.2128.0472-E41; extent: Tommy Maddox
+T60	ACE-Mention 2512 2523	Marcus Nash
+#60	ACE T60	entityID: APW20001028.2128.0472-E42; extent: Marcus Nash
+T61	ACE-Mention 2550 2567	five quarterbacks
+#61	ACE T61	entityID: APW20001028.2128.0472-E43; extent: five quarterbacks
+T62	ACE-Mention 2573 2597	the first players chosen
+#62	ACE T62	entityID: APW20001028.2128.0472-E43; extent: the first players chosen
+T63	ACE-Mention 2601 2641	Ex-Maryland quarterback Scott Milanovich
+#63	ACE T63	entityID: APW20001028.2128.0472-E45; extent: Ex-Maryland quarterback Scott Milanovich
+T64	ACE-Mention 2671 2716	the first XFL player selected _ by the Xtreme
+#64	ACE T64	entityID: APW20001028.2128.0472-E45; extent: the first XFL player selected _ by the Xtreme
+T65	ACE-Mention 2720 2733	The Enforcers
+#65	ACE T65	entityID: APW20001028.2128.0472-E22; extent: The Enforcers
+T66	ACE-Mention 2783 2806	running back John Avery
+#66	ACE T66	entityID: APW20001028.2128.0472-E51; extent: running back John Avery
+T67	ACE-Mention 2809 2857	a first-round pick of the Miami Dolphins in 1998
+#67	ACE T67	entityID: APW20001028.2128.0472-E51; extent: a first-round pick of the Miami Dolphins in 1998
+T68	ACE-Mention 2934 2963	quarterback Jim Druckenmiller
+#68	ACE T68	entityID: APW20001028.2128.0472-E54; extent: quarterback Jim Druckenmiller
+T69	ACE-Mention 2966 3021	a first-round choice of the San Francisco 49ers in 1997
+#69	ACE T69	entityID: APW20001028.2128.0472-E54; extent: a first-round choice of the San Francisco 49ers in 1997
+T70	ACE-Mention 3040 3050	the Maniax
+#70	ACE T70	entityID: APW20001028.2128.0472-E57; extent: the Maniax
+T71	ACE-Mention 3078 3083	Avery
+#71	ACE T71	entityID: APW20001028.2128.0472-E51; extent: Avery
+T72	ACE-Mention 3086 3099	Druckenmiller
+#72	ACE T72	entityID: APW20001028.2128.0472-E54; extent: Druckenmiller
+T73	ACE-Mention 3102 3128	running back Vaughn Dunbar
+#73	ACE T73	entityID: APW20001028.2128.0472-E58; extent: running back Vaughn Dunbar
+T74	ACE-Mention 3133 3156	linebacker Craig Powell
+#74	ACE T74	entityID: APW20001028.2128.0472-E60; extent: linebacker Craig Powell
+T75	ACE-Mention 3159 3162	who
+#75	ACE T75	entityID: APW20001028.2128.0472-E62; extent: who
+T76	ACE-Mention 3163 3167	both
+#76	ACE T76	entityID: APW20001028.2128.0472-E62; extent: both
+T77	ACE-Mention 3176 3200	the San Francisco Demons
+#77	ACE T77	entityID: APW20001028.2128.0472-E63; extent: the San Francisco Demons
+T78	ACE-Mention 3208 3238	all NFL first-round selections
+#78	ACE T78	entityID: APW20001028.2128.0472-E64; extent: all NFL first-round selections
+T79	ACE-Mention 3261 3276	all the coaches
+#79	ACE T79	entityID: APW20001028.2128.0472-E66; extent: all the coaches
+T80	ACE-Mention 3282 3284	me
+#80	ACE T80	entityID: APW20001028.2128.0472-E8; extent: me
+T81	ACE-Mention 3285 3289	they
+#81	ACE T81	entityID: APW20001028.2128.0472-E66; extent: they
+T82	ACE-Mention 3302 3325	the players they wanted
+#82	ACE T82	entityID: APW20001028.2128.0472-E67; extent: the players they wanted
+T83	ACE-Mention 3331 3337	DeVito
+#83	ACE T83	entityID: APW20001028.2128.0472-E8; extent: DeVito
+T84	ACE-Mention 3359 3363	they
+#84	ACE T84	entityID: APW20001028.2128.0472-E66; extent: they
+T85	ACE-Mention 3387 3388	I
+#85	ACE T85	entityID: APW20001028.2128.0472-E8; extent: I

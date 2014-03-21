@@ -1,0 +1,68 @@
+T0	ACE-Mention 118 137	KABUL , Afghanistan
+#0	ACE T0	entityID: APW20001120.1450.0376-E14; extent: KABUL , Afghanistan
+T1	ACE-Mention 138 142	(AP)
+#1	ACE T1	entityID: APW20001120.1450.0376-E23; extent: (AP)
+T2	ACE-Mention 145 171	The ruling Taliban militia
+#2	ACE T2	entityID: APW20001120.1450.0376-E24; extent: The ruling Taliban militia
+T3	ACE-Mention 191 251	137 Shiite Muslim prisoners it had held for nearly two years
+#3	ACE T3	entityID: APW20001120.1450.0376-E25; extent: 137 Shiite Muslim prisoners it had held for nearly two years
+T4	ACE-Mention 262 276	the opposition
+#4	ACE T4	entityID: APW20001120.1450.0376-E27; extent: the opposition
+T5	ACE-Mention 304 338	government prisoners it is holding
+#5	ACE T5	entityID: APW20001120.1450.0376-E28; extent: government prisoners it is holding
+T6	ACE-Mention 342 418	The freed men , all said to be fighters belonging to the opposition alliance
+#6	ACE T6	entityID: APW20001120.1450.0376-E25; extent: The freed men , all said to be fighters belonging to the opposition alliance
+T7	ACE-Mention 448 455	Islamic
+#7	ACE T7	entityID: APW20001120.1450.0376-E31; extent: Islamic
+T8	ACE-Mention 485 499	devout Muslims
+#8	ACE T8	entityID: APW20001120.1450.0376-E1; extent: devout Muslims
+T9	ACE-Mention 534 547	The prisoners
+#9	ACE T9	entityID: APW20001120.1450.0376-E25; extent: The prisoners
+T10	ACE-Mention 598 627	the Taliban 's supreme leader
+#10	ACE T10	entityID: APW20001120.1450.0376-E2; extent: the Taliban 's supreme leader
+T11	ACE-Mention 628 648	Mullah Mohammed Omar
+#11	ACE T11	entityID: APW20001120.1450.0376-E2; extent: Mullah Mohammed Omar
+T12	ACE-Mention 656 688	the Taliban 's Interior Minister
+#12	ACE T12	entityID: APW20001120.1450.0376-E4; extent: the Taliban 's Interior Minister
+T13	ACE-Mention 689 708	Abdul Razzak Akhund
+#13	ACE T13	entityID: APW20001120.1450.0376-E4; extent: Abdul Razzak Akhund
+T14	ACE-Mention 715 717	We
+#14	ACE T14	entityID: APW20001120.1450.0376-E24; extent: We
+T15	ACE-Mention 722 736	the opposition
+#15	ACE T15	entityID: APW20001120.1450.0376-E27; extent: the opposition
+T16	ACE-Mention 745 750	their
+#16	ACE T16	entityID: APW20001120.1450.0376-E27; extent: their
+T17	ACE-Mention 769 804	government prisoners in their jails
+#17	ACE T17	entityID: APW20001120.1450.0376-E28; extent: government prisoners in their jails
+T18	ACE-Mention 811 937	The opposition alliance , which controls barely five percent of Afghanistan and is fighting a war against the dominant Taliban
+#18	ACE T18	entityID: APW20001120.1450.0376-E27; extent: The opposition alliance , which controls barely five percent of Afghanistan and is fighting a war against the dominant Taliban
+T19	ACE-Mention 961 1012	the country 's minority ethnic and religious groups
+#19	ACE T19	entityID: APW20001120.1450.0376-E8; extent: the country 's minority ethnic and religious groups
+T20	ACE-Mention 1016 1027	The Taliban
+#20	ACE T20	entityID: APW20001120.1450.0376-E24; extent: The Taliban
+T21	ACE-Mention 1046 1110	Sunni Muslim , which is the majority Islamic sect in the country
+#21	ACE T21	entityID: APW20001120.1450.0376-E9; extent: Sunni Muslim , which is the majority Islamic sect in the country
+T22	ACE-Mention 1114 1125	The Taliban
+#22	ACE T22	entityID: APW20001120.1450.0376-E24; extent: The Taliban
+T23	ACE-Mention 1147 1180	international human rights groups
+#23	ACE T23	entityID: APW20001120.1450.0376-E10; extent: international human rights groups
+T24	ACE-Mention 1196 1223	the minority Shiite Muslims
+#24	ACE T24	entityID: APW20001120.1450.0376-E11; extent: the minority Shiite Muslims
+T25	ACE-Mention 1235 1239	they
+#25	ACE T25	entityID: APW20001120.1450.0376-E24; extent: they
+T26	ACE-Mention 1250 1278	The newly released prisoners
+#26	ACE T26	entityID: APW20001120.1450.0376-E25; extent: The newly released prisoners
+T27	ACE-Mention 1298 1309	the Taliban
+#27	ACE T27	entityID: APW20001120.1450.0376-E24; extent: the Taliban
+T28	ACE-Mention 1326 1364	Afghanistan 's central Bamyan province
+#28	ACE T28	entityID: APW20001120.1450.0376-E12; extent: Afghanistan 's central Bamyan province
+T29	ACE-Mention 1391 1399	The area
+#29	ACE T29	entityID: APW20001120.1450.0376-E12; extent: The area
+T30	ACE-Mention 1424 1447	minority Shiite Muslims
+#30	ACE T30	entityID: APW20001120.1450.0376-E11; extent: minority Shiite Muslims
+T31	ACE-Mention 1454 1455	I
+#31	ACE T31	entityID: APW20001120.1450.0376-E17; extent: I
+T32	ACE-Mention 1497 1504	Ali Jan
+#32	ACE T32	entityID: APW20001120.1450.0376-E18; extent: Ali Jan
+T33	ACE-Mention 1507 1580	one of the prisoners who said he was a farmer in Bamyan and not a soldier
+#33	ACE T33	entityID: APW20001120.1450.0376-E18; extent: one of the prisoners who said he was a farmer in Bamyan and not a soldier

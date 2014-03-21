@@ -1,0 +1,178 @@
+T0	ACE-Mention 641 644	AOL
+#0	ACE T0	entityID: NYT20001101.2212.0429-E24; extent: AOL
+T1	ACE-Mention 716 727	the company
+#1	ACE T1	entityID: NYT20001101.2212.0429-E24; extent: the company
+T2	ACE-Mention 755 766	Time Warner
+#2	ACE T2	entityID: NYT20001101.2212.0429-E54; extent: Time Warner
+T3	ACE-Mention 773 798	a Time Warner shareholder
+#3	ACE T3	entityID: NYT20001101.2212.0429-E55; extent: a Time Warner shareholder
+T4	ACE-Mention 819 845	America Online 's chairman
+#4	ACE T4	entityID: NYT20001101.2212.0429-E57; extent: America Online 's chairman
+T5	ACE-Mention 848 860	Stephen Case
+#5	ACE T5	entityID: NYT20001101.2212.0429-E57; extent: Stephen Case
+T6	ACE-Mention 878 905	his Time Warner counterpart
+#6	ACE T6	entityID: NYT20001101.2212.0429-E59; extent: his Time Warner counterpart
+T7	ACE-Mention 908 920	Gerald Levin
+#7	ACE T7	entityID: NYT20001101.2212.0429-E59; extent: Gerald Levin
+T8	ACE-Mention 935 938	AOL
+#8	ACE T8	entityID: NYT20001101.2212.0429-E24; extent: AOL
+T9	ACE-Mention 995 1011	anyone objective
+#9	ACE T9	entityID: NYT20001101.2212.0429-E61; extent: anyone objective
+T10	ACE-Mention 1031 1036	Steve
+#10	ACE T10	entityID: NYT20001101.2212.0429-E57; extent: Steve
+T11	ACE-Mention 1079 1092	Larry Haverty
+#11	ACE T11	entityID: NYT20001101.2212.0429-E1; extent: Larry Haverty
+T12	ACE-Mention 1095 1153	a senior vice president at State Street Research in Boston
+#12	ACE T12	entityID: NYT20001101.2212.0429-E1; extent: a senior vice president at State Street Research in Boston
+T13	ACE-Mention 1158 1183	a longtime media investor
+#13	ACE T13	entityID: NYT20001101.2212.0429-E1; extent: a longtime media investor
+T14	ACE-Mention 1191 1263	Haverty , like many other Time Warner shareholders and industry analysts
+#14	ACE T14	entityID: NYT20001101.2212.0429-E1; extent: Haverty , like many other Time Warner shareholders and industry analysts
+T15	ACE-Mention 1340 1342	he
+#15	ACE T15	entityID: NYT20001101.2212.0429-E1; extent: he
+T16	ACE-Mention 1357 1375	the merged company
+#16	ACE T16	entityID: NYT20001101.2212.0429-E8; extent: the merged company
+T17	ACE-Mention 1407 1410	AOL
+#17	ACE T17	entityID: NYT20001101.2212.0429-E24; extent: AOL
+T18	ACE-Mention 1435 1463	captive base of online users
+#18	ACE T18	entityID: NYT20001101.2212.0429-E9; extent: captive base of online users
+T19	ACE-Mention 1469 1480	Time Warner
+#19	ACE T19	entityID: NYT20001101.2212.0429-E54; extent: Time Warner
+T20	ACE-Mention 1535 1538	its
+#20	ACE T20	entityID: NYT20001101.2212.0429-E54; extent: its
+T21	ACE-Mention 1558 1575	major advertisers
+#21	ACE T21	entityID: NYT20001101.2212.0429-E11; extent: major advertisers
+T22	ACE-Mention 1644 1653	the world
+#22	ACE T22	entityID: NYT20001101.2212.0429-E12; extent: the world
+T23	ACE-Mention 1659 1666	Haverty
+#23	ACE T23	entityID: NYT20001101.2212.0429-E1; extent: Haverty
+T24	ACE-Mention 1698 1701	you
+#24	ACE T24	entityID: NYT20001101.2212.0429-E13; extent: you
+T25	ACE-Mention 1706 1735	a shareholder in this company
+#25	ACE T25	entityID: NYT20001101.2212.0429-E13; extent: a shareholder in this company
+T26	ACE-Mention 1738 1741	you
+#26	ACE T26	entityID: NYT20001101.2212.0429-E13; extent: you
+T27	ACE-Mention 1758 1772	a happy camper
+#27	ACE T27	entityID: NYT20001101.2212.0429-E13; extent: a happy camper
+T28	ACE-Mention 1862 1897	Tom Wolzien of Sanford C. Bernstein
+#28	ACE T28	entityID: NYT20001101.2212.0429-E16; extent: Tom Wolzien of Sanford C. Bernstein
+T29	ACE-Mention 1904 1919	These companies
+#29	ACE T29	entityID: NYT20001101.2212.0429-E18; extent: These companies
+T30	ACE-Mention 1938 1951	the other one
+#30	ACE T30	entityID: NYT20001101.2212.0429-E19; extent: the other one
+T31	ACE-Mention 1955 1959	They
+#31	ACE T31	entityID: NYT20001101.2212.0429-E18; extent: They
+T32	ACE-Mention 1964 2001	subscription-advertising combo models
+#32	ACE T32	entityID: NYT20001101.2212.0429-E18; extent: subscription-advertising combo models
+T33	ACE-Mention 2096 2101	media
+#33	ACE T33	entityID: NYT20001101.2212.0429-E4; extent: media
+T34	ACE-Mention 2135 2176	shareholders in either AOL or Time Warner
+#34	ACE T34	entityID: NYT20001101.2212.0429-E21; extent: shareholders in either AOL or Time Warner
+T35	ACE-Mention 2180 2186	Disney
+#35	ACE T35	entityID: NYT20001101.2212.0429-E22; extent: Disney
+T36	ACE-Mention 2208 2210	it
+#36	ACE T36	entityID: NYT20001101.2212.0429-E22; extent: it
+T37	ACE-Mention 2218 2236	Capital Cities/ABC
+#37	ACE T37	entityID: NYT20001101.2212.0429-E23; extent: Capital Cities/ABC
+T38	ACE-Mention 2251 2262	Time Warner
+#38	ACE T38	entityID: NYT20001101.2212.0429-E54; extent: Time Warner
+T39	ACE-Mention 2294 2296	it
+#39	ACE T39	entityID: NYT20001101.2212.0429-E54; extent: it
+T40	ACE-Mention 2334 2338	Time
+#40	ACE T40	entityID: NYT20001101.2212.0429-E25; extent: Time
+T41	ACE-Mention 2343 2349	Warner
+#41	ACE T41	entityID: NYT20001101.2212.0429-E26; extent: Warner
+T42	ACE-Mention 2431 2533	Roger McNamee of Integral Capital , which sold its 404,000 AOL shares the day the merger was announced
+#42	ACE T42	entityID: NYT20001101.2212.0429-E27; extent: Roger McNamee of Integral Capital , which sold its 404,000 AOL shares the day the merger was announced
+T43	ACE-Mention 2544 2562	the merged company
+#43	ACE T43	entityID: NYT20001101.2212.0429-E8; extent: the merged company
+T44	ACE-Mention 2590 2592	it
+#44	ACE T44	entityID: NYT20001101.2212.0429-E8; extent: it
+T45	ACE-Mention 2623 2629	Disney
+#45	ACE T45	entityID: NYT20001101.2212.0429-E22; extent: Disney
+T46	ACE-Mention 2634 2748	other traditional media companies , which are still struggling to figure out how they can profit from the Internet
+#46	ACE T46	entityID: NYT20001101.2212.0429-E30; extent: other traditional media companies , which are still struggling to figure out how they can profit from the Internet
+T47	ACE-Mention 2756 2785	Jessica Reif of Merrill Lynch
+#47	ACE T47	entityID: NYT20001101.2212.0429-E31; extent: Jessica Reif of Merrill Lynch
+T48	ACE-Mention 2839 2843	they
+#48	ACE T48	entityID: NYT20001101.2212.0429-E8; extent: they
+T49	ACE-Mention 2851 2853	it
+#49	ACE T49	entityID: NYT20001101.2212.0429-E8; extent: it
+T50	ACE-Mention 2867 2898	a very powerful consumer engine
+#50	ACE T50	entityID: NYT20001101.2212.0429-E8; extent: a very powerful consumer engine
+T51	ACE-Mention 2904 2908	Reif
+#51	ACE T51	entityID: NYT20001101.2212.0429-E31; extent: Reif
+T52	ACE-Mention 2943 2946	you
+#52	ACE T52	entityID: NYT20001101.2212.0429-E35; extent: you
+T53	ACE-Mention 2951 2957	Disney
+#53	ACE T53	entityID: NYT20001101.2212.0429-E22; extent: Disney
+T54	ACE-Mention 2981 2984	NBC
+#54	ACE T54	entityID: NYT20001101.2212.0429-E36; extent: NBC
+T55	ACE-Mention 2998 3008	Washington
+#55	ACE T55	entityID: NYT20001101.2212.0429-E37; extent: Washington
+T56	ACE-Mention 3015 3029	John Schreiber
+#56	ACE T56	entityID: NYT20001101.2212.0429-E38; extent: John Schreiber
+T57	ACE-Mention 3032 3184	an assistant portfolio manager at Janus Capital , the mutual fund company that is Time Warner 's largest shareholder , with more than 120 million shares
+#57	ACE T57	entityID: NYT20001101.2212.0429-E38; extent: an assistant portfolio manager at Janus Capital , the mutual fund company that is Time Warner 's largest shareholder , with more than 120 million shares
+T58	ACE-Mention 3192 3205	the companies
+#58	ACE T58	entityID: NYT20001101.2212.0429-E18; extent: the companies
+T59	ACE-Mention 3243 3247	they
+#59	ACE T59	entityID: NYT20001101.2212.0429-E18; extent: they
+T60	ACE-Mention 3285 3288	AOL
+#60	ACE T60	entityID: NYT20001101.2212.0429-E24; extent: AOL
+T61	ACE-Mention 3301 3312	Time Warner
+#61	ACE T61	entityID: NYT20001101.2212.0429-E54; extent: Time Warner
+T62	ACE-Mention 3329 3338	its users
+#62	ACE T62	entityID: NYT20001101.2212.0429-E43; extent: its users
+T63	ACE-Mention 3404 3417	the companies
+#63	ACE T63	entityID: NYT20001101.2212.0429-E18; extent: the companies
+T64	ACE-Mention 3437 3452	big advertisers
+#64	ACE T64	entityID: NYT20001101.2212.0429-E44; extent: big advertisers
+T65	ACE-Mention 3483 3503	America Online users
+#65	ACE T65	entityID: NYT20001101.2212.0429-E43; extent: America Online users
+T66	ACE-Mention 3508 3578	the people who watch Time Warner cable channels and read its magazines
+#66	ACE T66	entityID: NYT20001101.2212.0429-E45; extent: the people who watch Time Warner cable channels and read its magazines
+T67	ACE-Mention 3581 3590	Schreiber
+#67	ACE T67	entityID: NYT20001101.2212.0429-E38; extent: Schreiber
+T68	ACE-Mention 3627 3628	I
+#68	ACE T68	entityID: NYT20001101.2212.0429-E38; extent: I
+T69	ACE-Mention 3635 3638	you
+#69	ACE T69	entityID: NYT20001101.2212.0429-E46; extent: you
+T70	ACE-Mention 3697 3730	all of Time Warner 's advertisers
+#70	ACE T70	entityID: NYT20001101.2212.0429-E47; extent: all of Time Warner 's advertisers
+T71	ACE-Mention 3736 3738	he
+#71	ACE T71	entityID: NYT20001101.2212.0429-E38; extent: he
+T72	ACE-Mention 3747 3756	Schreiber
+#72	ACE T72	entityID: NYT20001101.2212.0429-E38; extent: Schreiber
+T73	ACE-Mention 3804 3817	the companies
+#73	ACE T73	entityID: NYT20001101.2212.0429-E18; extent: the companies
+T74	ACE-Mention 3839 3852	the companies
+#74	ACE T74	entityID: NYT20001101.2212.0429-E18; extent: the companies
+T75	ACE-Mention 3878 3892	top executives
+#75	ACE T75	entityID: NYT20001101.2212.0429-E48; extent: top executives
+T76	ACE-Mention 3908 3928	the combined company
+#76	ACE T76	entityID: NYT20001101.2212.0429-E8; extent: the combined company
+T77	ACE-Mention 3983 4042	people who feel their responsibilities have been diminished
+#77	ACE T77	entityID: NYT20001101.2212.0429-E49; extent: people who feel their responsibilities have been diminished
+T78	ACE-Mention 4086 4090	some
+#78	ACE T78	entityID: NYT20001101.2212.0429-E50; extent: some
+T79	ACE-Mention 4111 4113	he
+#79	ACE T79	entityID: NYT20001101.2212.0429-E38; extent: he
+T80	ACE-Mention 4141 4143	he
+#80	ACE T80	entityID: NYT20001101.2212.0429-E38; extent: he
+T81	ACE-Mention 4152 4172	the combined company
+#81	ACE T81	entityID: NYT20001101.2212.0429-E8; extent: the combined company
+T82	ACE-Mention 4175 4184	Schreiber
+#82	ACE T82	entityID: NYT20001101.2212.0429-E38; extent: Schreiber
+T83	ACE-Mention 4214 4219	Levin
+#83	ACE T83	entityID: NYT20001101.2212.0429-E59; extent: Levin
+T84	ACE-Mention 4261 4275	America Online
+#84	ACE T84	entityID: NYT20001101.2212.0429-E24; extent: America Online
+T85	ACE-Mention 4297 4325	cable companies like Comcast
+#85	ACE T85	entityID: NYT20001101.2212.0429-E51; extent: cable companies like Comcast
+T86	ACE-Mention 4375 4394	big media companies
+#86	ACE T86	entityID: NYT20001101.2212.0429-E53; extent: big media companies
+T87	ACE-Mention 4450 4474	Time Warner shareholders
+#87	ACE T87	entityID: NYT20001101.2212.0429-E55; extent: Time Warner shareholders
+T88	ACE-Mention 4520 4529	Schreiber
+#88	ACE T88	entityID: NYT20001101.2212.0429-E38; extent: Schreiber

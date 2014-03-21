@@ -1,0 +1,136 @@
+T0	ACE-Mention 115 121	LONDON
+#0	ACE T0	entityID: APW20001106.1252.0310-E14; extent: LONDON
+T1	ACE-Mention 122 126	(AP)
+#1	ACE T1	entityID: APW20001106.1252.0310-E27; extent: (AP)
+T2	ACE-Mention 129 148	British Airways PLC
+#2	ACE T2	entityID: APW20001106.1252.0310-E17; extent: British Airways PLC
+T3	ACE-Mention 163 165	Go
+#3	ACE T3	entityID: APW20001106.1252.0310-E29; extent: Go
+T4	ACE-Mention 168 226	its profitable cut-price subsidiary launched two years ago
+#4	ACE T4	entityID: APW20001106.1252.0310-E29; extent: its profitable cut-price subsidiary launched two years ago
+T5	ACE-Mention 229 240	the company
+#5	ACE T5	entityID: APW20001106.1252.0310-E17; extent: the company
+T6	ACE-Mention 256 258	BA
+#6	ACE T6	entityID: APW20001106.1252.0310-E17; extent: BA
+T7	ACE-Mention 281 283	it
+#7	ACE T7	entityID: APW20001106.1252.0310-E17; extent: it
+T8	ACE-Mention 315 318	its
+#8	ACE T8	entityID: APW20001106.1252.0310-E17; extent: its
+T9	ACE-Mention 379 413	Britain 's unofficial flag carrier
+#9	ACE T9	entityID: APW20001106.1252.0310-E17; extent: Britain 's unofficial flag carrier
+T10	ACE-Mention 478 502	everyone who works at Go
+#10	ACE T10	entityID: APW20001106.1252.0310-E32; extent: everyone who works at Go
+T11	ACE-Mention 505 507	it
+#11	ACE T11	entityID: APW20001106.1252.0310-E29; extent: it
+T12	ACE-Mention 515 539	a leading European brand
+#12	ACE T12	entityID: APW20001106.1252.0310-E29; extent: a leading European brand
+T13	ACE-Mention 550 563	Rod Eddington
+#13	ACE T13	entityID: APW20001106.1252.0310-E35; extent: Rod Eddington
+T14	ACE-Mention 566 618	British Airways ' recently appointed chief executive
+#14	ACE T14	entityID: APW20001106.1252.0310-E35; extent: British Airways ' recently appointed chief executive
+T15	ACE-Mention 625 627	It
+#15	ACE T15	entityID: APW20001106.1252.0310-E17; extent: It
+T16	ACE-Mention 707 709	we
+#16	ACE T16	entityID: APW20001106.1252.0310-E1; extent: we
+T17	ACE-Mention 723 743	the group as a whole
+#17	ACE T17	entityID: APW20001106.1252.0310-E17; extent: the group as a whole
+T18	ACE-Mention 766 781	British Airways
+#18	ACE T18	entityID: APW20001106.1252.0310-E17; extent: British Airways
+T19	ACE-Mention 806 809	its
+#19	ACE T19	entityID: APW20001106.1252.0310-E17; extent: its
+T20	ACE-Mention 867 869	Go
+#20	ACE T20	entityID: APW20001106.1252.0310-E29; extent: Go
+T21	ACE-Mention 876 878	Go
+#21	ACE T21	entityID: APW20001106.1252.0310-E29; extent: Go
+T22	ACE-Mention 891 929	Stansted airport , northeast of London
+#22	ACE T22	entityID: APW20001106.1252.0310-E2; extent: Stansted airport , northeast of London
+T23	ACE-Mention 932 987	a major base for low-fare carriers operating in Britain
+#23	ACE T23	entityID: APW20001106.1252.0310-E2; extent: a major base for low-fare carriers operating in Britain
+T24	ACE-Mention 991 993	BA
+#24	ACE T24	entityID: APW20001106.1252.0310-E17; extent: BA
+T25	ACE-Mention 1001 1003	Go
+#25	ACE T25	entityID: APW20001106.1252.0310-E29; extent: Go
+T26	ACE-Mention 1009 1023	smaller rivals
+#26	ACE T26	entityID: APW20001106.1252.0310-E5; extent: smaller rivals
+T27	ACE-Mention 1047 1050	its
+#27	ACE T27	entityID: APW20001106.1252.0310-E17; extent: its
+T28	ACE-Mention 1099 1113	much of Europe
+#28	ACE T28	entityID: APW20001106.1252.0310-E6; extent: much of Europe
+T29	ACE-Mention 1117 1136	One such competitor
+#29	ACE T29	entityID: APW20001106.1252.0310-E8; extent: One such competitor
+T30	ACE-Mention 1139 1146	easyJet
+#30	ACE T30	entityID: APW20001106.1252.0310-E8; extent: easyJet
+T31	ACE-Mention 1166 1168	BA
+#31	ACE T31	entityID: APW20001106.1252.0310-E17; extent: BA
+T32	ACE-Mention 1193 1195	Go
+#32	ACE T32	entityID: APW20001106.1252.0310-E29; extent: Go
+T33	ACE-Mention 1199 1201	BA
+#33	ACE T33	entityID: APW20001106.1252.0310-E17; extent: BA
+T34	ACE-Mention 1263 1265	Go
+#34	ACE T34	entityID: APW20001106.1252.0310-E29; extent: Go
+T35	ACE-Mention 1286 1301	British Airways
+#35	ACE T35	entityID: APW20001106.1252.0310-E17; extent: British Airways
+T36	ACE-Mention 1451 1454	Its
+#36	ACE T36	entityID: APW20001106.1252.0310-E17; extent: Its
+T37	ACE-Mention 1603 1605	BA
+#37	ACE T37	entityID: APW20001106.1252.0310-E17; extent: BA
+T38	ACE-Mention 1643 1683	more business and first-class passengers
+#38	ACE T38	entityID: APW20001106.1252.0310-E10; extent: more business and first-class passengers
+T39	ACE-Mention 1710 1712	BA
+#39	ACE T39	entityID: APW20001106.1252.0310-E17; extent: BA
+T40	ACE-Mention 1718 1721	its
+#40	ACE T40	entityID: APW20001106.1252.0310-E17; extent: its
+T41	ACE-Mention 1732 1750	premium passengers
+#41	ACE T41	entityID: APW20001106.1252.0310-E10; extent: premium passengers
+T42	ACE-Mention 1914 1916	We
+#42	ACE T42	entityID: APW20001106.1252.0310-E17; extent: We
+T43	ACE-Mention 2002 2011	Eddington
+#43	ACE T43	entityID: APW20001106.1252.0310-E35; extent: Eddington
+T44	ACE-Mention 2084 2104	each of our aircraft
+#44	ACE T44	entityID: APW20001106.1252.0310-E11; extent: each of our aircraft
+T45	ACE-Mention 2115 2126	shareholder
+#45	ACE T45	entityID: APW20001106.1252.0310-E13; extent: shareholder
+T46	ACE-Mention 2139 2150	The airline
+#46	ACE T46	entityID: APW20001106.1252.0310-E17; extent: The airline
+T47	ACE-Mention 2156 2158	it
+#47	ACE T47	entityID: APW20001106.1252.0310-E17; extent: it
+T48	ACE-Mention 2238 2240	We
+#48	ACE T48	entityID: APW20001106.1252.0310-E17; extent: We
+T49	ACE-Mention 2246 2313	a number of different businesses operating separately within Europe
+#49	ACE T49	entityID: APW20001106.1252.0310-E15; extent: a number of different businesses operating separately within Europe
+T50	ACE-Mention 2317 2319	We
+#50	ACE T50	entityID: APW20001106.1252.0310-E17; extent: We
+T51	ACE-Mention 2348 2350	we
+#51	ACE T51	entityID: APW20001106.1252.0310-E17; extent: we
+T52	ACE-Mention 2388 2393	their
+#52	ACE T52	entityID: APW20001106.1252.0310-E15; extent: their
+T53	ACE-Mention 2433 2450	the group overall
+#53	ACE T53	entityID: APW20001106.1252.0310-E17; extent: the group overall
+T54	ACE-Mention 2456 2465	Eddington
+#54	ACE T54	entityID: APW20001106.1252.0310-E35; extent: Eddington
+T55	ACE-Mention 2474 2481	Company
+#55	ACE T55	entityID: APW20001106.1252.0310-E17; extent: Company
+T56	ACE-Mention 2556 2581	the London Stock Exchange
+#56	ACE T56	entityID: APW20001106.1252.0310-E16; extent: the London Stock Exchange
+T57	ACE-Mention 2585 2587	BA
+#57	ACE T57	entityID: APW20001106.1252.0310-E17; extent: BA
+T58	ACE-Mention 2590 2655	the world 's fourth-biggest airline in terms of passenger traffic
+#58	ACE T58	entityID: APW20001106.1252.0310-E17; extent: the world 's fourth-biggest airline in terms of passenger traffic
+T59	ACE-Mention 2680 2683	its
+#59	ACE T59	entityID: APW20001106.1252.0310-E17; extent: its
+T60	ACE-Mention 2707 2709	It
+#60	ACE T60	entityID: APW20001106.1252.0310-E17; extent: It
+T61	ACE-Mention 2832 2843	the airline
+#61	ACE T61	entityID: APW20001106.1252.0310-E17; extent: the airline
+T62	ACE-Mention 2859 2881	the British government
+#62	ACE T62	entityID: APW20001106.1252.0310-E20; extent: the British government
+T63	ACE-Mention 2893 2895	it
+#63	ACE T63	entityID: APW20001106.1252.0310-E17; extent: it
+T64	ACE-Mention 2948 2951	its
+#64	ACE T64	entityID: APW20001106.1252.0310-E17; extent: its
+T65	ACE-Mention 2957 2971	trans-Atlantic
+#65	ACE T65	entityID: APW20001106.1252.0310-E21; extent: trans-Atlantic
+T66	ACE-Mention 2986 3019	former chief executive Bob Ayling
+#66	ACE T66	entityID: APW20001106.1252.0310-E22; extent: former chief executive Bob Ayling
+T67	ACE-Mention 3110 3134	KLM Royal Dutch Airlines
+#67	ACE T67	entityID: APW20001106.1252.0310-E24; extent: KLM Royal Dutch Airlines

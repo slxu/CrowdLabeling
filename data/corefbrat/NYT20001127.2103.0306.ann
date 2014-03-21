@@ -1,0 +1,290 @@
+T0	ACE-Mention 337 347	WASHINGTON
+#0	ACE T0	entityID: NYT20001127.2103.0306-E20; extent: WASHINGTON
+T1	ACE-Mention 358 376	Andrew H. Card Jr.
+#1	ACE T1	entityID: NYT20001127.2103.0306-E18; extent: Andrew H. Card Jr.
+T2	ACE-Mention 403 405	he
+#2	ACE T2	entityID: NYT20001127.2103.0306-E18; extent: he
+T3	ACE-Mention 423 437	George W. Bush
+#3	ACE T3	entityID: NYT20001127.2103.0306-E3; extent: George W. Bush
+T4	ACE-Mention 441 462	Kennebunkport , Maine
+#4	ACE T4	entityID: NYT20001127.2103.0306-E28; extent: Kennebunkport , Maine
+T5	ACE-Mention 475 491	the younger Bush
+#5	ACE T5	entityID: NYT20001127.2103.0306-E3; extent: the younger Bush
+T6	ACE-Mention 543 641	a defeated politician who had failed in his bid the year before to become a congressman from Texas
+#6	ACE T6	entityID: NYT20001127.2103.0306-E3; extent: a defeated politician who had failed in his bid the year before to become a congressman from Texas
+T7	ACE-Mention 649 653	Card
+#7	ACE T7	entityID: NYT20001127.2103.0306-E18; extent: Card
+T8	ACE-Mention 656 779	a Republican state legislator from Massachusetts helping the elder George Bush seek the Republican nomination for president
+#8	ACE T8	entityID: NYT20001127.2103.0306-E18; extent: a Republican state legislator from Massachusetts helping the elder George Bush seek the Republican nomination for president
+T9	ACE-Mention 829 831	he
+#9	ACE T9	entityID: NYT20001127.2103.0306-E18; extent: he
+T10	ACE-Mention 843 859	patrician father
+#10	ACE T10	entityID: NYT20001127.2103.0306-E2; extent: patrician father
+T11	ACE-Mention 864 876	plebeian son
+#11	ACE T11	entityID: NYT20001127.2103.0306-E3; extent: plebeian son
+T12	ACE-Mention 883 884	I
+#12	ACE T12	entityID: NYT20001127.2103.0306-E18; extent: I
+T13	ACE-Mention 901 908	a Yalie
+#13	ACE T13	entityID: NYT20001127.2103.0306-E5; extent: a Yalie
+T14	ACE-Mention 918 919	I
+#14	ACE T14	entityID: NYT20001127.2103.0306-E18; extent: I
+T15	ACE-Mention 928 938	West Texas
+#15	ACE T15	entityID: NYT20001127.2103.0306-E6; extent: West Texas
+T16	ACE-Mention 944 948	Card
+#16	ACE T16	entityID: NYT20001127.2103.0306-E18; extent: Card
+T17	ACE-Mention 1008 1026	the younger George
+#17	ACE T17	entityID: NYT20001127.2103.0306-E3; extent: the younger George
+T18	ACE-Mention 1033 1035	He
+#18	ACE T18	entityID: NYT20001127.2103.0306-E3; extent: He
+T19	ACE-Mention 1128 1131	his
+#19	ACE T19	entityID: NYT20001127.2103.0306-E3; extent: his
+T20	ACE-Mention 1155 1159	Card
+#20	ACE T20	entityID: NYT20001127.2103.0306-E18; extent: Card
+T21	ACE-Mention 1188 1190	He
+#21	ACE T21	entityID: NYT20001127.2103.0306-E3; extent: He
+T22	ACE-Mention 1226 1227	I
+#22	ACE T22	entityID: NYT20001127.2103.0306-E18; extent: I
+T23	ACE-Mention 1234 1237	him
+#23	ACE T23	entityID: NYT20001127.2103.0306-E3; extent: him
+T24	ACE-Mention 1264 1266	he
+#24	ACE T24	entityID: NYT20001127.2103.0306-E3; extent: he
+T25	ACE-Mention 1271 1294	a regular , real person
+#25	ACE T25	entityID: NYT20001127.2103.0306-E3; extent: a regular , real person
+T26	ACE-Mention 1305 1314	Card , 53
+#26	ACE T26	entityID: NYT20001127.2103.0306-E18; extent: Card , 53
+T27	ACE-Mention 1320 1365	the younger Bush 's chief-of-staff-in-waiting
+#27	ACE T27	entityID: NYT20001127.2103.0306-E18; extent: the younger Bush 's chief-of-staff-in-waiting
+T28	ACE-Mention 1388 1421	a crucial office in the West Wing
+#28	ACE T28	entityID: NYT20001127.2103.0306-E10; extent: a crucial office in the West Wing
+T29	ACE-Mention 1429 1433	Bush
+#29	ACE T29	entityID: NYT20001127.2103.0306-E3; extent: Bush
+T30	ACE-Mention 1450 1459	president
+#30	ACE T30	entityID: NYT20001127.2103.0306-E1; extent: president
+T31	ACE-Mention 1463 1510	People who have worked with Card over the years
+#31	ACE T31	entityID: NYT20001127.2103.0306-E11; extent: People who have worked with Card over the years
+T32	ACE-Mention 1520 1522	he
+#32	ACE T32	entityID: NYT20001127.2103.0306-E18; extent: he
+T33	ACE-Mention 1563 1573	the Bushes
+#33	ACE T33	entityID: NYT20001127.2103.0306-E12; extent: the Bushes
+T34	ACE-Mention 1669 1671	He
+#34	ACE T34	entityID: NYT20001127.2103.0306-E18; extent: He
+T35	ACE-Mention 1679 1702	a sparkling personality
+#35	ACE T35	entityID: NYT20001127.2103.0306-E13; extent: a sparkling personality
+T36	ACE-Mention 1713 1728	Brent Scowcroft
+#36	ACE T36	entityID: NYT20001127.2103.0306-E14; extent: Brent Scowcroft
+T37	ACE-Mention 1731 1787	the national security adviser in the Bush administration
+#37	ACE T37	entityID: NYT20001127.2103.0306-E14; extent: the national security adviser in the Bush administration
+T38	ACE-Mention 1794 1796	He
+#38	ACE T38	entityID: NYT20001127.2103.0306-E18; extent: He
+T39	ACE-Mention 1800 1835	a very quiet , down-to-earth person
+#39	ACE T39	entityID: NYT20001127.2103.0306-E18; extent: a very quiet , down-to-earth person
+T40	ACE-Mention 1839 1841	He
+#40	ACE T40	entityID: NYT20001127.2103.0306-E18; extent: He
+T41	ACE-Mention 1845 1856	a workhorse
+#41	ACE T41	entityID: NYT20001127.2103.0306-E18; extent: a workhorse
+T42	ACE-Mention 1863 1873	a show dog
+#42	ACE T42	entityID: NYT20001127.2103.0306-E19; extent: a show dog
+T43	ACE-Mention 1902 1906	Bush
+#43	ACE T43	entityID: NYT20001127.2103.0306-E3; extent: Bush
+T44	ACE-Mention 1921 1979	a Washington outsider independent of his father 's strings
+#44	ACE T44	entityID: NYT20001127.2103.0306-E3; extent: a Washington outsider independent of his father 's strings
+T45	ACE-Mention 1982 1986	Card
+#45	ACE T45	entityID: NYT20001127.2103.0306-E18; extent: Card
+T46	ACE-Mention 1990 2010	a Washington insider
+#46	ACE T46	entityID: NYT20001127.2103.0306-E18; extent: a Washington insider
+T47	ACE-Mention 2013 2216	a corporate lobbyist for the automobile industry and General Motors who served in both the Reagan and Bush administrations and enjoys the ultimate trust not only of Bush but also of his father and mother
+#47	ACE T47	entityID: NYT20001127.2103.0306-E18; extent: a corporate lobbyist for the automobile industry and General Motors who served in both the Reagan and Bush administrations and enjoys the ultimate trust not only of Bush but also of his father and mother
+T48	ACE-Mention 2223 2224	I
+#48	ACE T48	entityID: NYT20001127.2103.0306-E18; extent: I
+T49	ACE-Mention 2251 2262	his parents
+#49	ACE T49	entityID: NYT20001127.2103.0306-E26; extent: his parents
+T50	ACE-Mention 2268 2272	Card
+#50	ACE T50	entityID: NYT20001127.2103.0306-E18; extent: Card
+T51	ACE-Mention 2301 2305	They
+#51	ACE T51	entityID: NYT20001127.2103.0306-E26; extent: They
+T52	ACE-Mention 2324 2326	me
+#52	ACE T52	entityID: NYT20001127.2103.0306-E18; extent: me
+T53	ACE-Mention 2330 2331	I
+#53	ACE T53	entityID: NYT20001127.2103.0306-E18; extent: I
+T54	ACE-Mention 2368 2372	them
+#54	ACE T54	entityID: NYT20001127.2103.0306-E26; extent: them
+T55	ACE-Mention 2376 2380	They
+#55	ACE T55	entityID: NYT20001127.2103.0306-E26; extent: They
+T56	ACE-Mention 2401 2408	my wife
+#56	ACE T56	entityID: NYT20001127.2103.0306-E29; extent: my wife
+T57	ACE-Mention 2426 2427	I
+#57	ACE T57	entityID: NYT20001127.2103.0306-E18; extent: I
+T58	ACE-Mention 2453 2460	my kids
+#58	ACE T58	entityID: NYT20001127.2103.0306-E30; extent: my kids
+T59	ACE-Mention 2468 2470	my
+#59	ACE T59	entityID: NYT20001127.2103.0306-E18; extent: my
+T60	ACE-Mention 2483 2496	Governor Bush
+#60	ACE T60	entityID: NYT20001127.2103.0306-E3; extent: Governor Bush
+T61	ACE-Mention 2515 2517	my
+#61	ACE T61	entityID: NYT20001127.2103.0306-E18; extent: my
+T62	ACE-Mention 2527 2538	his parents
+#62	ACE T62	entityID: NYT20001127.2103.0306-E26; extent: his parents
+T63	ACE-Mention 2553 2569	Holbrook , Mass.
+#63	ACE T63	entityID: NYT20001127.2103.0306-E8; extent: Holbrook , Mass.
+T64	ACE-Mention 2591 2595	Card
+#64	ACE T64	entityID: NYT20001127.2103.0306-E18; extent: Card
+T65	ACE-Mention 2611 2643	the University of South Carolina
+#65	ACE T65	entityID: NYT20001127.2103.0306-E31; extent: the University of South Carolina
+T66	ACE-Mention 2676 2696	His wife of 33 years
+#66	ACE T66	entityID: NYT20001127.2103.0306-E29; extent: His wife of 33 years
+T67	ACE-Mention 2699 2725	the former Kathleene Bryan
+#67	ACE T67	entityID: NYT20001127.2103.0306-E29; extent: the former Kathleene Bryan
+T68	ACE-Mention 2728 2732	whom
+#68	ACE T68	entityID: NYT20001127.2103.0306-E29; extent: whom
+T69	ACE-Mention 2733 2735	he
+#69	ACE T69	entityID: NYT20001127.2103.0306-E18; extent: he
+T70	ACE-Mention 2777 2797	a Methodist minister
+#70	ACE T70	entityID: NYT20001127.2103.0306-E29; extent: a Methodist minister
+T71	ACE-Mention 2815 2819	They
+#71	ACE T71	entityID: NYT20001127.2103.0306-E35; extent: They
+T72	ACE-Mention 2825 2845	three grown children
+#72	ACE T72	entityID: NYT20001127.2103.0306-E30; extent: three grown children
+T73	ACE-Mention 2850 2868	four grandchildren
+#73	ACE T73	entityID: NYT20001127.2103.0306-E36; extent: four grandchildren
+T74	ACE-Mention 2872 2876	Card
+#74	ACE T74	entityID: NYT20001127.2103.0306-E18; extent: Card
+T75	ACE-Mention 2912 2914	he
+#75	ACE T75	entityID: NYT20001127.2103.0306-E18; extent: he
+T76	ACE-Mention 2922 2976	president of the class of 1965 at Holbrook High School
+#76	ACE T76	entityID: NYT20001127.2103.0306-E18; extent: president of the class of 1965 at Holbrook High School
+T77	ACE-Mention 3000 3021	the state legislature
+#77	ACE T77	entityID: NYT20001127.2103.0306-E39; extent: the state legislature
+T78	ACE-Mention 3024 3026	he
+#78	ACE T78	entityID: NYT20001127.2103.0306-E18; extent: he
+T79	ACE-Mention 3050 3058	governor
+#79	ACE T79	entityID: NYT20001127.2103.0306-E41; extent: governor
+T80	ACE-Mention 3075 3101	Vice President George Bush
+#80	ACE T80	entityID: NYT20001127.2103.0306-E2; extent: Vice President George Bush
+T81	ACE-Mention 3114 3117	him
+#81	ACE T81	entityID: NYT20001127.2103.0306-E18; extent: him
+T82	ACE-Mention 3156 3178	the Reagan White House
+#82	ACE T82	entityID: NYT20001127.2103.0306-E42; extent: the Reagan White House
+T83	ACE-Mention 3190 3226	liaison with elected state officials
+#83	ACE T83	entityID: NYT20001127.2103.0306-E18; extent: liaison with elected state officials
+T84	ACE-Mention 3229 3276	former Reagan and Bush administration officials
+#84	ACE T84	entityID: NYT20001127.2103.0306-E45; extent: former Reagan and Bush administration officials
+T85	ACE-Mention 3285 3287	He
+#85	ACE T85	entityID: NYT20001127.2103.0306-E18; extent: He
+T86	ACE-Mention 3311 3329	the administration
+#86	ACE T86	entityID: NYT20001127.2103.0306-E42; extent: the administration
+T87	ACE-Mention 3336 3355	Vice President Bush
+#87	ACE T87	entityID: NYT20001127.2103.0306-E2; extent: Vice President Bush
+T88	ACE-Mention 3403 3405	he
+#88	ACE T88	entityID: NYT20001127.2103.0306-E2; extent: he
+T89	ACE-Mention 3429 3438	Andy Card
+#89	ACE T89	entityID: NYT20001127.2103.0306-E18; extent: Andy Card
+T90	ACE-Mention 3453 3469	Chase Untermeyer
+#90	ACE T90	entityID: NYT20001127.2103.0306-E74; extent: Chase Untermeyer
+T91	ACE-Mention 3472 3514	personnel director in the Bush White House
+#91	ACE T91	entityID: NYT20001127.2103.0306-E74; extent: personnel director in the Bush White House
+T92	ACE-Mention 3535 3615	the elder Bush 's campaign manager for the crucial New Hampshire primary in 1988
+#92	ACE T92	entityID: NYT20001127.2103.0306-E18; extent: the elder Bush 's campaign manager for the crucial New Hampshire primary in 1988
+T93	ACE-Mention 3618 3622	Card
+#93	ACE T93	entityID: NYT20001127.2103.0306-E18; extent: Card
+T94	ACE-Mention 3652 3700	deputy chief-of-staff in the Bush administration
+#94	ACE T94	entityID: NYT20001127.2103.0306-E18; extent: deputy chief-of-staff in the Bush administration
+T95	ACE-Mention 3722 3749	secretary of transportation
+#95	ACE T95	entityID: NYT20001127.2103.0306-E18; extent: secretary of transportation
+T96	ACE-Mention 3753 3756	its
+#96	ACE T96	entityID: NYT20001127.2103.0306-E47; extent: its
+T97	ACE-Mention 3795 3802	Florida
+#97	ACE T97	entityID: NYT20001127.2103.0306-E49; extent: Florida
+T98	ACE-Mention 3815 3819	Card
+#98	ACE T98	entityID: NYT20001127.2103.0306-E18; extent: Card
+T99	ACE-Mention 3829 3884	President Bush 's personal emissary for disaster relief
+#99	ACE T99	entityID: NYT20001127.2103.0306-E18; extent: President Bush 's personal emissary for disaster relief
+T100	ACE-Mention 3900 3905	there
+#100	ACE T100	entityID: NYT20001127.2103.0306-E49; extent: there
+T101	ACE-Mention 3944 3962	the administration
+#101	ACE T101	entityID: NYT20001127.2103.0306-E47; extent: the administration
+T102	ACE-Mention 3995 3997	He
+#102	ACE T102	entityID: NYT20001127.2103.0306-E18; extent: He
+T103	ACE-Mention 4002 4057	one of the last people to leave the Bush administration
+#103	ACE T103	entityID: NYT20001127.2103.0306-E18; extent: one of the last people to leave the Bush administration
+T104	ACE-Mention 4093 4119	the Clinton administration
+#104	ACE T104	entityID: NYT20001127.2103.0306-E51; extent: the Clinton administration
+T105	ACE-Mention 4147 4178	the `` out-transition office ''
+#105	ACE T105	entityID: NYT20001127.2103.0306-E53; extent: the `` out-transition office ''
+T106	ACE-Mention 4200 4204	Bush
+#106	ACE T106	entityID: NYT20001127.2103.0306-E2; extent: Bush
+T107	ACE-Mention 4272 4293	the former first lady
+#107	ACE T107	entityID: NYT20001127.2103.0306-E54; extent: the former first lady
+T108	ACE-Mention 4306 4310	Card
+#108	ACE T108	entityID: NYT20001127.2103.0306-E18; extent: Card
+T109	ACE-Mention 4314 4360	a man who repeatedly `` had come to our rescue
+#109	ACE T109	entityID: NYT20001127.2103.0306-E18; extent: a man who repeatedly `` had come to our rescue
+T110	ACE-Mention 4367 4371	Card
+#110	ACE T110	entityID: NYT20001127.2103.0306-E18; extent: Card
+T111	ACE-Mention 4385 4395	Washington
+#111	ACE T111	entityID: NYT20001127.2103.0306-E20; extent: Washington
+T112	ACE-Mention 4406 4413	himself
+#112	ACE T112	entityID: NYT20001127.2103.0306-E18; extent: himself
+T113	ACE-Mention 4419 4463	the top lobbyist for the automotive industry
+#113	ACE T113	entityID: NYT20001127.2103.0306-E18; extent: the top lobbyist for the automotive industry
+T114	ACE-Mention 4477 4479	he
+#114	ACE T114	entityID: NYT20001127.2103.0306-E18; extent: he
+T115	ACE-Mention 4487 4496	president
+#115	ACE T115	entityID: NYT20001127.2103.0306-E18; extent: president
+T116	ACE-Mention 4501 4516	chief executive
+#116	ACE T116	entityID: NYT20001127.2103.0306-E18; extent: chief executive
+T117	ACE-Mention 4520 4801	the American Automobile Manufacturers Association , where he oversaw the lobbying against tighter fuel-economy and air pollution regulations for automobiles and in coming up with technical arguments for why industrializing nations should proceed slowly in addressing global warming
+#117	ACE T117	entityID: NYT20001127.2103.0306-E57; extent: the American Automobile Manufacturers Association , where he oversaw the lobbying against tighter fuel-economy and air pollution regulations for automobiles and in coming up with technical arguments for why industrializing nations should proceed slowly in addressing global warming
+T118	ACE-Mention 4810 4827	that organization
+#118	ACE T118	entityID: NYT20001127.2103.0306-E57; extent: that organization
+T119	ACE-Mention 4852 4854	he
+#119	ACE T119	entityID: NYT20001127.2103.0306-E18; extent: he
+T120	ACE-Mention 4862 4907	GM 's vice president for government relations
+#120	ACE T120	entityID: NYT20001127.2103.0306-E18; extent: GM 's vice president for government relations
+T121	ACE-Mention 4911 4921	Washington
+#121	ACE T121	entityID: NYT20001127.2103.0306-E20; extent: Washington
+T122	ACE-Mention 4925 4929	Card
+#122	ACE T122	entityID: NYT20001127.2103.0306-E18; extent: Card
+T123	ACE-Mention 4937 4944	himself
+#123	ACE T123	entityID: NYT20001127.2103.0306-E18; extent: himself
+T124	ACE-Mention 4948 4951	his
+#124	ACE T124	entityID: NYT20001127.2103.0306-E18; extent: his
+T125	ACE-Mention 4969 4971	he
+#125	ACE T125	entityID: NYT20001127.2103.0306-E18; extent: he
+T126	ACE-Mention 5041 5053	Philadelphia
+#126	ACE T126	entityID: NYT20001127.2103.0306-E62; extent: Philadelphia
+T127	ACE-Mention 5064 5066	he
+#127	ACE T127	entityID: NYT20001127.2103.0306-E18; extent: he
+T128	ACE-Mention 5082 5083	I
+#128	ACE T128	entityID: NYT20001127.2103.0306-E18; extent: I
+T129	ACE-Mention 5094 5098	they
+#129	ACE T129	entityID: NYT20001127.2103.0306-E63; extent: they
+T130	ACE-Mention 5123 5128	their
+#130	ACE T130	entityID: NYT20001127.2103.0306-E63; extent: their
+T131	ACE-Mention 5144 5148	them
+#131	ACE T131	entityID: NYT20001127.2103.0306-E63; extent: them
+T132	ACE-Mention 5214 5216	he
+#132	ACE T132	entityID: NYT20001127.2103.0306-E18; extent: he
+T133	ACE-Mention 5222 5288	an interviewer from The Patriot Ledger newspaper in Quincy , Mass.
+#133	ACE T133	entityID: NYT20001127.2103.0306-E64; extent: an interviewer from The Patriot Ledger newspaper in Quincy , Mass.
+T134	ACE-Mention 5289 5291	He
+#134	ACE T134	entityID: NYT20001127.2103.0306-E18; extent: He
+T135	ACE-Mention 5336 5338	he
+#135	ACE T135	entityID: NYT20001127.2103.0306-E18; extent: he
+T136	ACE-Mention 5354 5400	two other lieutenants from the Bush presidency
+#136	ACE T136	entityID: NYT20001127.2103.0306-E68; extent: two other lieutenants from the Bush presidency
+T137	ACE-Mention 5403 5439	former Defense Secretary Dick Cheney
+#137	ACE T137	entityID: NYT20001127.2103.0306-E69; extent: former Defense Secretary Dick Cheney
+T138	ACE-Mention 5444 5489	former Secretary of State James A. Baker III.
+#138	ACE T138	entityID: NYT20001127.2103.0306-E71; extent: former Secretary of State James A. Baker III.
+T139	ACE-Mention 5522 5547	chief-of-staff-in-waiting
+#139	ACE T139	entityID: NYT20001127.2103.0306-E73; extent: chief-of-staff-in-waiting
+T140	ACE-Mention 5550 5552	he
+#140	ACE T140	entityID: NYT20001127.2103.0306-E18; extent: he
+T141	ACE-Mention 5590 5591	I
+#141	ACE T141	entityID: NYT20001127.2103.0306-E18; extent: I
+T142	ACE-Mention 5631 5633	my
+#142	ACE T142	entityID: NYT20001127.2103.0306-E18; extent: my
+T143	ACE-Mention 5653 5654	I
+#143	ACE T143	entityID: NYT20001127.2103.0306-E18; extent: I
+T144	ACE-Mention 5692 5693	I
+#144	ACE T144	entityID: NYT20001127.2103.0306-E18; extent: I

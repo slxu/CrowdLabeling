@@ -1,0 +1,228 @@
+T0	ACE-Mention 293 298	their
+#0	ACE T0	entityID: NYT20001023.2203.0479-E25; extent: their
+T1	ACE-Mention 310 329	Gov. George W. Bush
+#1	ACE T1	entityID: NYT20001023.2203.0479-E7; extent: Gov. George W. Bush
+T2	ACE-Mention 351 390	national and local Democratic officials
+#2	ACE T2	entityID: NYT20001023.2203.0479-E25; extent: national and local Democratic officials
+T3	ACE-Mention 405 451	nearly 100 cities in 20 hotly contested states
+#3	ACE T3	entityID: NYT20001023.2203.0479-E97; extent: nearly 100 cities in 20 hotly contested states
+T4	ACE-Mention 497 501	Bush
+#4	ACE T4	entityID: NYT20001023.2203.0479-E7; extent: Bush
+T5	ACE-Mention 515 520	Texas
+#5	ACE T5	entityID: NYT20001023.2203.0479-E18; extent: Texas
+T6	ACE-Mention 551 558	schools
+#6	ACE T6	entityID: NYT20001023.2203.0479-E100; extent: schools
+T7	ACE-Mention 610 618	the poor
+#7	ACE T7	entityID: NYT20001023.2203.0479-E101; extent: the poor
+T8	ACE-Mention 653 659	Texans
+#8	ACE T8	entityID: NYT20001023.2203.0479-E18; extent: Texans
+T9	ACE-Mention 665 670	Their
+#9	ACE T9	entityID: NYT20001023.2203.0479-E18; extent: Their
+T10	ACE-Mention 726 739	the Democrats
+#10	ACE T10	entityID: NYT20001023.2203.0479-E96; extent: the Democrats
+T11	ACE-Mention 743 747	Bush
+#11	ACE T11	entityID: NYT20001023.2203.0479-E7; extent: Bush
+T12	ACE-Mention 781 790	the party
+#12	ACE T12	entityID: NYT20001023.2203.0479-E96; extent: the party
+T13	ACE-Mention 825 843	local news outlets
+#13	ACE T13	entityID: NYT20001023.2203.0479-E103; extent: local news outlets
+T14	ACE-Mention 878 884	voters
+#14	ACE T14	entityID: NYT20001023.2203.0479-E104; extent: voters
+T15	ACE-Mention 887 907	the Democratic Party
+#15	ACE T15	entityID: NYT20001023.2203.0479-E96; extent: the Democratic Party
+T16	ACE-Mention 945 1003	cities like Seattle , Des Moines , Iowa , and Tampa , Fla.
+#16	ACE T16	entityID: NYT20001023.2203.0479-E1; extent: cities like Seattle , Des Moines , Iowa , and Tampa , Fla.
+T17	ACE-Mention 1016 1028	the governor
+#17	ACE T17	entityID: NYT20001023.2203.0479-E7; extent: the governor
+T18	ACE-Mention 1091 1108	the Bush campaign
+#18	ACE T18	entityID: NYT20001023.2203.0479-E8; extent: the Bush campaign
+T19	ACE-Mention 1113 1133	the Republican Party
+#19	ACE T19	entityID: NYT20001023.2203.0479-E10; extent: the Republican Party
+T20	ACE-Mention 1192 1196	Bush
+#20	ACE T20	entityID: NYT20001023.2203.0479-E7; extent: Bush
+T21	ACE-Mention 1238 1255	many swing states
+#21	ACE T21	entityID: NYT20001023.2203.0479-E11; extent: many swing states
+T22	ACE-Mention 1273 1285	the governor
+#22	ACE T22	entityID: NYT20001023.2203.0479-E7; extent: the governor
+T23	ACE-Mention 1335 1337	he
+#23	ACE T23	entityID: NYT20001023.2203.0479-E7; extent: he
+T24	ACE-Mention 1375 1388	New Hampshire
+#24	ACE T24	entityID: NYT20001023.2203.0479-E12; extent: New Hampshire
+T25	ACE-Mention 1403 1410	Parents
+#25	ACE T25	entityID: NYT20001023.2203.0479-E13; extent: Parents
+T26	ACE-Mention 1430 1434	them
+#26	ACE T26	entityID: NYT20001023.2203.0479-E13; extent: them
+T27	ACE-Mention 1455 1469	their families
+#27	ACE T27	entityID: NYT20001023.2203.0479-E14; extent: their families
+T28	ACE-Mention 1475 1479	Bush
+#28	ACE T28	entityID: NYT20001023.2203.0479-E7; extent: Bush
+T29	ACE-Mention 1527 1529	he
+#29	ACE T29	entityID: NYT20001023.2203.0479-E7; extent: he
+T30	ACE-Mention 1612 1614	we
+#30	ACE T30	entityID: NYT20001023.2203.0479-E15; extent: we
+T31	ACE-Mention 1633 1641	no child
+#31	ACE T31	entityID: NYT20001023.2203.0479-E16; extent: no child
+T32	ACE-Mention 1662 1669	America
+#32	ACE T32	entityID: NYT20001023.2203.0479-E17; extent: America
+T33	ACE-Mention 1672 1674	we
+#33	ACE T33	entityID: NYT20001023.2203.0479-E15; extent: we
+T34	ACE-Mention 1722 1735	The Democrats
+#34	ACE T34	entityID: NYT20001023.2203.0479-E96; extent: The Democrats
+T35	ACE-Mention 1761 1765	Bush
+#35	ACE T35	entityID: NYT20001023.2203.0479-E7; extent: Bush
+T36	ACE-Mention 1769 1779	home-state
+#36	ACE T36	entityID: NYT20001023.2203.0479-E18; extent: home-state
+T37	ACE-Mention 1879 1954	sitting or former governors who secure their party nomination for president
+#37	ACE T37	entityID: NYT20001023.2203.0479-E19; extent: sitting or former governors who secure their party nomination for president
+T38	ACE-Mention 1981 1999	political analysts
+#38	ACE T38	entityID: NYT20001023.2203.0479-E21; extent: political analysts
+T39	ACE-Mention 2048 2079	then-Vice President George Bush
+#39	ACE T39	entityID: NYT20001023.2203.0479-E22; extent: then-Vice President George Bush
+T40	ACE-Mention 2100 2118	Michael S. Dukakis
+#40	ACE T40	entityID: NYT20001023.2203.0479-E24; extent: Michael S. Dukakis
+T41	ACE-Mention 2131 2144	Massachusetts
+#41	ACE T41	entityID: NYT20001023.2203.0479-E26; extent: Massachusetts
+T42	ACE-Mention 2161 2174	Boston Harbor
+#42	ACE T42	entityID: NYT20001023.2203.0479-E27; extent: Boston Harbor
+T43	ACE-Mention 2197 2202	state
+#43	ACE T43	entityID: NYT20001023.2203.0479-E26; extent: state
+T44	ACE-Mention 2203 2209	prison
+#44	ACE T44	entityID: NYT20001023.2203.0479-E29; extent: prison
+T45	ACE-Mention 2244 2254	a governor
+#45	ACE T45	entityID: NYT20001023.2203.0479-E30; extent: a governor
+T46	ACE-Mention 2262 2274	the opponent
+#46	ACE T46	entityID: NYT20001023.2203.0479-E31; extent: the opponent
+T47	ACE-Mention 2283 2286	his
+#47	ACE T47	entityID: NYT20001023.2203.0479-E30; extent: his
+T48	ACE-Mention 2336 2348	the governor
+#48	ACE T48	entityID: NYT20001023.2203.0479-E30; extent: the governor
+T49	ACE-Mention 2362 2374	Darrell West
+#49	ACE T49	entityID: NYT20001023.2203.0479-E32; extent: Darrell West
+T50	ACE-Mention 2377 2460	a political science professor at Brown University who analyzes campaign advertising
+#50	ACE T50	entityID: NYT20001023.2203.0479-E32; extent: a political science professor at Brown University who analyzes campaign advertising
+T51	ACE-Mention 2496 2508	Jimmy Carter
+#51	ACE T51	entityID: NYT20001023.2203.0479-E35; extent: Jimmy Carter
+T52	ACE-Mention 2511 2524	Ronald Reagan
+#52	ACE T52	entityID: NYT20001023.2203.0479-E36; extent: Ronald Reagan
+T53	ACE-Mention 2529 2541	Bill Clinton
+#53	ACE T53	entityID: NYT20001023.2203.0479-E37; extent: Bill Clinton
+T54	ACE-Mention 2575 2592	the Gore campaign
+#54	ACE T54	entityID: NYT20001023.2203.0479-E38; extent: the Gore campaign
+T55	ACE-Mention 2597 2611	its supporters
+#55	ACE T55	entityID: NYT20001023.2203.0479-E95; extent: its supporters
+T56	ACE-Mention 2614 2618	West
+#56	ACE T56	entityID: NYT20001023.2203.0479-E32; extent: West
+T57	ACE-Mention 2638 2651	the Democrats
+#57	ACE T57	entityID: NYT20001023.2203.0479-E96; extent: the Democrats
+T58	ACE-Mention 2755 2769	the challenger
+#58	ACE T58	entityID: NYT20001023.2203.0479-E40; extent: the challenger
+T59	ACE-Mention 2789 2802	the incumbent
+#59	ACE T59	entityID: NYT20001023.2203.0479-E41; extent: the incumbent
+T60	ACE-Mention 2829 2831	he
+#60	ACE T60	entityID: NYT20001023.2203.0479-E32; extent: he
+T61	ACE-Mention 2856 2859	you
+#61	ACE T61	entityID: NYT20001023.2203.0479-E42; extent: you
+T62	ACE-Mention 2865 2869	Gore
+#62	ACE T62	entityID: NYT20001023.2203.0479-E39; extent: Gore
+T63	ACE-Mention 2882 2892	challenger
+#63	ACE T63	entityID: NYT20001023.2203.0479-E44; extent: challenger
+T64	ACE-Mention 2907 2910	its
+#64	ACE T64	entityID: NYT20001023.2203.0479-E45; extent: its
+T65	ACE-Mention 2923 2956	the Democratic National Committee
+#65	ACE T65	entityID: NYT20001023.2203.0479-E45; extent: the Democratic National Committee
+T66	ACE-Mention 2968 3091	several Texans with complaints about what they say are the Bush administration 's neglectful attitudes about their problems
+#66	ACE T66	entityID: NYT20001023.2203.0479-E46; extent: several Texans with complaints about what they say are the Bush administration 's neglectful attitudes about their problems
+T67	ACE-Mention 3116 3197	the destitute hamlets , or colonias , that are home to some of the poorest Texans
+#67	ACE T67	entityID: NYT20001023.2203.0479-E48; extent: the destitute hamlets , or colonias , that are home to some of the poorest Texans
+T68	ACE-Mention 3204 3217	Governor Bush
+#68	ACE T68	entityID: NYT20001023.2203.0479-E7; extent: Governor Bush
+T69	ACE-Mention 3236 3245	a colonia
+#69	ACE T69	entityID: NYT20001023.2203.0479-E51; extent: a colonia
+T70	ACE-Mention 3314 3317	him
+#70	ACE T70	entityID: NYT20001023.2203.0479-E7; extent: him
+T71	ACE-Mention 3324 3343	the American public
+#71	ACE T71	entityID: NYT20001023.2203.0479-E17; extent: the American public
+T72	ACE-Mention 3356 3381	a former colonia resident
+#72	ACE T72	entityID: NYT20001023.2203.0479-E53; extent: a former colonia resident
+T73	ACE-Mention 3394 3411	The Bush campaign
+#73	ACE T73	entityID: NYT20001023.2203.0479-E8; extent: The Bush campaign
+T74	ACE-Mention 3475 3487	the governor
+#74	ACE T74	entityID: NYT20001023.2203.0479-E7; extent: the governor
+T75	ACE-Mention 3500 3508	colonias
+#75	ACE T75	entityID: NYT20001023.2203.0479-E55; extent: colonias
+T76	ACE-Mention 3607 3640	Some of the video 's interviewees
+#76	ACE T76	entityID: NYT20001023.2203.0479-E56; extent: Some of the video 's interviewees
+T77	ACE-Mention 3690 3705	Tamara Maschino
+#77	ACE T77	entityID: NYT20001023.2203.0479-E57; extent: Tamara Maschino
+T78	ACE-Mention 3722 3766	a resident of the Clear Lake area of Houston
+#78	ACE T78	entityID: NYT20001023.2203.0479-E57; extent: a resident of the Clear Lake area of Houston
+T79	ACE-Mention 3780 3784	Bush
+#79	ACE T79	entityID: NYT20001023.2203.0479-E7; extent: Bush
+T80	ACE-Mention 3789 3792	his
+#80	ACE T80	entityID: NYT20001023.2203.0479-E7; extent: his
+T81	ACE-Mention 3838 3867	chemical plants near her home
+#81	ACE T81	entityID: NYT20001023.2203.0479-E62; extent: chemical plants near her home
+T82	ACE-Mention 3874 3876	We
+#82	ACE T82	entityID: NYT20001023.2203.0479-E64; extent: We
+T83	ACE-Mention 3885 3908	Governor Bush 's office
+#83	ACE T83	entityID: NYT20001023.2203.0479-E65; extent: Governor Bush 's office
+T84	ACE-Mention 3924 3935	John Howard
+#84	ACE T84	entityID: NYT20001023.2203.0479-E66; extent: John Howard
+T85	ACE-Mention 3938 3964	his top environmental aide
+#85	ACE T85	entityID: NYT20001023.2203.0479-E66; extent: his top environmental aide
+T86	ACE-Mention 3970 3978	Maschino
+#86	ACE T86	entityID: NYT20001023.2203.0479-E57; extent: Maschino
+T87	ACE-Mention 4003 4005	We
+#87	ACE T87	entityID: NYT20001023.2203.0479-E64; extent: We
+T88	ACE-Mention 4010 4013	him
+#88	ACE T88	entityID: NYT20001023.2203.0479-E66; extent: him
+T89	ACE-Mention 4057 4065	Maschino
+#89	ACE T89	entityID: NYT20001023.2203.0479-E57; extent: Maschino
+T90	ACE-Mention 4134 4149	the Sierra Club
+#90	ACE T90	entityID: NYT20001023.2203.0479-E68; extent: the Sierra Club
+T91	ACE-Mention 4197 4207	Joe Andrew
+#91	ACE T91	entityID: NYT20001023.2203.0479-E69; extent: Joe Andrew
+T92	ACE-Mention 4210 4264	national chairman of the Democratic National Committee
+#92	ACE T92	entityID: NYT20001023.2203.0479-E69; extent: national chairman of the Democratic National Committee
+T93	ACE-Mention 4343 4347	Bush
+#93	ACE T93	entityID: NYT20001023.2203.0479-E7; extent: Bush
+T94	ACE-Mention 4352 4374	Vice President Al Gore
+#94	ACE T94	entityID: NYT20001023.2203.0479-E39; extent: Vice President Al Gore
+T95	ACE-Mention 4398 4404	people
+#95	ACE T95	entityID: NYT20001023.2203.0479-E73; extent: people
+T96	ACE-Mention 4427 4430	you
+#96	ACE T96	entityID: NYT20001023.2203.0479-E74; extent: you
+T97	ACE-Mention 4436 4451	the individuals
+#97	ACE T97	entityID: NYT20001023.2203.0479-E75; extent: the individuals
+T98	ACE-Mention 4462 4609	Andrew , who traveled to Maine Monday to show the video to reporters and voters at a community center in Portland and on a college campus in Bangor
+#98	ACE T98	entityID: NYT20001023.2203.0479-E69; extent: Andrew , who traveled to Maine Monday to show the video to reporters and voters at a community center in Portland and on a college campus in Bangor
+T99	ACE-Mention 4616 4618	We
+#99	ACE T99	entityID: NYT20001023.2203.0479-E83; extent: We
+T100	ACE-Mention 4623 4662	100 percent of the TV stations in Maine
+#100	ACE T100	entityID: NYT20001023.2203.0479-E84; extent: 100 percent of the TV stations in Maine
+T101	ACE-Mention 4689 4691	he
+#101	ACE T101	entityID: NYT20001023.2203.0479-E69; extent: he
+T102	ACE-Mention 4701 4711	Terry Holt
+#102	ACE T102	entityID: NYT20001023.2203.0479-E85; extent: Terry Holt
+T103	ACE-Mention 4714 4810	communications director for Victory 2000 , the campaign arm of the Republican National Committee
+#103	ACE T103	entityID: NYT20001023.2203.0479-E85; extent: communications director for Victory 2000 , the campaign arm of the Republican National Committee
+T104	ACE-Mention 4858 4868	Democratic
+#104	ACE T104	entityID: NYT20001023.2203.0479-E96; extent: Democratic
+T105	ACE-Mention 4918 4936	news organizations
+#105	ACE T105	entityID: NYT20001023.2203.0479-E90; extent: news organizations
+T106	ACE-Mention 4943 4960	The Gore campaign
+#106	ACE T106	entityID: NYT20001023.2203.0479-E38; extent: The Gore campaign
+T107	ACE-Mention 5052 5054	he
+#107	ACE T107	entityID: NYT20001023.2203.0479-E85; extent: he
+T108	ACE-Mention 5112 5115	You
+#108	ACE T108	entityID: NYT20001023.2203.0479-E91; extent: You
+T109	ACE-Mention 5159 5163	Holt
+#109	ACE T109	entityID: NYT20001023.2203.0479-E85; extent: Holt
+T110	ACE-Mention 5186 5196	Republican
+#110	ACE T110	entityID: NYT20001023.2203.0479-E10; extent: Republican
+T111	ACE-Mention 5208 5212	they
+#111	ACE T111	entityID: NYT20001023.2203.0479-E38; extent: they
+T112	ACE-Mention 5232 5233	I
+#112	ACE T112	entityID: NYT20001023.2203.0479-E85; extent: I
+T113	ACE-Mention 5247 5253	anyone
+#113	ACE T113	entityID: NYT20001023.2203.0479-E93; extent: anyone

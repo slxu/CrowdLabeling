@@ -1,0 +1,128 @@
+T0	ACE-Mention 312 319	TORONTO
+#0	ACE T0	entityID: NYT20001222.2029.0326-E19; extent: TORONTO
+T1	ACE-Mention 388 413	C.I. Fund Management Inc.
+#1	ACE T1	entityID: NYT20001222.2029.0326-E7; extent: C.I. Fund Management Inc.
+T2	ACE-Mention 471 485	a larger rival
+#2	ACE T2	entityID: NYT20001222.2029.0326-E40; extent: a larger rival
+T3	ACE-Mention 488 517	the Mackenzie Financial Corp.
+#3	ACE T3	entityID: NYT20001222.2029.0326-E40; extent: the Mackenzie Financial Corp.
+T4	ACE-Mention 531 534	its
+#4	ACE T4	entityID: NYT20001222.2029.0326-E7; extent: its
+T5	ACE-Mention 553 578	the two Toronto companies
+#5	ACE T5	entityID: NYT20001222.2029.0326-E42; extent: the two Toronto companies
+T6	ACE-Mention 587 623	Canada 's largest mutual-fund empire
+#6	ACE T6	entityID: NYT20001222.2029.0326-E44; extent: Canada 's largest mutual-fund empire
+T7	ACE-Mention 636 645	C.I. Fund
+#7	ACE T7	entityID: NYT20001222.2029.0326-E7; extent: C.I. Fund
+T8	ACE-Mention 740 749	Mackenzie
+#8	ACE T8	entityID: NYT20001222.2029.0326-E40; extent: Mackenzie
+T9	ACE-Mention 789 809	Mackenzie management
+#9	ACE T9	entityID: NYT20001222.2029.0326-E46; extent: Mackenzie management
+T10	ACE-Mention 977 989	other buyers
+#10	ACE T10	entityID: NYT20001222.2029.0326-E47; extent: other buyers
+T11	ACE-Mention 993 1002	Mackenzie
+#11	ACE T11	entityID: NYT20001222.2029.0326-E40; extent: Mackenzie
+T12	ACE-Mention 1013 1032	its 1,400 employees
+#12	ACE T12	entityID: NYT20001222.2029.0326-E48; extent: its 1,400 employees
+T13	ACE-Mention 1038 1073	anyone who was fired by a new owner
+#13	ACE T13	entityID: NYT20001222.2029.0326-E1; extent: anyone who was fired by a new owner
+T14	ACE-Mention 1108 1117	C.I. Fund
+#14	ACE T14	entityID: NYT20001222.2029.0326-E7; extent: C.I. Fund
+T15	ACE-Mention 1136 1139	its
+#15	ACE T15	entityID: NYT20001222.2029.0326-E7; extent: its
+T16	ACE-Mention 1149 1175	another small fund company
+#16	ACE T16	entityID: NYT20001222.2029.0326-E3; extent: another small fund company
+T17	ACE-Mention 1178 1259	AIC Ltd. of Burlington , Ontario , which owns 24.5 percent of Mackenzie 's shares
+#17	ACE T17	entityID: NYT20001222.2029.0326-E3; extent: AIC Ltd. of Burlington , Ontario , which owns 24.5 percent of Mackenzie 's shares
+T18	ACE-Mention 1263 1266	AIC
+#18	ACE T18	entityID: NYT20001222.2029.0326-E3; extent: AIC
+T19	ACE-Mention 1283 1292	C.I. Fund
+#19	ACE T19	entityID: NYT20001222.2029.0326-E7; extent: C.I. Fund
+T20	ACE-Mention 1353 1356	AIC
+#20	ACE T20	entityID: NYT20001222.2029.0326-E3; extent: AIC
+T21	ACE-Mention 1396 1447	the powerful Caisse de Depot et Placement du Quebec
+#21	ACE T21	entityID: NYT20001222.2029.0326-E8; extent: the powerful Caisse de Depot et Placement du Quebec
+T22	ACE-Mention 1450 1528	a $ 60 billion pension fund that already owns 5 percent of Mackenzie 's shares
+#22	ACE T22	entityID: NYT20001222.2029.0326-E8; extent: a $ 60 billion pension fund that already owns 5 percent of Mackenzie 's shares
+T23	ACE-Mention 1532 1570	Investors Group of Winnipeg , Manitoba
+#23	ACE T23	entityID: NYT20001222.2029.0326-E11; extent: Investors Group of Winnipeg , Manitoba
+T24	ACE-Mention 1573 1610	Canada 's largest mutual-fund manager
+#24	ACE T24	entityID: NYT20001222.2029.0326-E11; extent: Canada 's largest mutual-fund manager
+T25	ACE-Mention 1617 1653	the American Express Co. of New York
+#25	ACE T25	entityID: NYT20001222.2029.0326-E15; extent: the American Express Co. of New York
+T26	ACE-Mention 1680 1696	possible bidders
+#26	ACE T26	entityID: NYT20001222.2029.0326-E38; extent: possible bidders
+T27	ACE-Mention 1796 1799	its
+#27	ACE T27	entityID: NYT20001222.2029.0326-E7; extent: its
+T28	ACE-Mention 1871 1880	C.I. Fund
+#28	ACE T28	entityID: NYT20001222.2029.0326-E7; extent: C.I. Fund
+T29	ACE-Mention 1908 1941	the Ontario Securities Commission
+#29	ACE T29	entityID: NYT20001222.2029.0326-E17; extent: the Ontario Securities Commission
+T30	ACE-Mention 1963 1965	It
+#30	ACE T30	entityID: NYT20001222.2029.0326-E7; extent: It
+T31	ACE-Mention 1973 1987	the commission
+#31	ACE T31	entityID: NYT20001222.2029.0326-E17; extent: the commission
+T32	ACE-Mention 2000 2009	Mackenzie
+#32	ACE T32	entityID: NYT20001222.2029.0326-E40; extent: Mackenzie
+T33	ACE-Mention 2073 2098	Mackenzie 's shareholders
+#33	ACE T33	entityID: NYT20001222.2029.0326-E18; extent: Mackenzie 's shareholders
+T34	ACE-Mention 2144 2147	AIC
+#34	ACE T34	entityID: NYT20001222.2029.0326-E3; extent: AIC
+T35	ACE-Mention 2167 2169	it
+#35	ACE T35	entityID: NYT20001222.2029.0326-E3; extent: it
+T36	ACE-Mention 2201 2210	MacKenzie
+#36	ACE T36	entityID: NYT20001222.2029.0326-E40; extent: MacKenzie
+T37	ACE-Mention 2222 2241	the Caisse de Depot
+#37	ACE T37	entityID: NYT20001222.2029.0326-E8; extent: the Caisse de Depot
+T38	ACE-Mention 2245 2247	It
+#38	ACE T38	entityID: NYT20001222.2029.0326-E3; extent: It
+T39	ACE-Mention 2253 2256	its
+#39	ACE T39	entityID: NYT20001222.2029.0326-E3; extent: its
+T40	ACE-Mention 2347 2356	C.I. Fund
+#40	ACE T40	entityID: NYT20001222.2029.0326-E7; extent: C.I. Fund
+T41	ACE-Mention 2395 2404	C.I. Fund
+#41	ACE T41	entityID: NYT20001222.2029.0326-E7; extent: C.I. Fund
+T42	ACE-Mention 2414 2417	its
+#42	ACE T42	entityID: NYT20001222.2029.0326-E7; extent: its
+T43	ACE-Mention 2434 2444	commission
+#43	ACE T43	entityID: NYT20001222.2029.0326-E17; extent: commission
+T44	ACE-Mention 2475 2478	its
+#44	ACE T44	entityID: NYT20001222.2029.0326-E7; extent: its
+T45	ACE-Mention 2534 2549	William Holland
+#45	ACE T45	entityID: NYT20001222.2029.0326-E21; extent: William Holland
+T46	ACE-Mention 2552 2580	C.I. Fund 's chief executive
+#46	ACE T46	entityID: NYT20001222.2029.0326-E21; extent: C.I. Fund 's chief executive
+T47	ACE-Mention 2588 2599	his company
+#47	ACE T47	entityID: NYT20001222.2029.0326-E7; extent: his company
+T48	ACE-Mention 2617 2620	its
+#48	ACE T48	entityID: NYT20001222.2029.0326-E7; extent: its
+T49	ACE-Mention 2646 2648	it
+#49	ACE T49	entityID: NYT20001222.2029.0326-E7; extent: it
+T50	ACE-Mention 2663 2672	Mackenzie
+#50	ACE T50	entityID: NYT20001222.2029.0326-E40; extent: Mackenzie
+T51	ACE-Mention 2732 2735	AIC
+#51	ACE T51	entityID: NYT20001222.2029.0326-E3; extent: AIC
+T52	ACE-Mention 2739 2760	the most likely buyer
+#52	ACE T52	entityID: NYT20001222.2029.0326-E3; extent: the most likely buyer
+T53	ACE-Mention 2768 2780	James Hunter
+#53	ACE T53	entityID: NYT20001222.2029.0326-E23; extent: James Hunter
+T54	ACE-Mention 2783 2811	Mackenzie 's chief executive
+#54	ACE T54	entityID: NYT20001222.2029.0326-E23; extent: Mackenzie 's chief executive
+T55	ACE-Mention 2836 2859	several possible buyers
+#55	ACE T55	entityID: NYT20001222.2029.0326-E25; extent: several possible buyers
+T56	ACE-Mention 2941 2978	the number of fund managers in Canada
+#56	ACE T56	entityID: NYT20001222.2029.0326-E26; extent: the number of fund managers in Canada
+T57	ACE-Mention 3025 3081	Smaller firms , squeezed by comparatively high overheads
+#57	ACE T57	entityID: NYT20001222.2029.0326-E27; extent: Smaller firms , squeezed by comparatively high overheads
+T58	ACE-Mention 3121 3137	larger companies
+#58	ACE T58	entityID: NYT20001222.2029.0326-E28; extent: larger companies
+T59	ACE-Mention 3173 3178	their
+#59	ACE T59	entityID: NYT20001222.2029.0326-E28; extent: their
+T60	ACE-Mention 3179 3187	founders
+#60	ACE T60	entityID: NYT20001222.2029.0326-E30; extent: founders
+T61	ACE-Mention 3192 3216	controlling shareholders
+#61	ACE T61	entityID: NYT20001222.2029.0326-E31; extent: controlling shareholders
+T62	ACE-Mention 3279 3297	domestic companies
+#62	ACE T62	entityID: NYT20001222.2029.0326-E32; extent: domestic companies
+T63	ACE-Mention 3340 3478	Amvescap PLC of London , which in May paid $ 1.8 billion for Canada 's sixth-largest fund company , the Trimark Financial Corp. of Toronto
+#63	ACE T63	entityID: NYT20001222.2029.0326-E34; extent: Amvescap PLC of London , which in May paid $ 1.8 billion for Canada 's sixth-largest fund company , the Trimark Financial Corp. of Toronto

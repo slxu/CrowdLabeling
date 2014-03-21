@@ -1,0 +1,126 @@
+T0	ACE-Mention 113 132	COSTA MESA , Calif.
+#0	ACE T0	entityID: APW20001211.0507.0196-E23; extent: COSTA MESA , Calif.
+T1	ACE-Mention 133 137	(AP)
+#1	ACE T1	entityID: APW20001211.0507.0196-E56; extent: (AP)
+T2	ACE-Mention 140 221	Joseph Conrad Parkhurst , who founded the motorcycle magazine Cycle World in 1962
+#2	ACE T2	entityID: APW20001211.0507.0196-E19; extent: Joseph Conrad Parkhurst , who founded the motorcycle magazine Cycle World in 1962
+T3	ACE-Mention 236 238	He
+#3	ACE T3	entityID: APW20001211.0507.0196-E19; extent: He
+T4	ACE-Mention 249 258	Parkhurst
+#4	ACE T4	entityID: APW20001211.0507.0196-E19; extent: Parkhurst
+T5	ACE-Mention 323 326	his
+#5	ACE T5	entityID: APW20001211.0507.0196-E19; extent: his
+T6	ACE-Mention 334 342	his wife
+#6	ACE T6	entityID: APW20001211.0507.0196-E1; extent: his wife
+T7	ACE-Mention 343 359	Claire Parkhurst
+#7	ACE T7	entityID: APW20001211.0507.0196-E1; extent: Claire Parkhurst
+T8	ACE-Mention 365 386	the Los Angeles Times
+#8	ACE T8	entityID: APW20001211.0507.0196-E3; extent: the Los Angeles Times
+T9	ACE-Mention 410 421	Cycle World
+#9	ACE T9	entityID: APW20001211.0507.0196-E4; extent: Cycle World
+T10	ACE-Mention 454 476	motorcycle periodicals
+#10	ACE T10	entityID: APW20001211.0507.0196-E5; extent: motorcycle periodicals
+T11	ACE-Mention 489 493	road
+#11	ACE T11	entityID: APW20001211.0507.0196-E7; extent: road
+T12	ACE-Mention 529 557	other fan-oriented magazines
+#12	ACE T12	entityID: APW20001211.0507.0196-E9; extent: other fan-oriented magazines
+T13	ACE-Mention 565 614	analyst Don Brown of DJB Associates LLC of Irvine
+#13	ACE T13	entityID: APW20001211.0507.0196-E10; extent: analyst Don Brown of DJB Associates LLC of Irvine
+T14	ACE-Mention 621 624	its
+#14	ACE T14	entityID: APW20001211.0507.0196-E4; extent: its
+T15	ACE-Mention 638 649	Cycle World
+#15	ACE T15	entityID: APW20001211.0507.0196-E4; extent: Cycle World
+T16	ACE-Mention 673 717	the largest motorcycle magazine in the world
+#16	ACE T16	entityID: APW20001211.0507.0196-E4; extent: the largest motorcycle magazine in the world
+T17	ACE-Mention 720 725	Brown
+#17	ACE T17	entityID: APW20001211.0507.0196-E10; extent: Brown
+T18	ACE-Mention 730 736	others
+#18	ACE T18	entityID: APW20001211.0507.0196-E15; extent: others
+T19	ACE-Mention 745 747	It
+#19	ACE T19	entityID: APW20001211.0507.0196-E4; extent: It
+T20	ACE-Mention 792 809	its closest rival
+#20	ACE T20	entityID: APW20001211.0507.0196-E16; extent: its closest rival
+T21	ACE-Mention 813 832	the German magazine
+#21	ACE T21	entityID: APW20001211.0507.0196-E16; extent: the German magazine
+T22	ACE-Mention 833 845	Das Motorrad
+#22	ACE T22	entityID: APW20001211.0507.0196-E16; extent: Das Motorrad
+T23	ACE-Mention 852 855	Joe
+#23	ACE T23	entityID: APW20001211.0507.0196-E19; extent: Joe
+T24	ACE-Mention 860 890	a true pioneer in our business
+#24	ACE T24	entityID: APW20001211.0507.0196-E19; extent: a true pioneer in our business
+T25	ACE-Mention 901 943	current Cycle World publisher Larry Little
+#25	ACE T25	entityID: APW20001211.0507.0196-E21; extent: current Cycle World publisher Larry Little
+T26	ACE-Mention 981 993	good old boy
+#26	ACE T26	entityID: APW20001211.0507.0196-E24; extent: good old boy
+T27	ACE-Mention 1005 1025	American motorcycles
+#27	ACE T27	entityID: APW20001211.0507.0196-E26; extent: American motorcycles
+T28	ACE-Mention 1029 1032	Joe
+#28	ACE T28	entityID: APW20001211.0507.0196-E19; extent: Joe
+T29	ACE-Mention 1046 1065	the Japanese makers
+#29	ACE T29	entityID: APW20001211.0507.0196-E28; extent: the Japanese makers
+T30	ACE-Mention 1072 1128	Born in Jonesboro , Ark. , on Oct. 20 , 1926 , Parkhurst
+#30	ACE T30	entityID: APW20001211.0507.0196-E19; extent: Born in Jonesboro , Ark. , on Oct. 20 , 1926 , Parkhurst
+T31	ACE-Mention 1140 1150	his family
+#31	ACE T31	entityID: APW20001211.0507.0196-E31; extent: his family
+T32	ACE-Mention 1154 1164	California
+#32	ACE T32	entityID: APW20001211.0507.0196-E55; extent: California
+T33	ACE-Mention 1168 1170	He
+#33	ACE T33	entityID: APW20001211.0507.0196-E19; extent: He
+T34	ACE-Mention 1192 1226	a clerk in an Army Reserves office
+#34	ACE T34	entityID: APW20001211.0507.0196-E19; extent: a clerk in an Army Reserves office
+T35	ACE-Mention 1248 1302	art director of Road & Track magazine in Newport Beach
+#35	ACE T35	entityID: APW20001211.0507.0196-E19; extent: art director of Road & Track magazine in Newport Beach
+T36	ACE-Mention 1306 1308	He
+#36	ACE T36	entityID: APW20001211.0507.0196-E19; extent: He
+T37	ACE-Mention 1349 1355	Europe
+#37	ACE T37	entityID: APW20001211.0507.0196-E38; extent: Europe
+T38	ACE-Mention 1379 1429	art director of Carting World , a go-cart magazine
+#38	ACE T38	entityID: APW20001211.0507.0196-E19; extent: art director of Carting World , a go-cart magazine
+T39	ACE-Mention 1459 1468	Parkhurst
+#39	ACE T39	entityID: APW20001211.0507.0196-E19; extent: Parkhurst
+T40	ACE-Mention 1487 1498	Cycle World
+#40	ACE T40	entityID: APW20001211.0507.0196-E4; extent: Cycle World
+T41	ACE-Mention 1502 1504	He
+#41	ACE T41	entityID: APW20001211.0507.0196-E19; extent: He
+T42	ACE-Mention 1518 1530	Road & Track
+#42	ACE T42	entityID: APW20001211.0507.0196-E42; extent: Road & Track
+T43	ACE-Mention 1564 1577	motorcyclists
+#43	ACE T43	entityID: APW20001211.0507.0196-E43; extent: motorcyclists
+T44	ACE-Mention 1585 1593	Joe Rusz
+#44	ACE T44	entityID: APW20001211.0507.0196-E44; extent: Joe Rusz
+T45	ACE-Mention 1596 1627	a senior editor at Road & Track
+#45	ACE T45	entityID: APW20001211.0507.0196-E44; extent: a senior editor at Road & Track
+T46	ACE-Mention 1631 1640	Parkhurst
+#46	ACE T46	entityID: APW20001211.0507.0196-E19; extent: Parkhurst
+T47	ACE-Mention 1659 1670	motorcycles
+#47	ACE T47	entityID: APW20001211.0507.0196-E46; extent: motorcycles
+T48	ACE-Mention 1685 1693	a friend
+#48	ACE T48	entityID: APW20001211.0507.0196-E47; extent: a friend
+T49	ACE-Mention 1699 1701	he
+#49	ACE T49	entityID: APW20001211.0507.0196-E19; extent: he
+T50	ACE-Mention 1757 1761	them
+#50	ACE T50	entityID: APW20001211.0507.0196-E46; extent: them
+T51	ACE-Mention 1767 1773	Little
+#51	ACE T51	entityID: APW20001211.0507.0196-E21; extent: Little
+T52	ACE-Mention 1782 1791	Parkhurst
+#52	ACE T52	entityID: APW20001211.0507.0196-E19; extent: Parkhurst
+T53	ACE-Mention 1810 1849	another company that owned Road & Track
+#53	ACE T53	entityID: APW20001211.0507.0196-E48; extent: another company that owned Road & Track
+T54	ACE-Mention 1860 1885	Bond/Parkhurst Publishing
+#54	ACE T54	entityID: APW20001211.0507.0196-E49; extent: Bond/Parkhurst Publishing
+T55	ACE-Mention 1889 1891	He
+#55	ACE T55	entityID: APW20001211.0507.0196-E19; extent: He
+T56	ACE-Mention 1938 1958	his wife of 22 years
+#56	ACE T56	entityID: APW20001211.0507.0196-E1; extent: his wife of 22 years
+T57	ACE-Mention 1975 1977	he
+#57	ACE T57	entityID: APW20001211.0507.0196-E19; extent: he
+T58	ACE-Mention 2056 2073	industry insiders
+#58	ACE T58	entityID: APW20001211.0507.0196-E50; extent: industry insiders
+T59	ACE-Mention 2092 2100	his wife
+#59	ACE T59	entityID: APW20001211.0507.0196-E1; extent: his wife
+T60	ACE-Mention 2103 2112	Parkhurst
+#60	ACE T60	entityID: APW20001211.0507.0196-E19; extent: Parkhurst
+T61	ACE-Mention 2128 2137	a brother
+#61	ACE T61	entityID: APW20001211.0507.0196-E51; extent: a brother
+T62	ACE-Mention 2140 2163	John Parkhurst of Hemet
+#62	ACE T62	entityID: APW20001211.0507.0196-E51; extent: John Parkhurst of Hemet

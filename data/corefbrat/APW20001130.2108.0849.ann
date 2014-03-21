@@ -1,0 +1,100 @@
+T0	ACE-Mention 120 126	LONDON
+#0	ACE T0	entityID: APW20001130.2108.0849-E20; extent: LONDON
+T1	ACE-Mention 127 131	(AP)
+#1	ACE T1	entityID: APW20001130.2108.0849-E29; extent: (AP)
+T2	ACE-Mention 157 175	the House of Lords
+#2	ACE T2	entityID: APW20001130.2108.0849-E30; extent: the House of Lords
+T3	ACE-Mention 178 205	Britain 's Labor government
+#3	ACE T3	entityID: APW20001130.2108.0849-E23; extent: Britain 's Labor government
+T4	ACE-Mention 298 309	homosexuals
+#4	ACE T4	entityID: APW20001130.2108.0849-E17; extent: homosexuals
+T5	ACE-Mention 325 364	House of Commons speaker Michael Martin
+#5	ACE T5	entityID: APW20001130.2108.0849-E34; extent: House of Commons speaker Michael Martin
+T6	ACE-Mention 370 372	he
+#6	ACE T6	entityID: APW20001130.2108.0849-E34; extent: he
+T7	ACE-Mention 493 504	homosexuals
+#7	ACE T7	entityID: APW20001130.2108.0849-E17; extent: homosexuals
+T8	ACE-Mention 509 522	heterosexuals
+#8	ACE T8	entityID: APW20001130.2108.0849-E38; extent: heterosexuals
+T9	ACE-Mention 574 593	Queen Elizabeth II.
+#9	ACE T9	entityID: APW20001130.2108.0849-E1; extent: Queen Elizabeth II.
+T10	ACE-Mention 594 627	Lawmakers in the House of Commons
+#10	ACE T10	entityID: APW20001130.2108.0849-E2; extent: Lawmakers in the House of Commons
+T11	ACE-Mention 685 703	the House of Lords
+#11	ACE T11	entityID: APW20001130.2108.0849-E30; extent: the House of Lords
+T12	ACE-Mention 749 758	The Lords
+#12	ACE T12	entityID: APW20001130.2108.0849-E30; extent: The Lords
+T13	ACE-Mention 855 875	the House of Commons
+#13	ACE T13	entityID: APW20001130.2108.0849-E3; extent: the House of Commons
+T14	ACE-Mention 937 969	the country 's elected lawmakers
+#14	ACE T14	entityID: APW20001130.2108.0849-E4; extent: the country 's elected lawmakers
+T15	ACE-Mention 998 1005	Britain
+#15	ACE T15	entityID: APW20001130.2108.0849-E31; extent: Britain
+T16	ACE-Mention 1019 1052	most other European Union nations
+#16	ACE T16	entityID: APW20001130.2108.0849-E5; extent: most other European Union nations
+T17	ACE-Mention 1085 1087	my
+#17	ACE T17	entityID: APW20001130.2108.0849-E7; extent: my
+T18	ACE-Mention 1142 1206	a country that has a history of reform and challenging prejudice
+#18	ACE T18	entityID: APW20001130.2108.0849-E31; extent: a country that has a history of reform and challenging prejudice
+T19	ACE-Mention 1217 1242	Home Secretary Jack Straw
+#19	ACE T19	entityID: APW20001130.2108.0849-E7; extent: Home Secretary Jack Straw
+T20	ACE-Mention 1245 1283	Britain 's top law enforcement officer
+#20	ACE T20	entityID: APW20001130.2108.0849-E7; extent: Britain 's top law enforcement officer
+T21	ACE-Mention 1309 1311	us
+#21	ACE T21	entityID: APW20001130.2108.0849-E31; extent: us
+T22	ACE-Mention 1361 1363	he
+#22	ACE T22	entityID: APW20001130.2108.0849-E7; extent: he
+T23	ACE-Mention 1373 1385	Angela Mason
+#23	ACE T23	entityID: APW20001130.2108.0849-E9; extent: Angela Mason
+T24	ACE-Mention 1388 1430	director of the gay rights group Stonewall
+#24	ACE T24	entityID: APW20001130.2108.0849-E9; extent: director of the gay rights group Stonewall
+T25	ACE-Mention 1438 1448	Parliament
+#25	ACE T25	entityID: APW20001130.2108.0849-E14; extent: Parliament
+T26	ACE-Mention 1546 1547	I
+#26	ACE T26	entityID: APW20001130.2108.0849-E9; extent: I
+T27	ACE-Mention 1591 1603	this country
+#27	ACE T27	entityID: APW20001130.2108.0849-E31; extent: this country
+T28	ACE-Mention 1635 1643	lesbians
+#28	ACE T28	entityID: APW20001130.2108.0849-E15; extent: lesbians
+T29	ACE-Mention 1648 1655	gay men
+#29	ACE T29	entityID: APW20001130.2108.0849-E16; extent: gay men
+T30	ACE-Mention 1672 1675	our
+#30	ACE T30	entityID: APW20001130.2108.0849-E17; extent: our
+T31	ACE-Mention 1685 1709	equal members of society
+#31	ACE T31	entityID: APW20001130.2108.0849-E17; extent: equal members of society
+T32	ACE-Mention 1715 1718	she
+#32	ACE T32	entityID: APW20001130.2108.0849-E9; extent: she
+T33	ACE-Mention 1727 1741	Peter Tatchell
+#33	ACE T33	entityID: APW20001130.2108.0849-E18; extent: Peter Tatchell
+T34	ACE-Mention 1747 1764	the group OutRage
+#34	ACE T34	entityID: APW20001130.2108.0849-E19; extent: the group OutRage
+T35	ACE-Mention 1854 1863	gay human
+#35	ACE T35	entityID: APW20001130.2108.0849-E17; extent: gay human
+T36	ACE-Mention 1880 1882	My
+#36	ACE T36	entityID: APW20001130.2108.0849-E18; extent: My
+T37	ACE-Mention 1943 1962	hundreds of gay men
+#37	ACE T37	entityID: APW20001130.2108.0849-E22; extent: hundreds of gay men
+T38	ACE-Mention 2063 2098	Conservative ex-Leader of the Lords
+#38	ACE T38	entityID: APW20001130.2108.0849-E25; extent: Conservative ex-Leader of the Lords
+T39	ACE-Mention 2099 2113	Baroness Young
+#39	ACE T39	entityID: APW20001130.2108.0849-E25; extent: Baroness Young
+T40	ACE-Mention 2122 2136	the government
+#40	ACE T40	entityID: APW20001130.2108.0849-E23; extent: the government
+T41	ACE-Mention 2197 2207	Parliament
+#41	ACE T41	entityID: APW20001130.2108.0849-E14; extent: Parliament
+T42	ACE-Mention 2211 2216	Straw
+#42	ACE T42	entityID: APW20001130.2108.0849-E7; extent: Straw
+T43	ACE-Mention 2268 2269	I
+#43	ACE T43	entityID: APW20001130.2108.0849-E7; extent: I
+T44	ACE-Mention 2355 2357	he
+#44	ACE T44	entityID: APW20001130.2108.0849-E7; extent: he
+T45	ACE-Mention 2383 2393	Parliament
+#45	ACE T45	entityID: APW20001130.2108.0849-E14; extent: Parliament
+T46	ACE-Mention 2444 2455	homosexuals
+#46	ACE T46	entityID: APW20001130.2108.0849-E17; extent: homosexuals
+T47	ACE-Mention 2499 2509	Homosexual
+#47	ACE T47	entityID: APW20001130.2108.0849-E13; extent: Homosexual
+T48	ACE-Mention 2522 2528	adults
+#48	ACE T48	entityID: APW20001130.2108.0849-E27; extent: adults
+T49	ACE-Mention 2553 2560	Britain
+#49	ACE T49	entityID: APW20001130.2108.0849-E31; extent: Britain

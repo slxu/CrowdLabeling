@@ -1,0 +1,82 @@
+T0	ACE-Mention 107 128	CAPE CANAVERAL , Fla.
+#0	ACE T0	entityID: APW20001017.2123.0809-E13; extent: CAPE CANAVERAL , Fla.
+T1	ACE-Mention 129 133	(AP)
+#1	ACE T1	entityID: APW20001017.2123.0809-E15; extent: (AP)
+T2	ACE-Mention 136 163	Two spacewalking astronauts
+#2	ACE T2	entityID: APW20001017.2123.0809-E16; extent: Two spacewalking astronauts
+T3	ACE-Mention 193 224	the international space station
+#3	ACE T3	entityID: APW20001017.2123.0809-E11; extent: the international space station
+T4	ACE-Mention 302 307	Earth
+#4	ACE T4	entityID: APW20001017.2123.0809-E18; extent: Earth
+T5	ACE-Mention 373 386	Bill McArthur
+#5	ACE T5	entityID: APW20001017.2123.0809-E19; extent: Bill McArthur
+T6	ACE-Mention 400 423	space shuttle Discovery
+#6	ACE T6	entityID: APW20001017.2123.0809-E20; extent: space shuttle Discovery
+T7	ACE-Mention 479 484	a car
+#7	ACE T7	entityID: APW20001017.2123.0809-E22; extent: a car
+T8	ACE-Mention 503 520	the space station
+#8	ACE T8	entityID: APW20001017.2123.0809-E11; extent: the space station
+T9	ACE-Mention 540 547	shuttle
+#9	ACE T9	entityID: APW20001017.2123.0809-E20; extent: shuttle
+T10	ACE-Mention 617 625	McArthur
+#10	ACE T10	entityID: APW20001017.2123.0809-E19; extent: McArthur
+T11	ACE-Mention 697 706	the Earth
+#11	ACE T11	entityID: APW20001017.2123.0809-E18; extent: the Earth
+T12	ACE-Mention 713 728	Mission Control
+#12	ACE T12	entityID: APW20001017.2123.0809-E23; extent: Mission Control
+T13	ACE-Mention 925 942	the space station
+#13	ACE T13	entityID: APW20001017.2123.0809-E11; extent: the space station
+T14	ACE-Mention 983 1004	Astronaut Leroy Chiao
+#14	ACE T14	entityID: APW20001017.2123.0809-E1; extent: Astronaut Leroy Chiao
+T15	ACE-Mention 1039 1048	Discovery
+#15	ACE T15	entityID: APW20001017.2123.0809-E20; extent: Discovery
+T16	ACE-Mention 1065 1067	He
+#16	ACE T16	entityID: APW20001017.2123.0809-E1; extent: He
+T17	ACE-Mention 1117 1138	the shuttle cargo bay
+#17	ACE T17	entityID: APW20001017.2123.0809-E2; extent: the shuttle cargo bay
+T18	ACE-Mention 1154 1165	the shuttle
+#18	ACE T18	entityID: APW20001017.2123.0809-E20; extent: the shuttle
+T19	ACE-Mention 1168 1189	Michael Lopez-Alegria
+#19	ACE T19	entityID: APW20001017.2123.0809-E3; extent: Michael Lopez-Alegria
+T20	ACE-Mention 1217 1222	Chiao
+#20	ACE T20	entityID: APW20001017.2123.0809-E1; extent: Chiao
+T21	ACE-Mention 1414 1419	Chiao
+#21	ACE T21	entityID: APW20001017.2123.0809-E1; extent: Chiao
+T22	ACE-Mention 1424 1432	McArthur
+#22	ACE T22	entityID: APW20001017.2123.0809-E19; extent: McArthur
+T23	ACE-Mention 1503 1506	you
+#23	ACE T23	entityID: APW20001017.2123.0809-E4; extent: you
+T24	ACE-Mention 1557 1565	McArthur
+#24	ACE T24	entityID: APW20001017.2123.0809-E19; extent: McArthur
+T25	ACE-Mention 1578 1579	I
+#25	ACE T25	entityID: APW20001017.2123.0809-E1; extent: I
+T26	ACE-Mention 1617 1622	Chiao
+#26	ACE T26	entityID: APW20001017.2123.0809-E1; extent: Chiao
+T27	ACE-Mention 1679 1686	the two
+#27	ACE T27	entityID: APW20001017.2123.0809-E16; extent: the two
+T28	ACE-Mention 1705 1710	their
+#28	ACE T28	entityID: APW20001017.2123.0809-E16; extent: their
+T29	ACE-Mention 1804 1817	Lopez-Alegria
+#29	ACE T29	entityID: APW20001017.2123.0809-E3; extent: Lopez-Alegria
+T30	ACE-Mention 1822 1833	Jeff Wisoff
+#30	ACE T30	entityID: APW20001017.2123.0809-E5; extent: Jeff Wisoff
+T31	ACE-Mention 1923 1928	their
+#31	ACE T31	entityID: APW20001017.2123.0809-E6; extent: their
+T32	ACE-Mention 1965 1975	each other
+#32	ACE T32	entityID: APW20001017.2123.0809-E7; extent: each other
+T33	ACE-Mention 1979 1983	NASA
+#33	ACE T33	entityID: APW20001017.2123.0809-E8; extent: NASA
+T34	ACE-Mention 2022 2035	a spacewalker
+#34	ACE T34	entityID: APW20001017.2123.0809-E9; extent: a spacewalker
+T35	ACE-Mention 2046 2072	an incapacitated colleague
+#35	ACE T35	entityID: APW20001017.2123.0809-E10; extent: an incapacitated colleague
+T36	ACE-Mention 2081 2090	Discovery
+#36	ACE T36	entityID: APW20001017.2123.0809-E20; extent: Discovery
+T37	ACE-Mention 2111 2113	it
+#37	ACE T37	entityID: APW20001017.2123.0809-E20; extent: it
+T38	ACE-Mention 2147 2160	space station
+#38	ACE T38	entityID: APW20001017.2123.0809-E11; extent: space station
+T39	ACE-Mention 2171 2206	The station 's first permanent crew
+#39	ACE T39	entityID: APW20001017.2123.0809-E12; extent: The station 's first permanent crew
+T40	ACE-Mention 2267 2271	NASA
+#40	ACE T40	entityID: APW20001017.2123.0809-E8; extent: NASA

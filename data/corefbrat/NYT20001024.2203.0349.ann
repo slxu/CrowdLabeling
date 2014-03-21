@@ -1,0 +1,94 @@
+T0	ACE-Mention 297 312	Compaq Computer
+#0	ACE T0	entityID: NYT20001024.2203.0349-E16; extent: Compaq Computer
+T1	ACE-Mention 351 362	Wall Street
+#1	ACE T1	entityID: NYT20001024.2203.0349-E35; extent: Wall Street
+T2	ACE-Mention 415 426	the company
+#2	ACE T2	entityID: NYT20001024.2203.0349-E16; extent: the company
+T3	ACE-Mention 469 472	its
+#3	ACE T3	entityID: NYT20001024.2203.0349-E16; extent: its
+T4	ACE-Mention 507 513	Compaq
+#4	ACE T4	entityID: NYT20001024.2203.0349-E16; extent: Compaq
+T5	ACE-Mention 519 521	it
+#5	ACE T5	entityID: NYT20001024.2203.0349-E16; extent: it
+T6	ACE-Mention 818 824	Compaq
+#6	ACE T6	entityID: NYT20001024.2203.0349-E16; extent: Compaq
+T7	ACE-Mention 851 859	analysts
+#7	ACE T7	entityID: NYT20001024.2203.0349-E1; extent: analysts
+T8	ACE-Mention 896 930	Compaq , which is based in Houston
+#8	ACE T8	entityID: NYT20001024.2203.0349-E16; extent: Compaq , which is based in Houston
+T9	ACE-Mention 1058 1064	Compaq
+#9	ACE T9	entityID: NYT20001024.2203.0349-E16; extent: Compaq
+T10	ACE-Mention 1176 1184	overseas
+#10	ACE T10	entityID: NYT20001024.2203.0349-E3; extent: overseas
+T11	ACE-Mention 1222 1225	Our
+#11	ACE T11	entityID: NYT20001024.2203.0349-E16; extent: Our
+T12	ACE-Mention 1254 1257	our
+#12	ACE T12	entityID: NYT20001024.2203.0349-E16; extent: our
+T13	ACE-Mention 1307 1323	Michael Capellas
+#13	ACE T13	entityID: NYT20001024.2203.0349-E4; extent: Michael Capellas
+T14	ACE-Mention 1326 1334	chairman
+#14	ACE T14	entityID: NYT20001024.2203.0349-E4; extent: chairman
+T15	ACE-Mention 1339 1354	chief executive
+#15	ACE T15	entityID: NYT20001024.2203.0349-E4; extent: chief executive
+T16	ACE-Mention 1361 1363	We
+#16	ACE T16	entityID: NYT20001024.2203.0349-E16; extent: We
+T17	ACE-Mention 1393 1401	Capellas
+#17	ACE T17	entityID: NYT20001024.2203.0349-E4; extent: Capellas
+T18	ACE-Mention 1445 1470	every region of the world
+#18	ACE T18	entityID: NYT20001024.2203.0349-E7; extent: every region of the world
+T19	ACE-Mention 1474 1476	He
+#19	ACE T19	entityID: NYT20001024.2203.0349-E4; extent: He
+T20	ACE-Mention 1508 1514	Compaq
+#20	ACE T20	entityID: NYT20001024.2203.0349-E16; extent: Compaq
+T21	ACE-Mention 1526 1529	its
+#21	ACE T21	entityID: NYT20001024.2203.0349-E16; extent: its
+T22	ACE-Mention 1645 1653	Analysts
+#22	ACE T22	entityID: NYT20001024.2203.0349-E9; extent: Analysts
+T23	ACE-Mention 1731 1737	Compaq
+#23	ACE T23	entityID: NYT20001024.2203.0349-E16; extent: Compaq
+T24	ACE-Mention 1772 1791	its server business
+#24	ACE T24	entityID: NYT20001024.2203.0349-E10; extent: its server business
+T25	ACE-Mention 1847 1870	the Unix server segment
+#25	ACE T25	entityID: NYT20001024.2203.0349-E11; extent: the Unix server segment
+T26	ACE-Mention 1890 1898	industry
+#26	ACE T26	entityID: NYT20001024.2203.0349-E12; extent: industry
+T27	ACE-Mention 1946 1971	the data storage business
+#27	ACE T27	entityID: NYT20001024.2203.0349-E13; extent: the data storage business
+T28	ACE-Mention 2039 2061	competitors , like EMC
+#28	ACE T28	entityID: NYT20001024.2203.0349-E14; extent: competitors , like EMC
+T29	ACE-Mention 2065 2071	Compaq
+#29	ACE T29	entityID: NYT20001024.2203.0349-E16; extent: Compaq
+T30	ACE-Mention 2075 2123	the world 's leading maker of personal computers
+#30	ACE T30	entityID: NYT20001024.2203.0349-E16; extent: the world 's leading maker of personal computers
+T31	ACE-Mention 2130 2145	its PC business
+#31	ACE T31	entityID: NYT20001024.2203.0349-E17; extent: its PC business
+T32	ACE-Mention 2164 2177	many analysts
+#32	ACE T32	entityID: NYT20001024.2203.0349-E18; extent: many analysts
+T33	ACE-Mention 2195 2217	The commercial PC unit
+#33	ACE T33	entityID: NYT20001024.2203.0349-E19; extent: The commercial PC unit
+T34	ACE-Mention 2286 2289	its
+#34	ACE T34	entityID: NYT20001024.2203.0349-E19; extent: its
+T35	ACE-Mention 2379 2399	The consumer PC unit
+#35	ACE T35	entityID: NYT20001024.2203.0349-E20; extent: The consumer PC unit
+T36	ACE-Mention 2631 2658	Compaq 's services business
+#36	ACE T36	entityID: NYT20001024.2203.0349-E21; extent: Compaq 's services business
+T37	ACE-Mention 2685 2713	Compaq 's 40,000 consultants
+#37	ACE T37	entityID: NYT20001024.2203.0349-E22; extent: Compaq 's 40,000 consultants
+T38	ACE-Mention 2812 2820	Capellas
+#38	ACE T38	entityID: NYT20001024.2203.0349-E4; extent: Capellas
+T39	ACE-Mention 2841 2851	that group
+#39	ACE T39	entityID: NYT20001024.2203.0349-E21; extent: that group
+T40	ACE-Mention 2910 3029	Compaq enthusiasts like Kurtis R. King , an analyst at Banc of America Securities who rates the company a `` strong buy
+#40	ACE T40	entityID: NYT20001024.2203.0349-E23; extent: Compaq enthusiasts like Kurtis R. King , an analyst at Banc of America Securities who rates the company a `` strong buy
+T41	ACE-Mention 3062 3067	their
+#41	ACE T41	entityID: NYT20001024.2203.0349-E16; extent: their
+T42	ACE-Mention 3092 3185	skeptics who were not advising clients to buy the stock , like Charles R. Wolf at UBS Warburg
+#42	ACE T42	entityID: NYT20001024.2203.0349-E28; extent: skeptics who were not advising clients to buy the stock , like Charles R. Wolf at UBS Warburg
+T43	ACE-Mention 3224 3228	They
+#43	ACE T43	entityID: NYT20001024.2203.0349-E16; extent: They
+T44	ACE-Mention 3282 3286	Wolf
+#44	ACE T44	entityID: NYT20001024.2203.0349-E30; extent: Wolf
+T45	ACE-Mention 3349 3376	the New York Stock Exchange
+#45	ACE T45	entityID: NYT20001024.2203.0349-E32; extent: the New York Stock Exchange
+T46	ACE-Mention 3388 3394	Compaq
+#46	ACE T46	entityID: NYT20001024.2203.0349-E16; extent: Compaq

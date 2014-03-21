@@ -1,0 +1,78 @@
+T0	ACE-Mention 107 121	JACKSON , Wyo.
+#0	ACE T0	entityID: APW20001221.0431.0227-E20; extent: JACKSON , Wyo.
+T1	ACE-Mention 122 126	(AP)
+#1	ACE T1	entityID: APW20001221.0431.0227-E23; extent: (AP)
+T2	ACE-Mention 129 191	A plane carrying actress Sandra Bullock and three other people
+#2	ACE T2	entityID: APW20001221.0431.0227-E6; extent: A plane carrying actress Sandra Bullock and three other people
+T3	ACE-Mention 199 207	a runway
+#3	ACE T3	entityID: APW20001221.0431.0227-E27; extent: a runway
+T4	ACE-Mention 223 247	the Jackson Hole Airport
+#4	ACE T4	entityID: APW20001221.0431.0227-E28; extent: the Jackson Hole Airport
+T5	ACE-Mention 267 278	Authorities
+#5	ACE T5	entityID: APW20001221.0431.0227-E29; extent: Authorities
+T6	ACE-Mention 284 290	no one
+#6	ACE T6	entityID: APW20001221.0431.0227-E30; extent: no one
+T7	ACE-Mention 303 358	Bullock , who stars in the current `` Miss Congeniality
+#7	ACE T7	entityID: APW20001221.0431.0227-E25; extent: Bullock , who stars in the current `` Miss Congeniality
+T8	ACE-Mention 375 384	the plane
+#8	ACE T8	entityID: APW20001221.0431.0227-E6; extent: the plane
+T9	ACE-Mention 390 406	two crew members
+#9	ACE T9	entityID: APW20001221.0431.0227-E33; extent: two crew members
+T10	ACE-Mention 411 425	another person
+#10	ACE T10	entityID: APW20001221.0431.0227-E1; extent: another person
+T11	ACE-Mention 428 457	airport manager George Larson
+#11	ACE T11	entityID: APW20001221.0431.0227-E2; extent: airport manager George Larson
+T12	ACE-Mention 466 468	He
+#12	ACE T12	entityID: APW20001221.0431.0227-E2; extent: He
+T13	ACE-Mention 474 477	all
+#13	ACE T13	entityID: APW20001221.0431.0227-E5; extent: all
+T14	ACE-Mention 496 567	The twin-engine Hawker corporate jet , owned by RR Investments of Texas
+#14	ACE T14	entityID: APW20001221.0431.0227-E6; extent: The twin-engine Hawker corporate jet , owned by RR Investments of Texas
+T15	ACE-Mention 678 684	Larson
+#15	ACE T15	entityID: APW20001221.0431.0227-E2; extent: Larson
+T16	ACE-Mention 693 702	The plane
+#16	ACE T16	entityID: APW20001221.0431.0227-E6; extent: The plane
+T17	ACE-Mention 718 726	a runway
+#17	ACE T17	entityID: APW20001221.0431.0227-E27; extent: a runway
+T18	ACE-Mention 731 738	taxiway
+#18	ACE T18	entityID: APW20001221.0431.0227-E8; extent: taxiway
+T19	ACE-Mention 742 777	the airport in northwestern Wyoming
+#19	ACE T19	entityID: APW20001221.0431.0227-E28; extent: the airport in northwestern Wyoming
+T20	ACE-Mention 877 888	authorities
+#20	ACE T20	entityID: APW20001221.0431.0227-E29; extent: authorities
+T21	ACE-Mention 936 945	the pilot
+#21	ACE T21	entityID: APW20001221.0431.0227-E10; extent: the pilot
+T22	ACE-Mention 948 988	Richard Campbell , of Fort Worth , Texas
+#22	ACE T22	entityID: APW20001221.0431.0227-E10; extent: Richard Campbell , of Fort Worth , Texas
+T23	ACE-Mention 999 1002	him
+#23	ACE T23	entityID: APW20001221.0431.0227-E10; extent: him
+T24	ACE-Mention 1041 1065	the center of the runway
+#24	ACE T24	entityID: APW20001221.0431.0227-E14; extent: the center of the runway
+T25	ACE-Mention 1068 1085	airport officials
+#25	ACE T25	entityID: APW20001221.0431.0227-E29; extent: airport officials
+T26	ACE-Mention 1094 1102	The four
+#26	ACE T26	entityID: APW20001221.0431.0227-E5; extent: The four
+T27	ACE-Mention 1118 1130	the wreckage
+#27	ACE T27	entityID: APW20001221.0431.0227-E6; extent: the wreckage
+T28	ACE-Mention 1141 1152	the airport
+#28	ACE T28	entityID: APW20001221.0431.0227-E28; extent: the airport
+T29	ACE-Mention 1172 1176	they
+#29	ACE T29	entityID: APW20001221.0431.0227-E5; extent: they
+T30	ACE-Mention 1187 1191	here
+#30	ACE T30	entityID: APW20001221.0431.0227-E28; extent: here
+T31	ACE-Mention 1202 1213	a custodian
+#31	ACE T31	entityID: APW20001221.0431.0227-E15; extent: a custodian
+T32	ACE-Mention 1220 1223	she
+#32	ACE T32	entityID: APW20001221.0431.0227-E15; extent: she
+T33	ACE-Mention 1231 1285	some other people who called the sheriff 's department
+#33	ACE T33	entityID: APW20001221.0431.0227-E16; extent: some other people who called the sheriff 's department
+T34	ACE-Mention 1291 1297	Larson
+#34	ACE T34	entityID: APW20001221.0431.0227-E2; extent: Larson
+T35	ACE-Mention 1351 1369	a private airplane
+#35	ACE T35	entityID: APW20001221.0431.0227-E18; extent: a private airplane
+T36	ACE-Mention 1397 1403	Larson
+#36	ACE T36	entityID: APW20001221.0431.0227-E2; extent: Larson
+T37	ACE-Mention 1409 1420	the airport
+#37	ACE T37	entityID: APW20001221.0431.0227-E4; extent: the airport
+T38	ACE-Mention 1442 1448	runway
+#38	ACE T38	entityID: APW20001221.0431.0227-E19; extent: runway

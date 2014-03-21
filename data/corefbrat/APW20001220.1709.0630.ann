@@ -1,0 +1,88 @@
+T0	ACE-Mention 108 116	NEW YORK
+#0	ACE T0	entityID: APW20001220.1709.0630-E22; extent: NEW YORK
+T1	ACE-Mention 117 121	(AP)
+#1	ACE T1	entityID: APW20001220.1709.0630-E24; extent: (AP)
+T2	ACE-Mention 194 221	the New York Stock Exchange
+#2	ACE T2	entityID: APW20001220.1709.0630-E25; extent: the New York Stock Exchange
+T3	ACE-Mention 226 249	the Nasdaq Stock Market
+#3	ACE T3	entityID: APW20001220.1709.0630-E26; extent: the Nasdaq Stock Market
+T4	ACE-Mention 253 257	NYSE
+#4	ACE T4	entityID: APW20001220.1709.0630-E25; extent: NYSE
+T5	ACE-Mention 258 281	International Paper Co.
+#5	ACE T5	entityID: APW20001220.1709.0630-E27; extent: International Paper Co.
+T6	ACE-Mention 309 328	International Paper
+#6	ACE T6	entityID: APW20001220.1709.0630-E27; extent: International Paper
+T7	ACE-Mention 417 426	Dow Jones
+#7	ACE T7	entityID: APW20001220.1709.0630-E29; extent: Dow Jones
+T8	ACE-Mention 474 478	U.S.
+#8	ACE T8	entityID: APW20001220.1709.0630-E28; extent: U.S.
+T9	ACE-Mention 511 528	Exxon Mobil Corp.
+#9	ACE T9	entityID: APW20001220.1709.0630-E30; extent: Exxon Mobil Corp.
+T10	ACE-Mention 554 569	An Alabama jury
+#10	ACE T10	entityID: APW20001220.1709.0630-E31; extent: An Alabama jury
+T11	ACE-Mention 622 627	Exxon
+#11	ACE T11	entityID: APW20001220.1709.0630-E30; extent: Exxon
+T12	ACE-Mention 638 653	the oil company
+#12	ACE T12	entityID: APW20001220.1709.0630-E30; extent: the oil company
+T13	ACE-Mention 664 673	the state
+#13	ACE T13	entityID: APW20001220.1709.0630-E32; extent: the state
+T14	ACE-Mention 692 725	natural gas wells in state waters
+#14	ACE T14	entityID: APW20001220.1709.0630-E34; extent: natural gas wells in state waters
+T15	ACE-Mention 729 747	Glaxo Wellcome PLC
+#15	ACE T15	entityID: APW20001220.1709.0630-E1; extent: Glaxo Wellcome PLC
+T16	ACE-Mention 777 799	SmithKline Beecham PLC
+#16	ACE T16	entityID: APW20001220.1709.0630-E2; extent: SmithKline Beecham PLC
+T17	ACE-Mention 825 843	The drug companies
+#17	ACE T17	entityID: APW20001220.1709.0630-E3; extent: The drug companies
+T18	ACE-Mention 882 887	their
+#18	ACE T18	entityID: APW20001220.1709.0630-E3; extent: their
+T19	ACE-Mention 928 971	the world 's largest pharmaceutical company
+#19	ACE T19	entityID: APW20001220.1709.0630-E5; extent: the world 's largest pharmaceutical company
+T20	ACE-Mention 975 996	Britain 's High Court
+#20	ACE T20	entityID: APW20001220.1709.0630-E7; extent: Britain 's High Court
+T21	ACE-Mention 1019 1024	their
+#21	ACE T21	entityID: APW20001220.1709.0630-E3; extent: their
+T22	ACE-Mention 1057 1080	their combined business
+#22	ACE T22	entityID: APW20001220.1709.0630-E5; extent: their combined business
+T23	ACE-Mention 1083 1098	GlaxoSmithKline
+#23	ACE T23	entityID: APW20001220.1709.0630-E5; extent: GlaxoSmithKline
+T24	ACE-Mention 1102 1108	NASDAQ
+#24	ACE T24	entityID: APW20001220.1709.0630-E26; extent: NASDAQ
+T25	ACE-Mention 1109 1122	Cisco Systems
+#25	ACE T25	entityID: APW20001220.1709.0630-E9; extent: Cisco Systems
+T26	ACE-Mention 1148 1176	An anlayst for Merrill Lynch
+#26	ACE T26	entityID: APW20001220.1709.0630-E10; extent: An anlayst for Merrill Lynch
+T27	ACE-Mention 1185 1188	his
+#27	ACE T27	entityID: APW20001220.1709.0630-E10; extent: his
+T28	ACE-Mention 1218 1223	Cisco
+#28	ACE T28	entityID: APW20001220.1709.0630-E9; extent: Cisco
+T29	ACE-Mention 1327 1334	Onvia .
+#29	ACE T29	entityID: APW20001220.1709.0630-E12; extent: Onvia .
+T30	ACE-Mention 1394 1423	floundering dot-com companies
+#30	ACE T30	entityID: APW20001220.1709.0630-E13; extent: floundering dot-com companies
+T31	ACE-Mention 1426 1433	Onvia .
+#31	ACE T31	entityID: APW20001220.1709.0630-E12; extent: Onvia .
+T32	ACE-Mention 1452 1454	it
+#32	ACE T32	entityID: APW20001220.1709.0630-E12; extent: it
+T33	ACE-Mention 1476 1478	it
+#33	ACE T33	entityID: APW20001220.1709.0630-E12; extent: it
+T34	ACE-Mention 1484 1501	Firstsource Corp.
+#34	ACE T34	entityID: APW20001220.1709.0630-E14; extent: Firstsource Corp.
+T35	ACE-Mention 1524 1527	its
+#35	ACE T35	entityID: APW20001220.1709.0630-E12; extent: its
+T36	ACE-Mention 1557 1562	Onvia
+#36	ACE T36	entityID: APW20001220.1709.0630-E12; extent: Onvia
+T37	ACE-Mention 1566 1638	a business-to-business marketplace for small-business buyers and sellers
+#37	ACE T37	entityID: APW20001220.1709.0630-E15; extent: a business-to-business marketplace for small-business buyers and sellers
+T38	ACE-Mention 1642 1670	Applied Micro Circuits Corp.
+#38	ACE T38	entityID: APW20001220.1709.0630-E18; extent: Applied Micro Circuits Corp.
+T39	ACE-Mention 1696 1752	The maker of chips used in fiber-optic telecommunicatons
+#39	ACE T39	entityID: APW20001220.1709.0630-E18; extent: The maker of chips used in fiber-optic telecommunicatons
+T40	ACE-Mention 1766 1783	J.P. Morgan & Co.
+#40	ACE T40	entityID: APW20001220.1709.0630-E19; extent: J.P. Morgan & Co.
+T41	ACE-Mention 1859 1880	Chase Manhattan Corp.
+#41	ACE T41	entityID: APW20001220.1709.0630-E20; extent: Chase Manhattan Corp.
+T42	ACE-Mention 1883 1905	a Dow Jones industrial
+#42	ACE T42	entityID: APW20001220.1709.0630-E20; extent: a Dow Jones industrial
+T43	ACE-Mention 1918 1929	J.P. Morgan
+#43	ACE T43	entityID: APW20001220.1709.0630-E19; extent: J.P. Morgan

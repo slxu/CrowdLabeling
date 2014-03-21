@@ -1,0 +1,174 @@
+T0	ACE-Mention 345 354	HONG KONG
+#0	ACE T0	entityID: NYT20001124.2050.0257-E21; extent: HONG KONG
+T1	ACE-Mention 381 385	Asia
+#1	ACE T1	entityID: NYT20001124.2050.0257-E1; extent: Asia
+T2	ACE-Mention 497 507	economists
+#2	ACE T2	entityID: NYT20001124.2050.0257-E46; extent: economists
+T3	ACE-Mention 537 542	earth
+#3	ACE T3	entityID: NYT20001124.2050.0257-E47; extent: earth
+T4	ACE-Mention 596 605	Hong Kong
+#4	ACE T4	entityID: NYT20001124.2050.0257-E21; extent: Hong Kong
+T5	ACE-Mention 620 623	its
+#5	ACE T5	entityID: NYT20001124.2050.0257-E21; extent: its
+T6	ACE-Mention 687 689	it
+#6	ACE T6	entityID: NYT20001124.2050.0257-E21; extent: it
+T7	ACE-Mention 697 700	its
+#7	ACE T7	entityID: NYT20001124.2050.0257-E21; extent: its
+T8	ACE-Mention 786 817	the International Monetary Fund
+#8	ACE T8	entityID: NYT20001124.2050.0257-E48; extent: the International Monetary Fund
+T9	ACE-Mention 851 856	Asian
+#9	ACE T9	entityID: NYT20001124.2050.0257-E1; extent: Asian
+T10	ACE-Mention 947 954	The IMF
+#10	ACE T10	entityID: NYT20001124.2050.0257-E48; extent: The IMF
+T11	ACE-Mention 1038 1053	Asian countries
+#11	ACE T11	entityID: NYT20001124.2050.0257-E2; extent: Asian countries
+T12	ACE-Mention 1127 1141	David Robinson
+#12	ACE T12	entityID: NYT20001124.2050.0257-E3; extent: David Robinson
+T13	ACE-Mention 1144 1186	assistant director of research at the fund
+#13	ACE T13	entityID: NYT20001124.2050.0257-E3; extent: assistant director of research at the fund
+T14	ACE-Mention 1252 1261	the world
+#14	ACE T14	entityID: NYT20001124.2050.0257-E5; extent: the world
+T15	ACE-Mention 1277 1281	Asia
+#15	ACE T15	entityID: NYT20001124.2050.0257-E1; extent: Asia
+T16	ACE-Mention 1288 1362	Several Asian countries _ notably the Philippines , Taiwan , and Indonesia
+#16	ACE T16	entityID: NYT20001124.2050.0257-E6; extent: Several Asian countries _ notably the Philippines , Taiwan , and Indonesia
+T17	ACE-Mention 1422 1447	The Philippines president
+#17	ACE T17	entityID: NYT20001124.2050.0257-E10; extent: The Philippines president
+T18	ACE-Mention 1450 1464	Joseph Estrada
+#18	ACE T18	entityID: NYT20001124.2050.0257-E10; extent: Joseph Estrada
+T19	ACE-Mention 1499 1513	Chen Shui-bian
+#19	ACE T19	entityID: NYT20001124.2050.0257-E13; extent: Chen Shui-bian
+T20	ACE-Mention 1516 1539	the president of Taiwan
+#20	ACE T20	entityID: NYT20001124.2050.0257-E13; extent: the president of Taiwan
+T21	ACE-Mention 1589 1642	more stable countries , like Malaysia and South Korea
+#21	ACE T21	entityID: NYT20001124.2050.0257-E15; extent: more stable countries , like Malaysia and South Korea
+T22	ACE-Mention 1645 1653	Robinson
+#22	ACE T22	entityID: NYT20001124.2050.0257-E3; extent: Robinson
+T23	ACE-Mention 1659 1667	the Fund
+#23	ACE T23	entityID: NYT20001124.2050.0257-E48; extent: the Fund
+T24	ACE-Mention 1730 1744	many countries
+#24	ACE T24	entityID: NYT20001124.2050.0257-E18; extent: many countries
+T25	ACE-Mention 1747 1773	the banks and corporations
+#25	ACE T25	entityID: NYT20001124.2050.0257-E19; extent: the banks and corporations
+T26	ACE-Mention 1805 1807	We
+#26	ACE T26	entityID: NYT20001124.2050.0257-E48; extent: We
+T27	ACE-Mention 1825 1849	chaebols in deep trouble
+#27	ACE T27	entityID: NYT20001124.2050.0257-E20; extent: chaebols in deep trouble
+T28	ACE-Mention 1855 1857	he
+#28	ACE T28	entityID: NYT20001124.2050.0257-E3; extent: he
+T29	ACE-Mention 1878 1917	Korea 's heavily indebted conglomerates
+#29	ACE T29	entityID: NYT20001124.2050.0257-E20; extent: Korea 's heavily indebted conglomerates
+T30	ACE-Mention 1925 1933	Robinson
+#30	ACE T30	entityID: NYT20001124.2050.0257-E3; extent: Robinson
+T31	ACE-Mention 2027 2040	the countries
+#31	ACE T31	entityID: NYT20001124.2050.0257-E15; extent: the countries
+T32	ACE-Mention 2057 2068	South Korea
+#32	ACE T32	entityID: NYT20001124.2050.0257-E16; extent: South Korea
+T33	ACE-Mention 2104 2107	its
+#33	ACE T33	entityID: NYT20001124.2050.0257-E16; extent: its
+T34	ACE-Mention 2156 2169	most analysts
+#34	ACE T34	entityID: NYT20001124.2050.0257-E22; extent: most analysts
+T35	ACE-Mention 2217 2226	Indonesia
+#35	ACE T35	entityID: NYT20001124.2050.0257-E9; extent: Indonesia
+T36	ACE-Mention 2229 2237	Malaysia
+#36	ACE T36	entityID: NYT20001124.2050.0257-E17; extent: Malaysia
+T37	ACE-Mention 2244 2253	Singapore
+#37	ACE T37	entityID: NYT20001124.2050.0257-E23; extent: Singapore
+T38	ACE-Mention 2292 2301	Hong Kong
+#38	ACE T38	entityID: NYT20001124.2050.0257-E21; extent: Hong Kong
+T39	ACE-Mention 2379 2419	12 economists surveyed by Bloomberg News
+#39	ACE T39	entityID: NYT20001124.2050.0257-E24; extent: 12 economists surveyed by Bloomberg News
+T40	ACE-Mention 2434 2439	Asian
+#40	ACE T40	entityID: NYT20001124.2050.0257-E1; extent: Asian
+T41	ACE-Mention 2452 2461	Hong Kong
+#41	ACE T41	entityID: NYT20001124.2050.0257-E21; extent: Hong Kong
+T42	ACE-Mention 2510 2513	its
+#42	ACE T42	entityID: NYT20001124.2050.0257-E21; extent: its
+T43	ACE-Mention 2539 2556	the United States
+#43	ACE T43	entityID: NYT20001124.2050.0257-E26; extent: the United States
+T44	ACE-Mention 2612 2621	Hong Kong
+#44	ACE T44	entityID: NYT20001124.2050.0257-E21; extent: Hong Kong
+T45	ACE-Mention 2702 2716	mainland China
+#45	ACE T45	entityID: NYT20001124.2050.0257-E27; extent: mainland China
+T46	ACE-Mention 2720 2728	Consumer
+#46	ACE T46	entityID: NYT20001124.2050.0257-E28; extent: Consumer
+T47	ACE-Mention 2840 2848	consumer
+#47	ACE T47	entityID: NYT20001124.2050.0257-E28; extent: consumer
+T48	ACE-Mention 2925 2935	Ian Perkin
+#48	ACE T48	entityID: NYT20001124.2050.0257-E29; extent: Ian Perkin
+T49	ACE-Mention 2938 2998	chief economist at the Hong Kong General Chamber of Commerce
+#49	ACE T49	entityID: NYT20001124.2050.0257-E29; extent: chief economist at the Hong Kong General Chamber of Commerce
+T50	ACE-Mention 3031 3040	Hong Kong
+#50	ACE T50	entityID: NYT20001124.2050.0257-E21; extent: Hong Kong
+T51	ACE-Mention 3045 3066	other Asian countries
+#51	ACE T51	entityID: NYT20001124.2050.0257-E32; extent: other Asian countries
+T52	ACE-Mention 3074 3079	their
+#52	ACE T52	entityID: NYT20001124.2050.0257-E33; extent: their
+T53	ACE-Mention 3110 3120	the region
+#53	ACE T53	entityID: NYT20001124.2050.0257-E34; extent: the region
+T54	ACE-Mention 3203 3205	We
+#54	ACE T54	entityID: NYT20001124.2050.0257-E35; extent: We
+T55	ACE-Mention 3224 3227	our
+#55	ACE T55	entityID: NYT20001124.2050.0257-E35; extent: our
+T56	ACE-Mention 3256 3258	he
+#56	ACE T56	entityID: NYT20001124.2050.0257-E29; extent: he
+T57	ACE-Mention 3338 3346	consumer
+#57	ACE T57	entityID: NYT20001124.2050.0257-E28; extent: consumer
+T58	ACE-Mention 3370 3380	the States
+#58	ACE T58	entityID: NYT20001124.2050.0257-E26; extent: the States
+T59	ACE-Mention 3420 3424	Asia
+#59	ACE T59	entityID: NYT20001124.2050.0257-E1; extent: Asia
+T60	ACE-Mention 3435 3441	Perkin
+#60	ACE T60	entityID: NYT20001124.2050.0257-E29; extent: Perkin
+T61	ACE-Mention 3482 3501	Robinson of the IMF
+#61	ACE T61	entityID: NYT20001124.2050.0257-E3; extent: Robinson of the IMF
+T62	ACE-Mention 3553 3560	the IMF
+#62	ACE T62	entityID: NYT20001124.2050.0257-E48; extent: the IMF
+T63	ACE-Mention 3580 3585	world
+#63	ACE T63	entityID: NYT20001124.2050.0257-E5; extent: world
+T64	ACE-Mention 3633 3649	Asia as a region
+#64	ACE T64	entityID: NYT20001124.2050.0257-E1; extent: Asia as a region
+T65	ACE-Mention 3688 3696	Robinson
+#65	ACE T65	entityID: NYT20001124.2050.0257-E3; extent: Robinson
+T66	ACE-Mention 3742 3744	he
+#66	ACE T66	entityID: NYT20001124.2050.0257-E3; extent: he
+T67	ACE-Mention 3841 3861	many Asian countries
+#67	ACE T67	entityID: NYT20001124.2050.0257-E38; extent: many Asian countries
+T68	ACE-Mention 3924 3931	the IMF
+#68	ACE T68	entityID: NYT20001124.2050.0257-E48; extent: the IMF
+T69	ACE-Mention 3939 3942	its
+#69	ACE T69	entityID: NYT20001124.2050.0257-E48; extent: its
+T70	ACE-Mention 3986 3990	Asia
+#70	ACE T70	entityID: NYT20001124.2050.0257-E1; extent: Asia
+T71	ACE-Mention 4025 4033	Robinson
+#71	ACE T71	entityID: NYT20001124.2050.0257-E3; extent: Robinson
+T72	ACE-Mention 4039 4049	the region
+#72	ACE T72	entityID: NYT20001124.2050.0257-E1; extent: the region
+T73	ACE-Mention 4064 4067	its
+#73	ACE T73	entityID: NYT20001124.2050.0257-E1; extent: its
+T74	ACE-Mention 4098 4101	its
+#74	ACE T74	entityID: NYT20001124.2050.0257-E1; extent: its
+T75	ACE-Mention 4122 4160	One bright spot in the Asian landscape
+#75	ACE T75	entityID: NYT20001124.2050.0257-E39; extent: One bright spot in the Asian landscape
+T76	ACE-Mention 4164 4224	China , which is on track to record 8 percent growth in 2000
+#76	ACE T76	entityID: NYT20001124.2050.0257-E39; extent: China , which is on track to record 8 percent growth in 2000
+T77	ACE-Mention 4228 4236	Robinson
+#77	ACE T77	entityID: NYT20001124.2050.0257-E3; extent: Robinson
+T78	ACE-Mention 4267 4282	Chinese leaders
+#78	ACE T78	entityID: NYT20001124.2050.0257-E41; extent: Chinese leaders
+T79	ACE-Mention 4295 4299	they
+#79	ACE T79	entityID: NYT20001124.2050.0257-E41; extent: they
+T80	ACE-Mention 4417 4423	Perkin
+#80	ACE T80	entityID: NYT20001124.2050.0257-E29; extent: Perkin
+T81	ACE-Mention 4426 4434	Robinson
+#81	ACE T81	entityID: NYT20001124.2050.0257-E3; extent: Robinson
+T82	ACE-Mention 4440 4444	Asia
+#82	ACE T82	entityID: NYT20001124.2050.0257-E1; extent: Asia
+T83	ACE-Mention 4495 4512	the United States
+#83	ACE T83	entityID: NYT20001124.2050.0257-E26; extent: the United States
+T84	ACE-Mention 4520 4522	he
+#84	ACE T84	entityID: NYT20001124.2050.0257-E3; extent: he
+T85	ACE-Mention 4532 4633	those who predict dramatically slowing growth _ the so-called hard landing _ for the American economy
+#85	ACE T85	entityID: NYT20001124.2050.0257-E43; extent: those who predict dramatically slowing growth _ the so-called hard landing _ for the American economy
+T86	ACE-Mention 4700 4702	he
+#86	ACE T86	entityID: NYT20001124.2050.0257-E3; extent: he

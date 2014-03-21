@@ -1,0 +1,100 @@
+T0	ACE-Mention 112 122	WASHINGTON
+#0	ACE T0	entityID: APW20001113.2122.0704-E23; extent: WASHINGTON
+T1	ACE-Mention 123 127	(AP)
+#1	ACE T1	entityID: APW20001113.2122.0704-E38; extent: (AP)
+T2	ACE-Mention 162 190	the House of Representatives
+#2	ACE T2	entityID: APW20001113.2122.0704-E39; extent: the House of Representatives
+T3	ACE-Mention 283 293	Republican
+#3	ACE T3	entityID: APW20001113.2122.0704-E13; extent: Republican
+T4	ACE-Mention 307 334	the incoming 107th Congress
+#4	ACE T4	entityID: APW20001113.2122.0704-E41; extent: the incoming 107th Congress
+T5	ACE-Mention 338 358	The Associated Press
+#5	ACE T5	entityID: APW20001113.2122.0704-E38; extent: The Associated Press
+T6	ACE-Mention 370 692	winners in all but two House races : New Jersey 's 12th district battle between incumbent Democratic Rep. Rush Holt and GOP challenger Dick Zimmer , who formerly held the seat ; and in Florida 's 22nd District , where veteran GOP Rep. Clay Shaw has claimed a 586-vote victory following a recount over Democrat Elaine Bloom
+#6	ACE T6	entityID: APW20001113.2122.0704-E42; extent: winners in all but two House races : New Jersey 's 12th district battle between incumbent Democratic Rep. Rush Holt and GOP challenger Dick Zimmer , who formerly held the seat ; and in Florida 's 22nd District , where veteran GOP Rep. Clay Shaw has claimed a 586-vote victory following a recount over Democrat Elaine Bloom
+T7	ACE-Mention 752 761	Minnesota
+#7	ACE T7	entityID: APW20001113.2122.0704-E6; extent: Minnesota
+T8	ACE-Mention 764 774	California
+#8	ACE T8	entityID: APW20001113.2122.0704-E7; extent: California
+T9	ACE-Mention 779 787	Michigan
+#9	ACE T9	entityID: APW20001113.2122.0704-E8; extent: Michigan
+T10	ACE-Mention 790 795	where
+#10	ACE T10	entityID: APW20001113.2122.0704-E9; extent: where
+T11	ACE-Mention 796 815	the apparent losers
+#11	ACE T11	entityID: APW20001113.2122.0704-E10; extent: the apparent losers
+T12	ACE-Mention 887 911	Michigan 's 8th District
+#12	ACE T12	entityID: APW20001113.2122.0704-E19; extent: Michigan 's 8th District
+T13	ACE-Mention 914 936	Republican Mike Rogers
+#13	ACE T13	entityID: APW20001113.2122.0704-E20; extent: Republican Mike Rogers
+T14	ACE-Mention 949 970	Democrat Dianne Byrum
+#14	ACE T14	entityID: APW20001113.2122.0704-E21; extent: Democrat Dianne Byrum
+T15	ACE-Mention 1043 1049	Rogers
+#15	ACE T15	entityID: APW20001113.2122.0704-E20; extent: Rogers
+T16	ACE-Mention 1094 1102	freshman
+#16	ACE T16	entityID: APW20001113.2122.0704-E22; extent: freshman
+T17	ACE-Mention 1125 1136	the Capitol
+#17	ACE T17	entityID: APW20001113.2122.0704-E24; extent: the Capitol
+T18	ACE-Mention 1156 1158	my
+#18	ACE T18	entityID: APW20001113.2122.0704-E20; extent: my
+T19	ACE-Mention 1192 1198	Rogers
+#19	ACE T19	entityID: APW20001113.2122.0704-E20; extent: Rogers
+T20	ACE-Mention 1210 1211	I
+#20	ACE T20	entityID: APW20001113.2122.0704-E20; extent: I
+T21	ACE-Mention 1276 1285	Minnesota
+#21	ACE T21	entityID: APW20001113.2122.0704-E6; extent: Minnesota
+T22	ACE-Mention 1288 1311	Republican Mark Kennedy
+#22	ACE T22	entityID: APW20001113.2122.0704-E25; extent: Republican Mark Kennedy
+T23	ACE-Mention 1341 1378	four-term Democratic Rep. David Minge
+#23	ACE T23	entityID: APW20001113.2122.0704-E26; extent: four-term Democratic Rep. David Minge
+T24	ACE-Mention 1387 1399	2nd District
+#24	ACE T24	entityID: APW20001113.2122.0704-E28; extent: 2nd District
+T25	ACE-Mention 1408 1413	Minge
+#25	ACE T25	entityID: APW20001113.2122.0704-E26; extent: Minge
+T26	ACE-Mention 1423 1425	he
+#26	ACE T26	entityID: APW20001113.2122.0704-E26; extent: he
+T27	ACE-Mention 1479 1484	state
+#27	ACE T27	entityID: APW20001113.2122.0704-E6; extent: state
+T28	ACE-Mention 1489 1491	he
+#28	ACE T28	entityID: APW20001113.2122.0704-E26; extent: he
+T29	ACE-Mention 1543 1568	Rep. Steve Horn , R-Calif
+#29	ACE T29	entityID: APW20001113.2122.0704-E30; extent: Rep. Steve Horn , R-Calif
+T30	ACE-Mention 1622 1625	his
+#30	ACE T30	entityID: APW20001113.2122.0704-E30; extent: his
+T31	ACE-Mention 1626 1639	38th District
+#31	ACE T31	entityID: APW20001113.2122.0704-E32; extent: 38th District
+T32	ACE-Mention 1653 1677	Democrat Gerrie Schipske
+#32	ACE T32	entityID: APW20001113.2122.0704-E33; extent: Democrat Gerrie Schipske
+T33	ACE-Mention 1684 1687	she
+#33	ACE T33	entityID: APW20001113.2122.0704-E33; extent: she
+T34	ACE-Mention 1786 1856	people whose names did n't immediately match lists at polling stations
+#34	ACE T34	entityID: APW20001113.2122.0704-E34; extent: people whose names did n't immediately match lists at polling stations
+T35	ACE-Mention 1942 1952	New Jersey
+#35	ACE T35	entityID: APW20001113.2122.0704-E11; extent: New Jersey
+T36	ACE-Mention 1966 1970	Holt
+#36	ACE T36	entityID: APW20001113.2122.0704-E46; extent: Holt
+T37	ACE-Mention 1975 1981	Zimmer
+#37	ACE T37	entityID: APW20001113.2122.0704-E49; extent: Zimmer
+T38	ACE-Mention 1996 2001	court
+#38	ACE T38	entityID: APW20001113.2122.0704-E36; extent: court
+T39	ACE-Mention 2060 2067	Florida
+#39	ACE T39	entityID: APW20001113.2122.0704-E1; extent: Florida
+T40	ACE-Mention 2079 2096	Palm Beach County
+#40	ACE T40	entityID: APW20001113.2122.0704-E37; extent: Palm Beach County
+T41	ACE-Mention 2173 2178	Bloom
+#41	ACE T41	entityID: APW20001113.2122.0704-E5; extent: Bloom
+T42	ACE-Mention 2199 2206	Florida
+#42	ACE T42	entityID: APW20001113.2122.0704-E1; extent: Florida
+T43	ACE-Mention 2211 2221	New Jersey
+#43	ACE T43	entityID: APW20001113.2122.0704-E11; extent: New Jersey
+T44	ACE-Mention 2230 2241	Republicans
+#44	ACE T44	entityID: APW20001113.2122.0704-E13; extent: Republicans
+T45	ACE-Mention 2264 2282	the incoming House
+#45	ACE T45	entityID: APW20001113.2122.0704-E18; extent: the incoming House
+T46	ACE-Mention 2287 2300	the Democrats
+#46	ACE T46	entityID: APW20001113.2122.0704-E14; extent: the Democrats
+T47	ACE-Mention 2323 2339	two independents
+#47	ACE T47	entityID: APW20001113.2122.0704-E15; extent: two independents
+T48	ACE-Mention 2342 2369	one aligned with each party
+#48	ACE T48	entityID: APW20001113.2122.0704-E16; extent: one aligned with each party
+T49	ACE-Mention 2391 2398	the GOP
+#49	ACE T49	entityID: APW20001113.2122.0704-E13; extent: the GOP

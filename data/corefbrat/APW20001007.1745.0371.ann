@@ -1,0 +1,182 @@
+T0	ACE-Mention 112 130	NABLUS , West Bank
+#0	ACE T0	entityID: APW20001007.1745.0371-E14; extent: NABLUS , West Bank
+T1	ACE-Mention 131 135	(AP)
+#1	ACE T1	entityID: APW20001007.1745.0371-E64; extent: (AP)
+T2	ACE-Mention 138 152	Joseph 's Tomb
+#2	ACE T2	entityID: APW20001007.1745.0371-E39; extent: Joseph 's Tomb
+T3	ACE-Mention 155 207	the flashpoint in a week of bitter West Bank clashes
+#3	ACE T3	entityID: APW20001007.1745.0371-E39; extent: the flashpoint in a week of bitter West Bank clashes
+T4	ACE-Mention 217 234	a casualty of war
+#4	ACE T4	entityID: APW20001007.1745.0371-E39; extent: a casualty of war
+T5	ACE-Mention 238 272	The steps leading down to the tomb
+#5	ACE T5	entityID: APW20001007.1745.0371-E59; extent: The steps leading down to the tomb
+T6	ACE-Mention 384 392	the tomb
+#6	ACE T6	entityID: APW20001007.1745.0371-E39; extent: the tomb
+T7	ACE-Mention 610 688	this holy site , revered by some as the burial place of the biblical patriarch
+#7	ACE T7	entityID: APW20001007.1745.0371-E39; extent: this holy site , revered by some as the burial place of the biblical patriarch
+T8	ACE-Mention 692 704	The compound
+#8	ACE T8	entityID: APW20001007.1745.0371-E39; extent: The compound
+T9	ACE-Mention 709 787	home to a Jewish seminary , where about 30 students would study during the day
+#9	ACE T9	entityID: APW20001007.1745.0371-E39; extent: home to a Jewish seminary , where about 30 students would study during the day
+T10	ACE-Mention 791 807	The Israeli army
+#10	ACE T10	entityID: APW20001007.1745.0371-E73; extent: The Israeli army
+T11	ACE-Mention 818 829	the outpost
+#11	ACE T11	entityID: APW20001007.1745.0371-E39; extent: the outpost
+T12	ACE-Mention 870 875	there
+#12	ACE T12	entityID: APW20001007.1745.0371-E39; extent: there
+T13	ACE-Mention 893 909	six Palestinians
+#13	ACE T13	entityID: APW20001007.1745.0371-E1; extent: six Palestinians
+T14	ACE-Mention 914 941	an Israeli border policeman
+#14	ACE T14	entityID: APW20001007.1745.0371-E2; extent: an Israeli border policeman
+T15	ACE-Mention 945 957	The seminary
+#15	ACE T15	entityID: APW20001007.1745.0371-E70; extent: The seminary
+T16	ACE-Mention 997 1027	Palestinian security officials
+#16	ACE T16	entityID: APW20001007.1745.0371-E5; extent: Palestinian security officials
+T17	ACE-Mention 1056 1080	hundreds of Palestinians
+#17	ACE T17	entityID: APW20001007.1745.0371-E6; extent: hundreds of Palestinians
+T18	ACE-Mention 1094 1125	the square in front of the site
+#18	ACE T18	entityID: APW20001007.1745.0371-E7; extent: the square in front of the site
+T19	ACE-Mention 1175 1203	dozens of Palestinian gunmen
+#19	ACE T19	entityID: APW20001007.1745.0371-E8; extent: dozens of Palestinian gunmen
+T20	ACE-Mention 1253 1265	the compound
+#20	ACE T20	entityID: APW20001007.1745.0371-E39; extent: the compound
+T21	ACE-Mention 1273 1279	crowds
+#21	ACE T21	entityID: APW20001007.1745.0371-E63; extent: crowds
+T22	ACE-Mention 1292 1300	the tomb
+#22	ACE T22	entityID: APW20001007.1745.0371-E39; extent: the tomb
+T23	ACE-Mention 1339 1358	the stone buildings
+#23	ACE T23	entityID: APW20001007.1745.0371-E9; extent: the stone buildings
+T24	ACE-Mention 1365 1367	We
+#24	ACE T24	entityID: APW20001007.1745.0371-E10; extent: We
+T25	ACE-Mention 1378 1386	the Jews
+#25	ACE T25	entityID: APW20001007.1745.0371-E11; extent: the Jews
+T26	ACE-Mention 1413 1480	Haitham Najid Kabee , 14 , who vandalized the tomb with his friends
+#26	ACE T26	entityID: APW20001007.1745.0371-E12; extent: Haitham Najid Kabee , 14 , who vandalized the tomb with his friends
+T27	ACE-Mention 1484 1509	Nablus Gov. Mahmoud Aloul
+#27	ACE T27	entityID: APW20001007.1745.0371-E15; extent: Nablus Gov. Mahmoud Aloul
+T28	ACE-Mention 1518 1528	the square
+#28	ACE T28	entityID: APW20001007.1745.0371-E7; extent: the square
+T29	ACE-Mention 1543 1554	the vandals
+#29	ACE T29	entityID: APW20001007.1745.0371-E17; extent: the vandals
+T30	ACE-Mention 1569 1571	We
+#30	ACE T30	entityID: APW20001007.1745.0371-E18; extent: We
+T31	ACE-Mention 1587 1600	this building
+#31	ACE T31	entityID: APW20001007.1745.0371-E19; extent: this building
+T32	ACE-Mention 1610 1612	it
+#32	ACE T32	entityID: APW20001007.1745.0371-E19; extent: it
+T33	ACE-Mention 1626 1666	our martyrs who were killed defending it
+#33	ACE T33	entityID: APW20001007.1745.0371-E21; extent: our martyrs who were killed defending it
+T34	ACE-Mention 1677 1726	Aloul , whose son was killed in clashes last week
+#34	ACE T34	entityID: APW20001007.1745.0371-E15; extent: Aloul , whose son was killed in clashes last week
+T35	ACE-Mention 1733 1735	We
+#35	ACE T35	entityID: APW20001007.1745.0371-E18; extent: We
+T36	ACE-Mention 1746 1750	here
+#36	ACE T36	entityID: APW20001007.1745.0371-E39; extent: here
+T37	ACE-Mention 1751 1759	together
+#37	ACE T37	entityID: APW20001007.1745.0371-E18; extent: together
+T38	ACE-Mention 1772 1780	any Jews
+#38	ACE T38	entityID: APW20001007.1745.0371-E24; extent: any Jews
+T39	ACE-Mention 1801 1811	this place
+#39	ACE T39	entityID: APW20001007.1745.0371-E39; extent: this place
+T40	ACE-Mention 1822 1834	the governor
+#40	ACE T40	entityID: APW20001007.1745.0371-E15; extent: the governor
+T41	ACE-Mention 1860 1873	Demonstrators
+#41	ACE T41	entityID: APW20001007.1745.0371-E25; extent: Demonstrators
+T42	ACE-Mention 1880 1886	Jewish
+#42	ACE T42	entityID: APW20001007.1745.0371-E72; extent: Jewish
+T43	ACE-Mention 1905 1913	the tomb
+#43	ACE T43	entityID: APW20001007.1745.0371-E39; extent: the tomb
+T44	ACE-Mention 1944 1963	Some laughing teens
+#44	ACE T44	entityID: APW20001007.1745.0371-E26; extent: Some laughing teens
+T45	ACE-Mention 1978 1990	the compound
+#45	ACE T45	entityID: APW20001007.1745.0371-E39; extent: the compound
+T46	ACE-Mention 1999 2006	Israeli
+#46	ACE T46	entityID: APW20001007.1745.0371-E35; extent: Israeli
+T47	ACE-Mention 2041 2047	Dozens
+#47	ACE T47	entityID: APW20001007.1745.0371-E28; extent: Dozens
+T48	ACE-Mention 2071 2079	the tomb
+#48	ACE T48	entityID: APW20001007.1745.0371-E19; extent: the tomb
+T49	ACE-Mention 2153 2165	firefighters
+#49	ACE T49	entityID: APW20001007.1745.0371-E29; extent: firefighters
+T50	ACE-Mention 2193 2205	the compound
+#50	ACE T50	entityID: APW20001007.1745.0371-E39; extent: the compound
+T51	ACE-Mention 2209 2215	People
+#51	ACE T51	entityID: APW20001007.1745.0371-E27; extent: People
+T52	ACE-Mention 2248 2362	the small enclave , now topped by a large flag of the radical Islamic group Hamas , and a smaller Palestinian flag
+#52	ACE T52	entityID: APW20001007.1745.0371-E39; extent: the small enclave , now topped by a large flag of the radical Islamic group Hamas , and a smaller Palestinian flag
+T53	ACE-Mention 2369 2370	I
+#53	ACE T53	entityID: APW20001007.1745.0371-E33; extent: I
+T54	ACE-Mention 2395 2418	Nidal Abdel Jawad , 40.
+#54	ACE T54	entityID: APW20001007.1745.0371-E33; extent: Nidal Abdel Jawad , 40.
+T55	ACE-Mention 2457 2461	they
+#55	ACE T55	entityID: APW20001007.1745.0371-E34; extent: they
+T56	ACE-Mention 2467 2471	here
+#56	ACE T56	entityID: APW20001007.1745.0371-E39; extent: here
+T57	ACE-Mention 2496 2502	troops
+#57	ACE T57	entityID: APW20001007.1745.0371-E34; extent: troops
+T58	ACE-Mention 2508 2516	the tomb
+#58	ACE T58	entityID: APW20001007.1745.0371-E19; extent: the tomb
+T59	ACE-Mention 2539 2545	Israel
+#59	ACE T59	entityID: APW20001007.1745.0371-E35; extent: Israel
+T60	ACE-Mention 2563 2572	territory
+#60	ACE T60	entityID: APW20001007.1745.0371-E36; extent: territory
+T61	ACE-Mention 2595 2606	Palestinian
+#61	ACE T61	entityID: APW20001007.1745.0371-E4; extent: Palestinian
+T62	ACE-Mention 2619 2655	Deputy Defense Minister Ephraim Sneh
+#62	ACE T62	entityID: APW20001007.1745.0371-E37; extent: Deputy Defense Minister Ephraim Sneh
+T63	ACE-Mention 2661 2672	the enclave
+#63	ACE T63	entityID: APW20001007.1745.0371-E39; extent: the enclave
+T64	ACE-Mention 2684 2695	a liability
+#64	ACE T64	entityID: APW20001007.1745.0371-E39; extent: a liability
+T65	ACE-Mention 2756 2773	Israeli officials
+#65	ACE T65	entityID: APW20001007.1745.0371-E40; extent: Israeli officials
+T66	ACE-Mention 2793 2809	The Palestinians
+#66	ACE T66	entityID: APW20001007.1745.0371-E41; extent: The Palestinians
+T67	ACE-Mention 2819 2824	their
+#67	ACE T67	entityID: APW20001007.1745.0371-E41; extent: their
+T68	ACE-Mention 2849 2860	this shrine
+#68	ACE T68	entityID: APW20001007.1745.0371-E39; extent: this shrine
+T69	ACE-Mention 2884 2907	the mob waiting outside
+#69	ACE T69	entityID: APW20001007.1745.0371-E42; extent: the mob waiting outside
+T70	ACE-Mention 2918 2958	Israeli government spokesman Nahman Shai
+#70	ACE T70	entityID: APW20001007.1745.0371-E43; extent: Israeli government spokesman Nahman Shai
+T71	ACE-Mention 2962 2964	He
+#71	ACE T71	entityID: APW20001007.1745.0371-E43; extent: He
+T72	ACE-Mention 2970 2984	the government
+#72	ACE T72	entityID: APW20001007.1745.0371-E35; extent: the government
+T73	ACE-Mention 3023 3031	the tomb
+#73	ACE T73	entityID: APW20001007.1745.0371-E19; extent: the tomb
+T74	ACE-Mention 3050 3078	the 15-member European Union
+#74	ACE T74	entityID: APW20001007.1745.0371-E45; extent: the 15-member European Union
+T75	ACE-Mention 3113 3121	The tomb
+#75	ACE T75	entityID: APW20001007.1745.0371-E19; extent: The tomb
+T76	ACE-Mention 3172 3178	Joseph
+#76	ACE T76	entityID: APW20001007.1745.0371-E47; extent: Joseph
+T77	ACE-Mention 3202 3207	Egypt
+#77	ACE T77	entityID: APW20001007.1745.0371-E48; extent: Egypt
+T78	ACE-Mention 3228 3236	the site
+#78	ACE T78	entityID: APW20001007.1745.0371-E39; extent: the site
+T79	ACE-Mention 3240 3246	Joseph
+#79	ACE T79	entityID: APW20001007.1745.0371-E47; extent: Joseph
+T80	ACE-Mention 3276 3280	Arab
+#80	ACE T80	entityID: APW20001007.1745.0371-E49; extent: Arab
+T81	ACE-Mention 3308 3317	some Jews
+#81	ACE T81	entityID: APW20001007.1745.0371-E50; extent: some Jews
+T82	ACE-Mention 3329 3330	I
+#82	ACE T82	entityID: APW20001007.1745.0371-E51; extent: I
+T83	ACE-Mention 3356 3362	Joseph
+#83	ACE T83	entityID: APW20001007.1745.0371-E47; extent: Joseph
+T84	ACE-Mention 3377 3382	there
+#84	ACE T84	entityID: APW20001007.1745.0371-E39; extent: there
+T85	ACE-Mention 3389 3399	this place
+#85	ACE T85	entityID: APW20001007.1745.0371-E39; extent: this place
+T86	ACE-Mention 3427 3526	Abdul Fateh Sayed , 62 , whose bookstore across the street was hit by stray bullets in the fighting
+#86	ACE T86	entityID: APW20001007.1745.0371-E51; extent: Abdul Fateh Sayed , 62 , whose bookstore across the street was hit by stray bullets in the fighting
+T87	ACE-Mention 3551 3553	We
+#87	ACE T87	entityID: APW20001007.1745.0371-E54; extent: We
+T88	ACE-Mention 3574 3576	he
+#88	ACE T88	entityID: APW20001007.1745.0371-E51; extent: he
+T89	ACE-Mention 3645 3652	bullets
+#89	ACE T89	entityID: APW20001007.1745.0371-E55; extent: bullets
+T90	ACE-Mention 3688 3722	a military base in a civilian area
+#90	ACE T90	entityID: APW20001007.1745.0371-E58; extent: a military base in a civilian area

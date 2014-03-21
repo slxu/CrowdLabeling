@@ -1,0 +1,64 @@
+T0	ACE-Mention 103 110	CHICAGO
+#0	ACE T0	entityID: APW20001129.1802.0602-E19; extent: CHICAGO
+T1	ACE-Mention 111 115	(AP)
+#1	ACE T1	entityID: APW20001129.1802.0602-E21; extent: (AP)
+T2	ACE-Mention 118 133	A federal judge
+#2	ACE T2	entityID: APW20001129.1802.0602-E18; extent: A federal judge
+T3	ACE-Mention 183 200	Copley Press Inc.
+#3	ACE T3	entityID: APW20001129.1802.0602-E10; extent: Copley Press Inc.
+T4	ACE-Mention 222 246	The News Sun in Waukegan
+#4	ACE T4	entityID: APW20001129.1802.0602-E17; extent: The News Sun in Waukegan
+T5	ACE-Mention 250 273	Hollinger International
+#5	ACE T5	entityID: APW20001129.1802.0602-E4; extent: Hollinger International
+T6	ACE-Mention 277 286	The judge
+#6	ACE T6	entityID: APW20001129.1802.0602-E18; extent: The judge
+T7	ACE-Mention 342 395	the union representing editorial workers at the paper
+#7	ACE T7	entityID: APW20001129.1802.0602-E27; extent: the union representing editorial workers at the paper
+T8	ACE-Mention 398 403	which
+#8	ACE T8	entityID: APW20001129.1802.0602-E27; extent: which
+T9	ACE-Mention 438 447	Hollinger
+#9	ACE T9	entityID: APW20001129.1802.0602-E4; extent: Hollinger
+T10	ACE-Mention 507 516	the paper
+#10	ACE T10	entityID: APW20001129.1802.0602-E17; extent: the paper
+T11	ACE-Mention 521 530	employees
+#11	ACE T11	entityID: APW20001129.1802.0602-E29; extent: employees
+T12	ACE-Mention 534 573	Lawyers for the Chicago Newspaper Guild
+#12	ACE T12	entityID: APW20001129.1802.0602-E30; extent: Lawyers for the Chicago Newspaper Guild
+T13	ACE-Mention 633 668	U.S. District Judge Blanche Manning
+#13	ACE T13	entityID: APW20001129.1802.0602-E18; extent: U.S. District Judge Blanche Manning
+T14	ACE-Mention 699 708	the paper
+#14	ACE T14	entityID: APW20001129.1802.0602-E17; extent: the paper
+T15	ACE-Mention 739 745	Copley
+#15	ACE T15	entityID: APW20001129.1802.0602-E10; extent: Copley
+T16	ACE-Mention 819 828	the union
+#16	ACE T16	entityID: APW20001129.1802.0602-E27; extent: the union
+T17	ACE-Mention 957 964	Manning
+#17	ACE T17	entityID: APW20001129.1802.0602-E18; extent: Manning
+T18	ACE-Mention 994 1012	lawyers for Copley
+#18	ACE T18	entityID: APW20001129.1802.0602-E1; extent: lawyers for Copley
+T19	ACE-Mention 1030 1034	they
+#19	ACE T19	entityID: APW20001129.1802.0602-E1; extent: they
+T20	ACE-Mention 1048 1055	Manning
+#20	ACE T20	entityID: APW20001129.1802.0602-E18; extent: Manning
+T21	ACE-Mention 1089 1105	Douglas A. Darch
+#21	ACE T21	entityID: APW20001129.1802.0602-E2; extent: Douglas A. Darch
+T22	ACE-Mention 1108 1130	an attorney for Copley
+#22	ACE T22	entityID: APW20001129.1802.0602-E2; extent: an attorney for Copley
+T23	ACE-Mention 1179 1188	The guild
+#23	ACE T23	entityID: APW20001129.1802.0602-E27; extent: The guild
+T24	ACE-Mention 1246 1252	Copley
+#24	ACE T24	entityID: APW20001129.1802.0602-E10; extent: Copley
+T25	ACE-Mention 1285 1308	Hollinger International
+#25	ACE T25	entityID: APW20001129.1802.0602-E4; extent: Hollinger International
+T26	ACE-Mention 1311 1380	owner of the Chicago Sun-Times and the Daily Southtown in Tinley Park
+#26	ACE T26	entityID: APW20001129.1802.0602-E4; extent: owner of the Chicago Sun-Times and the Daily Southtown in Tinley Park
+T27	ACE-Mention 1408 1420	The News Sun
+#27	ACE T27	entityID: APW20001129.1802.0602-E17; extent: The News Sun
+T28	ACE-Mention 1425 1562	other northern Illinois Copley newspapers , including The Courier News in Elgin , The Beacon News in Aurora and The Herald News in Joliet
+#28	ACE T28	entityID: APW20001129.1802.0602-E8; extent: other northern Illinois Copley newspapers , including The Courier News in Elgin , The Beacon News in Aurora and The Herald News in Joliet
+T29	ACE-Mention 1602 1631	the other Copley Press papers
+#29	ACE T29	entityID: APW20001129.1802.0602-E8; extent: the other Copley Press papers
+T30	ACE-Mention 1654 1666	The News Sun
+#30	ACE T30	entityID: APW20001129.1802.0602-E17; extent: The News Sun
+T31	ACE-Mention 1714 1730	the entire group
+#31	ACE T31	entityID: APW20001129.1802.0602-E8; extent: the entire group

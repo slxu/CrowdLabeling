@@ -1,0 +1,70 @@
+T0	ACE-Mention 559 567	consumer
+#0	ACE T0	entityID: NYT20001020.2144.0366-E13; extent: consumer
+T1	ACE-Mention 600 603	You
+#1	ACE T1	entityID: NYT20001020.2144.0366-E15; extent: You
+T2	ACE-Mention 672 687	Your controller
+#2	ACE T2	entityID: NYT20001020.2144.0366-E16; extent: Your controller
+T3	ACE-Mention 709 712	you
+#3	ACE T3	entityID: NYT20001020.2144.0366-E15; extent: you
+T4	ACE-Mention 798 817	all branch managers
+#4	ACE T4	entityID: NYT20001020.2144.0366-E17; extent: all branch managers
+T5	ACE-Mention 833 843	Associates
+#5	ACE T5	entityID: NYT20001020.2144.0366-E19; extent: Associates
+T6	ACE-Mention 868 876	consumer
+#6	ACE T6	entityID: NYT20001020.2144.0366-E13; extent: consumer
+T7	ACE-Mention 891 917	other lenders or retailers
+#7	ACE T7	entityID: NYT20001020.2144.0366-E20; extent: other lenders or retailers
+T8	ACE-Mention 945 947	we
+#8	ACE T8	entityID: NYT20001020.2144.0366-E19; extent: we
+T9	ACE-Mention 1045 1047	we
+#9	ACE T9	entityID: NYT20001020.2144.0366-E19; extent: we
+T10	ACE-Mention 1078 1080	we
+#10	ACE T10	entityID: NYT20001020.2144.0366-E19; extent: we
+T11	ACE-Mention 1150 1210	employees who renewed such loans , if secured by real estate
+#11	ACE T11	entityID: NYT20001020.2144.0366-E21; extent: employees who renewed such loans , if secured by real estate
+T12	ACE-Mention 1277 1285	investor
+#12	ACE T12	entityID: NYT20001020.2144.0366-E23; extent: investor
+T13	ACE-Mention 1304 1319	Keith W. Hughes
+#13	ACE T13	entityID: NYT20001020.2144.0366-E1; extent: Keith W. Hughes
+T14	ACE-Mention 1322 1417	the chief executive of Associates , who will join Citigroup as a vice chairman after the merger
+#14	ACE T14	entityID: NYT20001020.2144.0366-E1; extent: the chief executive of Associates , who will join Citigroup as a vice chairman after the merger
+T15	ACE-Mention 1467 1480	the companies
+#15	ACE T15	entityID: NYT20001020.2144.0366-E4; extent: the companies
+T16	ACE-Mention 1516 1528	Marge Magner
+#16	ACE T16	entityID: NYT20001020.2144.0366-E5; extent: Marge Magner
+T17	ACE-Mention 1531 1614	a Citigroup executive who previously oversaw Citigroup 's consumer finance business
+#17	ACE T17	entityID: NYT20001020.2144.0366-E5; extent: a Citigroup executive who previously oversaw Citigroup 's consumer finance business
+T18	ACE-Mention 1631 1634	she
+#18	ACE T18	entityID: NYT20001020.2144.0366-E5; extent: she
+T19	ACE-Mention 1683 1698	the sales staff
+#19	ACE T19	entityID: NYT20001020.2144.0366-E10; extent: the sales staff
+T20	ACE-Mention 1710 1720	Associates
+#20	ACE T20	entityID: NYT20001020.2144.0366-E19; extent: Associates
+T21	ACE-Mention 1759 1768	employees
+#21	ACE T21	entityID: NYT20001020.2144.0366-E11; extent: employees
+T22	ACE-Mention 1791 1795	your
+#22	ACE T22	entityID: NYT20001020.2144.0366-E14; extent: your
+T23	ACE-Mention 1823 1829	Magner
+#23	ACE T23	entityID: NYT20001020.2144.0366-E5; extent: Magner
+T24	ACE-Mention 1841 1854	Citifinancial
+#24	ACE T24	entityID: NYT20001020.2144.0366-E8; extent: Citifinancial
+T25	ACE-Mention 1857 1860	she
+#25	ACE T25	entityID: NYT20001020.2144.0366-E5; extent: she
+T26	ACE-Mention 1871 1873	we
+#26	ACE T26	entityID: NYT20001020.2144.0366-E8; extent: we
+T27	ACE-Mention 1884 1907	the business as a whole
+#27	ACE T27	entityID: NYT20001020.2144.0366-E8; extent: the business as a whole
+T28	ACE-Mention 1910 1926	the whole branch
+#28	ACE T28	entityID: NYT20001020.2144.0366-E8; extent: the whole branch
+T29	ACE-Mention 1955 1958	She
+#29	ACE T29	entityID: NYT20001020.2144.0366-E5; extent: She
+T30	ACE-Mention 1984 1997	Citifinancial
+#30	ACE T30	entityID: NYT20001020.2144.0366-E8; extent: Citifinancial
+T31	ACE-Mention 2022 2037	the sales staff
+#31	ACE T31	entityID: NYT20001020.2144.0366-E10; extent: the sales staff
+T32	ACE-Mention 2126 2145	a specific customer
+#32	ACE T32	entityID: NYT20001020.2144.0366-E12; extent: a specific customer
+T33	ACE-Mention 2155 2168	Citifinancial
+#33	ACE T33	entityID: NYT20001020.2144.0366-E8; extent: Citifinancial
+T34	ACE-Mention 2293 2296	she
+#34	ACE T34	entityID: NYT20001020.2144.0366-E5; extent: she

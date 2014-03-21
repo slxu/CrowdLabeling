@@ -1,0 +1,88 @@
+T0	ACE-Mention 109 119	WASHINGTON
+#0	ACE T0	entityID: APW20001221.0431.0210-E20; extent: WASHINGTON
+T1	ACE-Mention 120 124	(AP)
+#1	ACE T1	entityID: APW20001221.0431.0210-E46; extent: (AP)
+T2	ACE-Mention 127 147	President-elect Bush
+#2	ACE T2	entityID: APW20001221.0431.0210-E27; extent: President-elect Bush
+T3	ACE-Mention 154 189	his nine-member inaugural committee
+#3	ACE T3	entityID: APW20001221.0431.0210-E3; extent: his nine-member inaugural committee
+T4	ACE-Mention 211 213	it
+#4	ACE T4	entityID: APW20001221.0431.0210-E3; extent: it
+T5	ACE-Mention 219 300	individuals who helped him raise a record $ 100 million for his presidential race
+#5	ACE T5	entityID: APW20001221.0431.0210-E52; extent: individuals who helped him raise a record $ 100 million for his presidential race
+T6	ACE-Mention 304 314	Fred Meyer
+#6	ACE T6	entityID: APW20001221.0431.0210-E1; extent: Fred Meyer
+T7	ACE-Mention 317 424	chairman of Victory 2000 , the joint effort between the Bush campaign and the Republican National Committee
+#7	ACE T7	entityID: APW20001221.0431.0210-E1; extent: chairman of Victory 2000 , the joint effort between the Bush campaign and the Republican National Committee
+T8	ACE-Mention 437 472	chairman of the inaugural committee
+#8	ACE T8	entityID: APW20001221.0431.0210-E1; extent: chairman of the inaugural committee
+T9	ACE-Mention 476 504	Four other committee members
+#9	ACE T9	entityID: APW20001221.0431.0210-E2; extent: Four other committee members
+T10	ACE-Mention 535 551	Bush 's campaign
+#10	ACE T10	entityID: APW20001221.0431.0210-E57; extent: Bush 's campaign
+T11	ACE-Mention 554 565	Bill DeWitt
+#11	ACE T11	entityID: APW20001221.0431.0210-E5; extent: Bill DeWitt
+T12	ACE-Mention 570 585	Mercer Reynolds
+#12	ACE T12	entityID: APW20001221.0431.0210-E6; extent: Mercer Reynolds
+T13	ACE-Mention 588 664	co-chairs of the Ohio-based investment firm of Reynolds , DeWitt and Company
+#13	ACE T13	entityID: APW20001221.0431.0210-E7; extent: co-chairs of the Ohio-based investment firm of Reynolds , DeWitt and Company
+T14	ACE-Mention 667 679	Brad Freeman
+#14	ACE T14	entityID: APW20001221.0431.0210-E9; extent: Brad Freeman
+T15	ACE-Mention 682 703	a California investor
+#15	ACE T15	entityID: APW20001221.0431.0210-E9; extent: a California investor
+T16	ACE-Mention 710 844	Florida developer Al Hoffman , who was finance chairman for Jeb Bush 's gubernatorial campaign and chairman of his inaugural committee
+#16	ACE T16	entityID: APW20001221.0431.0210-E12; extent: Florida developer Al Hoffman , who was finance chairman for Jeb Bush 's gubernatorial campaign and chairman of his inaugural committee
+T17	ACE-Mention 848 855	Freeman
+#17	ACE T17	entityID: APW20001221.0431.0210-E9; extent: Freeman
+T18	ACE-Mention 858 975	co-chairman of the RNC gala at the Republican National Convention in Philadelphia that raised a record $ 10.1 million
+#18	ACE T18	entityID: APW20001221.0431.0210-E9; extent: co-chairman of the RNC gala at the Republican National Convention in Philadelphia that raised a record $ 10.1 million
+T19	ACE-Mention 988 1031	finance chairman of the inaugural committee
+#19	ACE T19	entityID: APW20001221.0431.0210-E9; extent: finance chairman of the inaugural committee
+T20	ACE-Mention 1035 1075	GOP national committeewoman Julie Finley
+#20	ACE T20	entityID: APW20001221.0431.0210-E25; extent: GOP national committeewoman Julie Finley
+T21	ACE-Mention 1078 1105	another veteran fund-raiser
+#21	ACE T21	entityID: APW20001221.0431.0210-E25; extent: another veteran fund-raiser
+T22	ACE-Mention 1118 1139	finance co-chairwoman
+#22	ACE T22	entityID: APW20001221.0431.0210-E25; extent: finance co-chairwoman
+T23	ACE-Mention 1143 1251	Jeanne Johnson Phillips of Texas , who has raised money for Bush and ran his 1995 gubernatorial inauguration
+#23	ACE T23	entityID: APW20001221.0431.0210-E29; extent: Jeanne Johnson Phillips of Texas , who has raised money for Bush and ran his 1995 gubernatorial inauguration
+T24	ACE-Mention 1264 1309	executive director of the inaugural committee
+#24	ACE T24	entityID: APW20001221.0431.0210-E29; extent: executive director of the inaugural committee
+T25	ACE-Mention 1313 1321	Phillips
+#25	ACE T25	entityID: APW20001221.0431.0210-E29; extent: Phillips
+T26	ACE-Mention 1326 1374	deputy chairwoman of operations for Victory 2000
+#26	ACE T26	entityID: APW20001221.0431.0210-E29; extent: deputy chairwoman of operations for Victory 2000
+T27	ACE-Mention 1378 1399	The committee members
+#27	ACE T27	entityID: APW20001221.0431.0210-E33; extent: The committee members
+T28	ACE-Mention 1419 1495	representatives of the Joint Congressional Committee on Inaugural Ceremonies
+#28	ACE T28	entityID: APW20001221.0431.0210-E34; extent: representatives of the Joint Congressional Committee on Inaugural Ceremonies
+T29	ACE-Mention 1553 1605	representatives of several progressive organizations
+#29	ACE T29	entityID: APW20001221.0431.0210-E36; extent: representatives of several progressive organizations
+T30	ACE-Mention 1617 1622	their
+#30	ACE T30	entityID: APW20001221.0431.0210-E36; extent: their
+T31	ACE-Mention 1664 1668	Bush
+#31	ACE T31	entityID: APW20001221.0431.0210-E27; extent: Bush
+T32	ACE-Mention 1796 1806	The groups
+#32	ACE T32	entityID: APW20001221.0431.0210-E37; extent: The groups
+T33	ACE-Mention 1826 1835	the crowd
+#33	ACE T33	entityID: APW20001221.0431.0210-E38; extent: the crowd
+T34	ACE-Mention 1865 1874	anti-Bush
+#34	ACE T34	entityID: APW20001221.0431.0210-E59; extent: anti-Bush
+T35	ACE-Mention 1942 1947	their
+#35	ACE T35	entityID: APW20001221.0431.0210-E37; extent: their
+T36	ACE-Mention 1962 1984	the new administration
+#36	ACE T36	entityID: APW20001221.0431.0210-E39; extent: the new administration
+T37	ACE-Mention 1999 2003	Bush
+#37	ACE T37	entityID: APW20001221.0431.0210-E27; extent: Bush
+T38	ACE-Mention 2060 2093	protest coordinator Adam Eidinger
+#38	ACE T38	entityID: APW20001221.0431.0210-E40; extent: protest coordinator Adam Eidinger
+T39	ACE-Mention 2096 2174	a veteran of demonstrations at both national political conventions this summer
+#39	ACE T39	entityID: APW20001221.0431.0210-E40; extent: a veteran of demonstrations at both national political conventions this summer
+T40	ACE-Mention 2181 2183	He
+#40	ACE T40	entityID: APW20001221.0431.0210-E27; extent: He
+T41	ACE-Mention 2209 2246	more than half of the American public
+#41	ACE T41	entityID: APW20001221.0431.0210-E43; extent: more than half of the American public
+T42	ACE-Mention 2258 2260	he
+#42	ACE T42	entityID: APW20001221.0431.0210-E27; extent: he
+T43	ACE-Mention 2280 2284	them
+#43	ACE T43	entityID: APW20001221.0431.0210-E43; extent: them

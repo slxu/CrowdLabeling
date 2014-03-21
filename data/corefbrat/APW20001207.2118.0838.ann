@@ -1,0 +1,104 @@
+T0	ACE-Mention 106 116	WASHINGTON
+#0	ACE T0	entityID: APW20001207.2118.0838-E22; extent: WASHINGTON
+T1	ACE-Mention 117 121	(AP)
+#1	ACE T1	entityID: APW20001207.2118.0838-E24; extent: (AP)
+T2	ACE-Mention 251 263	some experts
+#2	ACE T2	entityID: APW20001207.2118.0838-E25; extent: some experts
+T3	ACE-Mention 274 280	others
+#3	ACE T3	entityID: APW20001207.2118.0838-E26; extent: others
+T4	ACE-Mention 293 316	Two Chinese researchers
+#4	ACE T4	entityID: APW20001207.2118.0838-E27; extent: Two Chinese researchers
+T5	ACE-Mention 518 531	Fucheng Zhang
+#5	ACE T5	entityID: APW20001207.2118.0838-E13; extent: Fucheng Zhang
+T6	ACE-Mention 536 548	Zhonghe Zhou
+#6	ACE T6	entityID: APW20001207.2118.0838-E14; extent: Zhonghe Zhou
+T7	ACE-Mention 552 583	the Chinese Academy of Sciences
+#7	ACE T7	entityID: APW20001207.2118.0838-E31; extent: the Chinese Academy of Sciences
+T8	ACE-Mention 760 830	Some researchers who oppose the idea that birds evolved from dinosaurs
+#8	ACE T8	entityID: APW20001207.2118.0838-E32; extent: Some researchers who oppose the idea that birds evolved from dinosaurs
+T9	ACE-Mention 951 957	others
+#9	ACE T9	entityID: APW20001207.2118.0838-E33; extent: others
+T10	ACE-Mention 1116 1135	Thomas R. Holtz Jr.
+#10	ACE T10	entityID: APW20001207.2118.0838-E34; extent: Thomas R. Holtz Jr.
+T11	ACE-Mention 1138 1211	a University of Maryland paleobiologist and specialists on bird evolution
+#11	ACE T11	entityID: APW20001207.2118.0838-E34; extent: a University of Maryland paleobiologist and specialists on bird evolution
+T12	ACE-Mention 1319 1332	Alan Feduccia
+#12	ACE T12	entityID: APW20001207.2118.0838-E2; extent: Alan Feduccia
+T13	ACE-Mention 1335 1396	an evolutionary biologist at the University of North Carolina
+#13	ACE T13	entityID: APW20001207.2118.0838-E2; extent: an evolutionary biologist at the University of North Carolina
+T14	ACE-Mention 1408 1415	Chinese
+#14	ACE T14	entityID: APW20001207.2118.0838-E28; extent: Chinese
+T15	ACE-Mention 1576 1587	researchers
+#15	ACE T15	entityID: APW20001207.2118.0838-E5; extent: researchers
+T16	ACE-Mention 1619 1626	Chinese
+#16	ACE T16	entityID: APW20001207.2118.0838-E28; extent: Chinese
+T17	ACE-Mention 1722 1727	Zhang
+#17	ACE T17	entityID: APW20001207.2118.0838-E13; extent: Zhang
+T18	ACE-Mention 1732 1736	Zhou
+#18	ACE T18	entityID: APW20001207.2118.0838-E14; extent: Zhou
+T19	ACE-Mention 1834 1848	northern China
+#19	ACE T19	entityID: APW20001207.2118.0838-E6; extent: northern China
+T20	ACE-Mention 1851 1889	the site of many dinosaur fossil finds
+#20	ACE T20	entityID: APW20001207.2118.0838-E6; extent: the site of many dinosaur fossil finds
+T21	ACE-Mention 1893 1916	The Chinese researchers
+#21	ACE T21	entityID: APW20001207.2118.0838-E27; extent: The Chinese researchers
+T22	ACE-Mention 2407 2412	Zhang
+#22	ACE T22	entityID: APW20001207.2118.0838-E13; extent: Zhang
+T23	ACE-Mention 2417 2421	Zhou
+#23	ACE T23	entityID: APW20001207.2118.0838-E14; extent: Zhou
+T24	ACE-Mention 2676 2701	Most dinosaur researchers
+#24	ACE T24	entityID: APW20001207.2118.0838-E8; extent: Most dinosaur researchers
+T25	ACE-Mention 2795 2806	Researchers
+#25	ACE T25	entityID: APW20001207.2118.0838-E9; extent: Researchers
+T26	ACE-Mention 2932 2944	Some experts
+#26	ACE T26	entityID: APW20001207.2118.0838-E10; extent: Some experts
+T27	ACE-Mention 3009 3015	others
+#27	ACE T27	entityID: APW20001207.2118.0838-E11; extent: others
+T28	ACE-Mention 3142 3146	some
+#28	ACE T28	entityID: APW20001207.2118.0838-E12; extent: some
+T29	ACE-Mention 3200 3208	Feduccia
+#29	ACE T29	entityID: APW20001207.2118.0838-E2; extent: Feduccia
+T30	ACE-Mention 3270 3275	Zhang
+#30	ACE T30	entityID: APW20001207.2118.0838-E13; extent: Zhang
+T31	ACE-Mention 3280 3284	Zhou
+#31	ACE T31	entityID: APW20001207.2118.0838-E14; extent: Zhou
+T32	ACE-Mention 3478 3486	Feduccia
+#32	ACE T32	entityID: APW20001207.2118.0838-E2; extent: Feduccia
+T33	ACE-Mention 3591 3603	Larry Martin
+#33	ACE T33	entityID: APW20001207.2118.0838-E15; extent: Larry Martin
+T34	ACE-Mention 3606 3643	a University of Kansas paleontologist
+#34	ACE T34	entityID: APW20001207.2118.0838-E15; extent: a University of Kansas paleontologist
+T35	ACE-Mention 3651 3674	the Chinese researchers
+#35	ACE T35	entityID: APW20001207.2118.0838-E27; extent: the Chinese researchers
+T36	ACE-Mention 3799 3804	Holtz
+#36	ACE T36	entityID: APW20001207.2118.0838-E34; extent: Holtz
+T37	ACE-Mention 4073 4078	Holtz
+#37	ACE T37	entityID: APW20001207.2118.0838-E34; extent: Holtz
+T38	ACE-Mention 4230 4232	he
+#38	ACE T38	entityID: APW20001207.2118.0838-E34; extent: he
+T39	ACE-Mention 4241 4256	Michael Novacek
+#39	ACE T39	entityID: APW20001207.2118.0838-E17; extent: Michael Novacek
+T40	ACE-Mention 4259 4330	a dinosaur expert at the American Museum of Natural History in New York
+#40	ACE T40	entityID: APW20001207.2118.0838-E17; extent: a dinosaur expert at the American Museum of Natural History in New York
+T41	ACE-Mention 4347 4352	Zhang
+#41	ACE T41	entityID: APW20001207.2118.0838-E13; extent: Zhang
+T42	ACE-Mention 4357 4361	Zhou
+#42	ACE T42	entityID: APW20001207.2118.0838-E14; extent: Zhou
+T43	ACE-Mention 4443 4446	you
+#43	ACE T43	entityID: APW20001207.2118.0838-E21; extent: you
+T44	ACE-Mention 4560 4567	Novacek
+#44	ACE T44	entityID: APW20001207.2118.0838-E17; extent: Novacek
+T45	ACE-Mention 4571 4573	He
+#45	ACE T45	entityID: APW20001207.2118.0838-E17; extent: He
+T46	ACE-Mention 4628 4630	He
+#46	ACE T46	entityID: APW20001207.2118.0838-E17; extent: He
+T47	ACE-Mention 4759 4764	Holtz
+#47	ACE T47	entityID: APW20001207.2118.0838-E34; extent: Holtz
+T48	ACE-Mention 4774 4779	Zhang
+#48	ACE T48	entityID: APW20001207.2118.0838-E13; extent: Zhang
+T49	ACE-Mention 4784 4788	Zhou
+#49	ACE T49	entityID: APW20001207.2118.0838-E14; extent: Zhou
+T50	ACE-Mention 5064 5066	he
+#50	ACE T50	entityID: APW20001207.2118.0838-E34; extent: he
+T51	ACE-Mention 5196 5201	Holtz
+#51	ACE T51	entityID: APW20001207.2118.0838-E34; extent: Holtz

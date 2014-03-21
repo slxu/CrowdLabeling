@@ -1,0 +1,242 @@
+T0	ACE-Mention 308 319	Barry Bonds
+#0	ACE T0	entityID: NYT20001002.2133.0471-E1; extent: Barry Bonds
+T1	ACE-Mention 329 386	the Most Valuable Player in the National League this year
+#1	ACE T1	entityID: NYT20001002.2133.0471-E1; extent: the Most Valuable Player in the National League this year
+T2	ACE-Mention 389 391	he
+#2	ACE T2	entityID: NYT20001002.2133.0471-E1; extent: he
+T3	ACE-Mention 400 444	the first major leaguer to win it four times
+#3	ACE T3	entityID: NYT20001002.2133.0471-E1; extent: the first major leaguer to win it four times
+T4	ACE-Mention 508 513	Bonds
+#4	ACE T4	entityID: NYT20001002.2133.0471-E1; extent: Bonds
+T5	ACE-Mention 516 555	the San Francisco Giants ' left fielder
+#5	ACE T5	entityID: NYT20001002.2133.0471-E1; extent: the San Francisco Giants ' left fielder
+T6	ACE-Mention 561 632	the only player in baseball history with more than 400 in each category
+#6	ACE T6	entityID: NYT20001002.2133.0471-E1; extent: the only player in baseball history with more than 400 in each category
+T7	ACE-Mention 643 657	Reggie Jackson
+#7	ACE T7	entityID: NYT20001002.2133.0471-E3; extent: Reggie Jackson
+T8	ACE-Mention 662 673	Mr. October
+#8	ACE T8	entityID: NYT20001002.2133.0471-E3; extent: Mr. October
+T9	ACE-Mention 678 681	his
+#9	ACE T9	entityID: NYT20001002.2133.0471-E3; extent: his
+T10	ACE-Mention 708 719	Barry Bonds
+#10	ACE T10	entityID: NYT20001002.2133.0471-E1; extent: Barry Bonds
+T11	ACE-Mention 723 740	Mr. 0 for October
+#11	ACE T11	entityID: NYT20001002.2133.0471-E1; extent: Mr. 0 for October
+T12	ACE-Mention 749 759	the Giants
+#12	ACE T12	entityID: NYT20001002.2133.0471-E9; extent: the Giants
+T13	ACE-Mention 765 779	their division
+#13	ACE T13	entityID: NYT20001002.2133.0471-E10; extent: their division
+T14	ACE-Mention 795 803	the Mets
+#14	ACE T14	entityID: NYT20001002.2133.0471-E11; extent: the Mets
+T15	ACE-Mention 807 820	San Francisco
+#15	ACE T15	entityID: NYT20001002.2133.0471-E12; extent: San Francisco
+T16	ACE-Mention 833 838	Bonds
+#16	ACE T16	entityID: NYT20001002.2133.0471-E1; extent: Bonds
+T17	ACE-Mention 868 870	he
+#17	ACE T17	entityID: NYT20001002.2133.0471-E1; extent: he
+T18	ACE-Mention 889 892	his
+#18	ACE T18	entityID: NYT20001002.2133.0471-E1; extent: his
+T19	ACE-Mention 967 975	his team
+#19	ACE T19	entityID: NYT20001002.2133.0471-E9; extent: his team
+T20	ACE-Mention 993 1004	anyone else
+#20	ACE T20	entityID: NYT20001002.2133.0471-E14; extent: anyone else
+T21	ACE-Mention 1007 1009	he
+#21	ACE T21	entityID: NYT20001002.2133.0471-E1; extent: he
+T22	ACE-Mention 1016 1018	he
+#22	ACE T22	entityID: NYT20001002.2133.0471-E1; extent: he
+T23	ACE-Mention 1048 1050	he
+#23	ACE T23	entityID: NYT20001002.2133.0471-E1; extent: he
+T24	ACE-Mention 1080 1082	He
+#24	ACE T24	entityID: NYT20001002.2133.0471-E1; extent: He
+T25	ACE-Mention 1119 1121	me
+#25	ACE T25	entityID: NYT20001002.2133.0471-E1; extent: me
+T26	ACE-Mention 1122 1130	Mr. July
+#26	ACE T26	entityID: NYT20001002.2133.0471-E1; extent: Mr. July
+T27	ACE-Mention 1136 1138	he
+#27	ACE T27	entityID: NYT20001002.2133.0471-E1; extent: he
+T28	ACE-Mention 1173 1176	him
+#28	ACE T28	entityID: NYT20001002.2133.0471-E1; extent: him
+T29	ACE-Mention 1177 1187	Mr. August
+#29	ACE T29	entityID: NYT20001002.2133.0471-E1; extent: Mr. August
+T30	ACE-Mention 1191 1204	Mr. September
+#30	ACE T30	entityID: NYT20001002.2133.0471-E1; extent: Mr. September
+T31	ACE-Mention 1239 1244	Bonds
+#31	ACE T31	entityID: NYT20001002.2133.0471-E1; extent: Bonds
+T32	ACE-Mention 1356 1359	his
+#32	ACE T32	entityID: NYT20001002.2133.0471-E1; extent: his
+T33	ACE-Mention 1377 1388	the Pirates
+#33	ACE T33	entityID: NYT20001002.2133.0471-E21; extent: the Pirates
+T34	ACE-Mention 1476 1486	the Giants
+#34	ACE T34	entityID: NYT20001002.2133.0471-E9; extent: the Giants
+T35	ACE-Mention 1522 1541	the Florida Marlins
+#35	ACE T35	entityID: NYT20001002.2133.0471-E23; extent: the Florida Marlins
+T36	ACE-Mention 1544 1549	Bonds
+#36	ACE T36	entityID: NYT20001002.2133.0471-E1; extent: Bonds
+T37	ACE-Mention 1728 1746	the Atlanta Braves
+#37	ACE T37	entityID: NYT20001002.2133.0471-E24; extent: the Atlanta Braves
+T38	ACE-Mention 1815 1834	the Cincinnati Reds
+#38	ACE T38	entityID: NYT20001002.2133.0471-E25; extent: the Cincinnati Reds
+T39	ACE-Mention 1853 1856	his
+#39	ACE T39	entityID: NYT20001002.2133.0471-E1; extent: his
+T40	ACE-Mention 1895 1898	his
+#40	ACE T40	entityID: NYT20001002.2133.0471-E1; extent: his
+T41	ACE-Mention 1933 1938	Bonds
+#41	ACE T41	entityID: NYT20001002.2133.0471-E1; extent: Bonds
+T42	ACE-Mention 1956 1959	his
+#42	ACE T42	entityID: NYT20001002.2133.0471-E1; extent: his
+T43	ACE-Mention 1980 2024	his team , whether the Pirates or the Giants
+#43	ACE T43	entityID: NYT20001002.2133.0471-E26; extent: his team , whether the Pirates or the Giants
+T44	ACE-Mention 2109 2125	the best hitters
+#44	ACE T44	entityID: NYT20001002.2133.0471-E27; extent: the best hitters
+T45	ACE-Mention 2162 2172	their team
+#45	ACE T45	entityID: NYT20001002.2133.0471-E28; extent: their team
+T46	ACE-Mention 2182 2191	Babe Ruth
+#46	ACE T46	entityID: NYT20001002.2133.0471-E29; extent: Babe Ruth
+T47	ACE-Mention 2259 2270	the Yankees
+#47	ACE T47	entityID: NYT20001002.2133.0471-E30; extent: the Yankees
+T48	ACE-Mention 2279 2298	the New York Giants
+#48	ACE T48	entityID: NYT20001002.2133.0471-E9; extent: the New York Giants
+T49	ACE-Mention 2377 2382	Bonds
+#49	ACE T49	entityID: NYT20001002.2133.0471-E1; extent: Bonds
+T50	ACE-Mention 2414 2417	his
+#50	ACE T50	entityID: NYT20001002.2133.0471-E1; extent: his
+T51	ACE-Mention 2431 2432	I
+#51	ACE T51	entityID: NYT20001002.2133.0471-E1; extent: I
+T52	ACE-Mention 2457 2459	he
+#52	ACE T52	entityID: NYT20001002.2133.0471-E1; extent: he
+T53	ACE-Mention 2491 2502	Barry Bonds
+#53	ACE T53	entityID: NYT20001002.2133.0471-E1; extent: Barry Bonds
+T54	ACE-Mention 2506 2530	the best baseball player
+#54	ACE T54	entityID: NYT20001002.2133.0471-E1; extent: the best baseball player
+T55	ACE-Mention 2549 2552	you
+#55	ACE T55	entityID: NYT20001002.2133.0471-E32; extent: you
+T56	ACE-Mention 2565 2568	his
+#56	ACE T56	entityID: NYT20001002.2133.0471-E1; extent: his
+T57	ACE-Mention 2599 2602	you
+#57	ACE T57	entityID: NYT20001002.2133.0471-E32; extent: you
+T58	ACE-Mention 2618 2620	he
+#58	ACE T58	entityID: NYT20001002.2133.0471-E1; extent: he
+T59	ACE-Mention 2624 2648	the best baseball player
+#59	ACE T59	entityID: NYT20001002.2133.0471-E1; extent: the best baseball player
+T60	ACE-Mention 2661 2663	He
+#60	ACE T60	entityID: NYT20001002.2133.0471-E1; extent: He
+T61	ACE-Mention 2674 2726	The Sporting News player of the decade for the 1990s
+#61	ACE T61	entityID: NYT20001002.2133.0471-E1; extent: The Sporting News player of the decade for the 1990s
+T62	ACE-Mention 2732 2747	Ken Griffey Jr.
+#62	ACE T62	entityID: NYT20001002.2133.0471-E35; extent: Ken Griffey Jr.
+T63	ACE-Mention 2752 2764	Mark McGwire
+#63	ACE T63	entityID: NYT20001002.2133.0471-E36; extent: Mark McGwire
+T64	ACE-Mention 2801 2812	Stan Musial
+#64	ACE T64	entityID: NYT20001002.2133.0471-E37; extent: Stan Musial
+T65	ACE-Mention 2824 2836	Ted Williams
+#65	ACE T65	entityID: NYT20001002.2133.0471-E38; extent: Ted Williams
+T66	ACE-Mention 2848 2859	Willie Mays
+#66	ACE T66	entityID: NYT20001002.2133.0471-E39; extent: Willie Mays
+T67	ACE-Mention 2871 2880	Pete Rose
+#67	ACE T67	entityID: NYT20001002.2133.0471-E41; extent: Pete Rose
+T68	ACE-Mention 2894 2906	Mike Schmidt
+#68	ACE T68	entityID: NYT20001002.2133.0471-E40; extent: Mike Schmidt
+T69	ACE-Mention 2934 2937	MVP
+#69	ACE T69	entityID: NYT20001002.2133.0471-E61; extent: MVP
+T70	ACE-Mention 2959 2961	he
+#70	ACE T70	entityID: NYT20001002.2133.0471-E1; extent: he
+T71	ACE-Mention 3018 3046	the next highest vote-getter
+#71	ACE T71	entityID: NYT20001002.2133.0471-E42; extent: the next highest vote-getter
+T72	ACE-Mention 3049 3086	Frank Thomas of the Chicago White Sox
+#72	ACE T72	entityID: NYT20001002.2133.0471-E42; extent: Frank Thomas of the Chicago White Sox
+T73	ACE-Mention 3104 3107	MVP
+#73	ACE T73	entityID: NYT20001002.2133.0471-E61; extent: MVP
+T74	ACE-Mention 3224 3229	Bonds
+#74	ACE T74	entityID: NYT20001002.2133.0471-E1; extent: Bonds
+T75	ACE-Mention 3271 3274	his
+#75	ACE T75	entityID: NYT20001002.2133.0471-E1; extent: his
+T76	ACE-Mention 3275 3278	MVP
+#76	ACE T76	entityID: NYT20001002.2133.0471-E61; extent: MVP
+T77	ACE-Mention 3300 3303	MVP
+#77	ACE T77	entityID: NYT20001002.2133.0471-E61; extent: MVP
+T78	ACE-Mention 3345 3382	baseball writers who cast those votes
+#78	ACE T78	entityID: NYT20001002.2133.0471-E45; extent: baseball writers who cast those votes
+T79	ACE-Mention 3405 3410	Bonds
+#79	ACE T79	entityID: NYT20001002.2133.0471-E1; extent: Bonds
+T80	ACE-Mention 3460 3480	few of his teammates
+#80	ACE T80	entityID: NYT20001002.2133.0471-E46; extent: few of his teammates
+T81	ACE-Mention 3494 3497	his
+#81	ACE T81	entityID: NYT20001002.2133.0471-E1; extent: his
+T82	ACE-Mention 3535 3536	I
+#82	ACE T82	entityID: NYT20001002.2133.0471-E48; extent: I
+T83	ACE-Mention 3560 3563	him
+#83	ACE T83	entityID: NYT20001002.2133.0471-E1; extent: him
+T84	ACE-Mention 3569 3596	one of his Pirate teammates
+#84	ACE T84	entityID: NYT20001002.2133.0471-E48; extent: one of his Pirate teammates
+T85	ACE-Mention 3644 3647	him
+#85	ACE T85	entityID: NYT20001002.2133.0471-E1; extent: him
+T86	ACE-Mention 3654 3659	Bonds
+#86	ACE T86	entityID: NYT20001002.2133.0471-E1; extent: Bonds
+T87	ACE-Mention 3679 3706	Many of his Giant teammates
+#87	ACE T87	entityID: NYT20001002.2133.0471-E50; extent: Many of his Giant teammates
+T88	ACE-Mention 3722 3725	him
+#88	ACE T88	entityID: NYT20001002.2133.0471-E1; extent: him
+T89	ACE-Mention 3746 3825	the Giants ' spacious clubhouse at their new Pacific Bell Park in San Francisco
+#89	ACE T89	entityID: NYT20001002.2133.0471-E52; extent: the Giants ' spacious clubhouse at their new Pacific Bell Park in San Francisco
+T90	ACE-Mention 3828 3830	he
+#90	ACE T90	entityID: NYT20001002.2133.0471-E1; extent: he
+T91	ACE-Mention 3854 3856	He
+#91	ACE T91	entityID: NYT20001002.2133.0471-E1; extent: He
+T92	ACE-Mention 3892 3894	He
+#92	ACE T92	entityID: NYT20001002.2133.0471-E1; extent: He
+T93	ACE-Mention 3929 3932	his
+#93	ACE T93	entityID: NYT20001002.2133.0471-E1; extent: his
+T94	ACE-Mention 3966 3969	his
+#94	ACE T94	entityID: NYT20001002.2133.0471-E1; extent: his
+T95	ACE-Mention 3983 3994	Some people
+#95	ACE T95	entityID: NYT20001002.2133.0471-E54; extent: Some people
+T96	ACE-Mention 4002 4004	me
+#96	ACE T96	entityID: NYT20001002.2133.0471-E1; extent: me
+T97	ACE-Mention 4025 4027	my
+#97	ACE T97	entityID: NYT20001002.2133.0471-E1; extent: my
+T98	ACE-Mention 4042 4044	he
+#98	ACE T98	entityID: NYT20001002.2133.0471-E1; extent: he
+T99	ACE-Mention 4091 4093	me
+#99	ACE T99	entityID: NYT20001002.2133.0471-E1; extent: me
+T100	ACE-Mention 4119 4130	anyone else
+#100	ACE T100	entityID: NYT20001002.2133.0471-E55; extent: anyone else
+T101	ACE-Mention 4133 4138	Bonds
+#101	ACE T101	entityID: NYT20001002.2133.0471-E1; extent: Bonds
+T102	ACE-Mention 4145 4147	he
+#102	ACE T102	entityID: NYT20001002.2133.0471-E1; extent: he
+T103	ACE-Mention 4184 4186	He
+#103	ACE T103	entityID: NYT20001002.2133.0471-E1; extent: He
+T104	ACE-Mention 4230 4238	the Mets
+#104	ACE T104	entityID: NYT20001002.2133.0471-E11; extent: the Mets
+T105	ACE-Mention 4254 4273	the Mets ' pitchers
+#105	ACE T105	entityID: NYT20001002.2133.0471-E56; extent: the Mets ' pitchers
+T106	ACE-Mention 4289 4292	his
+#106	ACE T106	entityID: NYT20001002.2133.0471-E1; extent: his
+T107	ACE-Mention 4318 4320	he
+#107	ACE T107	entityID: NYT20001002.2133.0471-E1; extent: he
+T108	ACE-Mention 4331 4349	the `` best player
+#108	ACE T108	entityID: NYT20001002.2133.0471-E1; extent: the `` best player
+T109	ACE-Mention 4364 4366	he
+#109	ACE T109	entityID: NYT20001002.2133.0471-E1; extent: he
+T110	ACE-Mention 4404 4406	he
+#110	ACE T110	entityID: NYT20001002.2133.0471-E1; extent: he
+T111	ACE-Mention 4452 4454	he
+#111	ACE T111	entityID: NYT20001002.2133.0471-E1; extent: he
+T112	ACE-Mention 4503 4511	the Mets
+#112	ACE T112	entityID: NYT20001002.2133.0471-E11; extent: the Mets
+T113	ACE-Mention 4530 4533	his
+#113	ACE T113	entityID: NYT20001002.2133.0471-E1; extent: his
+T114	ACE-Mention 4552 4554	me
+#114	ACE T114	entityID: NYT20001002.2133.0471-E1; extent: me
+T115	ACE-Mention 4560 4571	Barry Bonds
+#115	ACE T115	entityID: NYT20001002.2133.0471-E1; extent: Barry Bonds
+T116	ACE-Mention 4587 4588	I
+#116	ACE T116	entityID: NYT20001002.2133.0471-E1; extent: I
+T117	ACE-Mention 4616 4617	I
+#117	ACE T117	entityID: NYT20001002.2133.0471-E1; extent: I
+T118	ACE-Mention 4659 4661	he
+#118	ACE T118	entityID: NYT20001002.2133.0471-E1; extent: he
+T119	ACE-Mention 4680 4682	he
+#119	ACE T119	entityID: NYT20001002.2133.0471-E1; extent: he
+T120	ACE-Mention 4701 4714	a .200 hitter
+#120	ACE T120	entityID: NYT20001002.2133.0471-E1; extent: a .200 hitter
