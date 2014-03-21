@@ -159,12 +159,14 @@ button {
   margin-bottom:10px;
   border-bottom:#eee solid 1px;
   cursor:pointer;
+  vertical-align:middle;
 }
 
 .treeSentence:hover {
   margin-bottom:10px;
   border-bottom:#eee solid 1px;
   cursor:pointer;
+  vertical-align:middle;
   background: #EEEEEE;
 }
 

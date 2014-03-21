@@ -87,6 +87,8 @@ function startTreeAnnotation() {
     var lines = response.trim().split('\n');
     var contents="";
     var idx=0;
+    var width = display.clientWidth;
+    var sentenceWidth = width - 20 - 100;
 
     sentences = new Array();
     lines.forEach(function(d){
@@ -97,8 +99,9 @@ function startTreeAnnotation() {
       });
       contents+=
       '<div id="sentence_'+idx+'" onClick="javascript:sentenceClicked('+idx+')" class="treeSentence">'
-      +'<div style="display:inline-block;width:20px;border: 1px;"> #'+(idx+1)+'. </div>'
-      +'<div style="display:inline-block;border: 1px;"> '+d+' </div>'
+      +'<div style="vertical-align:middle;display:inline-block;width:20px;margin-right:10px;"> #'+(idx+1)+'. </div>'
+      +'<div style="vertical-align:middle;display:inline-block;width:'+sentenceWidth+'px;"> '+d+' </div>'
+      +'<div style="vertical-align:middle;display:inline-block;width:20px;margin-left:10px;"> <img src="download.png" height="20px"></img> </div>'
       +'</div>';
       idx++;
     });
