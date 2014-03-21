@@ -54,7 +54,7 @@ Our main manipulation method for clustering two nodes together is dragging nodes
 \paragraph{\textsc{Select and Drag}\\}
 Since we have two separate parts, one for displaying the text, the other for cluster and group manipulation, a proper selection must be supported in order to reduce user's eye movement between two parts. We adopt three mechanism to address this issue. First, if user click on one token, the corresponding node will be highlighted in red color. Similarly when user starts to drag a node, the token is also highlighted in red background. Second, to accelerate tracing from node to the actual text, once user start to drag a node, the display section will scroll to a proper position to let user easily read the context of this token. Third, as shown in Figure \ref{fig:abbrtext}, when drag event starts, an abbreviation text will be displayed under each node so that user can have a brief concept of what each node represents.
 
-\begin{figure}[th]
+\begin{figure}[tH]
 \begin{center}
 \includegraphics[height=4cm]{figs/abbrText.jpg}
 \caption{Abbreviation text is displayed under each node after dragging starts.}
@@ -62,26 +62,34 @@ Since we have two separate parts, one for displaying the text, the other for clu
 \end{center}
 \end{figure}
 
-\paragraph{\textsc{Link Add and Remove}\\}
-Our tool does not allow user explicitly add a link between two nodes. Instead the way to add a link is by dragging a node close enough to the targeted node. Figure~\ref{fig:addlink} shows the process of adding a link. When user starts to drag one node, a shadow circle will be 
-
-\begin{figure}[th]
+\begin{figure}[tH]
 \begin{center}
-\includegraphics[height=2cm]{figs/addlink.pdf}
+\includegraphics[height=2.5cm]{figs/addlink.pdf}
 \caption{(a) before adding the link; (b) in the middle of adding the link; (c) after adding the link.}
 \label{fig:addlink}
 \end{center}
 \end{figure}
 
-\begin{figure}[th]
+\paragraph{\textsc{Link Add and Remove}\\}
+Our tool does not allow user explicitly add a link between two nodes. Instead the way to add a link is by dragging a node close enough to the targeted node. Figure~\ref{fig:addlink} shows the process of adding a link. When user starts to drag one node, a shadow circle will be shown around each node. This shadow circle indicates the effective area of adding a link. Once a node is close enough to this shadow circle, a temporary link (in red) will be immediately added to preview the result of this operation (shown in Figure~\ref{fig:addlink}(b)). After user confirms the operation by dropping down the node, a permanent link will be added. Due to the transitivity property of clustering task, \sys\ will automatically bundle two groups together and assign same color for all the nodes in this new group.
+
+The operation that removes a link is as easy as clicking on the link, shown in Figure~\ref{fig:rmlink}. When the mouse hovers over the link, the link color turns to red to indicate that the link will be removed (Figure~\ref{fig:rmlink}(a)). After the click, link will then be removed. If the group is no longer connected after the removement of that link, the system will find out two connected components and separate the original group into two new groups, e.g., Figure~\ref{fig:rmlink}(b).
+
+\begin{figure}[tH]
 \begin{center}
-\includegraphics[height=2cm]{figs/removelink.pdf}
+\includegraphics[height=2.5cm]{figs/removelink.pdf}
 \caption{(a) in the middle of removing the link; (b) after removing the link.}
 \label{fig:rmlink}
 \end{center}
 \end{figure}
 
 \paragraph{\textsc{Color Scheme}\\}
+The token and its corresponding node in the graphic sides have the same color. Any change in the color of the node is also reflected in the corresponding token in the text display part (Figure~\ref{fig:interface1.png}). The consistency in color schemes improves the connection between text and graph part.
+
+The default color is grey. If a node (or token) does not belong to any group, we will use the default color as filling color (or background color). We will assign a new color when a group is generated. If two groups merge together, we will keep the color of group being merged to as the color of new merged larger group (Figure~\ref{fig:addlink}). If a group is splited into two, the majority component keeps the color the origin group. 
+
+\paragraph{\textsc{Group Positioning}\\}
+To improve the usability and precision of dragging and adding link operations, and to utilize the space effectively, a proper distance should exist between nodes and nodes, and between groups and groups. We use d3 Force model and calibrate the gravity parameter to enforce a proper gap among the nodes. \sys\ also calculate a proper central point for each group, and impose a force to every nodes inside this group towards that direction. Therefore, groups won't be overlapped in a small region.
 
 \subsection{Tree Construction}
 
