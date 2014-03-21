@@ -48,7 +48,7 @@ var sentenceTree;
 
 function sentenceClicked(sentenceIdx) {
   var height = document.getElementById("chartTree").clientHeight-30;
-  var width = document.getElementById("chartTree").clientWidth-30;
+  var width = document.getElementById("chartTree").clientWidth-50;
  
   if (!initialized) {
     initialized=true;
@@ -96,9 +96,9 @@ function startTreeAnnotation() {
         "result": splitSentenceToJson(d)
       });
       contents+=
-      '<div id="sentence_'+idx+'" onClick="javascript:sentenceClicked('+idx+')" style="margin-bottom:10px">'
-      +'<span> #'+(idx+1)+'. </span>'
-      +'<span> '+d+' </span>'
+      '<div id="sentence_'+idx+'" onClick="javascript:sentenceClicked('+idx+')" class="treeSentence">'
+      +'<div style="display:inline-block;width:20px;border: 1px;"> #'+(idx+1)+'. </div>'
+      +'<div style="display:inline-block;border: 1px;"> '+d+' </div>'
       +'</div>';
       idx++;
     });

@@ -155,6 +155,19 @@ button {
   stroke-width: 1.5px;
 }
 
+.treeSentence {
+  margin-bottom:10px;
+  border-bottom:#eee solid 1px;
+  cursor:pointer;
+}
+
+.treeSentence:hover {
+  margin-bottom:10px;
+  border-bottom:#eee solid 1px;
+  cursor:pointer;
+  background: #EEEEEE;
+}
+
 line {
     stroke: black;
     stroke-width: 1px;
