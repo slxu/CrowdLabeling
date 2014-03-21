@@ -263,6 +263,8 @@ d3.cluster = function(){
         newGroup.setColorId(oldGroup.colorId);
       updateGroupNodeColor(newGroup);
     }
+
+    // updateGroupShadow();
   }
 
   function updateSelectedNode(v) {
@@ -346,7 +348,9 @@ d3.cluster = function(){
   function updateGroupShadow() {
     var groupShadow = svg.selectAll("path.group")
       .data(groupData.filter(function (d) { return d.nodes.length > 1; }))
-      .attr("d", function (d) { return d.groupPath(); });
+      .attr("d", function (d) { return d.groupPath(); })
+      .style("fill", groupFill)
+      .style("stroke", groupFill);
 
     groupShadow.enter().insert("path", ".link")
       .attr("class", "group")
@@ -412,6 +416,7 @@ d3.cluster = function(){
 
   function groupFill(group) { 
     var colorId = group.getColorId();
+
     if (colorId == -1)
       return 'white';
     else
